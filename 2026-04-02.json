@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1775176836.994669",
+        "client_msg_id": "7d7cb602-ee1f-4615-a5c0-4f91f467c153",
+        "text": "Sylvie's reporting cited in SFist update on Lurie-Trump call.\n\n<https:\/\/sfist.com\/2026\/04\/02\/as-city-committee-applies-pressure-luries-office-insists-there-are-no-more-documents-relating-to-trump-phone-call\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfist.com\/2026\/04\/02\/as-city-committee-applies-pressure-luries-office-insists-there-are-no-more-documents-relating-to-trump-phone-call\/",
+                "ts": 1775166923,
+                "image_url": "https:\/\/img.sfist.com\/2026\/04\/daniel-lurie-sullivan-getty.jpg",
+                "image_width": 1400,
+                "image_height": 927,
+                "image_bytes": 103888,
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2026\/04\/02\/as-city-committee-applies-pressure-luries-office-insists-there-are-no-more-documents-relating-to-trump-phone-call\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: As City Committee Applies Pressure, Lurie's Office Insists There Are No More Documents Relating to Trump Phone Call",
+                "text": "Questions remain about what, exactly, was said the night of October 22 when San Francisco Mayor Daniel Lurie got on the phone with President Trump to encourage him to call off his federal agent surge. But the mayor's office says there's nothing being kept from the public.",
+                "title": "As City Committee Applies Pressure, Lurie's Office Insists There Are No More Documents Relating to Trump Phone Call",
+                "title_link": "https:\/\/sfist.com\/2026\/04\/02\/as-city-committee-applies-pressure-luries-office-insists-there-are-no-more-documents-relating-to-trump-phone-call\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Jay Barmann",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF Politics, daniel lurie, donald trump",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AyeiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie's reporting cited in SFist update on Lurie-Trump call.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2026\/04\/02\/as-city-committee-applies-pressure-luries-office-insists-there-are-no-more-documents-relating-to-trump-phone-call\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

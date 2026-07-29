@@ -1,0 +1,349 @@
+[
+    {
+        "user": "U0ATG7YDF8A",
+        "type": "message",
+        "ts": "1783354571.755569",
+        "client_msg_id": "2fea1ab4-17d4-4e06-8673-1de0ab691336",
+        "text": "I've seen this guide! Thanks Lisa",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8712f94e4654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-04-29\/11021758967286_8712f94e4654401cb280_72.jpg",
+            "first_name": "Rosie",
+            "real_name": "Rosie Bultman",
+            "display_name": "Rosie Bultman",
+            "team": "T036YAYMK",
+            "name": "rbultman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783118932.912519",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8sZuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've seen this guide! Thanks Lisa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1783357000.711549",
+        "client_msg_id": "16305646-c26b-4be9-bfb9-4cfde3396d4d",
+        "text": "Thank You.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Yo18",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank You."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1783369321.736919",
+        "client_msg_id": "e42ed6a7-76dc-47a0-8043-dc53cbfabca5",
+        "text": "Sad Francisco has also accumulated a large following on IG and could be a good way to bring in a younger audience",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783369321.736919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1783369644.942819",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1783369644.942819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kxjwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sad Francisco has also accumulated a large following on IG and could be a good way to bring in a younger audience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1783369644.942819",
+        "client_msg_id": "82b7f623-9d95-4516-bb67-1cd58e837538",
+        "text": "Yup, you felt me...",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783369321.736919",
+        "parent_user_id": "U02DXRYCD2N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0DjgL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup, you felt me..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1783371927.238439",
+        "client_msg_id": "24358842-7175-4366-bb30-34207ec80c8d",
+        "text": "<@U02DXRYCD2N> Your piece will run on KALW at 3:04 pm today. They’ll creat a page on their site as well, which I’ll share here when it goes up.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783371927.238439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1783372034.794199",
+        "reply_users": [
+            "U02DXRYCD2N",
+            "UKJ1HMMAM"
+        ],
+        "replies": [
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1783371980.948859"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1783372034.794199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJaXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Your piece will run on KALW at 3:04 pm today. They’ll creat a page on their site as well, which I’ll share here when it goes up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N",
+                    "U07BW27EEHF",
+                    "U09DQR9NLQP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U0BAAFD8J6T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1783371980.948859",
+        "client_msg_id": "57B9DB93-A0CE-49E9-B577-EA9068402863",
+        "text": "Awesome, thanks for making that happen Mel! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783371927.238439",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZrHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome, thanks for making that happen Mel! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1783372034.794199",
+        "client_msg_id": "5093608e-9a85-4722-ae65-21ae3ef1df1e",
+        "text": "Sure thing. Sylvie is working on another one right now. Getting close to the once a week story from us.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783371927.238439",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIcDM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure thing. Sylvie is working on another one right now. Getting close to the once a week story from us."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1783118932.912519",
+        "client_msg_id": "ebec9802-a445-4685-8234-b5ca4c064844",
+        "text": "For your KSFP schedule?\n(From Dean Preston's article<https:\/\/www.deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco|deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco>)\n*The podcast <https:\/\/sadfrancis.co\/|Sad><https:\/\/eltecolote.org\/| ><https:\/\/sadfrancis.co\/|Francisco> has emerged as absolutely essential viewing\/listening for anyone who cares about working class people in San Francisco. Hosted by activist Toshio Meronek, Sad Francisco tells it like it is and has expanded their content to meet the moment.* *<https:\/\/www.youtube.com\/@DoomloopDispatch|Doomloop><https:\/\/eltecolote.org\/| ><https:\/\/www.youtube.com\/@DoomloopDispatch|Dispatch>* is the new kid on the podcasting block, hosted by veteran journalist Kevin Jones and co-host D. Scot Miller. Doomloop features long form interviews with community leaders as they discuss and explode right wing narratives about San Francisco.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1783118932.912519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1783354571.755569",
+        "reply_users": [
+            "U0ATG7YDF8A"
+        ],
+        "replies": [
+            {
+                "user": "U0ATG7YDF8A",
+                "ts": "1783354571.755569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/62f01e8e6fd92f7f6f4a23f5\/67a2aedee64b7f30ba7a9e2d\/69a3753d2407e06c9c7308b0\/1772390016390\/Independent+Media+on+the+Rise+in+San+Francisco+sm.jpg?format=1500w",
+                "thumb_width": 1875,
+                "thumb_height": 1249,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/62f01e8e6fd92f7f6f4a23f5\/b3bcee9b-2e82-40ea-8423-293330004fcc\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/www.deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco",
+                "fallback": "Dean Preston: There’s Hope: Independent Media on the Rise in San Francisco — Dean Preston",
+                "text": "Discover the rise of independent media in San Francisco as it challenges the dominance of corporate narratives. From new outlets like Tenderloin Voice to dynamic podcasts and influencers, this article highlights how grassroots efforts are reshaping the media landscape. As trust in mainstream news de",
+                "title": "There’s Hope: Independent Media on the Rise in San Francisco — Dean Preston",
+                "title_link": "https:\/\/www.deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco",
+                "service_name": "Dean Preston"
+            },
+            {
+                "from_url": "https:\/\/www.youtube.com\/@DoomloopDispatch",
+                "thumb_url": "https:\/\/yt3.googleusercontent.com\/KyuT-QCqpY7LFSJJ7SAKdcsjcqBGd7ssyTZ-feqHT6EplghenjecnODpnyoWjbp7tfSAmwqKVhs",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/1daead2b\/img\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/@DoomloopDispatch",
+                "fallback": "YouTube: Doomloop Dispatch",
+                "text": "The news show covering the worst parts of the San Francisco Bay Area featuring journalists Kevin L. Jones and D. Scot Miller.",
+                "title": "Doomloop Dispatch",
+                "title_link": "https:\/\/www.youtube.com\/@DoomloopDispatch",
+                "service_name": "YouTube"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9oUQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For your KSFP schedule?\n(From Dean Preston's article"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco",
+                                "text": "deanprestonsf.com\/blog\/theres-hope-independent-media-on-the-rise-in-san-francisco",
+                                "truncated": true,
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The podcast ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sadfrancis.co\/",
+                                "text": "Sad",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eltecolote.org\/",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                },
+                                "unsafe": true
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sadfrancis.co\/",
+                                "text": "Francisco",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " has emerged as absolutely essential viewing\/listening for anyone who cares about working class people in San Francisco. Hosted by activist Toshio Meronek, Sad Francisco tells it like it is and has expanded their content to meet the moment.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/@DoomloopDispatch",
+                                "text": "Doomloop",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eltecolote.org\/",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                },
+                                "unsafe": true
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/@DoomloopDispatch",
+                                "text": "Dispatch",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is the new kid on the podcasting block, hosted by veteran journalist Kevin Jones and co-host D. Scot Miller. Doomloop features long form interviews with community leaders as they discuss and explode right wing narratives about San Francisco."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

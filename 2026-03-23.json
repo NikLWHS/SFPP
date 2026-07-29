@@ -1,0 +1,44 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0AN66RMXGT",
+        "text": "<@U0AN66RMXGT> has joined the channel",
+        "type": "message",
+        "ts": "1774299591.814739"
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "U027DJF07FU",
+        "text": "<@U027DJF07FU> has left the channel",
+        "type": "message",
+        "ts": "1774301572.960759"
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "U09HKRLD4CF",
+        "text": "<@U09HKRLD4CF> has left the channel",
+        "type": "message",
+        "ts": "1774301578.497549"
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "U58JZC631",
+        "text": "<@U58JZC631> has left the channel",
+        "type": "message",
+        "ts": "1774301596.455829"
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "UKC0EQURX",
+        "text": "<@UKC0EQURX> has left the channel",
+        "type": "message",
+        "ts": "1774301609.195759"
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "U01B9FNF801",
+        "text": "<@U01B9FNF801> has left the channel",
+        "type": "message",
+        "ts": "1774301613.089269"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1778563849.549269",
+        "client_msg_id": "af511333-d527-4b85-b38c-0b897f773c60",
+        "text": "SEE third item down re: film screening and Madison's work!\n<https:\/\/us9.campaign-archive.com\/?e=978bfa062a&amp;u=ac3a290ae7757879a34d07464&amp;id=76d4057e33|https:\/\/us9.campaign-archive.com\/?e=978bfa062a&amp;u=ac3a290ae7757879a34d07464&amp;id=76d4057e33>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aZh3k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SEE third item down re: film screening and Madison's work!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us9.campaign-archive.com\/?e=978bfa062a&u=ac3a290ae7757879a34d07464&id=76d4057e33",
+                                "text": "https:\/\/us9.campaign-archive.com\/?e=978bfa062a&u=ac3a290ae7757879a34d07464&id=76d4057e33",
+                                "from_llm": false,
+                                "is_slack_url": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

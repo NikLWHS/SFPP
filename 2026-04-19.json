@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1776625246.204519",
+        "client_msg_id": "bcc54f07-896a-495f-ad05-8594fcbf7485",
+        "text": "I don't see that message. He's in the impact-tracking channel.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1776444922.722509",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0dY9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't see that message. He's in the impact-tracking channel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

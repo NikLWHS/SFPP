@@ -1,0 +1,110 @@
+[
+    {
+        "text": "<@U05RTFC5UP7> <@U19LB1TK5> <@U08G07S32R1> I don't know if anyone is mentoring the IG messages. I see there's an autoresponder on but I wanted to make sure you three especially saw this impact.",
+        "files": [
+            {
+                "id": "F0AP1HCU09Z",
+                "created": 1774590360,
+                "timestamp": 1774590360,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 142884,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0AP1HCU09Z\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0AP1HCU09Z\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 304,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 406,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 609,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AP1HCU09Z-fe2eabb561\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 677,
+                "original_w": 907,
+                "original_h": 767,
+                "thumb_tiny": "AwApADDSAwxO4nPY9qWiigAooooAZNIIYmkYZApUcOgYd6VhlcY3A8EUKoVQFAUDsBQBHNIYyvpzmmpOxUE49MqMjqRSznaUOcde2ajQkkpG6hu4AGB2oAsjOBnrS0iHKjPXoaWgAIyKAMUUUAQXCs+Ni5K59qrtbTkNtxndnJPWr9FAEcCskKq5BYdcVJRRQAUUUUAf\/9k=",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F0AP1HCU09Z\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F0AP1HCU09Z-fcdccff1fc",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9yezY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08G07S32R1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't know if anyone is mentoring the IG messages. I see there's an autoresponder on but I wanted to make sure you three especially saw this impact."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1774727665.953669",
+        "client_msg_id": "13e0c587-0d45-4116-a2fd-31c5f1d22c1f",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U05RTFC5UP7",
+                    "U02DXRYCD2N"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

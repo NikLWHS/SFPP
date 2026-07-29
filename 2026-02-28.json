@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1772314130.118819",
+        "client_msg_id": "0ff5833e-8400-4006-9526-72d68f3e6f43",
+        "text": "<https:\/\/greenaction.org\/2026\/02\/27\/read-san-francisco-public-press-article-about-greenaction-community-and-environmental-groups-and-unions-opposing-mayor-luries-proposed-cuts-to-the-budget-of-san-francisco-department-of-the-environm\/|https:\/\/greenaction.org\/2026\/02\/27\/read-san-francisco-public-press-article-about-gre[…]ts-to-the-budget-of-san-francisco-department-of-the-environm\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0pwGt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/greenaction.org\/2026\/02\/27\/read-san-francisco-public-press-article-about-greenaction-community-and-environmental-groups-and-unions-opposing-mayor-luries-proposed-cuts-to-the-budget-of-san-francisco-department-of-the-environm\/",
+                                "text": "https:\/\/greenaction.org\/2026\/02\/27\/read-san-francisco-public-press-article-about-gre[…]ts-to-the-budget-of-san-francisco-department-of-the-environm\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

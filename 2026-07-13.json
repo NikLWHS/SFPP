@@ -1,0 +1,102 @@
+[
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1783964618.590379",
+        "client_msg_id": "68f5527e-6d7b-4a90-8d68-97509cff6dd4",
+        "text": "thanks to <@U0B953AGN49> for pointing out that <@U07BW27EEHF>’s story was included in this reel (<https:\/\/www.instagram.com\/reel\/DaqZa8rACYz\/|instagram.com\/reel\/…>). i’m putting it here so we don’t lose track of it. since it’s on ig and we’re trying to increase our presence, maybe it would also be a good idea for <@U08G07S32R1> to comment on the post saying thank you for bringing attention to our reporting or something like that? idk",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e2orc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0B953AGN49"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for pointing out that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s story was included in this reel ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/reel\/DaqZa8rACYz\/",
+                                "text": "instagram.com\/reel\/…",
+                                "truncated": true,
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "). i’m putting it here so we don’t lose track of it. since it’s on ig and we’re trying to increase our presence, maybe it would also be a good idea for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08G07S32R1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to comment on the post saying thank you for bringing attention to our reporting or something like that? idk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U05RTFC5UP7",
+                    "U19LB1TK5",
+                    "U07BW27EEHF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "subtype": "channel_leave",
+        "user": "U0BA7M0BGQ2",
+        "text": "<@U0BA7M0BGQ2> has left the channel",
+        "type": "message",
+        "ts": "1783977024.427169"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0BGZ940UAZ",
+        "text": "<@U0BGZ940UAZ> has joined the channel",
+        "inviter": "U19LB1TK5",
+        "type": "message",
+        "ts": "1783977031.402829"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1773078749.620349",
+        "client_msg_id": "d995807b-a652-4483-a05e-c48dcc47d9f0",
+        "text": "Jason on KALW &gt;&gt;&gt;\n\n<https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1773078749.620349",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1781043066.440919",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1781043066.440919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/19411b8\/2147483647\/strip\/true\/crop\/960x540+0+471\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F4e%2Fdcb743fc48a09508c1c449b6af6b%2Fjason-winshell.JPG",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 176620,
+                "from_url": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "ts": 1773086400,
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short",
+                "fallback": "KALW: California's hi-tech whistleblower law falling short",
+                "text": "SB 53 is the State’s Transparency in Frontier Artificial Intelligence Act. It’s a first-of-its-kind AI safety law and it was passed last year. A number of AI companies lobbied against the legislation. And internet freedom advocates argue the law is now so watered down, that it no longer effectively protects whistleblowers in the AI companies.",
+                "title": "California's hi-tech whistleblower law falling short",
+                "title_link": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDej+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jason on KALW >>>\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

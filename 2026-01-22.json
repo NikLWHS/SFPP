@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1769101136.424309",
+        "client_msg_id": "64d275b6-c65b-4033-bdbb-ac5aab0cf533",
+        "text": "*Medium*\n*<https:\/\/medium.com\/centerforcooperativemedia\/q-a-maria-arce-on-how-documented-collaborates-to-strengthen-journalism-for-immigrants-b4ce8dbb1aa2|Q&amp;A: Maria Arce on how Documented collaborates to strengthen journalism for immigrants>*\nMaria Arce is a program manager at Documented, a non-profit newsroom focused on immigrant communities",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/miro.medium.com\/v2\/resize:fit:1200\/1*nuQHQrR89BiACvebm0ONdg.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 1041945,
+                "from_url": "https:\/\/medium.com\/centerforcooperativemedia\/q-a-maria-arce-on-how-documented-collaborates-to-strengthen-journalism-for-immigrants-b4ce8dbb1aa2",
+                "service_icon": "https:\/\/miro.medium.com\/v2\/resize:fill:304:304\/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+                "ts": 1769020806,
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/centerforcooperativemedia\/q-a-maria-arce-on-how-documented-collaborates-to-strengthen-journalism-for-immigrants-b4ce8dbb1aa2",
+                "fallback": "Medium: Q&amp;A: Maria Arce on how Documented collaborates to strengthen journalism for immigrants",
+                "text": "Maria Arce is a program manager at Documented, a non-profit newsroom focused on immigrant communities in New York City.",
+                "title": "Q&amp;A: Maria Arce on how Documented collaborates to strengthen journalism for immigrants",
+                "title_link": "https:\/\/medium.com\/centerforcooperativemedia\/q-a-maria-arce-on-how-documented-collaborates-to-strengthen-journalism-for-immigrants-b4ce8dbb1aa2",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "6 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CrEgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Medium",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/centerforcooperativemedia\/q-a-maria-arce-on-how-documented-collaborates-to-strengthen-journalism-for-immigrants-b4ce8dbb1aa2",
+                                "text": "Q&A: Maria Arce on how Documented collaborates to strengthen journalism for immigrants",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMaria Arce is a program manager at Documented, a non-profit newsroom focused on immigrant communities"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1783836331.097979",
+        "client_msg_id": "079c0015-ef04-4005-b015-0e483845641b",
+        "text": "Nice nod and link from The Bold Italic to <@U02V28GTKMW>'s story in today's newsletter\n\n&gt; THE BOLD ITALIC\n&gt; *San Francisco Turned Off Its Public Records Watchdog Right When It Was Watching the Mayor*\n&gt; _The Sunshine Ordinance Task Force, a city commission empaneled since the 1990s to discuss local public records, and to find violations. It cannot meet right now because of new city rules._\n&gt; By Saul Sugarman • 12 Jul 2026\n&gt; \n&gt; If you follow local politics, you may have heard about:\n&gt; That time Mayor Daniel Lurie took a phone call with Donald Trump, and then Lurie's office <https:\/\/www.thebolditalic.com\/r\/178177e8?m=2a51e36a-a714-4cdc-b919-686e45e74c85|said they had no public records of that conversation>.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2026\/01\/IMG_6535-scaled.jpeg",
+                "image_width": 2560,
+                "image_height": 1920,
+                "image_bytes": 829073,
+                "from_url": "https:\/\/www.thebolditalic.com\/r\/178177e8?m=2a51e36a-a714-4cdc-b919-686e45e74c85",
+                "service_icon": "https:\/\/i0.wp.com\/www.sfpublicpress.org\/wp-content\/uploads\/2025\/08\/cropped-index.png?fit=180%2C180&amp;ssl=1",
+                "ts": 1767924942,
+                "id": 1,
+                "original_url": "https:\/\/www.thebolditalic.com\/r\/178177e8?m=2a51e36a-a714-4cdc-b919-686e45e74c85",
+                "fallback": "San Francisco Public Press: Sunshine Task Force Finds Mayor’s Office Violated Transparency Law Over Trump Call - San Francisco Public Press",
+                "text": "San Francisco’s transparency watchdog found the mayor’s office violated a city law by refusing to release records about a call with President Trump.",
+                "title": "Sunshine Task Force Finds Mayor’s Office Violated Transparency Law Over Trump Call - San Francisco Public Press",
+                "title_link": "https:\/\/www.thebolditalic.com\/r\/178177e8?m=2a51e36a-a714-4cdc-b919-686e45e74c85",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Sylvie Sturm",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdIdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice nod and link from The Bold Italic to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s story in today's newsletter\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "THE BOLD ITALIC\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "San Francisco Turned Off Its Public Records Watchdog Right When It Was Watching the Mayor",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The Sunshine Ordinance Task Force, a city commission empaneled since the 1990s to discuss local public records, and to find violations. It cannot meet right now because of new city rules.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBy Saul Sugarman • 12 Jul 2026\n\nIf you follow local politics, you may have heard about:\nThat time Mayor Daniel Lurie took a phone call with Donald Trump, and then Lurie's office "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thebolditalic.com\/r\/178177e8?m=2a51e36a-a714-4cdc-b919-686e45e74c85",
+                                "text": "said they had no public records of that conversation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U02LAK62DEV",
+                    "U0ATG7YDF8A"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U0BAAFD8J6T"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

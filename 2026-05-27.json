@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1779905574.533459",
+        "client_msg_id": "7678e3e4-30b5-41b6-86f2-9a3bba7ec70f",
+        "text": "KALW's Crosscurrents program today excepted our panel on Props C+ D. (And properly credited the material) <@U19LB1TK5> They also announced they'd link to our coverage.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1V9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KALW's Crosscurrents program today excepted our panel on Props C+ D. (And properly credited the material) "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5",
+                                "from_llm": false
+                            },
+                            {
+                                "type": "text",
+                                "text": " They also announced they'd link to our coverage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1779920678.753869",
+        "client_msg_id": "f21d7b19-4642-4875-a91b-b8f3c6c3edf0",
+        "text": "I’ve published a slightly edited version of the debate to the podcast feed. It airs on KSFP today at 7 pm, Saturday at 9 am, Sunday at 7pm and then Monday at 9 am and 7pm. I will probably run it in a non Open Studio slot on Sunday morning.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syhPT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve published a slightly edited version of the debate to the podcast feed. It airs on KSFP today at 7 pm, Saturday at 9 am, Sunday at 7pm and then Monday at 9 am and 7pm. I will probably run it in a non Open Studio slot on Sunday morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

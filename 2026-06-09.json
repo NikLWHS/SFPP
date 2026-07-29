@@ -1,0 +1,133 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0B9C2JK36H",
+                "created": 1781043062,
+                "timestamp": 1781043062,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 233371,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0B9C2JK36H\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0B9C2JK36H\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 223,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 335,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 372,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 446,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0B9C2JK36H-4f5e5b76e7\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 476,
+                "original_w": 1896,
+                "original_h": 881,
+                "thumb_tiny": "AwAXADC6ZcOwYoNv+329xUm7PSgKASR1PWlpDGmRR1YD8f8APoaUEN0OcHsaQRoG3BRnOc06gBjOmTlgMdfmpcc5x+tKBjPvS0ANx1+Y8\/pS987j9KKKADHOdx+lGOQdx+nrRRQA0p6Ow\/HP86cBj+In60UUAf\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F0B9C2JK36H\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F0B9C2JK36H-32c7cbd343",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "subtype": "thread_broadcast",
+        "root": {
+            "user": "U19LB1TK5",
+            "type": "message",
+            "ts": "1773078749.620349",
+            "client_msg_id": "d995807b-a652-4483-a05e-c48dcc47d9f0",
+            "text": "Jason on KALW &gt;&gt;&gt;\n\n<https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short>",
+            "team": "T036YAYMK",
+            "thread_ts": "1773078749.620349",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1781043066.440919",
+            "reply_users": [
+                "U02LAK62DEV"
+            ],
+            "replies": [
+                {
+                    "user": "U02LAK62DEV",
+                    "ts": "1781043066.440919"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/19411b8\/2147483647\/strip\/true\/crop\/960x540+0+471\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F4e%2Fdcb743fc48a09508c1c449b6af6b%2Fjason-winshell.JPG",
+                    "image_width": 1200,
+                    "image_height": 675,
+                    "image_bytes": 176620,
+                    "from_url": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short",
+                    "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                    "ts": 1773086400,
+                    "id": 1,
+                    "original_url": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short",
+                    "fallback": "KALW: California's hi-tech whistleblower law falling short",
+                    "text": "SB 53 is the State’s Transparency in Frontier Artificial Intelligence Act. It’s a first-of-its-kind AI safety law and it was passed last year. A number of AI companies lobbied against the legislation. And internet freedom advocates argue the law is now so watered down, that it no longer effectively protects whistleblowers in the AI companies.",
+                    "title": "California's hi-tech whistleblower law falling short",
+                    "title_link": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short",
+                    "service_name": "KALW"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DDej+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Jason on KALW >>>\n\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.kalw.org\/2026-03-09\/californias-hi-tech-whistleblower-law-falling-short"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1781043066.440919",
+        "client_msg_id": "a6801b1b-736b-4ffd-bf15-6ea10f5c1857",
+        "thread_ts": "1773078749.620349",
+        "parent_user_id": "U19LB1TK5"
+    }
+]

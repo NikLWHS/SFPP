@@ -1,0 +1,199 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1776892113.212439",
+        "client_msg_id": "d7d12bdc-46d2-42cc-85aa-3825954a11fc",
+        "text": "<https:\/\/www.kalw.org\/bay-area-news\/2026-04-20\/budget-axe-aimed-at-senior-and-disability-services>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1776892113.212439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1776901570.458009",
+        "reply_users": [
+            "U09DQR9NLQP",
+            "U02DXRYCD2N"
+        ],
+        "replies": [
+            {
+                "user": "U09DQR9NLQP",
+                "ts": "1776894891.695679"
+            },
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1776901570.458009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/a83339d\/2147483647\/strip\/true\/crop\/3936x2214+0+410\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Ff4%2F58a3de9b42098f9d5a205e9c41ea%2Fnw-15042026-seniorscityhall-12.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 219928,
+                "from_url": "https:\/\/www.kalw.org\/bay-area-news\/2026-04-20\/budget-axe-aimed-at-senior-and-disability-services",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "ts": 1776748319,
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/bay-area-news\/2026-04-20\/budget-axe-aimed-at-senior-and-disability-services",
+                "fallback": "KALW: Budget axe aimed at senior and disability services",
+                "text": "Nonprofits, seniors and people with disabilities are calling on the mayor to fund vital programs facing elimination under San Francisco’s latest budget proposal. Madison Alvarado with our partners at the San Francisco Public Press explains.",
+                "title": "Budget axe aimed at senior and disability services",
+                "title_link": "https:\/\/www.kalw.org\/bay-area-news\/2026-04-20\/budget-axe-aimed-at-senior-and-disability-services",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EDs7f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/bay-area-news\/2026-04-20\/budget-axe-aimed-at-senior-and-disability-services"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U02DXRYCD2N",
+                    "U07BW27EEHF",
+                    "U19LB1TK5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U09DQR9NLQP",
+        "type": "message",
+        "ts": "1776894891.695679",
+        "client_msg_id": "44e9a81b-381c-4d4f-9386-28f1a6d8e5cf",
+        "text": "woo hoo!!! great work <@U02DXRYCD2N>!!!! :laughing:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "64351c4cde62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-08\/11309559744450_64351c4cde6240996b74_72.png",
+            "first_name": "Cami",
+            "real_name": "Cami Dominguez",
+            "display_name": "Cami Dominguez",
+            "team": "T036YAYMK",
+            "name": "cami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1776892113.212439",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S6ATE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woo hoo!!! great work "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1776901570.458009",
+        "client_msg_id": "3258FE2C-0997-470E-8F18-63DCAE2780C0",
+        "text": "tyyyyyy",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1776892113.212439",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7nXE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tyyyyyy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,600 @@
+[
+    {
+        "text": "<@U07MMNALMM4> et al",
+        "files": [
+            {
+                "id": "F0AQ2HF2N5B",
+                "created": 1775021712,
+                "timestamp": 1775021712,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 186765,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0AQ2HF2N5B\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0AQ2HF2N5B\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 156,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 208,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 312,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 346,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 416,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0AQ2HF2N5B-1c19a24616\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 443,
+                "original_w": 1891,
+                "original_h": 819,
+                "thumb_tiny": "AwAVADC\/5alt2XznP3jj8qfmmMEJwWIOegYil2DjluMfxGkMdmjNNULyQSeSfvE8\/wCe1LtAx149zQAuaM0wFF3ENwODzwKUFQQgPIHTPNADtvOaMUtFMQYoxRRQAgXFGKWigD\/\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F0AQ2HF2N5B\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F0AQ2HF2N5B-aa2e087749",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FhucF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07MMNALMM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et al"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1775059211.457049",
+        "client_msg_id": "297ed18b-74f8-4b4e-8ea8-e0ef81f9dcb1",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07MMNALMM4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1775082550.441569",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1775099448.000000"
+        },
+        "client_msg_id": "9e5ed190-f225-4970-8b10-6f00400f12c8",
+        "text": "*WINNERS: SEJ’S 24TH ANNUAL AWARDS FOR REPORTING ON THE ENVIRONMENT*\n\n<https:\/\/www.sej2026.org\/awards#explanatory-small|https:\/\/www.sej2026.org\/awards#explanatory-small>\n\n*OUTSTANDING EXPLANATORY REPORTING, SMALL*\n_*First Honorable Mention\n\nExposed: The Human Radiation Experiments at Hunters Point*_\n\n\n*By Rebecca Bowe*, *Chris Roberts* and *Michael Stoll* for *San Francisco Public Press*, with support from  *Kurt Aguilar* (copy editing)*, Michele Anderson* (copy editing)*, John Angelico* (web design)*, Noah Arroyo* (proofreading)*, Mel Baker* (audio editing)*, Justin Benttinen* (sound gathering)*, Reid Brown* (graphics)*, Stacey Carter* (archival research and illustration)*, Maya Chupkov* (community outreach)*, Liz Enochs* (editing)*, Ali Hanks* (fact check)*, Guillermo Hernandez* (portfolio)*, Ambika Kandasamy* (research editing)*, Richard Knee* (copy editing)*, Lila LaHood* (proofreading)*, Megan Maurer* (audio editing)*, Yesica Prado* (portfolio)*, Dani Solakian* (fact check)*, Sylvie Sturm* (proofreading)*, Sharon Wickham* (portfolio)*, Liana Wilcox* (audio editing) and *Zhe Wu* (proofreading)\n\n*Judges’ comments:*\n\"Crafting an urgent environmental story about the Cold War in 2025 requires a high level of journalistic skill and rigour, and this team succeeds convincingly. This inherently investigative work employs a seamless explanatory architecture to recover buried Cold War history while clearly articulating its present-day environmental justice consequences. What truly distinguishes the project is its compassionate, rigorously developed environmental justice through-line, supported by sophisticated multimedia elements that deepen understanding rather than merely embellish it. The piece not only uncovers new knowledge but makes it accessible, resonant and urgently relevant.\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sej2026.org\/awards#explanatory-small",
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/6871721e592a6f5be594d108\/c5d69081-8dbb-4118-8302-4a873682b017\/favicon.ico?format=100w",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/6871721e592a6f5be594d108\/t\/694afed59e309b7374808ad1\/1766522581123\/Awards+logo+Asana+Form.png?format=1500w",
+                "thumb_width": 1200,
+                "thumb_height": 250,
+                "id": 1,
+                "original_url": "https:\/\/www.sej2026.org\/awards#explanatory-small",
+                "fallback": "SEJ2026 Environmental Journalism Conference: Celebrate the Best of Environmental Journalism | SEJ Awards Presentation Returns to SEJ2026 — SEJ2026 Environmental Journalism Conference",
+                "text": "Discover top environmental journalism and support impactful stories at SEJ2026, celebrating excellence in reporting on pressing environmental issues.",
+                "title": "Celebrate the Best of Environmental Journalism | SEJ Awards Presentation Returns to SEJ2026 — SEJ2026 Environmental Journalism Conference",
+                "title_link": "https:\/\/www.sej2026.org\/awards#explanatory-small",
+                "service_name": "SEJ2026 Environmental Journalism Conference"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RtWsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WINNERS: SEJ’S 24TH ANNUAL AWARDS FOR REPORTING ON THE ENVIRONMENT",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sej2026.org\/awards#explanatory-small",
+                                "text": "https:\/\/www.sej2026.org\/awards#explanatory-small"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "OUTSTANDING EXPLANATORY REPORTING, SMALL",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "First Honorable Mention",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nExposed: The Human Radiation Experiments at Hunters Point\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "By Rebecca Bowe",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Chris Roberts",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Michael Stoll",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "San Francisco Public Press",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", with support from  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Kurt Aguilar ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(copy editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Michele Anderson ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(copy editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", John Angelico ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(web design)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Noah Arroyo ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(proofreading)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Mel Baker ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(audio editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Justin Benttinen ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(sound gathering)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Reid Brown ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(graphics)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Stacey Carter ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(archival research and illustration)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Maya Chupkov ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(community outreach)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Liz Enochs ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Ali Hanks ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(fact check)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Guillermo Hernandez ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(portfolio)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Ambika Kandasamy ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(research editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Richard Knee ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(copy editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Lila LaHood ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(proofreading)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Megan Maurer ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(audio editing)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Yesica Prado ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(portfolio)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Dani Solakian ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(fact check)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Sylvie Sturm ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(proofreading)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Sharon Wickham ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(portfolio)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Liana Wilcox",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (audio editing) and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Zhe Wu ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "(proofreading)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Judges’ comments:",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"Crafting an urgent environmental story about the Cold War in 2025 requires a high level of journalistic skill and rigour, and this team succeeds convincingly. This inherently investigative work employs a seamless explanatory architecture to recover buried Cold War history while clearly articulating its present-day environmental justice consequences. What truly distinguishes the project is its compassionate, rigorously developed environmental justice through-line, supported by sophisticated multimedia elements that deepen understanding rather than merely embellish it. The piece not only uncovers new knowledge but makes it accessible, resonant and urgently relevant.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U02V28GTKMW",
+                    "U07MMNALMM4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U02LAK62DEV",
+                    "U07MMNALMM4",
+                    "U07BW27EEHF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07MMNALMM4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0AN66RMXGT",
+        "type": "message",
+        "ts": "1775087104.883009",
+        "client_msg_id": "D90B937F-52C6-4DE5-9109-08FBE9D0DAA1",
+        "text": "Congratulations ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "geef529e017d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eef529e017dd4591127400b3100df927.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Steve",
+            "real_name": "Steve Jones",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "sjones",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJW8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
