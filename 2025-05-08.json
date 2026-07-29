@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1746729321.387969",
+        "edited": {
+            "user": "U02V28GTKMW",
+            "ts": "1746729475.000000"
+        },
+        "client_msg_id": "4cbac01d-88a9-4c02-9a95-b74ecf7ad598",
+        "text": "FYI, KALW aired my interview re: HUD cuts. They do a great job of cutting my ramblings into coherent thoughts :laughing: <https:\/\/www.kalw.org\/2025-05-08\/funding-cuts-will-likely-lead-to-homelessness-surge-in-san-francisco>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalw.org\/2025-05-08\/funding-cuts-will-likely-lead-to-homelessness-surge-in-san-francisco",
+                "ts": 1746734400,
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/4f90baf\/2147483647\/strip\/true\/crop\/4397x2308+0+320\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F67%2Fdf5b6f7044f294041837e09dfffc%2Fsylviesturm-headshot.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 96862,
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2025-05-08\/funding-cuts-will-likely-lead-to-homelessness-surge-in-san-francisco",
+                "fallback": "KALW: Funding cuts will likely lead to homelessness surge in San Francisco",
+                "text": "Sylvie Sturm is a journalist with San Francisco Public Press covering housing policy. Here she explains how funding cuts will push more people onto the streets.",
+                "title": "Funding cuts will likely lead to homelessness surge in San Francisco",
+                "title_link": "https:\/\/www.kalw.org\/2025-05-08\/funding-cuts-will-likely-lead-to-homelessness-surge-in-san-francisco",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAntv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI, KALW aired my interview re: HUD cuts. They do a great job of cutting my ramblings into coherent thoughts "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2025-05-08\/funding-cuts-will-likely-lead-to-homelessness-surge-in-san-francisco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF",
+                    "UKC0EQURX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

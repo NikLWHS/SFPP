@@ -1,0 +1,485 @@
+[
+    {
+        "text": "KQED at 7 am this morning. Kevin Stark’s short piece with Chris.",
+        "files": [
+            {
+                "id": "F082MBQLESY",
+                "created": 1732635357,
+                "timestamp": 1732635357,
+                "mimetype": "audio\/mpeg",
+                "filetype": "mp3",
+                "pretty_type": "MP3",
+                "user": "UKJ1HMMAM",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 1165131,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "BayviewRadKQED112624KevinStark.mp3",
+                "title": "BayviewRadKQED112624KevinStark.mp3",
+                "is_transcription_region_supported": true,
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US",
+                    "preview": {
+                        "content": "This is N PR live from KQED News. I'm Brian Watt A US Navy lab at San Francisco's Hunters Point Naval Shipyard exposed more than 1000 servicemen and",
+                        "has_more": true
+                    }
+                },
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F082MBQLESY-010f14ed47\/bayviewradkqed112624kevinstark_audio.mp4?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F082MBQLESY\/download\/bayviewradkqed112624kevinstark.mp3?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F082MBQLESY-010f14ed47\/file.vtt?_xcb=b3c35&t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "duration_ms": 63699,
+                "aac": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F082MBQLESY-010f14ed47\/bayviewradkqed112624kevinstark_audio.mp4?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "audio_wave_samples": [
+                    32,
+                    54,
+                    74,
+                    19,
+                    85,
+                    83,
+                    95,
+                    71,
+                    45,
+                    79,
+                    93,
+                    45,
+                    62,
+                    61,
+                    86,
+                    62,
+                    27,
+                    95,
+                    65,
+                    78,
+                    86,
+                    78,
+                    33,
+                    69,
+                    67,
+                    74,
+                    34,
+                    100,
+                    90,
+                    67,
+                    57,
+                    63,
+                    75,
+                    51,
+                    62,
+                    62,
+                    51,
+                    58,
+                    49,
+                    50,
+                    54,
+                    67,
+                    69,
+                    69,
+                    67,
+                    79,
+                    54,
+                    87,
+                    41,
+                    65,
+                    59,
+                    58,
+                    68,
+                    71,
+                    73,
+                    61,
+                    70,
+                    56,
+                    87,
+                    85,
+                    57,
+                    84,
+                    60,
+                    75,
+                    51,
+                    84,
+                    65,
+                    92,
+                    87,
+                    50,
+                    5,
+                    54,
+                    96,
+                    68,
+                    42,
+                    67,
+                    46,
+                    73,
+                    43,
+                    86,
+                    74,
+                    88,
+                    65,
+                    53,
+                    59,
+                    78,
+                    78,
+                    64,
+                    79,
+                    53,
+                    87,
+                    80,
+                    60,
+                    82,
+                    63,
+                    51,
+                    57,
+                    52,
+                    59,
+                    25
+                ],
+                "media_display_type": "audio",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F082MBQLESY\/bayviewradkqed112624kevinstark.mp3",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F082MBQLESY-53b4bea4a5",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "UKJ1HMMAM",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yj6Kn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KQED at 7 am this morning. Kevin Stark’s short piece with Chris."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1732635368.619599",
+        "client_msg_id": "33435984-c06a-4266-9b11-37e4bfc15a26",
+        "thread_ts": "1732635368.619599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1732657254.477669",
+        "reply_users": [
+            "U036YAYMM"
+        ],
+        "replies": [
+            {
+                "user": "U036YAYMM",
+                "ts": "1732657254.477669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1732657254.477669",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U07BW27EEHF>'s Tools For Toxins article listed in the ITN from @BMSG.prg. So much of our work is long-lasting or even evergreen. Nice to see them pick up on Audrey's latest.  (nudging works).\n\nThey say they have about 500 readers of their newsletter daily.",
+        "files": [
+            {
+                "id": "F0839CEV588",
+                "created": 1732654191,
+                "timestamp": 1732654191,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 31501,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0839CEV588\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0839CEV588\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0839CEV588-dcd665f74f\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0839CEV588-dcd665f74f\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0839CEV588-dcd665f74f\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 207,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0839CEV588-dcd665f74f\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 276,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0839CEV588-dcd665f74f\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "original_w": 374,
+                "original_h": 650,
+                "thumb_tiny": "AwAwABvSb6ZpPwpW7f40gH+c0ALgelLTR+H506gBpyeoHtQB\/u\/hSt24JpP+An86AFx9PypaaPofzp1ADX7dPxpOnZacx6cfpSZPofyoAOP9n8qdSDPeloA\/\/9k=",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F0839CEV588\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F0839CEV588-3a2fe8e164",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKuqk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s Tools For Toxins article listed in the ITN from @BMSG.prg. So much of our work is long-lasting or even evergreen. Nice to see them pick up on Audrey's latest.  (nudging works).\n\nThey say they have about 500 readers of their newsletter daily."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1732654684.761139",
+        "client_msg_id": "7ebd10c8-ffd3-4ef5-ae6d-d8ed4fd64136",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1732657254.477669",
+        "client_msg_id": "68fb712a-8972-4ee6-bc30-b9e6fc4be57e",
+        "text": "I’ll take it! Obviously no room in a minute for the URL details, but a good start, contributes to the buzz.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732635368.619599",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xA0Mb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll take it! Obviously no room in a minute for the URL details, but a good start, contributes to the buzz."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1732661684.154849",
+        "client_msg_id": "448caa89-4aec-4c17-86f2-65f4e237b425",
+        "text": "Sylvie's story in today's Mindsite newsletter: <https:\/\/mindsitenews.org\/newsletter\/in-chicago-a-movement-builds-to-protect-immigrants-mental-health\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/mindsitenews.org\/wp-content\/uploads\/2024\/11\/convining06-scaled.jpg",
+                "image_width": 2560,
+                "image_height": 1707,
+                "image_bytes": 530766,
+                "from_url": "https:\/\/mindsitenews.org\/newsletter\/in-chicago-a-movement-builds-to-protect-immigrants-mental-health\/",
+                "service_icon": "https:\/\/i0.wp.com\/mindsitenews.org\/wp-content\/uploads\/2021\/09\/cropped-MindSiteNews-logo-circle.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/mindsitenews.org\/newsletter\/in-chicago-a-movement-builds-to-protect-immigrants-mental-health\/",
+                "fallback": "MindSite News: A Movement Builds to Protect Immigrants' Mental Health - MindSite News",
+                "text": "In the sanctuary city of Chicago, Mayor Brandon Johnson vows to protect immigrants even if it means risking federal funding.",
+                "title": "A Movement Builds to Protect Immigrants' Mental Health - MindSite News",
+                "title_link": "https:\/\/mindsitenews.org\/newsletter\/in-chicago-a-movement-builds-to-protect-immigrants-mental-health\/",
+                "service_name": "MindSite News",
+                "fields": [
+                    {
+                        "value": "11 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    },
+                    {
+                        "value": "Courtney Wise",
+                        "title": "Written by",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uezxx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie's story in today's Mindsite newsletter: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mindsitenews.org\/newsletter\/in-chicago-a-movement-builds-to-protect-immigrants-mental-health\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1732667803.429279",
+        "client_msg_id": "5eab9a5a-41f3-4250-af00-532a910528a5",
+        "text": "Public Health Watch + Exposed. Jim says \"Sorry, Lisa. Should be fixed now.\" <https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/publichealthwatch.org\/wp-content\/uploads\/2024\/11\/Screenshot-2024-11-25-at-2.25.33 PM.png",
+                "image_width": 1838,
+                "image_height": 717,
+                "image_bytes": 1730948,
+                "from_url": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "service_icon": "https:\/\/publichealthwatch.org\/wp-content\/uploads\/2024\/08\/cropped-PHW_Circle_Logo-180x180.png",
+                "ts": 1732595716,
+                "id": 1,
+                "original_url": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "fallback": "Public Health Watch: How a San Francisco Navy Lab Became a Hub for Human Radiation Experiments - Public Health Watch",
+                "text": "Rarely seen documents show a Cold War atomic research facility headquartered at Hunters Point conducted studies that exposed at least 1,073 people to potentially harmful radiation. The legacy of that era is a continuing risk to public health.",
+                "title": "How a San Francisco Navy Lab Became a Hub for Human Radiation Experiments - Public Health Watch",
+                "title_link": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "service_name": "Public Health Watch",
+                "fields": [
+                    {
+                        "value": "Chris Roberts\/San Francisco Express News",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "18 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGGdL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Public Health Watch + Exposed. Jim says \"Sorry, Lisa. Should be fixed now.\" "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

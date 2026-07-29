@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1763143365.755929",
+        "client_msg_id": "29eb3eda-b732-4354-b69a-f6fa1ab10eec",
+        "text": "Go Zhe, go!!! :raised_hands:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LyJGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go Zhe, go!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U08G07S32R1",
+        "text": "<@U08G07S32R1> has joined the channel",
+        "inviter": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1763160676.085899"
+    }
+]

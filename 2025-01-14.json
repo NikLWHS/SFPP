@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1736921898.330059",
+        "client_msg_id": "bd738c75-8534-46d3-9e76-f70f11d17877",
+        "text": "Berkeley Media Studies puts out ITN in the news newsletter and featured\n<https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&amp;c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&amp;ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q==|https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&amp;c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&amp;ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q==>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q==",
+                "ts": 1736449068,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2025\/01\/Oxycodone-Bottle-1170x863.jpg",
+                "image_width": 1170,
+                "image_height": 863,
+                "image_bytes": 167322,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&amp;c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&amp;ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q==",
+                "fallback": "San Francisco Public Press: SF Criticized for Lack of Local Input on Opioid Settlement Fund Use",
+                "text": "Advocates commend San Francisco for using opioid lawsuit settlement funds to expand methadone treatment, but not for its lack of transparency.",
+                "title": "SF Criticized for Lack of Local Input on Opioid Settlement Fund Use",
+                "title_link": "https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q==",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Sylvie Sturm",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8eCf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Berkeley Media Studies puts out ITN in the news newsletter and featured\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q==",
+                                "text": "https:\/\/vuui5moab.cc.rs6.net\/tn.jsp?f=001Vk3c8q6hpOBs0SSqjqyXG9GvbDYEOYtcKm1MB9shFwHKZeX31r8flGLIU3ylSBHRmmu1wBnSONEiA0-tFqhSFAW53tOk2i27xNCJ-yMdocx1jFeWBZPO14OGdA4z0nAY5JPaeTiXcgPUW0KLALPVVz95jjpd6XPt6k1qeZjbasMpV3NUNPICn-5pc8I07ITFy0JrNCm1qUwnwZmfzGojSWuxSVbN45-3MIFDVcw_jyZPkOUaQMhh0AZ7XUCGUH-X&c=kse7y6pGBvobuTHKdxoEiUOEW29qcXT7kkG0_glf5tUVO6dovcYYIQ==&ch=bG-7fCX-zWB63aJSqdBEMTPdQXfNMX7xUKl8h64wCX9eFvqk_7NB6Q=="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

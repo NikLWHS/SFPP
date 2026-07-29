@@ -1,0 +1,1012 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1761863640.877339",
+        "client_msg_id": "853d86e9-2b65-4742-ba3d-27ce6a4f0e97",
+        "text": "Congratulations to <@U05RTFC5UP7> for being named Outstanding Emerging Journalist for SPJ NorCal's Excellence in Journalism Awards! <@U05RTFC5UP7> and <@UKJ1HMMAM> also won a Health Reporting award for the Hep B series! :tada: <https:\/\/spjnorcal.org\/2025\/10\/30\/spj-norcal-honors-2025-excellence-in-journalism-award-winners\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "reply_count": 14,
+        "reply_users_count": 8,
+        "latest_reply": "1761866247.308599",
+        "reply_users": [
+            "U09DQR9NLQP",
+            "U07BW27EEHF",
+            "U02DXRYCD2N",
+            "UKJ1HMMAM",
+            "U02LAK62DEV",
+            "U02V28GTKMW",
+            "UKC0EQURX",
+            "U05RTFC5UP7"
+        ],
+        "replies": [
+            {
+                "user": "U09DQR9NLQP",
+                "ts": "1761863703.723149"
+            },
+            {
+                "user": "U07BW27EEHF",
+                "ts": "1761863770.475499"
+            },
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1761864212.260729"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1761864353.704659"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1761864768.467469"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1761864910.082689"
+            },
+            {
+                "user": "U02V28GTKMW",
+                "ts": "1761865111.417529"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1761865137.499479"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1761865170.956079"
+            },
+            {
+                "user": "UKC0EQURX",
+                "ts": "1761865217.174029"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1761865386.205079"
+            },
+            {
+                "user": "UKC0EQURX",
+                "ts": "1761865443.327299"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1761865503.111729"
+            },
+            {
+                "user": "U05RTFC5UP7",
+                "ts": "1761866247.308599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+mG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for being named Outstanding Emerging Journalist for SPJ NorCal's Excellence in Journalism Awards! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " also won a Health Reporting award for the Hep B series! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spjnorcal.org\/2025\/10\/30\/spj-norcal-honors-2025-excellence-in-journalism-award-winners\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U02V28GTKMW",
+                    "U09DQR9NLQP",
+                    "U07BW27EEHF",
+                    "UKJ1HMMAM"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U07BW27EEHF",
+                    "U02DXRYCD2N",
+                    "U05RTFC5UP7"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U07BW27EEHF",
+                    "U02DXRYCD2N",
+                    "UKC0EQURX"
+                ],
+                "count": 4
+            },
+            {
+                "name": "star",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U09J5DQ0SSG"
+                ],
+                "count": 2
+            },
+            {
+                "name": "trophy",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U09DQR9NLQP",
+        "type": "message",
+        "ts": "1761863703.723149",
+        "client_msg_id": "6bc0091b-fd7f-487e-8c84-c6306b2bcc3c",
+        "text": "YAYYYYYYYY <@U05RTFC5UP7>!!!!!!!! CONGRATULATIONS!!!!!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "64351c4cde62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-08\/11309559744450_64351c4cde6240996b74_72.png",
+            "first_name": "Cami",
+            "real_name": "Cami Dominguez",
+            "display_name": "Cami Dominguez",
+            "team": "T036YAYMK",
+            "name": "cami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAuc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAYYYYYYYY "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!!!!! CONGRATULATIONS!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1761863770.475499",
+        "client_msg_id": "1db86080-d875-47e9-b312-1a10fd87b3de",
+        "text": "Awesome!! Congrats <@U05RTFC5UP7>!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+k96J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome!! Congrats "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1761864212.260729",
+        "client_msg_id": "dded09b4-0a7b-4dab-a004-bc7d01f13ba9",
+        "text": "HEEEEELLLLLL YES THAT’S ABSOLUTELY AMAZINGGGGG &lt;3 SO PROUD OF YOU ZHE",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FTo4c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HEEEEELLLLLL YES THAT’S ABSOLUTELY AMAZINGGGGG <3 SO PROUD OF YOU ZHE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dizzy",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1761864353.704659",
+        "client_msg_id": "beb7c50a-a164-4295-beeb-05492550e57d",
+        "text": "Congratulations Zhe! What a wonderful recognition of you!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVqRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations Zhe! What a wonderful recognition of you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1761864768.467469",
+        "client_msg_id": "6bc1fcd5-8f2f-4600-8063-be80711cc74c",
+        "text": "FANTASTIC Zhe <@U05RTFC5UP7>  !    + And so impressive especially given the many fine emerging journos in Northern California -- but I agree, you stand out!\n{+  I finally got a minute to read your recent article. Such a great weaving of a profile with the broader realities and challenges of people like your subject.}\n\nAnd <@UKJ1HMMAM> Mel, congrats for being recognized together with Zhe on the Hep B epic! You applied your instincts about under covered topics, your reporting experience and health \/medical knowledge so expertly. You chewed off a big bite with that series :-) and hats off to <@UKC0EQURX> on that Hep-B Hippo too!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vxDKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FANTASTIC Zhe "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  !    + And so impressive especially given the many fine emerging journos in Northern California -- but I agree, you stand out!\n{+  I finally got a minute to read your recent article. Such a great weaving of a profile with the broader realities and challenges of people like your subject.}\n\nAnd "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Mel, congrats for being recognized together with Zhe on the Hep B epic! You applied your instincts about under covered topics, your reporting experience and health \/medical knowledge so expertly. You chewed off a big bite with that series :-) and hats off to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKC0EQURX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on that Hep-B Hippo too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1761864910.082689",
+        "client_msg_id": "b1d2cecd-d0d7-4836-bb4b-0486ddf0ae53",
+        "text": ":fast_parrot: Thanks Lisa. We should all be proud of that project! There was a lot of heavy lifting on the part of those who helped edit this series!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZHKTX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fast_parrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks Lisa. We should all be proud of that project! There was a lot of heavy lifting on the part of those who helped edit this series!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1761865111.417529",
+        "client_msg_id": "86c12646-3388-4ddc-96ee-679779371ecd",
+        "text": "All of it so well deserved!!!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKKB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All of it so well deserved!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1761865137.499479",
+        "client_msg_id": "5c2c26f1-ae51-4c3d-92db-7c232acdddb3",
+        "text": "Perhaps it goes without saying, but <@U19LB1TK5> helped Hep-B hang together too! Congrats to you all.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjqLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perhaps it goes without saying, but "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " helped Hep-B hang together too! Congrats to you all."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1761865170.956079",
+        "client_msg_id": "f3b632e6-b711-4559-bcef-d8ac361af8d4",
+        "text": ":grinning:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8Jur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1761865217.174029",
+        "client_msg_id": "e9efefcf-6e29-48b3-bd5e-bd8dc155f5ff",
+        "text": "YES ZHE!!! Outstanding indeed. Very much deserved. :raised_hands::tada::fast_parrot:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJ8y0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES ZHE!!! Outstanding indeed. Very much deserved. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fast_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U05RTFC5UP7",
+                    "U07BW27EEHF",
+                    "U09DQR9NLQP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1761865386.205079",
+        "client_msg_id": "5e7a7143-f7d7-4852-b806-93be4e30b62b",
+        "text": "So our newsroom's winter holiday party is AT the SPJ Awards ceremony Nov 13th ---yes? :-)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gchpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So our newsroom's winter holiday party is AT the SPJ Awards ceremony Nov 13th ---yes? :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "mirror_ball",
+                "users": [
+                    "UKC0EQURX",
+                    "U07BW27EEHF",
+                    "U02V28GTKMW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1761865443.327299",
+        "client_msg_id": "05307acd-e0a4-46b1-aff7-5b8e1bd5e5a6",
+        "text": "putting on my SPJ hat: if that means Public Press is buying a whole bunch of tickets, absolutely! :grin:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KmqjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "putting on my SPJ hat: if that means Public Press is buying a whole bunch of tickets, absolutely! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1761865503.111729",
+        "client_msg_id": "4f3a6091-4fab-49fa-a529-948d0127de39",
+        "text": "I approve of this idea!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AaJDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I approve of this idea!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man_dancing",
+                "users": [
+                    "UKC0EQURX",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05RTFC5UP7",
+        "type": "message",
+        "ts": "1761866247.308599",
+        "client_msg_id": "4fda1b30-a40a-4bab-91c0-bd2151f732e7",
+        "text": "Thank you so much, team :sob::heart: Feeling really honored and definitely couldn't have done it without all of you, especially <@UKC0EQURX> :dizzy:and thanks <@UKJ1HMMAM> so much for letting me be in the hep b stories.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "g274125dc3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/274125dc3d68fd13571902d48d9f4dcc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Zhe",
+            "real_name": "Zhe Wu",
+            "display_name": "Zhe Wu",
+            "team": "T036YAYMK",
+            "name": "zhe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761863640.877339",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTh\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much, team "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feeling really honored and definitely couldn't have done it without all of you, especially "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKC0EQURX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy",
+                                "unicode": "1f4ab"
+                            },
+                            {
+                                "type": "text",
+                                "text": "and thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " so much for letting me be in the hep b stories."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hearts",
+                "users": [
+                    "UKC0EQURX",
+                    "U09DQR9NLQP",
+                    "U02DXRYCD2N"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UKC0EQURX",
+                    "U09DQR9NLQP",
+                    "U07BW27EEHF",
+                    "U02DXRYCD2N"
+                ],
+                "count": 4
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "UKJ1HMMAM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "champagne",
+                "users": [
+                    "U02V28GTKMW",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U09DQR9NLQP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "star",
+                "users": [
+                    "U09DQR9NLQP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

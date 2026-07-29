@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1768889014.404749",
+        "client_msg_id": "00c4df69-810f-4377-85ef-3f167a961a81",
+        "text": "*Nieman Lab*\n*<https:\/\/www.niemanlab.org\/2026\/01\/documented-launches-a-training-program-to-help-more-newsrooms-serve-immigrant-audiences\/|Documented launches a training program to help more newsrooms serve immigrant audiences>*",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.niemanlab.org\/images\/documented-training-1-700x393.webp",
+                "image_width": 700,
+                "image_height": 393,
+                "image_bytes": 31086,
+                "from_url": "https:\/\/www.niemanlab.org\/2026\/01\/documented-launches-a-training-program-to-help-more-newsrooms-serve-immigrant-audiences\/",
+                "service_icon": "https:\/\/www.niemanlab.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.niemanlab.org\/2026\/01\/documented-launches-a-training-program-to-help-more-newsrooms-serve-immigrant-audiences\/",
+                "fallback": "Nieman Lab: Documented launches a training program to help more newsrooms serve immigrant audiences",
+                "text": "Documented, the nonprofit newsroom that covers New York's immigrant communities, receives lots of requests to help newsrooms in other states and countries produce news with and for immigrants. The company sees that as an opportunity to spread its model, which includes publishing on platforms like W…",
+                "title": "Documented launches a training program to help more newsrooms serve immigrant audiences",
+                "title_link": "https:\/\/www.niemanlab.org\/2026\/01\/documented-launches-a-training-program-to-help-more-newsrooms-serve-immigrant-audiences\/",
+                "service_name": "Nieman Lab",
+                "fields": [
+                    {
+                        "value": "Laura Hazard Owen",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "January 12, 2026",
+                        "title": "Published on",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UXyNV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nieman Lab",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.niemanlab.org\/2026\/01\/documented-launches-a-training-program-to-help-more-newsrooms-serve-immigrant-audiences\/",
+                                "text": "Documented launches a training program to help more newsrooms serve immigrant audiences",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1753916265.975149",
+        "client_msg_id": "de475e7e-ab93-4e92-aa65-3da7c702bafb",
+        "text": "Zhe's co-authored food banks story was also published here: <https:\/\/norcalpublicmedia.org\/2025073098765\/news-feed\/struggling-area-food-banks-brace-for-higher-demand-brought-on-by-snap-cuts>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/norcalpublicmedia.org\/2025073098765\/news-feed\/struggling-area-food-banks-brace-for-higher-demand-brought-on-by-snap-cuts",
+                "thumb_url": "https:\/\/norcalpublicmedia.org\/images\/greta_mart\/food_bank_food.jpg",
+                "thumb_width": 615,
+                "thumb_height": 410,
+                "service_icon": "https:\/\/norcalpublicmedia.org\/templates\/rt_xenon\/custom\/images\/192px-Red_star.png",
+                "id": 1,
+                "original_url": "https:\/\/norcalpublicmedia.org\/2025073098765\/news-feed\/struggling-area-food-banks-brace-for-higher-demand-brought-on-by-snap-cuts",
+                "fallback": "Northern California Public Media: Struggling area food banks brace for higher demand brought on by SNAP",
+                "text": "Food banks expect lines to grow even longer, after Congress approved a $186 billion cut to the Supplemental Food Nutrition Program in early July.",
+                "title": "Struggling area food banks brace for higher demand brought on by SNAP",
+                "title_link": "https:\/\/norcalpublicmedia.org\/2025073098765\/news-feed\/struggling-area-food-banks-brace-for-higher-demand-brought-on-by-snap-cuts",
+                "service_name": "Northern California Public Media"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xRIfm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zhe's co-authored food banks story was also published here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/norcalpublicmedia.org\/2025073098765\/news-feed\/struggling-area-food-banks-brace-for-higher-demand-brought-on-by-snap-cuts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

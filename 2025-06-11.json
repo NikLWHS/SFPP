@@ -1,0 +1,112 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F083VVCSSK0",
+                "created": 1733523143,
+                "timestamp": 1733523143,
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "quip",
+                "pretty_type": "Canvas",
+                "user": "U036YAYMM",
+                "user_team": "T036YAYMK",
+                "editable": true,
+                "size": 442,
+                "mode": "quip",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Channel_Overview",
+                "title": "Channel Overview",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F083VVCSSK0\/canvas?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F083VVCSSK0\/download\/canvas?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/docs\/T036YAYMK\/F083VVCSSK0",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F083VVCSSK0-852b50ba9b",
+                "url_static_preview": "https:\/\/sfpublicpress.slack.com\/docs\/T036YAYMK\/F083VVCSSK0\/mobile",
+                "quip_thread_id": "QfK9AA39EyJ",
+                "updated": 1733524085,
+                "update_notification": 0,
+                "canvas_readtime": 0.20473705339221,
+                "is_starred": false,
+                "skipped_shares": true,
+                "is_restricted_sharing_enabled": true,
+                "has_rich_preview": false,
+                "file_access": "visible",
+                "access": "owner",
+                "org_or_workspace_access": "none",
+                "title_blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "iUq8v",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Channel Overview"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "canvas_creator_id": "U036YAYMM",
+                "team_pref_version_history_enabled": true,
+                "canvas_printing_enabled": true,
+                "source_canvas_id": "F0618KT7VN0",
+                "is_ai_suggested": false
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1749634817.375029"
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1749673876.217379",
+        "client_msg_id": "4df87625-d681-4302-b1b5-241986ac1c8c",
+        "text": "Should we mention this in the podcast text version?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749499944.062889",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1W2Q7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we mention this in the podcast text version?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

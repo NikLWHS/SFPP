@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1766193160.590519",
+        "client_msg_id": "876a3874-1409-4b32-a98e-3903521ef6a3",
+        "text": "I'm not sure if i posted this earlier this year *from Carter Center <https:\/\/mentalhealthjournalism.org\/sf-has-a-chance-to-reinvent-its-mental-health-care-system\/>* and btw <https:\/\/mentalhealthjournalism.org\/resources\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oeZ+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure if i posted this earlier this year"
+                            },
+                            {
+                                "type": "text",
+                                "text": " from Carter Center ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mentalhealthjournalism.org\/sf-has-a-chance-to-reinvent-its-mental-health-care-system\/",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and btw "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mentalhealthjournalism.org\/resources\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

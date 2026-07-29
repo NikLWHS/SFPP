@@ -1,0 +1,220 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1733267060.150619",
+        "client_msg_id": "b0914661-642b-48f3-8cb7-c7ba96fefe40",
+        "text": "<https:\/\/www.kalw.org\/show\/bay-made\/2024-12-02\/civic-exposed-human-radiation-experiments-at-hunters-point-part-01>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-02\/civic-exposed-human-radiation-experiments-at-hunters-point-part-01",
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d167913\/2147483647\/strip\/true\/crop\/1156x650+22+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 238281,
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-02\/civic-exposed-human-radiation-experiments-at-hunters-point-part-01",
+                "fallback": "KALW: CIVIC: Exposed - Human Radiation Experiments at Hunters Point (Part 01)",
+                "text": "This week on BAY MADE: four new episodes from CIVIC, including a two-part investigative piece about how San Francisco's Hunter's Point Shipyard became the center for radiation experiments on humans.",
+                "title": "CIVIC: Exposed - Human Radiation Experiments at Hunters Point (Part 01)",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-02\/civic-exposed-human-radiation-experiments-at-hunters-point-part-01",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBhzO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-02\/civic-exposed-human-radiation-experiments-at-hunters-point-part-01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1733267085.134839",
+        "client_msg_id": "c3bba684-19da-4a0e-999d-70f5109c0c33",
+        "text": "<https:\/\/www.kalw.org\/show\/bay-made\/2024-12-03\/civic-exposed-human-radiation-experiments-at-hunters-point-part-02>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/4a109e6\/2147483647\/strip\/true\/crop\/1200x630+0+10\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 223215,
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-03\/civic-exposed-human-radiation-experiments-at-hunters-point-part-02",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-03\/civic-exposed-human-radiation-experiments-at-hunters-point-part-02",
+                "fallback": "KALW: CIVIC: Exposed - Human Radiation Experiments at Hunters Point (Part 02)",
+                "text": "This week on BAY MADE: four new episodes from CIVIC, including a two-part investigative piece about how San Francisco's Hunter's Point Shipyard became the center for radiation experiments on humans.",
+                "title": "CIVIC: Exposed - Human Radiation Experiments at Hunters Point (Part 02)",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-03\/civic-exposed-human-radiation-experiments-at-hunters-point-part-02",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1Z\/+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-12-03\/civic-exposed-human-radiation-experiments-at-hunters-point-part-02"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733276174.042649",
+        "client_msg_id": "c29782a9-398b-45b4-a8db-ce48d7f52f4a",
+        "text": "Reblogged by an old city gadfly\/civic watchdog.\n\nReferred to a posting from 48 Hills pointing to us.\n\n<https:\/\/zrants.wordpress.com\/2024\/12\/02\/special-report-exposed-the-human-radiation-experiments-at-hunters-point\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zrants.wordpress.com\/2024\/12\/02\/special-report-exposed-the-human-radiation-experiments-at-hunters-point\/",
+                "ts": 1733183254,
+                "thumb_url": "https:\/\/secure.gravatar.com\/blavatar\/64a8fca64650195aa85db79158db7dd49b0592050664ff566603c756af4407b8?s=200&ts=1733183271",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/64a8fca64650195aa85db79158db7dd49b0592050664ff566603c756af4407b8?s=114",
+                "id": 1,
+                "original_url": "https:\/\/zrants.wordpress.com\/2024\/12\/02\/special-report-exposed-the-human-radiation-experiments-at-hunters-point\/",
+                "fallback": "zRants: SPECIAL REPORT—EXPOSED: THE HUMAN RADIATION EXPERIMENTS AT HUNTERS POINT",
+                "text": "From 48hills: Announcing new reports on the human radiation experiments: Our friends at the San Francisco Public Press have published the first segment of “Exposed: The Human Radiation Experiments …",
+                "title": "SPECIAL REPORT—EXPOSED: THE HUMAN RADIATION EXPERIMENTS AT HUNTERS POINT",
+                "title_link": "https:\/\/zrants.wordpress.com\/2024\/12\/02\/special-report-exposed-the-human-radiation-experiments-at-hunters-point\/",
+                "service_name": "zRants"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHJvI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reblogged by an old city gadfly\/civic watchdog.\n\nReferred to a posting from 48 Hills pointing to us.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zrants.wordpress.com\/2024\/12\/02\/special-report-exposed-the-human-radiation-experiments-at-hunters-point\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1733276220.266739",
+        "client_msg_id": "d4b941ed-7679-4bb7-b832-b5be37f6f386",
+        "text": ":+1::skin-tone-3:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SC6O8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fc",
+                                "skin_tone": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

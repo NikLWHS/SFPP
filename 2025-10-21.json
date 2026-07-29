@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1761093001.294619",
+        "client_msg_id": "de17f694-a4f7-40a2-8f98-75f2f275d2e6",
+        "text": "<https:\/\/www.sfgoodneighborweek.org\/blog\/community-listening-sessions-2025>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfgoodneighborweek.org\/blog\/community-listening-sessions-2025",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/6823bb6b9b68e24e37eb3b31\/68f17b2c92aaa971187e5268\/68f17b2c92aaa971187e526b\/1760991686372\/IMG_6871.jpg?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 1125,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/6823bb6b9b68e24e37eb3b31\/9ef10485-debe-4e39-b094-81490ae29b02\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/www.sfgoodneighborweek.org\/blog\/community-listening-sessions-2025",
+                "fallback": "San Francisco Good Neighbor Week: Six San Francisco Newsrooms Host Community Listening Sessions During Inaugural SF Good Neighbor Week — San Francisco Good Neighbor Week",
+                "text": "This is the first post in a series of reflections on San Francisco’s inaugural SF Good Neighbor Week. When I was putting together the inaugural SF Good Neighbor Week in 2025, I knew I wanted local newsrooms involved. Though I don’t have a journalism background, I’ve been an advocate for local news",
+                "title": "Six San Francisco Newsrooms Host Community Listening Sessions During Inaugural SF Good Neighbor Week — San Francisco Good Neighbor Week",
+                "title_link": "https:\/\/www.sfgoodneighborweek.org\/blog\/community-listening-sessions-2025",
+                "service_name": "San Francisco Good Neighbor Week"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1atm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfgoodneighborweek.org\/blog\/community-listening-sessions-2025"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

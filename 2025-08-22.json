@@ -1,0 +1,466 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1755882097.895609",
+        "text": "Mirroring here for tracking purposes",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "ts": "1755881920.918849",
+                "author_id": "U036YAYMM",
+                "channel_id": "CDELPUTHB",
+                "channel_team": "T036YAYMK",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T036YAYMK",
+                        "channel": "CDELPUTHB",
+                        "ts": "1755881920.918849",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "8nPJd",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Breaking news: Zhe is a finalist in the Online Journalism Awards!\n\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Gather Award in Community-Centered Journalism, Overall Excellence, Community-Based & Rural Focus",
+                                                    "style": {
+                                                        "bold": true
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "rich_text_list",
+                                            "elements": [
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "Informed, Included, Empowered: Spanish-Language Guides for Civic and Community Action, Enlace Latino NC"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "How Chinese Americans in San Francisco Are Demanding a Seat at the Table, San Francisco Public Press"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "rich_text_section",
+                                                    "elements": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "The Georgia Public Service Commission, Grist, WABE"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "style": "bullet",
+                                            "indent": 0,
+                                            "border": 0
+                                        },
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/awards.journalists.org\/2025\/08\/22\/congratulations-to-the-finalists-in-the-2025-online-journalism-awards\/?utm_source=Online+News+Association+List&utm_campaign=df7e734719-OJA25finalists&utm_medium=email&utm_term=0_53b827990a-df7e734719-225749713&mc_cid=df7e734719",
+                                                    "text": "https:\/\/awards.journalists.org\/2025\/08\/22\/congratulations-to-the-finalists-in-the-2025-o[…]_term=0_53b827990a-df7e734719-225749713&mc_cid=df7e734719"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/sfpublicpress.slack.com\/archives\/CDELPUTHB\/p1755881920918849",
+                "is_share": true,
+                "fallback": "[August 22nd, 2025 9:58 AM] mstoll: Breaking news: Zhe is a finalist in the Online Journalism Awards!\n\n*Gather Award in Community-Centered Journalism, Overall Excellence, Community-Based &amp; Rural Focus*\n• Informed, Included, Empowered: Spanish-Language Guides for Civic and Community Action, Enlace Latino NC\n• How Chinese Americans in San Francisco Are Demanding a Seat at the Table, San Francisco Public Press\n• The Georgia Public Service Commission, Grist, WABE\n<https:\/\/awards.journalists.org\/2025\/08\/22\/congratulations-to-the-finalists-in-the-2025-online-journalism-awards\/?utm_source=Online+News+Association+List&amp;utm_campaign=df7e734719-OJA25finalists&amp;utm_medium=email&amp;utm_term=0_53b827990a-df7e734719-225749713&amp;mc_cid=df7e734719|https:\/\/awards.journalists.org\/2025\/08\/22\/congratulations-to-the-finalists-in-the-2025-o[…]_term=0_53b827990a-df7e734719-225749713&amp;mc_cid=df7e734719>",
+                "text": "Breaking news: Zhe is a finalist in the Online Journalism Awards!\n\n*Gather Award in Community-Centered Journalism, Overall Excellence, Community-Based &amp; Rural Focus*\n• Informed, Included, Empowered: Spanish-Language Guides for Civic and Community Action, Enlace Latino NC\n• How Chinese Americans in San Francisco Are Demanding a Seat at the Table, San Francisco Public Press\n• The Georgia Public Service Commission, Grist, WABE\n<https:\/\/awards.journalists.org\/2025\/08\/22\/congratulations-to-the-finalists-in-the-2025-online-journalism-awards\/?utm_source=Online+News+Association+List&amp;utm_campaign=df7e734719-OJA25finalists&amp;utm_medium=email&amp;utm_term=0_53b827990a-df7e734719-225749713&amp;mc_cid=df7e734719|https:\/\/awards.journalists.org\/2025\/08\/22\/congratulations-to-the-finalists-in-the-2025-o[…]_term=0_53b827990a-df7e734719-225749713&amp;mc_cid=df7e734719>",
+                "author_name": "mstoll",
+                "author_link": "https:\/\/sfpublicpress.slack.com\/team\/U036YAYMM",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_48.png",
+                "author_subname": "mstoll",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack Conversation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p6PRG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mirroring here for tracking purposes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1755886659.556809",
+        "client_msg_id": "2e2f2eea-24f9-4832-8322-bfc4f5351725",
+        "text": "<@UKC0EQURX> So I've been thinking about this. Can you and <@U05RTFC5UP7> send me a bit more about this upcoming piece beyond what I see in the Story budget. (esp \"why this is important\" and why the individuals I have in mind should support it?)\nWhat is the expected timing on this?\nI'd love to float this out after Labor Day.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755131189.960289",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weKdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UKC0EQURX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " So I've been thinking about this. Can you and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " send me a bit more about this upcoming piece beyond what I see in the Story budget. (esp \"why this is important\" and why the individuals I have in mind should support it?)\nWhat is the expected timing on this?\nI'd love to float this out after Labor Day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05RTFC5UP7",
+        "type": "message",
+        "ts": "1755890028.998259",
+        "edited": {
+            "user": "U05RTFC5UP7",
+            "ts": "1755890139.000000"
+        },
+        "client_msg_id": "3fb316d8-6479-4334-ba11-77a7ce9da016",
+        "text": "Other than Winds and local Chinese language newspaper (SingTao and World Journal), I have another idea of pitching it to a not very local news outlet - <https:\/\/theinitium.com\/zh-hans|Initium> Media, a Chinese language outlet for younger Chinese diaspora folks like me.\nI know some people in SingTao, World Journal (local), Initium Media (International) and can facilitate those connection if that helps. I still hope we can get in some English language news first. (That's why the publishing date is not clear)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "g274125dc3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/274125dc3d68fd13571902d48d9f4dcc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Zhe",
+            "real_name": "Zhe Wu",
+            "display_name": "Zhe Wu",
+            "team": "T036YAYMK",
+            "name": "zhe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755131189.960289",
+        "parent_user_id": "U02LAK62DEV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/theinitium.com\/zh-hans",
+                "image_url": "https:\/\/theinitium.com\/wp-content\/uploads\/2024\/07\/default.jpg",
+                "image_width": 1400,
+                "image_height": 800,
+                "image_bytes": 83849,
+                "service_icon": "https:\/\/theinitium.com\/wp-content\/uploads\/2024\/07\/favicon-1.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/theinitium.com\/zh-hans",
+                "fallback": "端傳媒 Initium Media",
+                "text": "华文世界不可或缺的深度报道和多元声音",
+                "title": "端傳媒 Initium Media",
+                "title_link": "https:\/\/theinitium.com\/zh-hans",
+                "service_name": "theinitium.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z6bZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Other than Winds and local Chinese language newspaper (SingTao and World Journal), I have another idea of pitching it to a not very local news outlet - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theinitium.com\/zh-hans",
+                                "text": "Initium"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Media, a Chinese language outlet for younger Chinese diaspora folks like me.\nI know some people in SingTao, World Journal (local), Initium Media (International) and can facilitate those connection if that helps. I still hope we can get in some English language news first. (That's why the publishing date is not clear)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1755890284.274629",
+        "client_msg_id": "e4cdafc7-f7d2-48fe-922a-11bb8c988cca",
+        "text": "Love those ideas.\n<@U02LAK62DEV> Why this story matters: At a time when Chinatowns across the country are shrinking and struggling, San Francisco’s is seeing a revival. And it’s not driven by extractive business interests or a commercial repackaging of traditions — it’s being driven by young diasporic Chinese and Chinese American people who want to uplift and evolve cultural expression. Many of them were told growing up that they shouldn’t linger in Chinatown if they wanted a future in the U.S. Now they’re bringing that future to Chinatown.\n\n(Zhe, please correct as needed)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755131189.960289",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TVwbv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love those ideas.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02LAK62DEV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Why this story matters: At a time when Chinatowns across the country are shrinking and struggling, San Francisco’s is seeing a revival. And it’s not driven by extractive business interests or a commercial repackaging of traditions — it’s being driven by young diasporic Chinese and Chinese American people who want to uplift and evolve cultural expression. Many of them were told growing up that they shouldn’t linger in Chinatown if they wanted a future in the U.S. Now they’re bringing that future to Chinatown.\n\n(Zhe, please correct as needed)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1755890373.329599",
+        "client_msg_id": "c0c772f7-d91f-4363-8da2-50d77f5d6888",
+        "text": "timing: We have a draft, which has been through a line edit. I’m not sure the status of our attempt to shop the story around to the Guardian or other outlets (<@U19LB1TK5> any interest from your contact?)\n\nAfter labor day sounds fine!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755131189.960289",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lrDt3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "timing: We have a draft, which has been through a line edit. I’m not sure the status of our attempt to shop the story around to the Guardian or other outlets ("
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " any interest from your contact?)\n\nAfter labor day sounds fine!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U07MMNALMM4> KQED curates this widget that we run on our site -- picked your AI piece.",
+        "files": [
+            {
+                "id": "F09BT15277W",
+                "created": 1755899206,
+                "timestamp": 1755899206,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 490298,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F09BT15277W\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F09BT15277W\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 142,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 189,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 283,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 315,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 377,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09BT15277W-4614614cfc\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 403,
+                "original_w": 1119,
+                "original_h": 440,
+                "thumb_tiny": "AwATADDRLIDyy5+tG+P+8v51RuEk858YKse7D+pphWXymGVPzDncvTB96Qy\/vjL4EozjG0EUeZFknzVx06jiqFvBIsy\/KCAQT8w4H5\/5\/ShLdth4XC\/7QOfXvTEaAkjPR1P40odCcBhn0qisLxIUAGSSRlhwKngQiUnaMAkZBFAFgKASeefU0tFFABSAAev50tFABRRRQB\/\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F09BT15277W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F09BT15277W-4bc7258e34",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1kuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07MMNALMM4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " KQED curates this widget that we run on our site -- picked your AI piece."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1755899318.128529",
+        "client_msg_id": "fc870aec-b2f0-401d-8c28-c104bb9a4c24",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

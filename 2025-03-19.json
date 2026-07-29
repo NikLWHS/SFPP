@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U05RTFC5UP7",
+        "type": "message",
+        "ts": "1742441916.193259",
+        "edited": {
+            "user": "U05RTFC5UP7",
+            "ts": "1742441970.000000"
+        },
+        "client_msg_id": "31FEDDF1-3254-41FB-A7D7-35E6AB693C1B",
+        "text": "Some sources asked me about translating the story about the CADC story, but I have been out this week. But apparently some people translated it and posted it on WeChat: <https:\/\/mp.weixin.qq.com\/s\/rfqLmXLZrq4wmwnSQvtbWA>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "g274125dc3d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/274125dc3d68fd13571902d48d9f4dcc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Zhe",
+            "real_name": "Zhe Wu",
+            "display_name": "Zhe Wu",
+            "team": "T036YAYMK",
+            "name": "zhe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnG3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Some sources asked me about translating the story about the CADC story, but I have been out this week. But apparently some people translated it and posted it on WeChat: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mp.weixin.qq.com\/s\/rfqLmXLZrq4wmwnSQvtbWA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

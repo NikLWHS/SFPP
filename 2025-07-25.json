@@ -1,0 +1,575 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1753459722.488339",
+        "client_msg_id": "673fceaa-5377-4222-b12e-970c4bf37734",
+        "text": "NEWS FLASH! Audrey's toxic cleanup story was a finalist for the Institute for Nonprofit News INNY awards.\n\n<https:\/\/news.inn.org\/2025-nonprofit-news-awards-finalists-reflect-the-power-of-civic-journalism\/>\n\n&gt; *Insight Award for Explanatory Journalism*\n&gt; Honors a single story or a series of explanatory reporting that provides insight and understanding of a significant and complex subject.\n&gt; \n&gt; *San Francisco Public Press*, _<https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer\/|In Marginalized SF Bay Communities>_<https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer\/|,>_<https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer\/| Toxic Waste Cleanups Take Longer>_, Audrey Mei-Yi Brown\n&gt; \n&gt; Please promote your status as a finalist using *#INNYs2025*.\n&gt; \n&gt; Awards ceremony Sept. 10 in New Orleans ... travel stipends available.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "reply_count": 7,
+        "reply_users_count": 5,
+        "latest_reply": "1753483445.231229",
+        "reply_users": [
+            "U07BW27EEHF",
+            "U19LB1TK5",
+            "UKJ1HMMAM",
+            "U02LAK62DEV",
+            "U02V28GTKMW"
+        ],
+        "replies": [
+            {
+                "user": "U07BW27EEHF",
+                "ts": "1753460703.667439"
+            },
+            {
+                "user": "U19LB1TK5",
+                "ts": "1753468082.419089"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1753468908.116759"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1753472131.269209"
+            },
+            {
+                "user": "U02V28GTKMW",
+                "ts": "1753481230.729099"
+            },
+            {
+                "user": "U07BW27EEHF",
+                "ts": "1753482797.366329"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1753483445.231229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1753489972.760407",
+        "attachments": [
+            {
+                "image_url": "https:\/\/news.inn.org\/wp-content\/uploads\/2025\/07\/240919-INNAwards-93-scaled.jpg",
+                "image_width": 2560,
+                "image_height": 1707,
+                "image_bytes": 122032,
+                "from_url": "https:\/\/news.inn.org\/2025-nonprofit-news-awards-finalists-reflect-the-power-of-civic-journalism\/",
+                "service_icon": "https:\/\/news.inn.org\/wp-content\/uploads\/2025\/04\/cropped-favicon-180x180.jpg",
+                "ts": 1753446673,
+                "id": 1,
+                "original_url": "https:\/\/news.inn.org\/2025-nonprofit-news-awards-finalists-reflect-the-power-of-civic-journalism\/",
+                "fallback": "INN News: 2025 Nonprofit News Awards finalists reflect the power of civic journalism - INN News",
+                "text": "The most powerful reporting from nonprofit news outlets over the past year went beyond compelling storytelling to have real impact.",
+                "title": "2025 Nonprofit News Awards finalists reflect the power of civic journalism - INN News",
+                "title_link": "https:\/\/news.inn.org\/2025-nonprofit-news-awards-finalists-reflect-the-power-of-civic-journalism\/",
+                "service_name": "INN News",
+                "fields": [
+                    {
+                        "value": "Institute for Nonprofit News",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "10 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J5Qyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NEWS FLASH! Audrey's toxic cleanup story was a finalist for the Institute for Nonprofit News INNY awards.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.inn.org\/2025-nonprofit-news-awards-finalists-reflect-the-power-of-civic-journalism\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Insight Award for Explanatory Journalism",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHonors a single story or a series of explanatory reporting that provides insight and understanding of a significant and complex subject.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "San Francisco Public Press",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer\/",
+                                "text": "In Marginalized SF Bay Communities",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer\/",
+                                "text": ","
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer\/",
+                                "text": " Toxic Waste Cleanups Take Longer",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Audrey Mei-Yi Brown\n\nPlease promote your status as a finalist using "
+                            },
+                            {
+                                "type": "text",
+                                "text": "#INNYs2025",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nAwards ceremony Sept. 10 in New Orleans ... travel stipends available."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5",
+                    "U02V28GTKMW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1753460703.667439",
+        "client_msg_id": "18871BE9-B6C1-41D5-88A3-3AE6B72CD8C6",
+        "text": "Ah that’s great to hear. Thanks for sharing! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "akPtu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " great to hear"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thanks for sharing! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1753468082.419089",
+        "client_msg_id": "ac5f5846-956c-4366-b7c2-061aa4f55840",
+        "text": "This is fantastic news!!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ApO7+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is fantastic news!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1753468908.116759",
+        "client_msg_id": "b45578d2-f4ba-4bda-8084-847a170b85d8",
+        "text": "Congrats Audrey!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWFWP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats Audrey!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1753472131.269209",
+        "client_msg_id": "76b5a6bb-81a7-4343-b786-502a4dfae003",
+        "text": "Congrats to <@U07BW27EEHF> -- and <@UKC0EQURX> and anyone else who helped this dope data dive to surface! :boom:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KKCv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKC0EQURX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and anyone else who helped this dope data dive to surface! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1753481230.729099",
+        "client_msg_id": "45cccc6d-e6f3-4bb6-8a5a-7ca8b8a26e68",
+        "text": "Congrats!!!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNPbt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1753482797.366329",
+        "client_msg_id": "532b0c4e-d330-4888-bb5b-f8dd76c9285d",
+        "text": "Thanks! And big thanks and congrats to Laura as well, who was hauling this thing over the finish line with me :sweat_smile:. Fingers crossed that we win... it looks like our story is one of seven finalists.\n\nWhen folks have been finalists\/won in the past, did they go to the awards ceremony? I think Madison and Yesi won last year. I'd probably prefer to sit out the additional travel, but at the same time idk if it's a bad look to not show up, especially if you end up winning an award and given that they offer travel stipends.\n\nFYI Lisa and Lila and Laura, I let Anh Gray know the story is a finalist.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9EJB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks! And big thanks and congrats to Laura as well, who was hauling this thing over the finish line with me "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Fingers crossed that we win... it looks like our story is one of seven finalists.\n\nWhen folks have been finalists\/won in the past, did they go to the awards ceremony? I think Madison and Yesi won last year. I'd probably prefer to sit out the additional travel, but at the same time idk if it's a bad look to not show up, especially if you end up winning an award and given that they offer travel stipends.\n\nFYI Lisa and Lila and Laura, I let Anh Gray know the story is a finalist."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1753483445.231229",
+        "client_msg_id": "688f8a9f-56a1-432e-92d4-b69e6258a4ef",
+        "text": "Yes ditto re Laura! I do hope that our friends at Mindsite win in their _other_ category and not in Audrey's category :slightly_smiling_face:  I wrote to the Logans with the good news and I started an email to my  bunch of RFA colleagues (and Nathan their video guy who int'd Lila)  but am  so glad you alerted Ahn first!\n\nBTW Next Month we will be applying for a second RFA corps member.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1753459722.488339",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QS1hv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes ditto re Laura! I do hope that our friends at Mindsite win in their "
+                            },
+                            {
+                                "type": "text",
+                                "text": "other",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " category and not in Audrey's category "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I wrote to the Logans with the good news and I started an email to my  bunch of RFA colleagues (and Nathan their video guy who int'd Lila)  but am  so glad you alerted Ahn first!\n\nBTW Next Month we will be applying for a second RFA corps member."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

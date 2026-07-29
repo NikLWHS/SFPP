@@ -1,0 +1,232 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1761779420.986379",
+        "client_msg_id": "f832d8d7-ad86-4e16-a59d-9a47835bea7a",
+        "text": "Someone's reading us!\n\n<@U02V28GTKMW>\n\n<https:\/\/sfist.com\/2025\/10\/29\/luries-office-unwilling-to-share-details-of-his-call-with-trump-that-called-off-federal-troop-deployment\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/img.sfist.com\/2025\/10\/lurie-rump.jpg",
+                "image_width": 1139,
+                "image_height": 782,
+                "image_bytes": 96245,
+                "from_url": "https:\/\/sfist.com\/2025\/10\/29\/luries-office-unwilling-to-share-details-of-his-call-with-trump-that-called-off-federal-troop-deployment\/",
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "ts": 1761769559,
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2025\/10\/29\/luries-office-unwilling-to-share-details-of-his-call-with-trump-that-called-off-federal-troop-deployment\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: Lurie’s Office Unwilling to Share Details of His Call With Trump That Called Off Federal Troop Deployment",
+                "text": "The SF Public Press put in a records request for call logs of Mayor Lurie’s famed call with President Trump where Trump called off the cavalry of an impending federal troop invasion. Lurie's office refuses to disclose details.",
+                "title": "Lurie’s Office Unwilling to Share Details of His Call With Trump That Called Off Federal Troop Deployment",
+                "title_link": "https:\/\/sfist.com\/2025\/10\/29\/luries-office-unwilling-to-share-details-of-his-call-with-trump-that-called-off-federal-troop-deployment\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Joe Kukura",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF Politics, SF News, daniel lurie, donald trump",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvjAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone's reading us!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2025\/10\/29\/luries-office-unwilling-to-share-details-of-his-call-with-trump-that-called-off-federal-troop-deployment\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U02V28GTKMW",
+                    "U09DQR9NLQP",
+                    "U07BW27EEHF",
+                    "U05RTFC5UP7"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U02LAK62DEV",
+                    "UKC0EQURX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1761779855.328279",
+        "client_msg_id": "d0a1a40b-b209-4bc1-93b5-d41434b5e559",
+        "text": "Good to be known as an org that instinctively fires off public records requests.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZgcC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to be known as an org that instinctively fires off public records requests."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1761779866.806279",
+        "client_msg_id": "47d9aa2d-eb3c-4c44-ac43-94bd24435d17",
+        "text": "For key decisions.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ED5rB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For key decisions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1761779950.613299",
+        "client_msg_id": "298cb6ad-fc7e-480e-92aa-12afbbbed02c",
+        "text": "Good to see us picked up in SFIST. They rarely share are work.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENiHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good to see us picked up in SFIST. They rarely share are work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

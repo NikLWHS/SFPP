@@ -1,0 +1,95 @@
+[
+    {
+        "text": "CA Local News Fellows page had this in the CA News Widget area today",
+        "files": [
+            {
+                "id": "F08SXEBM8TY",
+                "created": 1747713903,
+                "timestamp": 1747713903,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 817062,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F08SXEBM8TY\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F08SXEBM8TY\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 209,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 279,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 418,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 464,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 557,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08SXEBM8TY-d0bf3e5b9a\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 594,
+                "original_w": 1351,
+                "original_h": 784,
+                "thumb_tiny": "AwAbADC6RNk5eMc8cdqX95tIDpv7elPcgYyabuT+9QA0LPgZdM\/Q0Mtx8u14x65U805ZI3GVkB\/GkMsYODIM\/WgBrLc54eMD\/dNG26x9+L\/vk0pniU4MoB+tPjljkyEcNjrzQAy4Vm27SBg96iSGQ7tzDBBHFWjQKAKUdowK7yDj60ps9xYhjknNXaKAKLWbnYNw461PbQNEzFiDmp6KAP\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F08SXEBM8TY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F08SXEBM8TY-a39ed05e34",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wnn\/I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CA Local News Fellows page had this in the CA News Widget area today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1747713906.539479",
+        "client_msg_id": "f81a8bf7-c9e6-4ce6-91d0-054286d1bba7",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

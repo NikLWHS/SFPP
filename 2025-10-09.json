@@ -1,0 +1,277 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1760037386.845949",
+        "client_msg_id": "b65095b1-68e7-4cb7-ae74-8a82d65121cf",
+        "text": "<https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-the-sf-model-of-care-for-hep-b>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/4a109e6\/2147483647\/strip\/true\/crop\/1200x630+0+10\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 223215,
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-the-sf-model-of-care-for-hep-b",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-the-sf-model-of-care-for-hep-b",
+                "fallback": "KALW: CIVIC: The SF Model of Care for Hep B",
+                "text": "This week, we are sharing four stories from CIVIC, the local investigative journalism podcast produced by San Francisco Public Press.",
+                "title": "CIVIC: The SF Model of Care for Hep B",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-the-sf-model-of-care-for-hep-b",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wfoPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-the-sf-model-of-care-for-hep-b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1760037417.253559",
+        "client_msg_id": "4dbfbf88-0116-4796-81b2-96538ad514ce",
+        "text": "<https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-residents-fear-whats-next-for-social-security>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d167913\/2147483647\/strip\/true\/crop\/1156x650+22+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 238281,
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-residents-fear-whats-next-for-social-security",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-residents-fear-whats-next-for-social-security",
+                "fallback": "KALW: CIVIC: Residents fear what's next for Social Security",
+                "text": "This week, we are sharing four stories from CIVIC, the local investigative journalism podcast produced by San Francisco Public Press.",
+                "title": "CIVIC: Residents fear what's next for Social Security",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-residents-fear-whats-next-for-social-security",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFJ8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-07\/civic-residents-fear-whats-next-for-social-security"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1760037447.157409",
+        "client_msg_id": "710b6226-cc4f-4083-bc18-8a998d37eec7",
+        "text": "<https:\/\/www.kalw.org\/show\/bay-made\/2025-10-08\/civic-medicaid-cuts-threaten-sfs-safety-net>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d167913\/2147483647\/strip\/true\/crop\/1156x650+22+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 238281,
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-08\/civic-medicaid-cuts-threaten-sfs-safety-net",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-08\/civic-medicaid-cuts-threaten-sfs-safety-net",
+                "fallback": "KALW: CIVIC: Medicaid cuts threaten SF’s safety net",
+                "text": "This week, we are sharing four stories from CIVIC, the local investigative journalism podcast produced by San Francisco Public Press.",
+                "title": "CIVIC: Medicaid cuts threaten SF’s safety net",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-08\/civic-medicaid-cuts-threaten-sfs-safety-net",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9yXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-08\/civic-medicaid-cuts-threaten-sfs-safety-net"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1760037486.707409",
+        "client_msg_id": "63a67dd7-1581-401a-97fd-38ec54effc77",
+        "text": "<https:\/\/www.kalw.org\/show\/bay-made\/2025-10-09\/civic-how-federal-cuts-will-affect-local-research-and-lives>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d167913\/2147483647\/strip\/true\/crop\/1156x650+22+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 238281,
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-09\/civic-how-federal-cuts-will-affect-local-research-and-lives",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-09\/civic-how-federal-cuts-will-affect-local-research-and-lives",
+                "fallback": "KALW: CIVIC: How federal cuts will affect local research and lives",
+                "text": "This week, we are sharing four stories from CIVIC, the local investigative journalism podcast produced by San Francisco Public Press.",
+                "title": "CIVIC: How federal cuts will affect local research and lives",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-09\/civic-how-federal-cuts-will-affect-local-research-and-lives",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGSZi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2025-10-09\/civic-how-federal-cuts-will-affect-local-research-and-lives"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1760037598.486619",
+        "client_msg_id": "18482d18-83fa-4884-898f-af7bbd0ad1d2",
+        "text": "<https:\/\/www.kalw.org\/show\/your-call\/2025-09-30\/no-place-to-grow-old-exposes-the-homeless-crisis-among-older-adults>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/3bb6f38\/2147483647\/strip\/true\/crop\/895x470+22+0\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Ffd%2Fd87d381a4da785a27c85c32066c6%2Fhttps-cdn-evbuc-com-images-1121960753-13694240329-1-original-20250912-045841.jpeg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 75960,
+                "from_url": "https:\/\/www.kalw.org\/show\/your-call\/2025-09-30\/no-place-to-grow-old-exposes-the-homeless-crisis-among-older-adults",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/your-call\/2025-09-30\/no-place-to-grow-old-exposes-the-homeless-crisis-among-older-adults",
+                "fallback": "KALW: No Place to Grow Old exposes the homeless crisis among older adults",
+                "text": "The documentary, No Place to Grow Old, focuses on the fastest growing population entering homelessness across the country: adults ages 55 and older.",
+                "title": "No Place to Grow Old exposes the homeless crisis among older adults",
+                "title_link": "https:\/\/www.kalw.org\/show\/your-call\/2025-09-30\/no-place-to-grow-old-exposes-the-homeless-crisis-among-older-adults",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgimE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/your-call\/2025-09-30\/no-place-to-grow-old-exposes-the-homeless-crisis-among-older-adults"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

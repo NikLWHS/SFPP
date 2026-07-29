@@ -1,0 +1,279 @@
+[
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1735841699.872399",
+        "client_msg_id": "589dc663-0333-4097-8ec6-6c80f26e1928",
+        "text": "Health justice groups appear to be capitalizing on the Exposed series to hold a rally in Bayview.\n\n*All Things Bayview - Health Justice Rally*\n*Saturday • January 4th, 2025 • 12-2 pm*\n*Darling Animal Rendering Plant*\n*429 Amador Street, San Francisco CA (map)*\n*Contact: Kamilla Ealom, <mailto:Kamillah@allthingsbayview.org|Kamillah@allthingsbayview.org>*\nJoin <https:\/\/allthingsbayview.org|All Things Bayview> and <https:\/\/sfgraypanthers.org|Gray Panthers of San Francisco>  to demand health justice. This is more than a rally—it’s a movement for health, dignity, and justice in Bayview-Hunters Point (BVHP). The Bayview-Hunters Point community in San Francisco is in the grip of an environmental crisis born of decades of systemic neglect and environmental racism. This predominantly Black, Asian American\/Pacific Islander, and Latinx, low-income neighborhood bears the crushing weight of toxic contamination and industrial pollution, with devastating impacts on their health, air, soil, and water. _See the latest <https:\/\/www.sfpublicpress.org\/exposed\/|SF Public Press articles> about radiation from the Hunters Point Naval shipyard._",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735841699.872399",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1738196917.385669",
+        "reply_users": [
+            "U036YAYMM",
+            "U02V28GTKMW"
+        ],
+        "replies": [
+            {
+                "user": "U036YAYMM",
+                "ts": "1738196470.446829"
+            },
+            {
+                "user": "U02V28GTKMW",
+                "ts": "1738196817.327289"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1738196917.385669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1738196917.385669",
+        "attachments": [
+            {
+                "from_url": "https:\/\/allthingsbayview.org\/",
+                "service_icon": "http:\/\/img1.wsimg.com\/isteam\/ip\/static\/pwa-app\/logo-default.png\/:\/rs=w:57,h:57,m",
+                "thumb_url": "https:\/\/img1.wsimg.com\/isteam\/ip\/5d0b6587-efb3-44b3-b7f1-b2a88e619eba\/IMG_6302.jpeg",
+                "thumb_width": 1210,
+                "thumb_height": 1306,
+                "id": 1,
+                "original_url": "https:\/\/allthingsbayview.org",
+                "fallback": "ALL THINGS BAYVIEW  For Equitable Communities",
+                "text": "Together we can.",
+                "title": "ALL THINGS BAYVIEW  For Equitable Communities",
+                "title_link": "https:\/\/allthingsbayview.org\/",
+                "service_name": "allthingsbayview.org"
+            },
+            {
+                "from_url": "https:\/\/sfgraypanthers.org\/",
+                "id": 2,
+                "original_url": "https:\/\/sfgraypanthers.org",
+                "fallback": "SF GRAY PANTHERS",
+                "text": "Web site created using create-react-app",
+                "title": "SF GRAY PANTHERS",
+                "title_link": "https:\/\/sfgraypanthers.org\/",
+                "service_name": "sfgraypanthers.org"
+            },
+            {
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2024\/11\/Exposed-square-logo.jpg",
+                "image_width": 1024,
+                "image_height": 1024,
+                "image_bytes": 600971,
+                "from_url": "https:\/\/www.sfpublicpress.org\/exposed\/",
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 3,
+                "original_url": "https:\/\/www.sfpublicpress.org\/exposed\/",
+                "fallback": "San Francisco Public Press: Exposed: The Human Radiation Experiments at Hunters Point",
+                "text": "The U.S. Navy subjected servicemen and others to ethically questionable radiation exposure in San Francisco during the Cold War.",
+                "title": "Exposed: The Human Radiation Experiments at Hunters Point",
+                "title_link": "https:\/\/www.sfpublicpress.org\/exposed\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    },
+                    {
+                        "value": "John Angelico",
+                        "title": "Written by",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZC69T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Health justice groups appear to be capitalizing on the Exposed series to hold a rally in Bayview.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "All Things Bayview - Health Justice Rally",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Saturday • January 4th, 2025 • 12-2 pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Darling Animal Rendering Plant",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "429 Amador Street, San Francisco CA (map)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Contact: Kamilla Ealom, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:Kamillah@allthingsbayview.org",
+                                "text": "Kamillah@allthingsbayview.org",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJoin "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/allthingsbayview.org",
+                                "text": "All Things Bayview"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfgraypanthers.org",
+                                "text": "Gray Panthers of San Francisco"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  to demand health justice. This is more than a rally—it’s a movement for health, dignity, and justice in Bayview-Hunters Point (BVHP). The Bayview-Hunters Point community in San Francisco is in the grip of an environmental crisis born of decades of systemic neglect and environmental racism. This predominantly Black, Asian American\/Pacific Islander, and Latinx, low-income neighborhood bears the crushing weight of toxic contamination and industrial pollution, with devastating impacts on their health, air, soil, and water. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "See the latest ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/exposed\/",
+                                "text": "SF Public Press articles",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " about radiation from the Hunters Point Naval shipyard.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1735841812.647159",
+        "client_msg_id": "c46e9351-4f24-49da-af9e-d746efb89c0a",
+        "text": "Wow! It’s making the rounds. Thanks for finding that.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "na5\/a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow! It’s making the rounds. Thanks for finding that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5",
+                    "U07BW27EEHF",
+                    "U5ZQBSV9V"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

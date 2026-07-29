@@ -1,0 +1,173 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1744406716.515309",
+        "client_msg_id": "966942ed-1637-450a-84c2-179b0aa9fbb6",
+        "text": "<https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-the-era-of-funding-cuts-and-lawsuits> -- Sylvie's HUD story is included in this roundup!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/nextcity.org\/images\/daily\/_resized\/library_unsplash_getty-images.jpg",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 244285,
+                "from_url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-the-era-of-funding-cuts-and-lawsuits",
+                "service_icon": "https:\/\/nextcity.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-the-era-of-funding-cuts-and-lawsuits",
+                "fallback": "The Weekly Wrap: The Era of Funding Cuts and Lawsuits",
+                "text": "Zero-fare buses, ADA compliance in Baltimore, and more.",
+                "title": "The Weekly Wrap: The Era of Funding Cuts and Lawsuits",
+                "title_link": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-the-era-of-funding-cuts-and-lawsuits",
+                "service_name": "nextcity.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ryyaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-the-era-of-funding-cuts-and-lawsuits"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- Sylvie's HUD story is included in this roundup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1744406734.780869",
+        "client_msg_id": "be233608-5e62-49b4-9399-5891d014e97d",
+        "text": "<@U02V28GTKMW> see above :point_up_2:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPV3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " see above "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_up_2",
+                                "unicode": "1f446"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1744406802.316579",
+        "client_msg_id": "DA816005-6BF9-41DC-BD45-A72C97489778",
+        "text": "Thanks for sharing :blush:  ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTJl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for sharing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

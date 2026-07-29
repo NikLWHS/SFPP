@@ -1,0 +1,111 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1741299390.135549",
+        "client_msg_id": "0045b584-f3b9-48f7-b3b0-bbd4d7e08e33",
+        "text": "See the section, _*Congratulations to the following partners who were also recently featured in news and media*_ about halfway down *<https:\/\/loganfdn.org\/?mailpoet_router&amp;endpoint=view_in_browser&amp;action=view&amp;data=WzM4LCJmYjY1Zjc1YjRjMGUiLDEyOTYsIndlM2Z5MW5kenVvNDAwNGNvNGtzY2dvazhrZzB3czgwIiwzMiwwXQ|this>* \n\nAnd several listings about film and this article\n<https:\/\/brokeassstuart.com\/2025\/03\/06\/the-grim-reaper-of-bay-area-newspapers-alden-global-capital\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/brokeassstuart.com\/2025\/03\/06\/the-grim-reaper-of-bay-area-newspapers-alden-global-capital\/",
+                "image_url": "https:\/\/brokeassstuart.com\/wp-content\/pictsnShit\/2025\/03\/cover.jpg",
+                "image_width": 935,
+                "image_height": 552,
+                "image_bytes": 101554,
+                "service_icon": "https:\/\/brokeassstuart.com\/wp-content\/pictsnShit\/2024\/02\/BAS_Favicon_57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/brokeassstuart.com\/2025\/03\/06\/the-grim-reaper-of-bay-area-newspapers-alden-global-capital\/",
+                "fallback": "Broke-Ass Stuart's Website: The 'Grim Reaper' of Bay Area Newspapers: Alden Global Capital - Broke-Ass Stuart's Website",
+                "text": "Discover the truth behind the 'grim reaper' of local journalism, Alden Global Capital, and how it's killing local newspapers across the country.",
+                "title": "The 'Grim Reaper' of Bay Area Newspapers: Alden Global Capital - Broke-Ass Stuart's Website",
+                "title_link": "https:\/\/brokeassstuart.com\/2025\/03\/06\/the-grim-reaper-of-bay-area-newspapers-alden-global-capital\/",
+                "service_name": "Broke-Ass Stuart's Website",
+                "fields": [
+                    {
+                        "value": "Alex Mak - Managing Editor",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wouPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See the section, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Congratulations to the following partners who were also recently featured in news and media",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "about halfway down "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/loganfdn.org\/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzM4LCJmYjY1Zjc1YjRjMGUiLDEyOTYsIndlM2Z5MW5kenVvNDAwNGNvNGtzY2dvazhrZzB3czgwIiwzMiwwXQ",
+                                "text": "this",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAnd several listings about film and this article\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brokeassstuart.com\/2025\/03\/06\/the-grim-reaper-of-bay-area-newspapers-alden-global-capital\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

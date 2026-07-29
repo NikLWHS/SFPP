@@ -1,0 +1,477 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736113686.625189",
+        "client_msg_id": "cc1d45ec-23b5-4057-944a-0fca4d0c508a",
+        "text": "<https:\/\/www.kalw.org\/show\/your-call\/2025-01-03\/exposed-the-human-radiation-experiments-at-hunters-point>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d84dd46\/2147483647\/strip\/true\/crop\/1604x842+78+0\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F96%2Ff1900c774b3a9e7f91a0f8c22e5e%2Fnpr-brightspotcdn.jpeg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 158136,
+                "from_url": "https:\/\/www.kalw.org\/show\/your-call\/2025-01-03\/exposed-the-human-radiation-experiments-at-hunters-point",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/your-call\/2025-01-03\/exposed-the-human-radiation-experiments-at-hunters-point",
+                "fallback": "KALW: EXPOSED: The Human Radiation Experiments at Hunters Point",
+                "text": "The U.S. Naval Radiological Defense Laboratory, in San Francisco, exposed at least 1,073 workers, military personnel, and others to radiation early in the Cold War.",
+                "title": "EXPOSED: The Human Radiation Experiments at Hunters Point",
+                "title_link": "https:\/\/www.kalw.org\/show\/your-call\/2025-01-03\/exposed-the-human-radiation-experiments-at-hunters-point",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7FKZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/your-call\/2025-01-03\/exposed-the-human-radiation-experiments-at-hunters-point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736113839.417759",
+        "client_msg_id": "10f03b9c-b0a2-418d-befc-62881d5639cf",
+        "text": "<https:\/\/ecs-sf.org\/politics-didnt-matter-to-him-when-he-was-homeless-now-he-organizes-his-neighbors\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ecs-sf.org\/politics-didnt-matter-to-him-when-he-was-homeless-now-he-organizes-his-neighbors\/",
+                "ts": 1733861586,
+                "service_icon": "https:\/\/ecs-sf.org\/wp-content\/uploads\/2019\/01\/cropped-ecs_logo_RGB-high-res-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/ecs-sf.org\/politics-didnt-matter-to-him-when-he-was-homeless-now-he-organizes-his-neighbors\/",
+                "fallback": "Episcopal Community Services of San Francisco: Politics Didn’t Matter to Him When He Was Homeless. Now He Organizes His Neighbors.",
+                "text": "“…he spoke to a small gathering of his neighbors at 1064 Mission St., the city’s largest site of permanent supportive housing, which the government makes available to formerly homeless tenants. Episcopal Community Services, which operates the site, and the Department of Elections had arranged a voter education workshop for residents. Read the San Francisco Public…",
+                "title": "Politics Didn’t Matter to Him When He Was Homeless. Now He Organizes His Neighbors.",
+                "title_link": "https:\/\/ecs-sf.org\/politics-didnt-matter-to-him-when-he-was-homeless-now-he-organizes-his-neighbors\/",
+                "service_name": "Episcopal Community Services of San Francisco",
+                "fields": [
+                    {
+                        "value": "Elisa Bozmarova",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5HOO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ecs-sf.org\/politics-didnt-matter-to-him-when-he-was-homeless-now-he-organizes-his-neighbors\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736114072.286099",
+        "client_msg_id": "34106827-35cf-4ed8-a8e0-62730a80fb35",
+        "text": "From personal website of Ethan Elkind (fill-in host on \"Your Call\") — <https:\/\/www.ethanelkind.com\/tag\/san-francisco-public-press\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bFnR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From personal website of Ethan Elkind (fill-in host on \"Your Call\") — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ethanelkind.com\/tag\/san-francisco-public-press\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736114172.392409",
+        "client_msg_id": "cb6eb334-8fba-434a-97b0-1249d3c69b94",
+        "text": "Interesting — this is the original post for \"Your Call\" — and the one above is from Jan. 3. Did they rerun it?  <https:\/\/www.kalw.org\/show\/your-call\/2024-12-13\/exposed-the-human-radiation-experiments-at-hunters-point>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/c021bfb\/2147483647\/strip\/true\/crop\/1092x614+96+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F99%2F44ed4d5f4b31870732171620cab7%2Fexposed-banner-by-public-press.jpeg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 184579,
+                "from_url": "https:\/\/www.kalw.org\/show\/your-call\/2024-12-13\/exposed-the-human-radiation-experiments-at-hunters-point",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/your-call\/2024-12-13\/exposed-the-human-radiation-experiments-at-hunters-point",
+                "fallback": "KALW: EXPOSED: The Human Radiation Experiments at Hunters Point",
+                "text": "The U.S. Naval Radiological Defense Laboratory, in San Francisco, exposed at least 1,073 workers, military personnel, and others to radiation early in the Cold War.",
+                "title": "EXPOSED: The Human Radiation Experiments at Hunters Point",
+                "title_link": "https:\/\/www.kalw.org\/show\/your-call\/2024-12-13\/exposed-the-human-radiation-experiments-at-hunters-point",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBXRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting — this is the original post for \"Your Call\" — and the one above is from Jan. 3. Did they rerun it?  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/your-call\/2024-12-13\/exposed-the-human-radiation-experiments-at-hunters-point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736114256.839839",
+        "edited": {
+            "user": "U19LB1TK5",
+            "ts": "1736114314.000000"
+        },
+        "client_msg_id": "971fad7a-6fb4-4d60-b36d-f8f15f033056",
+        "text": "Exposed got mentions in both of the following newsletters:\n\n<https:\/\/kffhealthnews.org\/morning-breakout\/longer-looks-interesting-reads-you-might-have-missed-197\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kffhealthnews.org\/morning-breakout\/longer-looks-interesting-reads-you-might-have-missed-197\/",
+                "service_icon": "https:\/\/kffhealthnews.org\/wp-content\/uploads\/sites\/2\/2023\/04\/kffhealthnews-icon.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/kffhealthnews.org\/morning-breakout\/longer-looks-interesting-reads-you-might-have-missed-197\/",
+                "fallback": "KFF Health News: Longer Looks: Interesting Reads You Might Have Missed - KFF Health News",
+                "text": "Each week, KFF Health News finds longer stories for you to enjoy. Today's selections are on radiation biology, Neanderthals, fertility, pornography, and more.",
+                "title": "Longer Looks: Interesting Reads You Might Have Missed - KFF Health News",
+                "title_link": "https:\/\/kffhealthnews.org\/morning-breakout\/longer-looks-interesting-reads-you-might-have-missed-197\/",
+                "service_name": "KFF Health News"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aA+nE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exposed got mentions in both of the following newsletters:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kffhealthnews.org\/morning-breakout\/longer-looks-interesting-reads-you-might-have-missed-197\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736114287.419729",
+        "client_msg_id": "957276fa-42e3-4439-a01b-56e7cc93ce84",
+        "text": "<https:\/\/californiahealthline.org\/morning-briefing\/friday-december-13-2024\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+ip1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/californiahealthline.org\/morning-briefing\/friday-december-13-2024\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736114657.530919",
+        "edited": {
+            "user": "U19LB1TK5",
+            "ts": "1736114687.000000"
+        },
+        "client_msg_id": "340c9365-9cd1-4dfe-a7e4-8275553aa5ca",
+        "text": "Westside Observer's pickup of Zhe's story (with permission) <https:\/\/westsideobserver.com\/24\/12-engardio-recall-an-unlikely-threat.php>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2DBXM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Westside Observer's pickup of Zhe's story (with permission) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/westsideobserver.com\/24\/12-engardio-recall-an-unlikely-threat.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736114939.790469",
+        "client_msg_id": "0be3880e-fa27-4e5f-9d6b-d75cad560689",
+        "text": "Seth's recent story: <https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-rides-would-threaten-public-safety-appeal-says-san-francisco-public-press\/|https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-ride[…]eaten-public-safety-appeal-says-san-francisco-public-press\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-rides-would-threaten-public-safety-appeal-says-san-francisco-public-press\/",
+                "image_url": "https:\/\/www.uberdrivers.eu\/uploads\/monthly_2018_06\/281763921_logosite.jpg.870895701083c3787e8a89d14deed003.jpg",
+                "image_width": 210,
+                "image_height": 200,
+                "image_bytes": 5718,
+                "service_icon": "https:\/\/www.uberdrivers.eu\/uploads\/monthly_2018_06\/favicon.ico.558e3b12b0788d0909d4781c6496b771.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-rides-would-threaten-public-safety-appeal-says-san-francisco-public-press\/",
+                "fallback": "Uber drivers forum: Proposed Ruling on Substandard Uber Luxury Rides Would Threaten Public Safety, Appeal Says - San Francisco Public Press",
+                "text": "Proposed Ruling on Substandard Uber Luxury Rides Would Threaten Public Safety, Appeal Says San Francisco Public Press<https:\/\/www.google.com\/news>",
+                "title": "Proposed Ruling on Substandard Uber Luxury Rides Would Threaten Public Safety, Appeal Says - San Francisco Public Press",
+                "title_link": "https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-rides-would-threaten-public-safety-appeal-says-san-francisco-public-press\/",
+                "service_name": "Uber drivers forum"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYksZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seth's recent story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-rides-would-threaten-public-safety-appeal-says-san-francisco-public-press\/",
+                                "text": "https:\/\/www.uberdrivers.eu\/topic\/95212-proposed-ruling-on-substandard-uber-luxury-ride[…]eaten-public-safety-appeal-says-san-francisco-public-press\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1736118368.394349",
+        "client_msg_id": "fc864e96-389e-497e-8a9a-e925616701fc",
+        "text": "<https:\/\/larkinstreetyouth.org\/larkin-street-in-sf-public-press-addressing-id-barriers\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/larkinstreetyouth.org\/larkin-street-in-sf-public-press-addressing-id-barriers\/",
+                "service_icon": "https:\/\/larkinstreetyouth.org\/wp-content\/uploads\/2025\/01\/cropped-LarkinStreet_PrimaryLogo-180x180.png",
+                "ts": 1732321309,
+                "id": 1,
+                "original_url": "https:\/\/larkinstreetyouth.org\/larkin-street-in-sf-public-press-addressing-id-barriers\/",
+                "fallback": "Larkin Street Youth Services - Ending Youth Homelessness: Larkin Street in SF Public Press: Addressing ID Barriers",
+                "text": "Larkin Street's Kelsey Pimentel discusses ID barriers for SF's unhoused in SF Public Press, highlighting systemic solutions and advocacy.",
+                "title": "Larkin Street in SF Public Press: Addressing ID Barriers",
+                "title_link": "https:\/\/larkinstreetyouth.org\/larkin-street-in-sf-public-press-addressing-id-barriers\/",
+                "service_name": "Larkin Street Youth Services - Ending Youth Homelessness"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4vE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/larkinstreetyouth.org\/larkin-street-in-sf-public-press-addressing-id-barriers\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

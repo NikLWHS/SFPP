@@ -1,0 +1,97 @@
+[
+    {
+        "text": "Go Lila!\n\n*<https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-t\/|IN SAN FRANCISCO & ONLINE>*\n*<https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-t\/|TIME TO STRENGTHEN LOCAL HEALTH ECOSYSTEMS IN CALIFORNIA>*\nTHU, JUL 31 \/ 6:00 PM PDT\n*<https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-i\/|Info & Tickets>*",
+        "files": [
+            {
+                "id": "F096AGB8SDQ",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zIEKF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go Lila!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-t\/",
+                                "text": "IN SAN FRANCISCO & ONLINE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-t\/",
+                                "text": "TIME TO STRENGTHEN LOCAL HEALTH ECOSYSTEMS IN CALIFORNIA",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTHU, JUL 31 \/ 6:00 PM PDT\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-i\/",
+                                "text": "Info & Tickets",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1752768951.420789",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1752769007.000000"
+        },
+        "client_msg_id": "fef2a08e-e50d-478b-85ed-1b49f766d1f7",
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.commonwealthclub.org\/s3fs-public\/styles\/hero\/public\/2025-07\/20250731%20Local%20Health%20Ecosystems%20HERO.png?itok=_pxIZfEv",
+                "image_width": 1440,
+                "image_height": 510,
+                "image_bytes": 506270,
+                "from_url": "https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-i\/",
+                "service_icon": "https:\/\/www.commonwealthclub.org\/themes\/custom\/commonwealth\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-i\/",
+                "fallback": "Commonwealth Club World Affairs: Time to Strengthen Local Health Ecosystems in California",
+                "text": "Due to major cuts to Medicare, wildfire season, looming earthquakes, public health needs, and the increasing number of Californians without health insurance, now is the time to strengthen local health ecosystems statewide.  Join us to hear from leaders of social impact organizations in the San Francisco Bay Area about how they are building partnerships to address these challenges by working together and leveraging technology to build creative solutions to improve lives. About the Speakers ",
+                "title": "Time to Strengthen Local Health Ecosystems in California",
+                "title_link": "https:\/\/commonwealthclubworldaffairs.cmail20.com\/t\/y-l-qjrxld-hjlisduiu-i\/",
+                "service_name": "Commonwealth Club World Affairs"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF",
+                    "UKC0EQURX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

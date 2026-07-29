@@ -1,0 +1,321 @@
+[
+    {
+        "text": "Maximum Maddie time",
+        "files": [
+            {
+                "id": "F08B3AZG47L",
+                "created": 1738275894,
+                "timestamp": 1738275894,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 32323,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F08B3AZG47L\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F08B3AZG47L\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08B3AZG47L-b6fc677407\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08B3AZG47L-b6fc677407\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08B3AZG47L-b6fc677407\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 195,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08B3AZG47L-b6fc677407\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 260,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F08B3AZG47L-b6fc677407\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "original_w": 601,
+                "original_h": 326,
+                "thumb_tiny": "AwAaADDRYH1NNwff86exwKZuPqaAF59\/zpfmpu4\/3j\/n8KXcaAHDd7ClGe9MDU\/nvQAjDIxTdlPooAbs96XaKWigBAoFLQKO9AH\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F08B3AZG47L\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F08B3AZG47L-f6ac4d2750",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YqKMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maximum Maddie time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1738275910.019389",
+        "client_msg_id": "2dc839ad-2b2d-44c9-8e27-3a91ce14ffb7",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1738278033.007739",
+        "client_msg_id": "CA6F7303-6064-4FFE-88F1-C4081E2799F0",
+        "text": "Aww thanks for sharing Lisa! I think it went really well :) people had a lot of questions for me and multiple people came up to me afterwards and said I did a great job so that felt really good :) I also asked about video\/audio for Mel and they said they weren’t sure about public distribution but that they would email me later this weekend about it. Overall I’d say a successful presentation! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "848JE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aww thanks for sharing Lisa! I think it went really well :) people had a lot of questions for me and multiple people came up to me afterwards and said I did a great job so that felt really good :) I also asked about video\/audio "
+                            },
+                            {
+                                "type": "text",
+                                "text": "for Mel "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and they said they weren’t sure about public distribution but that they would email me "
+                            },
+                            {
+                                "type": "text",
+                                "text": "later this weekend about it"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Overall "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " say a successful presentation! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW",
+                    "U07BW27EEHF",
+                    "UKC0EQURX",
+                    "U05RTFC5UP7"
+                ],
+                "count": 4
+            },
+            {
+                "name": "yellow_heart",
+                "users": [
+                    "U07BW27EEHF",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1738278097.055319",
+        "client_msg_id": "c194f8fa-e893-4a18-9e5a-569ad4586097",
+        "text": "Thanks Madison! Sounds like it went really well!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9SbC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Madison! Sounds like it went really well!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1738279034.027239",
+        "client_msg_id": "1e47fe3b-6d88-423b-b7f5-b46edf6e66d1",
+        "text": "Go Madi! That's awesome :smile:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTrvI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go Madi! That's awesome "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1738279070.374169",
+        "client_msg_id": "30D5B27E-97A1-4E94-A1BA-2DF2998CF851",
+        "text": "ty!!! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/vAh6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ty!!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

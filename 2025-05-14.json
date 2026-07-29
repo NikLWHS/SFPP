@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1747237214.913479",
+        "client_msg_id": "2b32aff3-9493-46d6-802c-6321a32360bb",
+        "text": "Malik Washington wrote about and linked to Exposed and Audrey's recent coverage in a retrospective appreciation of Bayview-Hunters Point activist Marie Harrison.\n\n<https:\/\/davisvanguard.org\/2025\/05\/marie-harrison-environmental-justice-fight\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/davisvanguard.org\/2025\/05\/marie-harrison-environmental-justice-fight\/",
+                "ts": 1746613620,
+                "image_url": "https:\/\/davisvanguard.org\/wp-content\/uploads\/2025\/05\/Can-We-Live.webp",
+                "image_width": 874,
+                "image_height": 699,
+                "image_bytes": 47966,
+                "service_icon": "https:\/\/davisvanguard.org\/wp-content\/uploads\/2024\/04\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/davisvanguard.org\/2025\/05\/marie-harrison-environmental-justice-fight\/",
+                "fallback": "Davis Vanguard: Can We Live?:  Continuing the Struggle and Preserving the Legacy of Marie Harrison in Bayview\/Hunters Point - Davis Vanguard",
+                "text": "Marie Harrison, a pioneering environmental activist, fought against environmental racism in Bayview\/Hunters Point, San Francisco, and her legacy continues through her daughter Arieann Harrison.",
+                "title": "Can We Live?:  Continuing the Struggle and Preserving the Legacy of Marie Harrison in Bayview\/Hunters Point - Davis Vanguard",
+                "title_link": "https:\/\/davisvanguard.org\/2025\/05\/marie-harrison-environmental-justice-fight\/",
+                "service_name": "Davis Vanguard",
+                "fields": [
+                    {
+                        "value": "Malik Washington",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "14 minutes",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qz3ET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Malik Washington wrote about and linked to Exposed and Audrey's recent coverage in a retrospective appreciation of Bayview-Hunters Point activist Marie Harrison.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/davisvanguard.org\/2025\/05\/marie-harrison-environmental-justice-fight\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1747237242.922299",
+        "client_msg_id": "76d2a80c-40f0-4ec2-b01f-48a91395a526",
+        "text": "Riddled with typos, but interesting content!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "madyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Riddled with typos, but interesting content!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

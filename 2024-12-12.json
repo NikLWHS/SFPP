@@ -1,0 +1,587 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734046633.179899",
+        "edited": {
+            "user": "U02LAK62DEV",
+            "ts": "1734127554.000000"
+        },
+        "client_msg_id": "ae401cde-1bc3-4566-b672-ea9808b20cd5",
+        "text": "More today from Dr. Bob, and he included all the people I had initially:\nBOLDING IS MINE\n---------- Forwarded message ---------\nFrom: *Robert Gould* <<mailto:rmgould1@yahoo.com|rmgould1@yahoo.com>> _and others see Canvas_\nDate: Thu, Dec 12, 2024 at 2:08 PM\nSubject: Re: \"EXPOSED\" --ethically questionable radiation exposure by the U.S. Navy in San Francisco during the Cold War. Effects still felt today.\nDear Lisa,\nSo nice to hear from you! And want to express my great appreciation to y'all for this *great series which I've been following avidly*, and informing colleagues about widely in our PSR network, and saw that our Communications Director Julie Lindow, whom I had shared this message with yesterday, had responded to you along similar lines. *Although I\/we have been working on these issues for years, I was quite blown away about details revealed in the last segment about the secret local \"experiments,\" reminded me of the unethical practices profiled in James Nolan's terrific and disturbing \"Atomic Doctors\" published a few years ago,* which we highlighted in a <https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI|virtual panel organized by City Lights> in 2020 (also including historian Fred Kaplan).\n<https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI|CITY LIGHTS LIVE!: The Bomb: Understanding its History and the Hope for ...>\n*Earlier today we had last session of an elective at UCSF for first and second year medical students focused on legacy\/current issues at BVHP, for which Dan Hirsch, who contributed so importantly to your series, and I shared presentations on these issue to a small but packed house in the opening session a few months ago, and I made sure to mention your series and pass on the links.*\n\nWarm regards, Bob.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xkSnyz1zIEI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/xkSnyz1zIEI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"CITY LIGHTS LIVE!: The Bomb: Understanding its History and the Hope for a Nuclear-Free Future\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI",
+                "fallback": "YouTube Video: CITY LIGHTS LIVE!: The Bomb: Understanding its History and the Hope for a Nuclear-Free Future",
+                "title": "CITY LIGHTS LIVE!: The Bomb: Understanding its History and the Hope for a Nuclear-Free Future",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI",
+                "author_name": "CityLightsBooks",
+                "author_link": "https:\/\/www.youtube.com\/@CityLightsBooks",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTVkg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "More today from Dr. Bob, and he included all the people I had initially:\nBOLDING IS MINE\n---------- Forwarded message ---------\nFrom: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Robert Gould",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " <"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:rmgould1@yahoo.com",
+                                "text": "rmgould1@yahoo.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "> "
+                            },
+                            {
+                                "type": "text",
+                                "text": "and others see Canvas",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDate: Thu, Dec 12, 2024 at 2:08 PM\nSubject: Re: \"EXPOSED\" --ethically questionable radiation exposure by the U.S. Navy in San Francisco during the Cold War. Effects still felt today.\nDear Lisa,\nSo nice to hear from you! And want to express my great appreciation to y'all for this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "great series which I've been following avidly",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and informing colleagues about widely in our PSR network, and saw that our Communications Director Julie Lindow, whom I had shared this message with yesterday, had responded to you along similar lines. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Although I\/we have been working on these issues for years, I was quite blown away about details revealed in the last segment about the secret local \"experiments,\" reminded me of the unethical practices profiled in James Nolan's terrific and disturbing \"Atomic Doctors\" published a few years ago, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "which we highlighted in a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI",
+                                "text": "virtual panel organized by City Lights"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in 2020 (also including historian Fred Kaplan).\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=xkSnyz1zIEI",
+                                "text": "CITY LIGHTS LIVE!: The Bomb: Understanding its History and the Hope for ..."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Earlier today we had last session of an elective at UCSF for first and second year medical students focused on legacy\/current issues at BVHP, for which Dan Hirsch, who contributed so importantly to your series, and I shared presentations on these issue to a small but packed house in the opening session a few months ago, and I made sure to mention your series and pass on the links.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWarm regards, Bob."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "USLACKBOT",
+        "subtype": "tabbed_canvas_updated",
+        "canvas_update_user_ids": [
+            "U02LAK62DEV"
+        ],
+        "canvas_update_section_ids": [
+            "temp:C:DKR3e7cfb133be04db3b4a0f8a04",
+            "temp:C:DKR055f9e163d584cfa84973761c",
+            "temp:C:DKR077715c111ac42789d7fd5d07",
+            "temp:C:DKR1154e9cfe0f545968b2710988",
+            "temp:C:DKR8d920fb74eb24fa4a313cacd4",
+            "temp:C:DKR2bc248d4ed2a4967a5ae1578c",
+            "temp:C:DKR074fb117dbd54ca3a409d9fc9",
+            "temp:C:DKRc7480f19f5ca40c3ad97a995d",
+            "temp:C:DKR42ed61d265f94989b9d4fe418",
+            "temp:C:DKR64302d13a75a4043bf061800a"
+        ],
+        "canvas_update_canvas_id": "F084F946WL9",
+        "canvas_update_ai_summary_blocks": [],
+        "type": "message",
+        "ts": "1734046702.370749",
+        "text": "",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T036YAYMK",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSjKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lisa Rudman made updates to a canvas tab: "
+                            },
+                            {
+                                "type": "canvas",
+                                "file_id": "F084F946WL9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "I saw Dr Bob cc'd Dan Hirsh from the podcasts. So I looked him up and the  <https:\/\/www.committeetobridgethegap.org\/|Committee to Bridge the Gap> :Bridging the Gap Between Nuclear Danger and A Safe, Sustainable Future.\nThey publicized Exposed.\nThe \"read more\" links to their longer blurb --w\/ first grafs of press release and listing 4 of the parts",
+        "files": [
+            {
+                "id": "F084VB67FT7",
+                "created": 1734055238,
+                "timestamp": 1734055238,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 30293,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084VB67FT7\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084VB67FT7\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VB67FT7-8ae31f47d6\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VB67FT7-8ae31f47d6\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VB67FT7-8ae31f47d6\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 353,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VB67FT7-8ae31f47d6\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "original_w": 377,
+                "original_h": 385,
+                "thumb_tiny": "AwAwAC\/Sc4Unj8aj8w+i\/wDfVSOMqaj2H1T\/AL5pgG8\/7P50bz6J\/wB9UbMnkqR\/u07avoPyoAUEHoRSnpSAAdABSnpSAU9Kbg\/5FK\/3TUWPb9P\/AK9AEmKXFRY9v0\/+vRjr8v6f\/XpgS0HpTFXnPH5U89KQCP8AdNR7Tjhf0FSt09aaCfQfnQAzaf7v6ClC4PKZ\/AVJRTAav+7inHpRQelID\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F084VB67FT7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F084VB67FT7-d261d5420c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F084RHT1QQ6",
+                "created": 1734055316,
+                "timestamp": 1734055316,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 81896,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084RHT1QQ6\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084RHT1QQ6\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 208,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 278,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 417,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084RHT1QQ6-5c8dfcf055\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 463,
+                "thumb_800_h": 800,
+                "original_w": 521,
+                "original_h": 900,
+                "thumb_tiny": "AwAwABu15cmMf1o8uT\/JqSVtiE5xTA\/7wAsfmGRRcVkJ5cn+TSGJz\/8ArqdMFODn15zS0XCyEYkDgZpoZieUI465FOPSgUFXBSSvJz+FLTU+6eMU6gQh6GheKD0NC96AF7UUD7tFAH\/\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F084RHT1QQ6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F084RHT1QQ6-55c4fb4e0e",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F085ASWDBPB",
+                "created": 1734055350,
+                "timestamp": 1734055350,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 49108,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F085ASWDBPB\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F085ASWDBPB\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 121,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 161,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 242,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085ASWDBPB-fbdf3bc865\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 269,
+                "thumb_800_h": 800,
+                "original_w": 310,
+                "original_h": 923,
+                "thumb_tiny": "AwAwABC9uTPLj8xTxjd9agKMScQwn61MuQQDgcdBQAqIqZ2qBnrS\/wAdKOlN\/joAcOlNx8\/WnDpTeN1AH\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F085ASWDBPB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F085ASWDBPB-04e03b7c32",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F084VBE1K6H",
+                "created": 1734055375,
+                "timestamp": 1734055375,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 14758,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084VBE1K6H\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084VBE1K6H\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VBE1K6H-fb266497a9\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VBE1K6H-fb266497a9\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VBE1K6H-fb266497a9\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 82,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VBE1K6H-fb266497a9\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 109,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F084VBE1K6H-fb266497a9\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "original_w": 119,
+                "original_h": 525,
+                "thumb_tiny": "AwAwAArRBGelOpij5qfQA1cA06ox14qSgBqnnAxTqYAc96fQB\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F084VBE1K6H\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F084VBE1K6H-c5dd162656",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dQaC0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw Dr Bob cc'd Dan Hirsh from the podcasts. So I looked him up and the  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.committeetobridgethegap.org\/",
+                                "text": "Committee to Bridge the Gap"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :Bridging the Gap Between Nuclear Danger and A Safe, Sustainable Future.\nThey publicized Exposed.\nThe \"read more\" links to their longer blurb --w\/ first grafs of press release and listing 4 of the parts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1734055519.874849",
+        "client_msg_id": "c6282a9a-f87f-43b0-9355-04995bc0c21e",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.committeetobridgethegap.org\/wp-content\/uploads\/2020\/12\/cbg.png",
+                "image_width": 276,
+                "image_height": 306,
+                "image_bytes": 12010,
+                "from_url": "https:\/\/www.committeetobridgethegap.org\/",
+                "service_icon": "https:\/\/www.committeetobridgethegap.org\/wp-content\/uploads\/2021\/12\/cropped-CBG-logo-no-motto-square-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.committeetobridgethegap.org\/",
+                "fallback": "Committee to Bridge the Gap",
+                "title": "Committee to Bridge the Gap",
+                "title_link": "https:\/\/www.committeetobridgethegap.org\/",
+                "service_name": "committeetobridgethegap.org"
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734056364.695549",
+        "client_msg_id": "1ec17ca8-912b-4480-9348-a55816782abb",
+        "text": "That’s great. Hirsch was an invaluable source for both Chris and Becca.\n\nNote that I pinned a doc to the top of this channel called “Correspondence RE Exposed” for lengthy email exchanges.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734056364.695549",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1734058518.202769",
+        "reply_users": [
+            "U02LAK62DEV",
+            "U036YAYMM"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1734057466.008049"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1734058518.202769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1734058518.202769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLBIJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s great. Hirsch was an invaluable source for both Chris and Becca.\n\nNote that I pinned a doc to the top of this channel called “Correspondence RE Exposed” for lengthy email exchanges."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734057466.008049",
+        "client_msg_id": "56cc0cf5-e6f8-4f9b-9d6a-18f21f7ee139",
+        "text": "The \"canvas' thing?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734056364.695549",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unKpw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The \"canvas' thing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734058518.202769",
+        "client_msg_id": "a2c87432-753c-409d-b3e8-05bf375f9d20",
+        "text": "Yes.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734056364.695549",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "quTfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

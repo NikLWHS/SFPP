@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1753816688.384079",
+        "client_msg_id": "b8bbd6a6-7496-4b66-9b21-2bf51404a949",
+        "text": "Nice mention and link to <@U02DXRYCD2N> and Yesi's story in the Axios newsletter yesterday! &gt;&gt;&gt; <https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f919c506fd.html?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=newsletter_axioslocal_sanfrancisco&amp;stream=top|https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f91[…]ail&amp;utm_campaign=newsletter_axioslocal_sanfrancisco&amp;stream=top>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f919c506fd.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_sanfrancisco&stream=top",
+                "image_url": "https:\/\/assets.axios.com\/203e9f932cc97836ac2ff4c6c982676c.png",
+                "image_width": 4001,
+                "image_height": 2250,
+                "image_bytes": 27475,
+                "service_icon": "https:\/\/static.axios.com\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f919c506fd.html?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=newsletter_axioslocal_sanfrancisco&amp;stream=top",
+                "fallback": "Axios: Axios San Francisco",
+                "title": "Axios San Francisco",
+                "title_link": "https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f919c506fd.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_sanfrancisco&stream=top",
+                "service_name": "Axios"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+YB+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice mention and link to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and Yesi's story in the Axios newsletter yesterday! >>> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f919c506fd.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslocal_sanfrancisco&stream=top",
+                                "text": "https:\/\/www.axios.com\/newsletters\/axios-san-francisco-7500f0c5-0280-4c15-924d-f8f91[…]ail&utm_campaign=newsletter_axioslocal_sanfrancisco&stream=top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1753819631.638919",
+        "client_msg_id": "58c4e771-2d0a-4fb3-a006-576b1b433f1b",
+        "text": "<https:\/\/www.ebar.com\/story\/156240\/News\/SF%20Public%20Press%20offers%20hep%20B%20series> Nice notice with our pub's name in headline and a CTA at end to sign up for our newsletter. Looking for imprint and visibility wherever we can!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tzs3K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ebar.com\/story\/156240\/News\/SF%20Public%20Press%20offers%20hep%20B%20series"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nice notice with our pub's name in headline and a CTA at end to sign up for our newsletter. Looking for imprint and visibility wherever we can!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

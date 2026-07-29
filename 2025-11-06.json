@@ -1,0 +1,234 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1762451928.779089",
+        "client_msg_id": "97eb4469-9a24-4247-8624-c664b9485b3a",
+        "text": "Andrew at INN has once again featured our work (among 400 INN members articles :slightly_smiling_face:\n<@U07BW27EEHF>'s\n*Bay Area Food Hubs Brace for SNAP Shutdown*\n===\n*On the Ground from INN*\nHere's a selection of stories, free to republish, that cover the effects on communities of decisions made by the federal government, as well as local and regional coverage of key electoral and political developments.\nThe latest politics, elections, and effects of federal decisions stories from INN members.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s3w5Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Andrew at INN has once again featured our work (among 400 INN members articles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bay Area Food Hubs Brace for SNAP Shutdown",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n===\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "On the Ground from INN",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHere's a selection of stories, free to republish, that cover the effects on communities of decisions made by the federal government, as well as local and regional coverage of key electoral and political developments.\nThe latest politics, elections, and effects of federal decisions stories from INN members."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yellow_heart",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1762453410.950009",
+        "client_msg_id": "8671701C-6BAE-47F0-B0C3-BB0BFD3910E8",
+        "text": "Sylvie’s records request re: Lurie-Trump call was referenced yesterday in public comment at the commission on commissions meeting. I didn’t get the speaker’s name, but I think they were with the SEIU group and they spoke right after me and Rick Knee. Could track them down from the audio if needed, or can ask Elizabeth Travelsight, who was also there and is a field representative for SEIU Local 1021.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xT16F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie’s records request re: Lurie-Trump call was referenced yesterday in public comment at the commission on commissions meeting. I didn’t get the speaker’s name, but I think they were with the SEIU group and they spoke right after me and Rick Knee. Could track them down from the audio if needed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or can ask Elizabeth Travelsight, who was also there and is a field representative for SEIU Local 1021."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1762453518.100529",
+        "client_msg_id": "B8171AC6-0B94-4E4D-B6A2-BC14CDD53D8B",
+        "text": "As a follow up, what angle did you have in mind?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762453518.100529",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1762454155.883969",
+        "reply_users": [
+            "U19LB1TK5"
+        ],
+        "replies": [
+            {
+                "user": "U19LB1TK5",
+                "ts": "1762454155.883969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sKa0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As a follow up, what angle did you have in mind"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1762454155.883969",
+        "client_msg_id": "9844C8F1-35D7-41C7-BD2D-9C8B4CAC9DBC",
+        "text": "Will message you directly",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762453518.100529",
+        "parent_user_id": "U02V28GTKMW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZM9cl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will message you directly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

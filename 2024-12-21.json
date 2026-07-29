@@ -1,0 +1,186 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734795900.829009",
+        "client_msg_id": "5e027f89-cf4f-40b2-b503-e8e11b41cf92",
+        "text": "While looking at Google Analytics and where our referral traffic in coming from this past month, and potentially deepening partnerships\n1. <https:\/\/lavendermagazine.com\/big-gay-news\/hostility-plagues-lgbtq-latin-american-immigrants-seeking-addiction-recovery-support\/>  --Sylvie\/Civic's latest\n2. in the class warfare section of this blog is \"Exposed\" <https:\/\/www.nakedcapitalism.com\/2024\/12\/links-12-8-2024.html>\n3. Exposed in <https:\/\/www.metafilter.com\/206560\/Exposed-The-Human-Radiation-Experiments-at-Hunters-Point>\n4. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/lavendermagazine.com\/big-gay-news\/hostility-plagues-lgbtq-latin-american-immigrants-seeking-addiction-recovery-support\/",
+                "ts": 1734540014,
+                "image_url": "https:\/\/lavendermagazine.com\/wp-content\/uploads\/2024\/12\/bigstock-Alcoholism-Grunge-bleached-p-45287788_Kamira-scaled.jpg",
+                "image_width": 2048,
+                "image_height": 1925,
+                "image_bytes": 520589,
+                "service_icon": "https:\/\/lavendermagazine.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/lavendermagazine.com\/big-gay-news\/hostility-plagues-lgbtq-latin-american-immigrants-seeking-addiction-recovery-support\/",
+                "fallback": "Hostility Plagues LGBTQ Latin American Immigrants Seeking Addiction Recovery Support | Lavender Magazine",
+                "text": "The San Francisco Public Press reports scores of LGBTQ refugees come to San Francisco to escape threats in Latin American countries that have weak protectio ...",
+                "title": "Hostility Plagues LGBTQ Latin American Immigrants Seeking Addiction Recovery Support | Lavender Magazine",
+                "title_link": "https:\/\/lavendermagazine.com\/big-gay-news\/hostility-plagues-lgbtq-latin-american-immigrants-seeking-addiction-recovery-support\/",
+                "service_name": "lavendermagazine.com"
+            },
+            {
+                "from_url": "https:\/\/www.metafilter.com\/206560\/Exposed-The-Human-Radiation-Experiments-at-Hunters-Point",
+                "thumb_url": "https:\/\/cdn.mefi.us\/images\/mefi\/apple-touch-icon.png",
+                "thumb_width": 144,
+                "thumb_height": 144,
+                "service_icon": "https:\/\/www.metafilter.com\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/www.metafilter.com\/206560\/Exposed-The-Human-Radiation-Experiments-at-Hunters-Point",
+                "fallback": "Exposed: The Human Radiation Experiments at Hunters Point",
+                "text": "In a multi-part investigative report and podcast, SF Public Press presents evidence of experiments with radioactivity on human subjects at Hunter’s Point in southeastern San Francisco in the...",
+                "title": "Exposed: The Human Radiation Experiments at Hunters Point",
+                "title_link": "https:\/\/www.metafilter.com\/206560\/Exposed-The-Human-Radiation-Experiments-at-Hunters-Point",
+                "service_name": "MetaFilter"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "POlyZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While looking at Google Analytics and where our referral traffic in coming from this past month, and potentially deepening partnerships\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/lavendermagazine.com\/big-gay-news\/hostility-plagues-lgbtq-latin-american-immigrants-seeking-addiction-recovery-support\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "  --Sylvie\/Civic's latest"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "in the class warfare section of this blog is \"Exposed\" "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.nakedcapitalism.com\/2024\/12\/links-12-8-2024.html"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Exposed in "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.metafilter.com\/206560\/Exposed-The-Human-Radiation-Experiments-at-Hunters-Point"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": []
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1734816168.939199",
+        "client_msg_id": "3C9F565F-FFD8-4109-B143-233B86788637",
+        "text": "This is great — thanks <@U02LAK62DEV> !",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEawO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is great "
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02LAK62DEV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

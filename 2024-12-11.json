@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733960651.912569",
+        "client_msg_id": "a93d6736-1752-482e-b454-f1884f0fce06",
+        "text": "Physicians for Social Responsibility SFBA chapter:\n&gt; _“I want to thank you and your reporters for this extremely important series. We posted it on our social accounts yesterday and will continue to promote this series.”_\n&gt; SF Bay Physicians for Social <http:\/\/Responsibility.org|Responsibility.org>\n&gt; Director of Communications and Health Professional Engagement\n&gt; <http:\/\/JulieLindow.com|JulieLindow.com>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUHDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Physicians for Social Responsibility SFBA chapter:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“I want to thank you and your reporters for this extremely important series. We posted it on our social accounts yesterday and will continue to promote this series.”",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSF Bay Physicians for Social "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Responsibility.org",
+                                "text": "Responsibility.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDirector of Communications and Health Professional Engagement\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/JulieLindow.com",
+                                "text": "JulieLindow.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733960832.896109",
+        "client_msg_id": "b5fc8b20-ff7c-4f96-8cd3-07a628d0015e",
+        "text": "Also from Lisa:\n\n&gt; This is after I contacted Dr. Bob Gould at PSR along with the Ploughshares people today:\n&gt; Julie Lindow &lt;<mailto:jujulindow@yahoo.com|jujulindow@yahoo.com>&gt;\n&gt; to Marj, Robert, me\n&gt; Hi Lisa,\n&gt; I want to thank you and your reporters for this extremely important series. We posted it on our social accounts yesterday and will continue to promote this series. Also, I made a small personal donation in support of this project.\n&gt; Also, please add me to your email list and let me know if there are other resources, events, ops for us to promote.\n&gt; With gratitude, Julie\n&gt; *<https:\/\/www.sfbaypsr.org\/|SF Bay Physicians for Social ><http:\/\/Responsibility.org|Responsibility.org>*\n&gt; Director of Communications and Health Professional Engagement\n&gt; <http:\/\/JulieLindow.com|JulieLindow.com>\n&gt;  <tel:4157104991|415-710-4991>\n&gt; “Action is the antidote to despair.”",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DU3\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also from Lisa:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is after I contacted Dr. Bob Gould at PSR along with the Ploughshares people today:\nJulie Lindow <"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jujulindow@yahoo.com",
+                                "text": "jujulindow@yahoo.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ">\nto Marj, Robert, me\nHi Lisa,\nI want to thank you and your reporters for this extremely important series. We posted it on our social accounts yesterday and will continue to promote this series. Also, I made a small personal donation in support of this project.\nAlso, please add me to your email list and let me know if there are other resources, events, ops for us to promote.\nWith gratitude, Julie\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfbaypsr.org\/",
+                                "text": "SF Bay Physicians for Social ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Responsibility.org",
+                                "text": "Responsibility.org",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDirector of Communications and Health Professional Engagement\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/JulieLindow.com",
+                                "text": "JulieLindow.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:4157104991",
+                                "text": "415-710-4991"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n“Action is the antidote to despair.”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "USLACKBOT",
+        "subtype": "tabbed_canvas_updated",
+        "canvas_update_user_ids": [
+            "U036YAYMM"
+        ],
+        "canvas_update_section_ids": [
+            "temp:C:DKRd68e2755311a4e27a1ecee409",
+            "temp:C:DKRf955fee3988e4c009f4033fde",
+            "temp:C:DKR4f95b6015d5f4a9dadb1e61f4",
+            "temp:C:DKRd6fac0ac99b047158d85fe56d",
+            "temp:C:DKRffb57dbcb3b44438b8bef7362",
+            "temp:C:DKR8a792c0c5a3945afafb61e8d3",
+            "temp:C:DKRd2f89a2ed9a94e20bcfbb0b1d",
+            "temp:C:DKR5f898c3f6d7940cb860db1c3a",
+            "temp:C:DKR0e635529a6294e788ad8c85de"
+        ],
+        "canvas_update_canvas_id": "F084F946WL9",
+        "canvas_update_ai_summary_blocks": [],
+        "type": "message",
+        "ts": "1733964570.545049",
+        "edited": {
+            "user": "USLACKBOT",
+            "ts": "1733966578.000000"
+        },
+        "text": "",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T036YAYMK",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEUGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mstoll made updates to a canvas tab: "
+                            },
+                            {
+                                "type": "canvas",
+                                "file_id": "F084F946WL9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

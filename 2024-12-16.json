@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1734371963.055369",
+        "client_msg_id": "C398D1AC-A9B2-4128-90E0-A6893A303045",
+        "text": "That’s amazing!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734201710.704839",
+        "parent_user_id": "U02V28GTKMW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t65mO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " amazing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1734375189.799929",
+        "client_msg_id": "7075fef1-04af-4aa4-8e7d-559a528869fc",
+        "text": "that’s awesome! congrats sylvie",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734201710.704839",
+        "parent_user_id": "U02V28GTKMW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCWqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that’s awesome! congrats sylvie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

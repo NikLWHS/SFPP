@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1748040265.298009",
+        "client_msg_id": "6f2a357f-1cc1-4e82-8390-5085fa7df72b",
+        "text": "<https:\/\/localnewsmatters.org\/2025\/05\/23\/state-committee-considers-15m-funding-to-extend-california-local-news-fellowship\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/i0.wp.com\/localnewsmatters.org\/wp-content\/uploads\/2025\/05\/BCN-20250521-LOCALNEWSFELLOW-01.jpg?fit=2000%2C1333&ssl=1",
+                "image_width": 2000,
+                "image_height": 1333,
+                "image_bytes": 1622329,
+                "from_url": "https:\/\/localnewsmatters.org\/2025\/05\/23\/state-committee-considers-15m-funding-to-extend-california-local-news-fellowship\/",
+                "service_icon": "https:\/\/i0.wp.com\/localnewsmatters.org\/wp-content\/uploads\/2020\/05\/cropped-BCN_Red.jpg?fit=180%2C180&amp;ssl=1",
+                "ts": 1748008800,
+                "id": 1,
+                "original_url": "https:\/\/localnewsmatters.org\/2025\/05\/23\/state-committee-considers-15m-funding-to-extend-california-local-news-fellowship\/",
+                "fallback": "Local News Matters: State committee considers $15M funding to extend California Local News Fellowship - Local News Matters",
+                "text": "CALIFORNIA’S LOCAL NEWSROOMS got attention at the state Capitol this week, when the Senate Budget Committee, chaired by Sen. John Laird, D-Santa Cruz,",
+                "title": "State committee considers $15M funding to extend California Local News Fellowship - Local News Matters",
+                "title_link": "https:\/\/localnewsmatters.org\/2025\/05\/23\/state-committee-considers-15m-funding-to-extend-california-local-news-fellowship\/",
+                "service_name": "Local News Matters",
+                "fields": [
+                    {
+                        "value": "Ruth Dusseault, Bay City News",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSCSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/localnewsmatters.org\/2025\/05\/23\/state-committee-considers-15m-funding-to-extend-california-local-news-fellowship\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "crossed_fingers",
+                "users": [
+                    "UKC0EQURX",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

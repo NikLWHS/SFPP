@@ -1,0 +1,218 @@
+[
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F084F946WL9",
+                "created": 1733523191,
+                "timestamp": 1733523191,
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "quip",
+                "pretty_type": "Canvas",
+                "user": "U036YAYMM",
+                "user_team": "T036YAYMK",
+                "editable": true,
+                "size": 12192,
+                "mode": "quip",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Correspondence_RE_Exposed",
+                "title": "Correspondence RE Exposed",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084F946WL9\/canvas?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F084F946WL9\/download\/canvas?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/docs\/T036YAYMK\/F084F946WL9",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F084F946WL9-74b630c0a3",
+                "url_static_preview": "https:\/\/sfpublicpress.slack.com\/docs\/T036YAYMK\/F084F946WL9\/mobile",
+                "quip_thread_id": "DKR9AA9Ew02",
+                "updated": 1738673681,
+                "update_notification": 1738630473,
+                "canvas_readtime": 8.6238458450422,
+                "is_starred": false,
+                "skipped_shares": true,
+                "is_restricted_sharing_enabled": false,
+                "has_rich_preview": false,
+                "file_access": "visible",
+                "access": "owner",
+                "org_or_workspace_access": "none",
+                "title_blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "EsrkK",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Correspondence RE Exposed"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "canvas_creator_id": "U036YAYMM",
+                "team_pref_version_history_enabled": true,
+                "canvas_printing_enabled": true,
+                "is_ai_suggested": false
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1733523191.702689"
+    },
+    {
+        "user": "USLACKBOT",
+        "subtype": "tabbed_canvas_updated",
+        "canvas_update_user_ids": [
+            "U036YAYMM"
+        ],
+        "canvas_update_section_ids": [
+            "temp:C:DKRb9219cb29b344b49b2de72a6f",
+            "temp:C:DKRe244140cc046467babdcd0cc9",
+            "temp:C:DKR0f015b521e6148e6aaae3765b",
+            "temp:C:DKR2953210e56ff46da8d57c8d79",
+            "temp:C:DKRca227ee981f3416ca60db0d55",
+            "temp:C:DKRf8c30c602f2847b0bef3b777a",
+            "temp:C:DKR741fc8909a9047c4926cf73f7",
+            "temp:C:DKR840eb762fdd549ff8e90a673c",
+            "temp:C:DKR1e5bbd3762334439b96cdf865",
+            "temp:C:DKR5b3ccd7697a84165ac6894cf2",
+            "temp:C:DKRf0eaa56bedfa4a939c2e8a02d",
+            "temp:C:DKR6130c8cd1a614ecfb3fa7deba",
+            "temp:C:DKR12369cc73e5643dab52fac17a"
+        ],
+        "canvas_update_canvas_id": "F084F946WL9",
+        "canvas_update_ai_summary_blocks": [],
+        "type": "message",
+        "ts": "1733523522.024339",
+        "edited": {
+            "user": "USLACKBOT",
+            "ts": "1733524496.000000"
+        },
+        "text": "",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T036YAYMK",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEUGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mstoll made updates to a canvas tab: "
+                            },
+                            {
+                                "type": "canvas",
+                                "file_id": "F084F946WL9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733525438.215069",
+        "client_msg_id": "f39ec7e2-0282-466c-8831-c96a9c837a3c",
+        "text": "Public Health Watch corrected the byline: <https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "ts": 1732595716,
+                "image_url": "https:\/\/publichealthwatch.org\/wp-content\/uploads\/2024\/11\/Screenshot-2024-11-25-at-2.25.33 PM.png",
+                "image_width": 1838,
+                "image_height": 717,
+                "image_bytes": 1730948,
+                "service_icon": "https:\/\/publichealthwatch.org\/wp-content\/uploads\/2024\/08\/cropped-PHW_Circle_Logo-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "fallback": "Public Health Watch: How a San Francisco Navy Lab Became a Hub for Human Radiation Experiments - Public Health Watch",
+                "text": "Rarely seen documents show a Cold War atomic research facility headquartered at Hunters Point conducted studies that exposed at least 1,073 people to potentially harmful radiation. The legacy of that era is a continuing risk to public health.",
+                "title": "How a San Francisco Navy Lab Became a Hub for Human Radiation Experiments - Public Health Watch",
+                "title_link": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "service_name": "Public Health Watch",
+                "fields": [
+                    {
+                        "value": "Chris Roberts\/San Francisco Public Press",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "18 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WlQBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Public Health Watch corrected the byline: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/publichealthwatch.org\/2024\/11\/25\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1767125817.910979",
+        "client_msg_id": "bd9b2142-2fa9-4d79-9f1d-272ff04e698e",
+        "text": "Sylvie's story referenced by the San Diego Reader: <https:\/\/www.sandiegoreader.com\/contributor\/readernews\/medical-groups-warn-parents-about-conversion-therapy-risks-as-supreme-court-weighs-state-bans\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBZWc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie's story referenced by the San Diego Reader: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sandiegoreader.com\/contributor\/readernews\/medical-groups-warn-parents-about-conversion-therapy-risks-as-supreme-court-weighs-state-bans\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U02LAK62DEV",
+                    "U09J5DQ0SSG",
+                    "U09DQR9NLQP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "grin",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "UKJ1HMMAM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1767126518.571369",
+        "client_msg_id": "ca2b1a7a-326a-4ee1-b1e8-19c6be7833d6",
+        "text": "Exposed on WHRO via Making Contact:\n\n<https:\/\/mediaplayer.whro.org\/program\/makingcontact\/e\/makingcontact-monday-november-24th-2025>\n\n<https:\/\/mediaplayer.whro.org\/program\/makingcontact\/e\/makingcontact-wednesday-february-12th-2025>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HwdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exposed on WHRO via Making Contact:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mediaplayer.whro.org\/program\/makingcontact\/e\/makingcontact-monday-november-24th-2025"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mediaplayer.whro.org\/program\/makingcontact\/e\/makingcontact-wednesday-february-12th-2025"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1767128554.777319",
+        "client_msg_id": "38b6feaf-df15-48ca-b6c4-bd627935d936",
+        "text": "Pickup for <@U02DXRYCD2N>’s story by SFist in their roundup on 11\/26:\n\n<https:\/\/sfist.com\/2025\/11\/26\/national-guard-members-shot-critically-wounded-dc\/>\n\n_*SF service providers overseeing supportive housing for the formerly homeless are worried that cuts and changes in HUD funding to the city will soon impact their tenants.* The Trump administration recently announced that funding priorities would shift away from supportive housing to temporary and transitional housing and shelters. [<https:\/\/www.sfpublicpress.org\/as-trump-disrupts-homelessness-funding-providers-hope-city-can-prop-up-housing-programs\/|SF Public Press>]_",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yvmVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pickup for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s story by SFist in their roundup on 11\/26:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2025\/11\/26\/national-guard-members-shot-critically-wounded-dc\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SF service providers overseeing supportive housing for the formerly homeless are worried that cuts and changes in HUD funding to the city will soon impact their tenants.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " The Trump administration recently announced that funding priorities would shift away from supportive housing to temporary and transitional housing and shelters. [",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/as-trump-disrupts-homelessness-funding-providers-hope-city-can-prop-up-housing-programs\/",
+                                "text": "SF Public Press",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "]",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U09J5DQ0SSG",
+                    "U07BW27EEHF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-3",
+                "users": [
+                    "UKJ1HMMAM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

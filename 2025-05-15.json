@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1747340258.382829",
+        "client_msg_id": "5aa632c6-5f0b-4cc5-ab05-0caab81aaf89",
+        "text": "<https:\/\/insideclimatenews.org\/news\/15052025\/san-francisco-toxic-cleanup-racial-disparities\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/insideclimatenews.org\/news\/15052025\/san-francisco-toxic-cleanup-racial-disparities\/",
+                "ts": 1747299000,
+                "image_url": "https:\/\/insideclimatenews.org\/wp-content\/uploads\/2025\/05\/IMG_3575-1024x683.jpg",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 151428,
+                "service_icon": "https:\/\/insideclimatenews.org\/wp-content\/uploads\/2020\/09\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/insideclimatenews.org\/news\/15052025\/san-francisco-toxic-cleanup-racial-disparities\/",
+                "fallback": "Inside Climate News: Toxic Cleanups in San Francisco Take More Than Four Years Longer in Communities of Color - Inside Climate News",
+                "text": "Cleanups lag in communities of color here, more so than region-wide, according to a new Public Press analysis.",
+                "title": "Toxic Cleanups in San Francisco Take More Than Four Years Longer in Communities of Color - Inside Climate News",
+                "title_link": "https:\/\/insideclimatenews.org\/news\/15052025\/san-francisco-toxic-cleanup-racial-disparities\/",
+                "service_name": "Inside Climate News"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9tFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/insideclimatenews.org\/news\/15052025\/san-francisco-toxic-cleanup-racial-disparities\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

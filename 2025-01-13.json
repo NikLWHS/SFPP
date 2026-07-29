@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1736821431.886629",
+        "client_msg_id": "4ee165dd-be3a-46c7-b42a-cef0147952a9",
+        "text": "The latest Logan Foundation newsletter is out and the Exposed series is featured in the What We’re Reading list. <https:\/\/loganfdn.org\/?mailpoet_router&amp;endpoint=view_in_browser&amp;action=view&amp;data=WzM3LCJhY2Y4YWEwYmZiODMiLDQsIm5hcGF6dzJ1YWNnazh3Y2dvMGNrNGNrNDRvY2Nja2c4IiwzMCwwXQ>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oMtEy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The latest Logan Foundation newsletter is out and the Exposed series is featured in the What We’re Reading list. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/loganfdn.org\/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzM3LCJhY2Y4YWEwYmZiODMiLDQsIm5hcGF6dzJ1YWNnazh3Y2dvMGNrNGNrNDRvY2Nja2c4IiwzMCwwXQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

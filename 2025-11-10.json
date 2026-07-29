@@ -1,0 +1,103 @@
+[
+    {
+        "text": "Madison's piece in the CA News Widget",
+        "files": [
+            {
+                "id": "F09S0TYLSCD",
+                "created": 1762839974,
+                "timestamp": 1762839974,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 866703,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F09S0TYLSCD\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F09S0TYLSCD\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 206,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 275,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 413,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 458,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 550,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F09S0TYLSCD-aa12950592\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 587,
+                "original_w": 1621,
+                "original_h": 929,
+                "thumb_tiny": "AwAcADC3cNIJAqJlSOuD\/SozPcEEeUef9k1Jcz+UQMkcdeOKiW8cyKgAIJHXqMkelO4rC\/aLn\/nj\/wCOmkVpmkG6NgCcHlh\/WmnUl7A491qQXqkMeAAwXp16\/wCFAWLW0DHXj3paqG7BDFTwvoOuatKcqD6ikMgntvOlVw2McH+dMFliSN\/M+52x1q0Qc9SKbI5UgDHNAFVtPVsZfp7f\/Xpy2WFK7gBkHgex\/wAamaVhA74GVUmnKx850JyAAR+Of8KAIRZryNwxnIwMY\/zirCLsRVznaAKjeVlPAHXFOhcyRKxxkjtQB\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F09S0TYLSCD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F09S0TYLSCD-96669e870d",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEdoD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Madison's piece in the CA News Widget"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1762839985.369509",
+        "client_msg_id": "0168d24f-ab10-4cc8-9252-ac0830f1ac22",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U09DQR9NLQP",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5",
+                    "U02V28GTKMW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

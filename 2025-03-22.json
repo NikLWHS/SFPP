@@ -1,0 +1,214 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1742681565.918039",
+        "client_msg_id": "ff71880a-b536-4758-9c48-7cb24d317d96",
+        "text": "<@U07BW27EEHF>'s piece mentioned by *<https:\/\/brokeassstuart.com\/author\/bunnym\/|Bunny McFadden>* who writes in <https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/|BrokeAssStuart>:\n<https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/|Independent Media, Billionaire Money, and City Politics: The Fight for SF’s Narrative>\n\n\"...received for not being London Breed.\n*Why So Defensive?*\nPitta speculates that Lurie’s director of comms may have felt on the defense because he’s a moderate and some of our local press is more progressive. But it’s widely agreed that the press has been light-handed, generally giving Lurie’s administration the benefit of the doubt.\n\n*Local Media’s Role*\nOne of the most important things local journalists do is highlight what’s happening in the boundless, elephantine mechanism of local government. The big stories on the national level are a dime a dozen, but nobody else is going to shine a flashlight on the seedy shit that happens in a <https:\/\/sfstandard.com\/2023\/08\/04\/players-in-san-francisco-corruption-scandal-mohammed-nuru\/|corrupt> department or give <https:\/\/missionlocal.org\/2025\/03\/woman-slammed-wall-jaywalking-stop-fears-leaving-home-sfpd-police-lawsuit\/|voice> to a victim of police brutality. *Big media ain’t gonna report on <https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer-2\/|how long> it takes for a toxic cleanup in Hunters Point. Local journalism, like the very rag you’re reading here at <http:\/\/BrokeAssStuart.com|BrokeAssStuart.com>, is essential to democracy* (If you like what we do please join the BAS Patreon <https:\/\/www.patreon.com\/c\/brokeassstuart|right here>).\nSo how exactly does The City and County of San Francisco work with (and around) media? Over the course of history, that relationship has been everything from overly cozy to downright toxic. But the best of us in both government and media want the same thing: What’s best for the public. Because of this, things stand a chance of improving.\n\n*The City vs. Media: Why Nina Negusse is Out*\nCity officials usually have relationships they’ve cultivated with members of the press. For example, Supervisor Dorsey spent 14 years as the spokesperson for the Police Department. This relationship gives an official the opportunity to soft-pitch or even craft angles on breaking stories. Every once in a while, a politician might garner a reputation for being difficult, but for the most part they’re media-trained and savvy enough to form these friendly relationships.\nBut lately there’s been quite an adversarial relati...\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/",
+                "image_url": "https:\/\/brokeassstuart.com\/wp-content\/pictsnShit\/2025\/03\/Shutterstock_609543917-copy-scaled.jpg",
+                "image_width": 2560,
+                "image_height": 1707,
+                "image_bytes": 371518,
+                "service_icon": "https:\/\/brokeassstuart.com\/wp-content\/pictsnShit\/2024\/02\/BAS_Favicon_57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/",
+                "fallback": "Broke-Ass Stuart's Website: Independent Media, Billionaire Money, and City Politics: The Fight for SF's Narrative - Broke-Ass Stuart's Website",
+                "text": "A lot can be misinterpreted through text. No matter how artfully you compose a message, you might inadvertently offend someone, play into a harmful stereotype, or feed a conspiracy theory. It’s part of why being a journalist is tricky (the other part being that no matter what, you can’t please",
+                "title": "Independent Media, Billionaire Money, and City Politics: The Fight for SF's Narrative - Broke-Ass Stuart's Website",
+                "title_link": "https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/",
+                "service_name": "Broke-Ass Stuart's Website",
+                "fields": [
+                    {
+                        "value": "Bunny McFadden",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "10 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "770f4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s piece mentioned by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brokeassstuart.com\/author\/bunnym\/",
+                                "text": "Bunny McFadden",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " who writes in "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/",
+                                "text": "BrokeAssStuart"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brokeassstuart.com\/2025\/03\/13\/independent-media-billionaire-money-and-city-politics-the-fight-for-sfs-narrative\/",
+                                "text": "Independent Media, Billionaire Money, and City Politics: The Fight for SF’s Narrative"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\"...received for not being London Breed.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Why So Defensive?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPitta speculates that Lurie’s director of comms may have felt on the defense because he’s a moderate and some of our local press is more progressive. But it’s widely agreed that the press has been light-handed, generally giving Lurie’s administration the benefit of the doubt.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Local Media’s Role",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOne of the most important things local journalists do is highlight what’s happening in the boundless, elephantine mechanism of local government. The big stories on the national level are a dime a dozen, but nobody else is going to shine a flashlight on the seedy shit that happens in a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfstandard.com\/2023\/08\/04\/players-in-san-francisco-corruption-scandal-mohammed-nuru\/",
+                                "text": "corrupt"
+                            },
+                            {
+                                "type": "text",
+                                "text": " department or give "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/missionlocal.org\/2025\/03\/woman-slammed-wall-jaywalking-stop-fears-leaving-home-sfpd-police-lawsuit\/",
+                                "text": "voice"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to a victim of police brutality. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Big media ain’t gonna report on ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/in-marginalized-sf-bay-communities-toxic-waste-cleanups-take-longer-2\/",
+                                "text": "how long",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " it takes for a toxic cleanup in Hunters Point. Local journalism, like the very rag you’re reading here at ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/BrokeAssStuart.com",
+                                "text": "BrokeAssStuart.com",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", is essential to democracy",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (If you like what we do please join the BAS Patreon "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.patreon.com\/c\/brokeassstuart",
+                                "text": "right here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ").\nSo how exactly does The City and County of San Francisco work with (and around) media? Over the course of history, that relationship has been everything from overly cozy to downright toxic. But the best of us in both government and media want the same thing: What’s best for the public. Because of this, things stand a chance of improving.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The City vs. Media: Why Nina Negusse is Out",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCity officials usually have relationships they’ve cultivated with members of the press. For example, Supervisor Dorsey spent 14 years as the spokesperson for the Police Department. This relationship gives an official the opportunity to soft-pitch or even craft angles on breaking stories. Every once in a while, a politician might garner a reputation for being difficult, but for the most part they’re media-trained and savvy enough to form these friendly relationships.\nBut lately there’s been quite an adversarial relati...\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BW27EEHF",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

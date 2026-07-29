@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1760110201.011279",
+        "client_msg_id": "78040e5f-6200-4ae5-b686-cfd9fbea6541",
+        "text": "We got Lila in this RFA video see 1:12.\n(and yes this is another reason Lila needs to get a better internet service at her apt. :slightly_smiling_face: <https:\/\/vimeo.com\/1114020931\/7d2b110ed5?share=copy>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760110201.011279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1760379155.530509",
+        "reply_users": [
+            "U19LB1TK5"
+        ],
+        "replies": [
+            {
+                "user": "U19LB1TK5",
+                "ts": "1760379155.530509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yc6NU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We got Lila in this RFA video see 1:12.\n(and yes this is another reason Lila needs to get a better internet service at her apt. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vimeo.com\/1114020931\/7d2b110ed5?share=copy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1760129814.021269",
+        "client_msg_id": "18fffb5b-fd5b-4507-a920-b0f0aaa33ec0",
+        "text": "Maybe Monkey Brains? We use them for the office, maybe we could get a contract that would include Lila’s home.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCNc2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe Monkey Brains? We use them for the office, maybe we could get a contract that would include Lila’s home."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

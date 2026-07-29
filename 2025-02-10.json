@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1739213274.817119",
+        "client_msg_id": "fc2993f3-fa19-400a-8139-a84132aea6cd",
+        "text": "forgot to put this in here but was reminded by mel’s comment in the meeting. kalw aired this interview w me last week <https:\/\/www.kalw.org\/2025-02-04\/san-franciscos-bag-tag-policy-for-homeless-encampment-sweeps>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/9ffdece\/2147483647\/strip\/true\/crop\/2640x1485+0+369\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F50%2Ffee5e0c44e308d676e52fc26daab%2Fmadison-alvarado.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 38470,
+                "from_url": "https:\/\/www.kalw.org\/2025-02-04\/san-franciscos-bag-tag-policy-for-homeless-encampment-sweeps",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "ts": 1738706400,
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2025-02-04\/san-franciscos-bag-tag-policy-for-homeless-encampment-sweeps",
+                "fallback": "KALW: San Francisco's 'bag &amp; tag' policy for homeless encampment sweeps",
+                "text": "San Francisco has an official \"bag &amp; tag\" policy. That allows for some of the items to be stored and later reclaimed. But is the city following its own policy?",
+                "title": "San Francisco's 'bag &amp; tag' policy for homeless encampment sweeps",
+                "title_link": "https:\/\/www.kalw.org\/2025-02-04\/san-franciscos-bag-tag-policy-for-homeless-encampment-sweeps",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EkEWt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "forgot to put this in here but was reminded by mel’s comment in the meeting. kalw aired this interview w me last week "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2025-02-04\/san-franciscos-bag-tag-policy-for-homeless-encampment-sweeps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star2",
+                "users": [
+                    "UKC0EQURX",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

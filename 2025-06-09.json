@@ -1,0 +1,290 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1749493333.156229",
+        "client_msg_id": "d1eebe81-3b53-4082-8ea5-82e106f1c35e",
+        "text": "I signed us up for this 100 years ago, and now our stories are appearing automatically on NextDoor: <https:\/\/nextdoor.com\/page\/san-francisco-public-press-1?utm_campaign=1749493297194&amp;share_action_id=7ea6fcc5-6b00-4055-83b3-ca79b4f840db>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nextdoor.com\/page\/san-francisco-public-press-1?utm_campaign=1749493297194&share_action_id=7ea6fcc5-6b00-4055-83b3-ca79b4f840db",
+                "thumb_url": "https:\/\/us1-photo.nextdoor.com\/post_photos\/e7\/34\/e734f52991ba4c46ffd475f1b5805248.jpg",
+                "thumb_width": 180,
+                "thumb_height": 180,
+                "service_icon": "https:\/\/d19rpgkrjeba2z.cloudfront.net\/b50382a3bf45d4a3\/static\/nextdoorv2\/images\/favicons\/favicon-refresh-128.png",
+                "id": 1,
+                "original_url": "https:\/\/nextdoor.com\/page\/san-francisco-public-press-1?utm_campaign=1749493297194&amp;share_action_id=7ea6fcc5-6b00-4055-83b3-ca79b4f840db",
+                "fallback": "nextdoor.com: San Francisco Public Press",
+                "text": "Nonprofit, noncommercial news for the SF Bay Area — online, in print &amp; on air @ <http:\/\/sfpublicpress.org|sfpublicpress.org> &amp; KSFP 102.5FM",
+                "title": "San Francisco Public Press",
+                "title_link": "https:\/\/nextdoor.com\/page\/san-francisco-public-press-1?utm_campaign=1749493297194&share_action_id=7ea6fcc5-6b00-4055-83b3-ca79b4f840db",
+                "service_name": "nextdoor.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gAHiR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I signed us up for this 100 years ago, and now our stories are appearing automatically on NextDoor: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextdoor.com\/page\/san-francisco-public-press-1?utm_campaign=1749493297194&share_action_id=7ea6fcc5-6b00-4055-83b3-ca79b4f840db"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1749499944.062889",
+        "edited": {
+            "user": "U02LAK62DEV",
+            "ts": "1749508254.000000"
+        },
+        "client_msg_id": "fae1c605-f95f-4ed4-9110-ed9f240d75b8",
+        "text": "<@U05RTFC5UP7> You said \"sfdph dropped its chronic hep b report 2 days after the hep b 2 stories is published\" yes take some credit (otherwise why didn't they relerase in May for Hep B\/AAPI heritage month :slightly_smiling_face:\n*Is it this one ?<https:\/\/media.api.sf.gov\/documents\/Chronic_Viral_Hepatitis_B_Surveillance_Report_2023_FINAL.pdf>*\n\n*BEYOND coincidence. See Hep B #1 \"*The San Francisco Department of Public Health hasn’t published a chronic hepatitis B surveillance report, which offers detailed insight into <https:\/\/www.cdph.ca.gov\/Programs\/CID\/DCDC\/CDPH%20Document%20Library\/San-Francisco_County_HBV.pdf|how the disease affects local communities>, since 2016. A spokesperson said a new report is expected to be released by early summer. While the department said it continued collecting and analyzing data in recent years, the reporting was paused as resources were redirected to the COVID-19 response. Officials did not respond to a query about why the department stopped publishing surveillance reports years before the pandemic began.\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1749499944.062889",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1749673876.217379",
+        "reply_users": [
+            "UKJ1HMMAM"
+        ],
+        "replies": [
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1749673876.217379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kA86s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You said \"sfdph dropped its chronic hep b report 2 days after the hep b 2 stories is published\" yes take some credit (otherwise why didn't they relerase in May for Hep B\/AAPI heritage month "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Is it this one ?",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/media.api.sf.gov\/documents\/Chronic_Viral_Hepatitis_B_Surveillance_Report_2023_FINAL.pdf",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BEYOND coincidence. See Hep B #1 \"",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "The San Francisco Department of Public Health hasn’t published a chronic hepatitis B surveillance report, which offers detailed insight into "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cdph.ca.gov\/Programs\/CID\/DCDC\/CDPH%20Document%20Library\/San-Francisco_County_HBV.pdf",
+                                "text": "how the disease affects local communities"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", since 2016. A spokesperson said a new report is expected to be released by early summer. While the department said it continued collecting and analyzing data in recent years, the reporting was paused as resources were redirected to the COVID-19 response. Officials did not respond to a query about why the department stopped publishing surveillance reports years before the pandemic began.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1749536217.281489",
+        "client_msg_id": "5de3c87d-5152-4d45-815f-8235e7e1159b",
+        "text": "<https:\/\/www.ehn.org\/pfas-contamination-in-san-francisco-bay-fish-poses-daily-health-risks-to-marginalized-anglers>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ehn.org\/pfas-contamination-in-san-francisco-bay-fish-poses-daily-health-risks-to-marginalized-anglers",
+                "ts": 1749464839,
+                "image_url": "https:\/\/assets.rbl.ms\/60656002\/origin.jpg",
+                "image_width": 5777,
+                "image_height": 3851,
+                "image_bytes": 3321484,
+                "service_icon": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MjAyOTQ4MC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1MjQyNjYwNH0.R3gYrNdEoQOROdrU5cecYQc4GEyIG4J-pmGChKqW8es\/img.png?width=192&amp;height=192",
+                "id": 1,
+                "original_url": "https:\/\/www.ehn.org\/pfas-contamination-in-san-francisco-bay-fish-poses-daily-health-risks-to-marginalized-anglers",
+                "fallback": "EHN: PFAS contamination in San Francisco Bay fish poses daily health risks to marginalized anglers",
+                "text": "Anglers fishing in the San Francisco Bay face elevated health risks from PFAS-laden fish, with new research finding one never-before-detected forever chemical in local marine species.Audrey Mei Yi Brown reports for San Francisco Public <http:\/\/Press.In|Press.In> short:A decade of fish testing by the San Francisco Est...",
+                "title": "PFAS contamination in San Francisco Bay fish poses daily health risks to marginalized anglers",
+                "title_link": "https:\/\/www.ehn.org\/pfas-contamination-in-san-francisco-bay-fish-poses-daily-health-risks-to-marginalized-anglers",
+                "service_name": "EHN"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8MFJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ehn.org\/pfas-contamination-in-san-francisco-bay-fish-poses-daily-health-risks-to-marginalized-anglers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1749536271.596109",
+        "client_msg_id": "adcad381-5c88-43fb-bf7d-899b1e7726f2",
+        "text": "<https:\/\/sfbayview.com\/2025\/06\/we-all-sick-breast-cancer-impact-on-black-women-in-bayview-hunters-point\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfbayview.com\/2025\/06\/we-all-sick-breast-cancer-impact-on-black-women-in-bayview-hunters-point\/",
+                "ts": 1749426335,
+                "image_url": "https:\/\/sfbayview.com\/wp-content\/uploads\/2025\/06\/pollution-emitting-cement-plant-on-illinois-st-across-islais-creek-from-bayview-hunters-point-by-ase-mora-1.jpg",
+                "image_width": 1092,
+                "image_height": 722,
+                "image_bytes": 51072,
+                "service_icon": "https:\/\/sfbayview.com\/wp-content\/uploads\/2022\/10\/cropped-Profile-Pic-420x420.png",
+                "id": 1,
+                "original_url": "https:\/\/sfbayview.com\/2025\/06\/we-all-sick-breast-cancer-impact-on-black-women-in-bayview-hunters-point\/",
+                "fallback": "San Francisco Bay View: ‘We all sick’: Breast cancer impact on Black women in Bayview Hunters Point",
+                "text": "A 1995 study found the number of breast cancer cases in Black women under the age of 50 exceeded the number of projected cases by more than double.",
+                "title": "‘We all sick’: Breast cancer impact on Black women in Bayview Hunters Point",
+                "title_link": "https:\/\/sfbayview.com\/2025\/06\/we-all-sick-breast-cancer-impact-on-black-women-in-bayview-hunters-point\/",
+                "service_name": "San Francisco Bay View"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CdUhy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfbayview.com\/2025\/06\/we-all-sick-breast-cancer-impact-on-black-women-in-bayview-hunters-point\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

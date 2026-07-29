@@ -1,0 +1,182 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1742232744.879429",
+        "client_msg_id": "27573262-bffe-4bd7-8d08-3853522da6c7",
+        "text": "Pickup of Audrey's story:\n\t\n*Toxic Waste Cleanups Take Longer in Marginalized San Francisco Communities*\n— Inside Climate News\n_Even simple remediations lag at Bay Area sites in socially vulnerable areas, a San Francisco Public Press analysis shows._\n<https:\/\/insideclimatenews.org\/news\/17032025\/marginalized-san-francisco-communities-toxic-waste-cleanups-take-longer\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/insideclimatenews.org\/wp-content\/uploads\/2025\/03\/ArieannAntoine1-1024x683.jpg",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 226284,
+                "from_url": "https:\/\/insideclimatenews.org\/news\/17032025\/marginalized-san-francisco-communities-toxic-waste-cleanups-take-longer\/",
+                "service_icon": "https:\/\/insideclimatenews.org\/wp-content\/uploads\/2020\/09\/cropped-favicon-180x180.png",
+                "ts": 1742201400,
+                "id": 1,
+                "original_url": "https:\/\/insideclimatenews.org\/news\/17032025\/marginalized-san-francisco-communities-toxic-waste-cleanups-take-longer\/",
+                "fallback": "Inside Climate News: Toxic Waste Cleanups Take Longer in Marginalized San Francisco Communities - Inside Climate News",
+                "text": "Even simple remediations lag at Bay Area sites in socially vulnerable areas, a San Francisco Public Press analysis shows.",
+                "title": "Toxic Waste Cleanups Take Longer in Marginalized San Francisco Communities - Inside Climate News",
+                "title_link": "https:\/\/insideclimatenews.org\/news\/17032025\/marginalized-san-francisco-communities-toxic-waste-cleanups-take-longer\/",
+                "service_name": "Inside Climate News"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x0EjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pickup of Audrey's story:\n\t\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Toxic Waste Cleanups Take Longer in Marginalized San Francisco Communities",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n— Inside Climate News\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Even simple remediations lag at Bay Area sites in socially vulnerable areas, a San Francisco Public Press analysis shows.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/insideclimatenews.org\/news\/17032025\/marginalized-san-francisco-communities-toxic-waste-cleanups-take-longer\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BW27EEHF",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1742232802.904489",
+        "client_msg_id": "ca2acb10-bd30-4204-ba24-f25d697d542e",
+        "text": "*Great Highway closure feels like continued betrayal for some Chinese Americans* \nKALW | By Sunni Khalid\nPublished March 17, 2025 at 6:00 AM PDT\n<https:\/\/www.kalw.org\/2025-03-17\/great-highway-closure-feels-like-continued-betrayal-for-some-chinese-americans>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/bbc5cea\/2147483647\/strip\/true\/crop\/4608x2419+0+257\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F7f%2Ffdcfe84841e1a0998ee704da8d95%2Fzhe-wu-san-francisco-public-press.JPG",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 93582,
+                "from_url": "https:\/\/www.kalw.org\/2025-03-17\/great-highway-closure-feels-like-continued-betrayal-for-some-chinese-americans",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "ts": 1742241600,
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2025-03-17\/great-highway-closure-feels-like-continued-betrayal-for-some-chinese-americans",
+                "fallback": "KALW: Great Highway closure feels like continued betrayal for some Chinese Americans",
+                "text": "In San Francisco’s Asian American community, there are mixed opinions, and mixed emotions about closing the Great Highway to cars. And about how it was decided.",
+                "title": "Great Highway closure feels like continued betrayal for some Chinese Americans",
+                "title_link": "https:\/\/www.kalw.org\/2025-03-17\/great-highway-closure-feels-like-continued-betrayal-for-some-chinese-americans",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i7zoj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great Highway closure feels like continued betrayal for some Chinese Americans ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKALW | By "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sunni Khalid",
+                                "style": {
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPublished March 17, 2025 at 6:00 AM PDT\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2025-03-17\/great-highway-closure-feels-like-continued-betrayal-for-some-chinese-americans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U07BW27EEHF",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

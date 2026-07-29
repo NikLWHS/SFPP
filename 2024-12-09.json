@@ -1,0 +1,347 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733781761.129349",
+        "client_msg_id": "3145bb7a-685f-4a74-bed5-34d9458846f5",
+        "text": "Very weird ecosystem: This random website, not clear if it’s a nonprofit, re-ripped our story from Public Health Watch and gave them double billing. Not sure it’s worth doing anything about it at this point, but it is instructive that syndication can get completely out of our hands if we don’t explicitly tell other sites not to re-syndicate to third parties without our permission.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxiwS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very weird ecosystem: This random website, not clear if it’s a nonprofit, re-ripped our story from Public Health Watch and gave them double billing. Not sure it’s worth doing anything about it at this point, but it is instructive that syndication can get completely out of our hands if we don’t explicitly tell other sites not to re-syndicate to third parties without our permission."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733781763.381639",
+        "client_msg_id": "47834b0f-5165-4f0e-97b6-62b730abc489",
+        "text": "<https:\/\/goodmenproject.com\/featured-content\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/goodmenproject.com\/featured-content\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "ts": 1733648433,
+                "image_url": "https:\/\/goodmenproject.com\/wp-content\/uploads\/2024\/11\/Screenshot-2024-11-25-at-2.25.33 PM-1200x468-1.jpg",
+                "image_width": 800,
+                "image_height": 468,
+                "image_bytes": 70951,
+                "service_icon": "https:\/\/goodmenproject.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/goodmenproject.com\/featured-content\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "fallback": "The Good Men Project: How a San Francisco Navy Lab Became a Hub for Human Radiation Experiments",
+                "text": "The previous year, Jones was one of thousands of U.S. troops directly exposed to radiation during aboveground nuclear weapons tests in the Nevada desert.",
+                "title": "How a San Francisco Navy Lab Became a Hub for Human Radiation Experiments",
+                "title_link": "https:\/\/goodmenproject.com\/featured-content\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/",
+                "service_name": "The Good Men Project",
+                "fields": [
+                    {
+                        "value": "Public Health Watch",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "19 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lkxwh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/goodmenproject.com\/featured-content\/how-a-san-francisco-navy-lab-became-a-hub-for-human-radiation-experiments\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733781817.500289",
+        "client_msg_id": "7830ad69-f4a5-4151-a9de-4a93fb15a16c",
+        "text": "At least the link to the project page in the nut graf goes to the right place.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPPDR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At least the link to the project page in the nut graf goes to the right place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1733791037.527189",
+        "client_msg_id": "6FBAAD64-362C-4C36-B2B1-7A86DD0E1E9D",
+        "text": "Can you ask them to fix it?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E09QW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you ask them to fix it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1733791081.513539",
+        "client_msg_id": "BD64672F-C81D-4ACF-9DC9-55241DD8BCFF",
+        "text": "Also, it’s absurd to have a pitch from PHW at the bottom of our story on a third-party site.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HGq84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, it’s absurd to have a pitch from PHW at the bottom of our story on a third-party site."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1733791636.302969",
+        "client_msg_id": "61327f26-e97b-4a6b-8491-ae0a1267e658",
+        "text": "I wrote to them.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733791636.302969",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1733799601.654339",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1733799601.654339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1733799601.654339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGE20",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wrote to them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1733799601.654339",
+        "client_msg_id": "570d1d6a-4ae3-4f44-bba1-540a0062090b",
+        "text": "*Good Men Project \"Turn Your Dating Life into a WOW! with our new classes and live coaching.*\n*Click here for more info or to buy with special launch pricing!*\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1733791636.302969",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V4X+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good Men Project \"Turn Your Dating Life into a WOW! with our new classes and live coaching.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Click here for more info or to buy with special launch pricing!",
+                                "style": {
+                                    "bold": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"",
+                                "style": {
+                                    "unlink": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1760379155.530509",
+        "client_msg_id": "039284fb-23ad-4baa-8e69-54dce60bec7c",
+        "text": "My home wifi was not made for video :grimacing:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760110201.011279",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzoCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My home wifi was not made for video "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing",
+                                "unicode": "1f62c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1736210903.956639",
+        "client_msg_id": "a2d64b92-dfa1-45f5-bf56-fa2a0162ed08",
+        "text": "Awards — my running list, via Workflowy. I think this is read-only unless you’re signed in with a free Workflowy account. I think this is the most logical channel to pin this in …\n<https:\/\/workflowy.com\/s\/awards-to-apply-for\/4gXToKmlA2UnhY0b>\nPlease don’t share the link with anyone. It’s accessible to anyone with the URL.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/workflowy.com\/s\/awards-to-apply-for\/4gXToKmlA2UnhY0b",
+                "service_icon": "https:\/\/workflowy.com\/media\/i\/icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/workflowy.com\/s\/awards-to-apply-for\/4gXToKmlA2UnhY0b",
+                "fallback": "Awards to apply for - WorkFlowy",
+                "text": "Awards to apply for",
+                "title": "Awards to apply for - WorkFlowy",
+                "title_link": "https:\/\/workflowy.com\/s\/awards-to-apply-for\/4gXToKmlA2UnhY0b",
+                "service_name": "workflowy.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBPIs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awards — my running list, via Workflowy. I think this is read-only unless you’re signed in with a free Workflowy account. I think this is the most logical channel to pin this in …\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/workflowy.com\/s\/awards-to-apply-for\/4gXToKmlA2UnhY0b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease don’t share the link with anyone. It’s accessible to anyone with the URL."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1736211030.467539",
+        "client_msg_id": "432949e6-3bba-4edf-ac18-204321212415",
+        "text": "P.S. I have all sorts of shorthand notes here for my own purposes but all links should get you to the right pages. Deadlines are updated to the best of my ability.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k23OU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "P.S. I have all sorts of shorthand notes here for my own purposes but all links should get you to the right pages. Deadlines are updated to the best of my ability."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

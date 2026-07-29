@@ -1,0 +1,726 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754093997.305739",
+        "client_msg_id": "5fdfd5a3-7c32-4ef1-a098-443ed129cab5",
+        "text": "<@U036YAYMM>'s \"freebates\" story gets a mention in this legal roundup: <https:\/\/legal-planet.org\/2025\/07\/29\/the-worlds-biggest-court-opinion-on-climate\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/legal-planet.org\/wp-content\/uploads\/2025\/07\/Untitled-design-8.png",
+                "image_width": 1472,
+                "image_height": 832,
+                "image_bytes": 1312007,
+                "from_url": "https:\/\/legal-planet.org\/2025\/07\/29\/the-worlds-biggest-court-opinion-on-climate\/",
+                "service_icon": "https:\/\/legal-planet.org\/wp-content\/uploads\/2024\/09\/favicon.png",
+                "ts": 1753798829,
+                "id": 1,
+                "original_url": "https:\/\/legal-planet.org\/2025\/07\/29\/the-worlds-biggest-court-opinion-on-climate\/",
+                "fallback": "Legal Planet: World’s Biggest Court Opinion on Climate - Legal Planet",
+                "text": "For more than 24 hours last week, my social media feeds were a wall of jubilant reaction to the World Court’s big climate opinion. People who work on, and care about, the climate crisis needed some good news, clearly. That begs the question, is the advisory opinion really as big a deal as people wanted … Continue reading \"World’s Biggest Court Opinion on Climate\"",
+                "title": "World’s Biggest Court Opinion on Climate - Legal Planet",
+                "title_link": "https:\/\/legal-planet.org\/2025\/07\/29\/the-worlds-biggest-court-opinion-on-climate\/",
+                "service_name": "Legal Planet",
+                "fields": [
+                    {
+                        "value": "Evan George",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "16 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p47CO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s \"freebates\" story gets a mention in this legal roundup: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/legal-planet.org\/2025\/07\/29\/the-worlds-biggest-court-opinion-on-climate\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1754094068.185419",
+        "client_msg_id": "791514FB-79AF-432D-B88F-88EA983117C0",
+        "text": "Except they misspelled feebates, leading me to believe they didn’t read the story. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BI5bQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Except they misspelled feebates"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "text",
+                                "text": " leading me to believe "
+                            },
+                            {
+                                "type": "text",
+                                "text": "they"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " read the story"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754094160.586029",
+        "client_msg_id": "08bd3f88-2c1e-4649-96f4-60d87b14bbf6",
+        "text": "<@U02V28GTKMW>'s eviction story from late April gets a mention in the San Francisco Chronicle: <https:\/\/www.sfchronicle.com\/realestate\/article\/san-francisco-eviction-notices-20779377.php>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfchronicle.com\/realestate\/article\/san-francisco-eviction-notices-20779377.php",
+                "ts": 1753786800,
+                "image_url": "https:\/\/s.hdnux.com\/photos\/01\/53\/61\/21\/28251251\/3\/rawImage.jpg",
+                "image_width": 2048,
+                "image_height": 1365,
+                "image_bytes": 210327,
+                "service_icon": "https:\/\/www.sfchronicle.com\/sites\/premiumsfgate\/apple-touch-icon-196x196.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sfchronicle.com\/realestate\/article\/san-francisco-eviction-notices-20779377.php",
+                "fallback": "San Francisco Chronicle: Why S.F. eviction notices are at highest level in years",
+                "text": "San Francisco landlords have filed more eviction notices in the first half of this year than in the same period of any year since 2019.",
+                "title": "Why S.F. eviction notices are at highest level in years",
+                "title_link": "https:\/\/www.sfchronicle.com\/realestate\/article\/san-francisco-eviction-notices-20779377.php",
+                "service_name": "San Francisco Chronicle"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7Nlw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s eviction story from late April gets a mention in the San Francisco Chronicle: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfchronicle.com\/realestate\/article\/san-francisco-eviction-notices-20779377.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754094268.949319",
+        "client_msg_id": "dd7f6a9f-eb14-4de8-9929-574cc5d48a59",
+        "text": "<@U05RTFC5UP7> and <@UKJ1HMMAM>’s reporting on hepatitis B was picked up by Bay Area Reporter, and that roundup story was featured in California Healthline: <https:\/\/californiahealthline.org\/morning-briefing\/monday-july-28-2025\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fXzEr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "’s reporting on hepatitis B was picked up by Bay Area Reporter, and that roundup story was featured in California Healthline: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/californiahealthline.org\/morning-briefing\/monday-july-28-2025\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754094376.938919",
+        "client_msg_id": "8f2e9aa6-8b28-47bd-9286-766e2a1421c4",
+        "text": "The Bay Area Reporter story: <https:\/\/www.ebar.com\/story\/156240\/News\/SF%20Public%20Press%20offers%20hep%20B%20series>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60FUc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Bay Area Reporter story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ebar.com\/story\/156240\/News\/SF%20Public%20Press%20offers%20hep%20B%20series"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754094517.993249",
+        "client_msg_id": "ed53c3b2-35f2-4e12-9c84-eed6c2c9af3a",
+        "text": "The Park Center posted the Izzy Awards video of Michael, Chris and Becca on YouTube: <https:\/\/www.youtube.com\/watch?v=SnnLn2O2N_s>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=SnnLn2O2N_s",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/SnnLn2O2N_s\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/SnnLn2O2N_s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"San Francisco Public Press | Izzy Award 2025\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=SnnLn2O2N_s",
+                "fallback": "YouTube Video: San Francisco Public Press | Izzy Award 2025",
+                "title": "San Francisco Public Press | Izzy Award 2025",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=SnnLn2O2N_s",
+                "author_name": "Park Center for Independent Media",
+                "author_link": "https:\/\/www.youtube.com\/@parkindymedia",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2NxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Park Center posted the Izzy Awards video of Michael, Chris and Becca on YouTube: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=SnnLn2O2N_s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754094736.543039",
+        "client_msg_id": "c62d7f41-99c2-46f5-9207-4f1a13ec0c30",
+        "text": "<@U02V28GTKMW>'s reporting on police and sheriff's budget increases mentioned by Law Enforcement Today: <https:\/\/lawenforcementtoday.com\/california-police-budget-homelessness-funding>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/lawenforcementtoday.com\/california-police-budget-homelessness-funding",
+                "image_url": "https:\/\/mr.cdn.ignitecdn.com\/client_assets\/lawenforcementtoday_com\/media\/picture\/6871\/b7f1\/efc2\/fbe9\/944b\/1a62\/article_Screenshot_2025-07-11_21.18.16.png?1752283124",
+                "image_width": 800,
+                "image_height": 450,
+                "image_bytes": 653534,
+                "service_icon": "https:\/\/mr.cdn.ignitecdn.com\/client_assets\/homelanddefenders_com\/media\/themes\/img\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/lawenforcementtoday.com\/california-police-budget-homelessness-funding",
+                "fallback": "Law Enforcement Today: California City’s Police Budget Soars Amid Controversy Over Homelessness Funding",
+                "text": "San Francisco Mayor Daniel Lurie, who succeeded anti-police London Breed, is proposing an increase for the San Francisco ...",
+                "title": "California City’s Police Budget Soars Amid Controversy Over Homelessness Funding",
+                "title_link": "https:\/\/lawenforcementtoday.com\/california-police-budget-homelessness-funding",
+                "service_name": "Law Enforcement Today"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1E2xF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s reporting on police and sheriff's budget increases mentioned by Law Enforcement Today: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lawenforcementtoday.com\/california-police-budget-homelessness-funding"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754095023.701779",
+        "client_msg_id": "914f754b-69a8-4e82-881c-1947f122cdd3",
+        "text": "<@U07BW27EEHF>'s PFAS story cited by the San Francisco Estuary Institute (though they grabbed Jason's photo for the top of their page and didn't credit him or the Public Press!!!) <https:\/\/www.sfei.org\/news\/fishing-forever-chemicals-press-sfei-study-dozens-media-outlets>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754095023.701779",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1754335846.199479",
+        "reply_users": [
+            "U07BW27EEHF",
+            "U19LB1TK5"
+        ],
+        "replies": [
+            {
+                "user": "U07BW27EEHF",
+                "ts": "1754095910.819529"
+            },
+            {
+                "user": "U19LB1TK5",
+                "ts": "1754148562.999079"
+            },
+            {
+                "user": "U07BW27EEHF",
+                "ts": "1754335846.199479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N59OK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s PFAS story cited by the San Francisco Estuary Institute (though they grabbed Jason's photo for the top of their page and didn't credit him or the Public Press!!!) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfei.org\/news\/fishing-forever-chemicals-press-sfei-study-dozens-media-outlets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754095373.471519",
+        "client_msg_id": "8e0fc9d1-edea-446e-8ad5-5ab0ef26f262",
+        "text": "The Galveston County Daily News picked up one of the hepatitis B stories through the INN news wire. (The formatting is bizarre — they didn't pick up links but somehow included our newsletter teaser in the middle of the story, where it looks like body text. . . ) <https:\/\/www.galvnews.com\/researchers-seek-hepatitis-b-cure-as-trump-slashes-health-agency-funding\/article_16f76823-7ce8-510b-b4f6-41dd9a72abba.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.galvnews.com\/researchers-seek-hepatitis-b-cure-as-trump-slashes-health-agency-funding\/article_16f76823-7ce8-510b-b4f6-41dd9a72abba.html",
+                "image_url": "https:\/\/bloximages.newyork1.vip.townnews.com\/galvnews.com\/content\/tncms\/custom\/image\/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+                "image_width": 600,
+                "image_height": 338,
+                "image_bytes": 5315,
+                "service_icon": "https:\/\/bloximages.newyork1.vip.townnews.com\/galvnews.com\/content\/tncms\/custom\/image\/4cab09c6-72ff-11ec-a6af-83f00a3c2987.png",
+                "id": 1,
+                "original_url": "https:\/\/www.galvnews.com\/researchers-seek-hepatitis-b-cure-as-trump-slashes-health-agency-funding\/article_16f76823-7ce8-510b-b4f6-41dd9a72abba.html",
+                "fallback": "The Daily News: Researchers Seek Hepatitis B Cure as Trump Slashes Health Agency Funding",
+                "text": "San Francisco, CA (San Francisco Public Press)",
+                "title": "Researchers Seek Hepatitis B Cure as Trump Slashes Health Agency Funding",
+                "title_link": "https:\/\/www.galvnews.com\/researchers-seek-hepatitis-b-cure-as-trump-slashes-health-agency-funding\/article_16f76823-7ce8-510b-b4f6-41dd9a72abba.html",
+                "service_name": "The Daily News"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MsbRQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Galveston County Daily News picked up one of the hepatitis B stories through the INN news wire. (The formatting is bizarre — they didn't pick up links but somehow included our newsletter teaser in the middle of the story, where it looks like body text. . . ) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.galvnews.com\/researchers-seek-hepatitis-b-cure-as-trump-slashes-health-agency-funding\/article_16f76823-7ce8-510b-b4f6-41dd9a72abba.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754095501.082419",
+        "client_msg_id": "00bc07c4-612b-49a1-934e-8f7622e9e4b0",
+        "text": "CUinfotoday picked up Yuri's Patelco story — <https:\/\/www.cutoday.info\/site\/Fresh-Today\/Patelco-Credit-Union-Reaches-7.25M-Settlement-Over-Ransomware-Attack-That-Affected-1M-Accounts>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.cutoday.info\/site\/Fresh-Today\/Patelco-Credit-Union-Reaches-7.25M-Settlement-Over-Ransomware-Attack-That-Affected-1M-Accounts",
+                "id": 1,
+                "original_url": "https:\/\/www.cutoday.info\/site\/Fresh-Today\/Patelco-Credit-Union-Reaches-7.25M-Settlement-Over-Ransomware-Attack-That-Affected-1M-Accounts",
+                "fallback": "CUToday: Patelco Credit Union Reaches $7.25M Settlement Over Ransomware Attack That Affected 1M Accounts \/ Fresh Today \/ CUToday.info - CU Today",
+                "text": "The Coolest Credit Union News Source",
+                "title": "Patelco Credit Union Reaches $7.25M Settlement Over Ransomware Attack That Affected 1M Accounts \/ Fresh Today \/ CUToday.info - CU Today",
+                "title_link": "https:\/\/www.cutoday.info\/site\/Fresh-Today\/Patelco-Credit-Union-Reaches-7.25M-Settlement-Over-Ransomware-Attack-That-Affected-1M-Accounts",
+                "service_name": "CUToday"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZhawR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CUinfotoday picked up Yuri's Patelco story — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cutoday.info\/site\/Fresh-Today\/Patelco-Credit-Union-Reaches-7.25M-Settlement-Over-Ransomware-Attack-That-Affected-1M-Accounts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754095654.859359",
+        "client_msg_id": "26a11f89-3a7c-48cd-8df9-ec55528458a7",
+        "text": "Another PFAS pickup: <https:\/\/pfasproject.com\/2025\/06\/05\/forever-chemicals-threaten-community-of-bay-fishers\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pfasproject.com\/2025\/06\/05\/forever-chemicals-threaten-community-of-bay-fishers\/",
+                "ts": 1749142438,
+                "image_url": "https:\/\/i0.wp.com\/pfasproject.com\/wp-content\/uploads\/2025\/06\/pfas-aqua-visita-fishers-20250523-0002.jpg?fit=1200%2C800&ssl=1",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 166252,
+                "service_icon": "https:\/\/i0.wp.com\/pfasproject.com\/wp-content\/uploads\/2021\/07\/cropped-1556893197_nu_mononu_cmyk_rb-1.jpg?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/pfasproject.com\/2025\/06\/05\/forever-chemicals-threaten-community-of-bay-fishers\/",
+                "fallback": "The PFAS Project Lab: ‘Forever Chemicals’ Threaten Community of Bay Fishers",
+                "text": "Read the full article by Audrey Mei Yi Brown (San Francisco Public Press) “Mackentral ‘Mack’ Williams crossed the dock at Mission Rock and tossed a handful of breadcrumbs into the…",
+                "title": "‘Forever Chemicals’ Threaten Community of Bay Fishers",
+                "title_link": "https:\/\/pfasproject.com\/2025\/06\/05\/forever-chemicals-threaten-community-of-bay-fishers\/",
+                "service_name": "The PFAS Project Lab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VI8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another PFAS pickup: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pfasproject.com\/2025\/06\/05\/forever-chemicals-threaten-community-of-bay-fishers\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1754095910.819529",
+        "client_msg_id": "6b25d506-46a8-44bf-826a-c00127df5c8e",
+        "text": "Ugh what the heck. I sent over the exact photo credit wording to their comms person. I will follow up with her to ask her to fix that.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754095023.701779",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iKBvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ugh what the heck. I sent over the exact photo credit wording to their comms person. I will follow up with her to ask her to fix that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

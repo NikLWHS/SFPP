@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1754148562.999079",
+        "client_msg_id": "43782b99-81b6-4d7d-a86e-ed1462bf0146",
+        "text": "<@U07BW27EEHF> I didn't realize this was the group that had asked for permission — it might have been a technical error. Sometimes WordPress doesn't save credits the first time we type them in.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1754095023.701779",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zph4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I didn't realize this was the group that had asked for permission — it might have been a technical error. Sometimes WordPress doesn't save credits the first time we type them in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

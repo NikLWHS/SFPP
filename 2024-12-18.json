@@ -1,0 +1,912 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734529525.699709",
+        "client_msg_id": "1da77c0d-2bcf-4934-b36e-67c0879af452",
+        "text": "KQED is promoting the Forum interview during morning drive. Tune in at 9 am. I’ll tape, but they do archive these and put them out as podcasts.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "reply_count": 15,
+        "reply_users_count": 3,
+        "latest_reply": "1734550675.677839",
+        "reply_users": [
+            "U02LAK62DEV",
+            "UKJ1HMMAM",
+            "U036YAYMM"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1734542984.268559"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1734543337.857529"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734543534.845709"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1734544559.708799"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734544739.352769"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1734544793.751919"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734544900.441109"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1734544913.403609"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734545080.385969"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734545169.400509"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1734545294.469449"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734545367.693139"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1734545516.219249"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1734546366.140889"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1734550675.677839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1734550675.677839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykMsD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KQED is promoting the Forum interview during morning drive. Tune in at 9 am. I’ll tape, but they do archive these and put them out as podcasts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734542984.268559",
+        "client_msg_id": "1be0602e-2ced-4629-b3d9-cd47e1ca1267",
+        "text": "very good segment! Alexis mentioning <http:\/\/sfpublicpress.org|sfpublicpress.org> often. First caller was 3rd Gen BVHP resident and righteously angry at the continued disregard fir peoples' health. Next was Brian who was on decon at Camp Parks.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ufxzf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "very good segment! Alexis mentioning "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sfpublicpress.org",
+                                "text": "sfpublicpress.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " often. First caller was 3rd Gen BVHP resident and righteously angry at the continued disregard fir peoples' health. Next was Brian who was on decon at Camp Parks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734543337.857529",
+        "client_msg_id": "15c4066a-65e5-4f36-8899-29b4c707a4dc",
+        "text": "I wonder how we might follow up with these callers who might help with future reporting...",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fN0u9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wonder how we might follow up with these callers who might help with future reporting..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734543534.845709",
+        "client_msg_id": "e1306c6c-0ce2-4b47-ae45-c161a215d5f5",
+        "text": "The first caller was in the podcast and I think the text. The Dublin guy would be interesting to talk too! Judy Campbell is slacking with me on KQED and pointed out that we had talked a lot with local activists. I’m worried that the interview hasn’t spoken enough about the affect on locals.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sUjBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The first caller was in the podcast and I think the text. The Dublin guy would be interesting to talk too! Judy Campbell is slacking with me on KQED and pointed out that we had talked a lot with local activists. I’m worried that the interview hasn’t spoken enough about the affect on locals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734544559.708799",
+        "client_msg_id": "707fd4ac-fdce-4d0f-a7a2-4f0bf375c47d",
+        "text": "Now at :50 they are sort of getting into BVHP residents...but why did Chris choose to talk about the couple who lives in new condo are honkey dorey and comfortable there? Versus the numerous rez who ate concerned. They bent over backwards for 3 mins to say there's lots of diff pollution out there, as opposed to saying Navy and EPA  need to be held accountable.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0BvdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now at :50 they are sort of getting into BVHP residents...but why did Chris choose to talk about the couple who lives in new condo are honkey dorey and comfortable there? Versus the numerous rez who ate concerned. They bent over backwards for 3 mins to say there's lots of diff pollution out there, as opposed to saying Navy and EPA  need to be held accountable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734544739.352769",
+        "client_msg_id": "472d4294-c7f1-43e1-ba44-eecacc08f0b5",
+        "text": "Yah. We should have paired him with a local resident, but KQED didn’t get back to me about helping them set-up the show. I did reach about to Judy Campbell (the Exec Producer) mid show on the KQED slack to point out that we talked with local residents and told their stories.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gVKQu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yah. We should have paired him with a local resident, but KQED didn’t get back to me about helping them set-up the show. I did reach about to Judy Campbell (the Exec Producer) mid show on the KQED slack to point out that we talked with local residents and told their stories."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734544793.751919",
+        "client_msg_id": "f2674b90-8427-4e39-91eb-23a4f290a7a4",
+        "text": "I loved A saying our site URL over and over and slowly :-) Let's look at Google Analytics tomorrow for traffic spike today.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/pJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I loved A saying our site URL over and over and slowly :-) Let's look at Google Analytics tomorrow for traffic spike today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734544900.441109",
+        "client_msg_id": "49bff85c-2b99-4d1e-9b73-553932d52372",
+        "text": "LOL. They got the anchor promos wrong this morning and were saying from the San Francisco Free Press. I slacked the anchor then Judy and got in changed. The pre-recorded promos by Alexis this morning were correct, but I suspect they were responding to my annoyance about the Free Press thing.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVYdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LOL. They got the anchor promos wrong this morning and were saying from the San Francisco Free Press. I slacked the anchor then Judy and got in changed. The pre-recorded promos by Alexis this morning were correct, but I suspect they were responding to my annoyance about the Free Press thing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734544913.403609",
+        "client_msg_id": "DE3C2B24-F72A-465A-A221-C6B677C3F22E",
+        "text": "I thought it was over all pretty balanced. Remember this is going to be news to 95% of listeners, that there’s even a problem there. I think Chris was appropriately careful not to cause a panic based on our limited reporting to say that everyone should move out of the neighborhood because of a threat that is basically unknowable. That said, the fact of doing the reporting and the interview implicitly highlighted the need for accountability. It was we who interviewed the Navy in the first place, and got them to admit a lot went wrong in the past and continues to be a problem.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/1C\/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought it was over all pretty balanced. Remember this is going to be news to 95% of listeners, that there’s even a problem there. I think Chris was appropriately careful not to cause a panic based on our limited reporting to say that everyone should move out of the neighborhood because of a threat that is basically unknowable. That said, the fact of doing the reporting and the interview implicitly highlighted the need for accountability. It was we who interviewed the Navy in the first place, and got them to admit a lot went wrong in the past and continues to be a problem."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734545080.385969",
+        "client_msg_id": "d2095fbf-1e91-46ad-beed-7d60bf00e454",
+        "text": "Yes but, the first caller was someone we interviewed and who we spoke to in the podcast. I wish Chris had recognized her and engaged. It was a bit to much science guy geek going on with both of them. Overall though I think it will drive some audience to us. There were a lot of relevant callers and email.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2rnia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes but, the first caller was someone we interviewed and who we spoke to in the podcast. I wish Chris had recognized her and engaged. It was a bit to much science guy geek going on with both of them. Overall though I think it will drive some audience to us. There were a lot of relevant callers and email."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734545169.400509",
+        "client_msg_id": "b61c1739-7a2e-408a-962a-152ace19452b",
+        "text": "I’ll share the recording shortly in Impact Tracking. KQED will have this posted and publish as a podcast by this afternoon..",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pnatT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll share the recording shortly in Impact Tracking. KQED will have this posted and publish as a podcast by this afternoon.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734545294.469449",
+        "client_msg_id": "5EE7009C-CBD3-4D1E-8ED9-0B1A379F169C",
+        "text": "That one veteran who called in to talk about his experience at Camp Parks — that was surprising. There was not mention anywhere in our reporting about dispersal from helicopters.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1U2yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That one veteran who called in to talk about his experience at Camp Parks — that was surprising. There was not mention anywhere in our reporting about dispersal from helicopters."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734545367.693139",
+        "client_msg_id": "532288df-86d9-488b-8e53-4d794c8e531e",
+        "text": "A lot of people had very personal stories. It wasn’t a bunch of callers with opinions.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0VJxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A lot of people had very personal stories. It wasn’t a bunch of callers with opinions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734545516.219249",
+        "client_msg_id": "9DB23050-EDC1-42D2-8712-99D6B5490D2A",
+        "text": "Over all I was relieved and encouraged that the whole topic was treated with a lot of care and precision. It’s impossible to boil down a 35,000-word series into an hour of conversation, but Alexis hit many of the most important themes, and knew to create word pictures about the activities and their consequences. I also think it was super important to specify how hard the epidemiology is, the little of it that’s been done.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RNTwh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Over all I was relieved and encouraged that the whole topic was treated with a lot of care and precision. It’s impossible to boil down a 35,000-word series into an hour of conversation, but Alexis hit many of the most important themes, and knew to create word pictures about the activities and their consequences. I also think it was super important to specify how hard the epidemiology is, the little of it that’s been done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1734546366.140889",
+        "client_msg_id": "2d94a271-f0db-4343-8fdd-4f277f72f7bb",
+        "text": "True. If the point was to drive interest, then this was the absolute best local publicity we could get.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3OVtO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True. If the point was to drive interest, then this was the absolute best local publicity we could get."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Here is Chris Robert’s interview on Forum.",
+        "files": [
+            {
+                "id": "F085Q8XR8SE",
+                "created": 1734546431,
+                "timestamp": 1734546431,
+                "mimetype": "audio\/mpeg",
+                "filetype": "mp3",
+                "pretty_type": "MP3",
+                "user": "UKJ1HMMAM",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 46629908,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "ExposedKQEDforum181724.mp3",
+                "title": "ExposedKQEDforum181724.mp3",
+                "is_transcription_region_supported": true,
+                "transcription": {
+                    "status": "complete",
+                    "locale": "en-US",
+                    "preview": {
+                        "content": "From KQED in San Francisco, I'm Alexis Madrigal. After the creation of nuclear weapons by the Manhattan Project, a new and terrible era began in human",
+                        "has_more": true
+                    }
+                },
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F085Q8XR8SE\/exposedkqedforum181724.mp3?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F085Q8XR8SE\/download\/exposedkqedforum181724.mp3?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "vtt": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F085Q8XR8SE-d48a4efe02\/file.vtt?_xcb=280a5&t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "audio_wave_samples": [
+                    98,
+                    96,
+                    94,
+                    92,
+                    90,
+                    88,
+                    86,
+                    84,
+                    82,
+                    80,
+                    78,
+                    76,
+                    74,
+                    72,
+                    70,
+                    68,
+                    66,
+                    64,
+                    62,
+                    60,
+                    58,
+                    56,
+                    54,
+                    52,
+                    50,
+                    48,
+                    46,
+                    44,
+                    42,
+                    40,
+                    38,
+                    36,
+                    34,
+                    32,
+                    30,
+                    28,
+                    26,
+                    24,
+                    22,
+                    20,
+                    18,
+                    16,
+                    14,
+                    12,
+                    10,
+                    8,
+                    6,
+                    4,
+                    2,
+                    0,
+                    98,
+                    96,
+                    94,
+                    92,
+                    90,
+                    88,
+                    86,
+                    84,
+                    82,
+                    80,
+                    78,
+                    76,
+                    74,
+                    72,
+                    70,
+                    68,
+                    66,
+                    64,
+                    62,
+                    60,
+                    58,
+                    56,
+                    54,
+                    52,
+                    50,
+                    48,
+                    46,
+                    44,
+                    42,
+                    40,
+                    38,
+                    36,
+                    34,
+                    32,
+                    30,
+                    28,
+                    26,
+                    24,
+                    22,
+                    20,
+                    18,
+                    16,
+                    14,
+                    12,
+                    10,
+                    8,
+                    6,
+                    4,
+                    2,
+                    0
+                ],
+                "media_display_type": "audio",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F085Q8XR8SE\/exposedkqedforum181724.mp3",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F085Q8XR8SE-337c7155fb",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "UKJ1HMMAM",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3Nwb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is Chris Robert’s interview on Forum."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1734548273.035529",
+        "client_msg_id": "063cb97a-fdde-49b5-bac3-692c54a10b5f",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1734550675.677839",
+        "client_msg_id": "8b2975ae-591a-42a2-ab1b-6690809a5f91",
+        "text": "yes. Great stuff!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1734529525.699709",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vZ4fw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes. Great stuff!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

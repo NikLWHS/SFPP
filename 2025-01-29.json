@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1738196470.446829",
+        "client_msg_id": "21e5d0ec-3011-4cdd-83b1-12b07ba6dc3e",
+        "text": "<@U02V28GTKMW> Can you tell me how you got this message? Was it in an email, or on social media? I’m trying to track down impact a little more precisely.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735841699.872399",
+        "parent_user_id": "U02V28GTKMW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mzkiv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Can you tell me how you got this message? Was it in an email, or on social media? I’m trying to track down impact a little more precisely."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1738196817.327289",
+        "client_msg_id": "1626e0e0-51ad-46ba-9f3b-28f68c34b9d5",
+        "text": "I honestly can't remember! I know that it's not in my emails -- sorry!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735841699.872399",
+        "parent_user_id": "U02V28GTKMW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lY125",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I honestly can't remember! I know that it's not in my emails -- sorry!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1738196917.385669",
+        "client_msg_id": "eb9d69f5-d07a-46ad-863e-4cddc3c1d522",
+        "text": "Thanks for looking!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1735841699.872399",
+        "parent_user_id": "U02V28GTKMW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5P6Im",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for looking!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

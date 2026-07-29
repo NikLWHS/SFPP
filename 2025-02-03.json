@@ -1,0 +1,88 @@
+[
+    {
+        "user": "USLACKBOT",
+        "subtype": "tabbed_canvas_updated",
+        "canvas_update_user_ids": [
+            "U036YAYMM"
+        ],
+        "canvas_update_section_ids": [
+            "temp:C:DKRbed85ca59a1443f79e4ef7a13",
+            "temp:C:DKRc0633248a3bc48458713710e3",
+            "temp:C:DKRbb1e6e5410ac4bd7b4e532089",
+            "temp:C:DKRdd254c9a8ca740abbaa0e63e3",
+            "temp:C:DKR78054b4ccc834a97961d1f27e",
+            "temp:C:DKRf537c60344ab4f4385c39cc85",
+            "temp:C:DKR20435a4af6ac4e96b977884fb",
+            "temp:C:DKRe4d38307800b4103ad309fdcc",
+            "temp:C:DKR39aed84d23284f9d9f0e2922e",
+            "temp:C:DKR1e4d92e798144dca9ac83ad20",
+            "temp:C:DKR63e0eb866c4043998a9d0f09f",
+            "temp:C:DKR2c3ad40967df47028f40359e2",
+            "temp:C:DKRf855d461bb6648fc88ceb8fa6",
+            "temp:C:DKR5492c92334714815afc8e0ee2",
+            "temp:C:DKRb1313fbbe5bd4f0faf99bce37",
+            "temp:C:DKR43d7bb6bc2cc43f59ed11ef17",
+            "temp:C:DKRd7e37d34591243038b41abda3",
+            "temp:C:DKRe47f1de404414d51977b65272",
+            "temp:C:DKRf0d29ead833c45ed9fb074441",
+            "temp:C:DKR1720c476ca084d48985a53498",
+            "temp:C:DKRe53c6c530547451ba3ec7d344",
+            "temp:C:DKRb08bcb8cff52430bbb0a74982",
+            "temp:C:DKRd4c2c67e35e74bc78d370622c",
+            "temp:C:DKRf733bb75dc384d5b8699e2612",
+            "temp:C:DKR9a3856d124db4c459e76b52e7",
+            "temp:C:DKRa1afe66d67694549ada38bbf1",
+            "temp:C:DKR13824c688b104cd98c691d402",
+            "temp:C:DKR086a59dae8b644059f58ce71c",
+            "temp:C:DKReb6f1a1967514b7fb068cc5ed",
+            "temp:C:DKR1305a200c6ff4d5f8a931a9c4",
+            "temp:C:DKR31e42a5ea7384b8290c581292",
+            "temp:C:DKRbbe96f5e670149ed8c2e1095e",
+            "temp:C:DKR01441c1745284b05b579fe62f",
+            "temp:C:DKR9d026f80079a4a159aedb0e54",
+            "temp:C:DKR8e5c2956d22f4a239cf71a682",
+            "temp:C:DKR87c29ed2f32e4ad59ef005bc0",
+            "temp:C:DKRa47691ad8e4743aab99ead457"
+        ],
+        "canvas_update_canvas_id": "F084F946WL9",
+        "canvas_update_ai_summary_blocks": [],
+        "type": "message",
+        "ts": "1738630793.881859",
+        "text": "",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "sv41d8cd98f0",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/slackbot_72.png",
+            "first_name": "slackbot",
+            "real_name": "Slackbot",
+            "display_name": "Slackbot",
+            "team": "T036YAYMK",
+            "name": "slackbot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LEUGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mstoll made updates to a canvas tab: "
+                            },
+                            {
+                                "type": "canvas",
+                                "file_id": "F084F946WL9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

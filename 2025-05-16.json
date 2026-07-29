@@ -1,0 +1,222 @@
+[
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1747425023.804969",
+        "edited": {
+            "user": "U07BW27EEHF",
+            "ts": "1747425034.000000"
+        },
+        "client_msg_id": "595c7b22-3572-4ac3-a462-a3584463190b",
+        "text": "KQED aired my segment this morning. It's a short little snippet, but it certainly helps to let more people know about the story and the key findings:\n<https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733\/image.jpg?t=1571842999&size=wideShare",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 25751,
+                "from_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733",
+                "service_icon": "https:\/\/omny.fm\/_next\/static\/media\/favicon-144x144.4df68316.png",
+                "thumb_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733\/image.jpg?t=1571842999&size=wideShare",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "id": 1,
+                "original_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733",
+                "fallback": "KQED Newscast - KQED",
+                "text": "KQED newscast for Thursday, May 15, 2025 at 5:00 PM",
+                "title": "KQED Newscast - KQED",
+                "title_link": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733",
+                "service_name": "omny.fm",
+                "fields": [
+                    {
+                        "value": "01:44",
+                        "title": "Duration",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5fokq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KQED aired my segment this morning. It's a short little snippet, but it certainly helps to let more people know about the story and the key findings:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/kqed-newscast-293216c3-d3fd-4cac-b5f5-951ff1400733"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1747433510.569399",
+        "client_msg_id": "D3A33198-5E95-4D59-9A8E-4F2EF933207D",
+        "text": "Great job, Audrey! :raised_hands: ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sct3F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great job, Audrey! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1747457501.909159",
+        "edited": {
+            "user": "U02LAK62DEV",
+            "ts": "1747458397.000000"
+        },
+        "client_msg_id": "314e5466-1676-4138-8131-530d69e30fb6",
+        "text": "Yay forr hearing San Francisco Public Press mentioned to KQED's \"_*575,233 average weekly radio listeners\"*_\n\nSo glad you <@U07BW27EEHF> mentioned (and they kept in) WHY people are in certain neighborhoods -- history of redlining and legal history and covenants etc determining where BIPOC people were\/are allowed to live.\n\nI say \"ugg\" far as the non-Audrey part of the strange little piece including paraphrasing Wade Crowfoot that \"well intentioned environmental laws are a barrier\" This same ole saw about blaming CEQA :disappointed: and then an Erzra Klein clip from Newsome's podcast saying that CA suffers from \"self-imposed scarcity\" (huh?) and that we need to \"move faster\" ---again code for get CEQA outta the way and build more high priced housing :-} and then paraphrasing Crowfoot again that we need more \"emergency declarations to help skirt normal review.\" _Gunning for CEQA big time._\n\nDid any people you spoke to about long clean up times try to blame CEQA instead of the simple high cost of cleanups?  I suspect the attacks on CEQA will come up if you decide to look at rushing to build upon toxic sites...But you know me.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0k1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yay forr hearing San Francisco Public Press mentioned to KQED's \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "575,233 average weekly radio listeners\"",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSo glad you "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mentioned (and they kept in) WHY people are in certain neighborhoods -- history of redlining and legal history and covenants etc determining where BIPOC people were\/are allowed to live.\n\nI say \"ugg\" far as the non-Audrey part of the strange little piece including paraphrasing Wade Crowfoot that \"well intentioned environmental laws are a barrier\" This same ole saw about blaming CEQA "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and then an Erzra Klein clip from Newsome's podcast saying that CA suffers from \"self-imposed scarcity\" (huh?) and that we need to \"move faster\" ---again code for get CEQA outta the way and build more high priced housing :-} and then paraphrasing Crowfoot again that we need more \"emergency declarations to help skirt normal review.\" "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Gunning for CEQA big time.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nDid any people you spoke to about long clean up times try to blame CEQA instead of the simple high cost of cleanups?  I suspect the attacks on CEQA will come up if you decide to look at rushing to build upon toxic sites...But you know me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

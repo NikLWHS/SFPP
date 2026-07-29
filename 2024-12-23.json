@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734978612.259639",
+        "client_msg_id": "F3E90461-28A2-40B4-838E-6E15B5B2ED9B",
+        "text": "<https:\/\/mailchi.mp\/muckrock\/democracy-needs-transparency-we-need-you-6248561?e=c35823abf8|https:\/\/mailchi.mp\/muckrock\/democracy-needs-transparency-we-need-you-6248561?e=c35823abf8>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15Cob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mailchi.mp\/muckrock\/democracy-needs-transparency-we-need-you-6248561?e=c35823abf8",
+                                "text": "https:\/\/mailchi.mp\/muckrock\/democracy-needs-transparency-we-need-you-6248561?e=c35823abf8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1734978671.458079",
+        "client_msg_id": "3354A934-1185-45E8-9A44-A4863DEEF200",
+        "text": "As part of their “Exposed” investigative series, the San Francisco Public Press uploaded more than 80 historical documents from the Naval Radiological Defense Laboratory, which conducted dozens of experiments exposing more than 1,000 people to radiation from the 1940s to the 1960s.\n\nThe eight-part project was years in the making, and heavily relies on DocumentCloud’s annotation and embedding features. The team uploaded dozens of historical documents, liberating them from old cardboard boxes and preserving these records for the public. \n\nThis year at MuckRock, we have brought together journalists, researchers, activists and regular citizens to request, analyze and share government documents, making politics more transparent and democracies more informed. \n\nOrganizations like ours, which are committed to truth, data and answers for the public, are imperative for a functioning democracy. We’re pleased to have delivered a year of impactful reporting as well as making records more accessible to the public, and we’re looking forward to doing more of it in 2025. But none of this work is possible without the ongoing support of our loyal community",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NrVGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As part of their “Exposed” investigative series, the San Francisco Public Press uploaded more than 80 historical documents from the Naval Radiological Defense Laboratory, which conducted dozens of experiments exposing more than 1,000 people to radiation from the 1940s to the 1960s.\n\nThe eight-part project was years in the making, and heavily relies on DocumentCloud’s annotation and embedding features. The team uploaded dozens of historical documents, liberating them from old cardboard boxes and preserving these records for the public. \n\nThis year at MuckRock, we have brought together journalists, researchers, activists and regular citizens to request, analyze and share government documents, making politics more transparent and democracies more informed. \n\nOrganizations like ours, which are committed to truth, data and answers for the public, are imperative for a functioning democracy. We’re pleased to have delivered a year of impactful reporting as well as making records more accessible to the public, and we’re looking forward to doing more of it in 2025. But none of this work is possible without the ongoing support of our loyal community"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV",
+                    "U02V28GTKMW",
+                    "U5ZQBSV9V"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,503 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1763507089.801129",
+        "client_msg_id": "069e4046-1c4d-4c6b-af68-dcc1b5317878",
+        "text": "Lila on KALW! (We’ll run on KSFP(",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGywe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lila on KALW! (We’ll run on KSFP("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U08G07S32R1",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "blush",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1763507092.806769",
+        "client_msg_id": "5ad8fa50-d67b-49d4-95db-7f48306aafcd",
+        "text": "<https:\/\/www.kalw.org\/podcast\/crosscurrents\/2025-11-17\/the-future-of-san-francisco-housing>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2025-11-17\/the-future-of-san-francisco-housing",
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/3ab7ba7\/2147483647\/strip\/true\/crop\/3664x2061+0+2\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2Ff9%2F65494ee34eb7aaea84675fd1b722%2Fimg-7899.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 111874,
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2025-11-17\/the-future-of-san-francisco-housing",
+                "fallback": "KALW: The Future of San Francisco Housing",
+                "text": "A panel of experts weighs in on the ongoing debate about how and where to build housing in San Francisco. Then, an award winning story about trans inclusion… and exclusion.",
+                "title": "The Future of San Francisco Housing",
+                "title_link": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2025-11-17\/the-future-of-san-francisco-housing",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NkVUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2025-11-17\/the-future-of-san-francisco-housing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1763507803.186209",
+        "client_msg_id": "2b1d25b2-e692-4480-a78d-fe74d90625c5",
+        "text": "And as a post on our site?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLMba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And as a post on our site?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1763508027.253519",
+        "client_msg_id": "9c74d1bc-3ea5-419b-bcff-2987a2c157b6",
+        "text": "It’s on the KALW website. Not sure whether we have the rights. I’ll treat it as a Civic Special. Not sure whether we can put it in the podcast feed.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p+q9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s on the KALW website. Not sure whether we have the rights. I’ll treat it as a Civic Special. Not sure whether we can put it in the podcast feed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1763508479.797019",
+        "client_msg_id": "ec195a46-4cd2-4f14-8bb4-e4cfa6af8d52",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qF+xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1763516412.690769",
+        "client_msg_id": "eb38e86d-b130-453b-9968-6724d2fb84f2",
+        "text": "Hi <@UKJ1HMMAM> I've been meaning to forward you the email Ben sent last Friday. Lila got it too so maybe forwarded to you already? Yes use raw with credits to KALW.\n\n_Hello! \"It was great to work with you again on a live event. Here's the post:_\n_<https:\/\/www.kalw.org\/kalw-news\/2025-11-14\/the-bay-agenda-the-future-of-san-francisco-housing>_\n_*I'm also including the raw audio for you to use however you like. Please include any credits for KALW.*_\n_<https:\/\/drive.google.com\/file\/d\/1LaVB0cLyPmrDkPm9gvShLYK3ZJ3SmtMe\/view?usp=drive_web| ><http:\/\/WEB.BA|WEB.BA><https:\/\/drive.google.com\/file\/d\/1LaVB0cLyPmrDkPm9gvShLYK3ZJ3SmtMe\/view?usp=drive_web|.FutureOfHousing.mp3>_\n_Let's plan another!_\n\nMel see your email for the MP3 raw",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XAn09",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've been meaning to forward you the email Ben sent last Friday. Lila got it too so maybe forwarded to you already? Yes use raw with credits to KALW.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hello! \"It was great to work with you again on a live event. Here's the post:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/kalw-news\/2025-11-14\/the-bay-agenda-the-future-of-san-francisco-housing",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I'm also including the raw audio for you to use however you like. Please include any credits for KALW.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1LaVB0cLyPmrDkPm9gvShLYK3ZJ3SmtMe\/view?usp=drive_web",
+                                "text": " ",
+                                "style": {
+                                    "italic": true
+                                },
+                                "unsafe": true
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/WEB.BA",
+                                "text": "WEB.BA",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1LaVB0cLyPmrDkPm9gvShLYK3ZJ3SmtMe\/view?usp=drive_web",
+                                "text": ".FutureOfHousing.mp3",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Let's plan another!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nMel see your email for the MP3 raw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1763516467.777689",
+        "client_msg_id": "75895d89-341c-4d22-9227-ead141a57c14",
+        "text": "Great. Same as the one we used for Madison’s panel.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763516467.777689",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1763516697.428569",
+        "reply_users": [
+            "U02LAK62DEV",
+            "UKJ1HMMAM"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1763516621.905189"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1763516697.428569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1aeAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. Same as the one we used for Madison’s panel."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1763516621.905189",
+        "client_msg_id": "068fc593-c2d8-4423-96d6-c81b607a48d9",
+        "text": "I'm not sure what you mean by \"same as the one we used for \"Madison's Panel\" but I may not need to know what you meant by that ;-).",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763516467.777689",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5pSdB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure what you mean by \"same as the one we used for \"Madison's Panel\" but I may not need to know what you meant by that ;-)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1763516697.428569",
+        "client_msg_id": "ed68732d-904d-4dcd-861b-a63f4e12a72e",
+        "text": "We aired her panel discussion at KALW a few months back. In any case, I will structure it as a Civic Special.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763516467.777689",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DH3dm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We aired her panel discussion at KALW a few months back. In any case, I will structure it as a Civic Special."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

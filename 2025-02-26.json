@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1740605915.580929",
+        "client_msg_id": "46411c3e-003d-4cdb-9431-3dd7abb9ce3e",
+        "text": "MuckRock wrote a blog post about our use of DocumentCloud for Exposed.\n\n<https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press-documentcloud-human-radiation-experiments\/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=ForTheRecord|https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press[…]source=newsletter&amp;utm_medium=email&amp;utm_campaign=ForTheRecord>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1740605915.580929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1740696916.403829",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1740696916.403829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1740696916.403829",
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.muckrock.com\/news_images\/2025\/02\/25\/Exposed_case_study.png.2400x800_q85.png",
+                "image_width": 2400,
+                "image_height": 800,
+                "image_bytes": 683263,
+                "from_url": "https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press-documentcloud-human-radiation-experiments\/?utm_source=newsletter&utm_medium=email&utm_campaign=ForTheRecord",
+                "service_icon": "https:\/\/cdn.muckrock.com\/icons\/logo.png",
+                "id": 1,
+                "original_url": "https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press-documentcloud-human-radiation-experiments\/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=ForTheRecord",
+                "fallback": "MuckRock: How the San Francisco Public Press used DocumentCloud to expose the history of human radiation experiments",
+                "text": "Reporters at the San Francisco Public Press preserved more than 80 historical documents from the Naval Radiological Defense Laboratory.",
+                "title": "How the San Francisco Public Press used DocumentCloud to expose the history of human radiation experiments",
+                "title_link": "https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press-documentcloud-human-radiation-experiments\/?utm_source=newsletter&utm_medium=email&utm_campaign=ForTheRecord",
+                "service_name": "MuckRock"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnPvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MuckRock wrote a blog post about our use of DocumentCloud for Exposed.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press-documentcloud-human-radiation-experiments\/?utm_source=newsletter&utm_medium=email&utm_campaign=ForTheRecord",
+                                "text": "https:\/\/www.muckrock.com\/news\/archives\/2025\/feb\/25\/how-the-san-francisco-public-press[…]source=newsletter&utm_medium=email&utm_campaign=ForTheRecord"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
