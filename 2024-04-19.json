@@ -1,0 +1,186 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1713543199.686169",
+        "client_msg_id": "2d2187ed-a274-4409-bcad-26a4d727b224",
+        "text": "SFist has mentioned us for the first time that I’ve ever scene. Citing Zhu’s story. <https:\/\/sfist.com\/2024\/04\/18\/sfmta-to-do-intensive-sweep-for-parking-violations-in-may\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfist.com\/2024\/04\/18\/sfmta-to-do-intensive-sweep-for-parking-violations-in-may\/",
+                "ts": 1713485839,
+                "image_url": "https:\/\/img.sfist.com\/2024\/04\/sf-parking-ticket.jpg",
+                "image_width": 1400,
+                "image_height": 869,
+                "image_bytes": 194480,
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2024\/04\/18\/sfmta-to-do-intensive-sweep-for-parking-violations-in-may\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: Day Around the Bay: SFMTA to Do 'Intensive' Sweep For Parking Violations In May",
+                "text": "The SFMTA is going to be doing an \"intensive\" crackdown on parking next month; an East Bay rapper has been charged with robbery and false imprisonment; and Redwood City is looking to permanently ban cars from a section of Broadway.",
+                "title": "Day Around the Bay: SFMTA to Do 'Intensive' Sweep For Parking Violations In May",
+                "title_link": "https:\/\/sfist.com\/2024\/04\/18\/sfmta-to-do-intensive-sweep-for-parking-violations-in-may\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Jay Barmann",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF News, datb, parking enforcement, sfmta",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rwW65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SFist has mentioned us for the first time that I’ve ever scene. Citing Zhu’s story. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2024\/04\/18\/sfmta-to-do-intensive-sweep-for-parking-violations-in-may\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_cowboy_hat",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1713543673.932279",
+        "edited": {
+            "user": "U19LB1TK5",
+            "ts": "1713543688.000000"
+        },
+        "client_msg_id": "D6097071-0068-4004-931B-639A8F995436",
+        "text": "They’ve mentioned our stories before, but it has been a while",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kS40\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They’ve mentioned our stories before, but it has been a while"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1713548406.348229",
+        "client_msg_id": "1b4d2bd2-107d-491c-a841-7d96ab2cd2f4",
+        "text": ":+1: Hopefully they’ll mention us more often.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cwglz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hopefully they’ll mention us more often."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

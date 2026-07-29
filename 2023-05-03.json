@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1683136029.867209",
+        "client_msg_id": "645512e8-3fd8-49bc-988f-f63d759a43a6",
+        "text": "Yesica’s lawsuit against Oakland covered in Courthouse News\n\n<https:\/\/www.courthousenews.com\/journalists-lose-bid-for-better-access-at-oakland-homeless-camp-removal-site\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJLyJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesica’s lawsuit against Oakland covered in Courthouse News\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.courthousenews.com\/journalists-lose-bid-for-better-access-at-oakland-homeless-camp-removal-site\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

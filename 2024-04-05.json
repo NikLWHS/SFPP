@@ -1,0 +1,60 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1712340665.908029",
+        "client_msg_id": "fdb2db24-7ca3-4b91-8930-e6198df79499",
+        "text": "Jeff Hunt.   <https:\/\/www.storiedsf.com>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.storiedsf.com\/",
+                "service_icon": "https:\/\/www.storiedsf.com\/favicon.ico",
+                "thumb_url": "https:\/\/www.storiedsf.com\/uploads\/1\/0\/9\/8\/109823970\/spotify-podcast-badge-blk-wht-165x40_orig.png",
+                "thumb_width": 165,
+                "thumb_height": 40,
+                "id": 1,
+                "original_url": "https:\/\/www.storiedsf.com",
+                "fallback": "Storied: San Francisco",
+                "text": "San Franciscans from all walks of life share their stories.",
+                "title": "Storied: San Francisco",
+                "title_link": "https:\/\/www.storiedsf.com\/",
+                "service_name": "storiedsf.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kM8rC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jeff Hunt.   "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.storiedsf.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

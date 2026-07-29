@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1716422930.941449",
+        "edited": {
+            "user": "U01PU2BUHU5",
+            "ts": "1716442970.000000"
+        },
+        "client_msg_id": "2756f80d-f372-441e-9065-dddcd77a7d0a",
+        "text": "I am speaking at the <https:\/\/events.calmatters.org\/agenda2024|Calmatters Ideas Festival> about my work at SF Public Press, reporting on homelessness. It's their inaugural event and they have tons of <https:\/\/events.calmatters.org\/speakers2024|speakers>. If anyone wants to come out to Sacramento, I have complementary tickets. (Please DM me if you would like to go. :))",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716422930.941449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1716497389.145649",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1716497389.145649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/events.calmatters.org\/agenda2024",
+                "service_icon": "https:\/\/d24wuq6o951i2g.cloudfront.net\/img\/events\/id\/199\/1996441\/assets\/8bb.favicon-black.png",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/s3.clients.splashthat.com\/img\/events\/splash\/cards\/458930031.x3.f77a73e1.png",
+                "thumb_width": 750,
+                "thumb_height": 1050,
+                "id": 1,
+                "original_url": "https:\/\/events.calmatters.org\/agenda2024",
+                "fallback": "2024 Ideas Festival Agenda",
+                "text": "2024 Ideas Festival Agenda - Wednesday, June 5, 2024",
+                "title": "2024 Ideas Festival Agenda",
+                "title_link": "https:\/\/events.calmatters.org\/agenda2024",
+                "service_name": "events.calmatters.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLyYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am speaking at the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/events.calmatters.org\/agenda2024",
+                                "text": "Calmatters Ideas Festival"
+                            },
+                            {
+                                "type": "text",
+                                "text": " about my work at SF Public Press, reporting on homelessness. It's their inaugural event and they have tons of "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/events.calmatters.org\/speakers2024",
+                                "text": "speakers"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If anyone wants to come out to Sacramento, I have complementary tickets. (Please DM me if you would like to go. :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1697591642.639399",
+        "client_msg_id": "6fab24fa-9bd6-43ff-a27c-541375797b7b",
+        "text": "Nice shout-out from Maya :slightly_smiling_face:\n<https:\/\/sfrichmondreview.com\/2023\/10\/17\/california-common-cause-wants-to-hear-from-you-about-local-newspapers\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gswsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice shout-out from Maya "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfrichmondreview.com\/2023\/10\/17\/california-common-cause-wants-to-hear-from-you-about-local-newspapers\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02V28GTKMW",
+                    "U01B9FNF801",
+                    "U02LAK62DEV"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

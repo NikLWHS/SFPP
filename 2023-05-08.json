@@ -1,0 +1,185 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1683575254.634329",
+        "client_msg_id": "01011e8e-e59b-43ca-ad1a-42f5d64a7069",
+        "text": "Sylvie's last story popped up on this aggregator from Thurs <https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&amp;utm_campaign=EditionCrosslink-US&amp;utm_medium=link&amp;utm_content=Snackbar|https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&amp;utm[…]aign=EditionCrosslink-US&amp;utm_medium=link&amp;utm_content=Snackbar>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&utm_campaign=EditionCrosslink-US&utm_medium=link&utm_content=Snackbar",
+                "service_icon": "https:\/\/www.newsnow.com\/ico\/fav\/apple-touch-icon.png?v=201612141100",
+                "id": 1,
+                "original_url": "https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&amp;utm_campaign=EditionCrosslink-US&amp;utm_medium=link&amp;utm_content=Snackbar",
+                "fallback": "NewsNow: Drug Overdoses (World) news | Breaking News 24\/7",
+                "text": "Read the latest Drug Overdoses (World) headlines, on NewsNow: the one-stop shop for Drug Overdoses (World) news",
+                "title": "NewsNow: Drug Overdoses (World) news | Breaking News 24\/7",
+                "title_link": "https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&utm_campaign=EditionCrosslink-US&utm_medium=link&utm_content=Snackbar",
+                "service_name": "NewsNow"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H5q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie's last story popped up on this aggregator from Thurs "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&utm_campaign=EditionCrosslink-US&utm_medium=link&utm_content=Snackbar",
+                                "text": "https:\/\/www.newsnow.com\/us\/World\/Global+Issues\/Drug+Overdoses?utm_source=newsnow&utm[…]aign=EditionCrosslink-US&utm_medium=link&utm_content=Snackbar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1683575348.290659",
+        "client_msg_id": "c9aee764-f9ec-4fe7-a793-4ea3f9f53e50",
+        "text": "Hey, that's cool. A first for me!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dmtx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey, that's cool. A first for me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1683575850.119839",
+        "client_msg_id": "5ae45d36-fdc9-4c48-a792-3044e02fab55",
+        "text": "Seth's story made it into this LinkedIn newsletter, but they didn't attribute, so I added a comment \"For more info on the \"Local Planners, Say State Failed to Track Safety Incidents on Uber and Lyft\" subject, here is the original reporting: [link]\" from my personal acct. <https:\/\/www.linkedin.com\/pulse\/latest-developments-trends-road-safety-what-you-need-know-sunil-ladwa\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/media.licdn.com\/dms\/image\/D5612AQENbXcwiVY1jA\/article-cover_image-shrink_720_1280\/0\/1682595829780?e=2147483647&v=beta&t=AfhbZP0NobS25H6oj9jyadQQdCVQy84tw80YpAc0t1g",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 2723418,
+                "from_url": "https:\/\/www.linkedin.com\/pulse\/latest-developments-trends-road-safety-what-you-need-know-sunil-ladwa\/",
+                "service_icon": "https:\/\/static.licdn.com\/aero-v1\/sc\/h\/al2o9zrvru7aqj8e1x2rzsrca",
+                "id": 1,
+                "original_url": "https:\/\/www.linkedin.com\/pulse\/latest-developments-trends-road-safety-what-you-need-know-sunil-ladwa\/",
+                "fallback": "\"Latest Developments and Trends in Road Safety: What You Need to Know\"",
+                "text": "Ludhiana city has 4th best road safety infra among 12 'rising cities' Ludhiana has the fourth-best road safety infrastructure among 12 ‘rising cities in the country, the latest survey has revealed. The study, ‘Ease of Moving Index — India Report 2022’, which has rated the cities on several parameter",
+                "title": "\"Latest Developments and Trends in Road Safety: What You Need to Know\"",
+                "title_link": "https:\/\/www.linkedin.com\/pulse\/latest-developments-trends-road-safety-what-you-need-know-sunil-ladwa\/",
+                "service_name": "linkedin.com",
+                "fields": [
+                    {
+                        "value": "Sunil Ladwa",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "5 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xkw3o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seth's story made it into this LinkedIn newsletter, but they didn't attribute, so I added a comment \"For more info on the \"Local Planners, Say State Failed to Track Safety Incidents on Uber and Lyft\" subject, here is the original reporting: [link]\" from my personal acct. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/pulse\/latest-developments-trends-road-safety-what-you-need-know-sunil-ladwa\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

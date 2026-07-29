@@ -1,0 +1,209 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1727891065.722239",
+        "client_msg_id": "7d28b436-37bf-499c-95b2-dcd3ed1f45bb",
+        "text": "Sylvie's USC piece is up!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGnV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie's USC piece is up!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1727891204.764289",
+        "client_msg_id": "988992a5-286e-4c83-bc9c-0c778598a6ca",
+        "text": "<https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose|https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/centerforhealthjournalism.org\/sites\/default\/files\/styles\/social_share_image\/public\/images\/Sturm_Jail%20bus.JPG?itok=QUH7cquL",
+                "image_width": 1200,
+                "image_height": 834,
+                "image_bytes": 121753,
+                "from_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose",
+                "service_icon": "https:\/\/centerforhealthjournalism.org\/themes\/custom\/chj2023\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose",
+                "fallback": "USC Center for Health Journalism: In San Francisco, Latino communities face more arrests, fewer resources amid overdose epidemic",
+                "text": "A reporter takes a closer look at the toll taken by heightened drug-related arrests and under-resourced behavioral health services on San Francisco's Latino residents.",
+                "title": "In San Francisco, Latino communities face more arrests, fewer resources amid overdose epidemic",
+                "title_link": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose",
+                "service_name": "USC Center for Health Journalism"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jiY27",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose",
+                                "text": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/san-francisco-latino-communities-face-more-arrests-fewer-resources-amid-overdose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fiestaparrot",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "UKJ1HMMAM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1727915128.569239",
+        "client_msg_id": "9ec7f59d-0a32-4bbd-bb6c-05d7e2c1f6b3",
+        "text": "Great stuff, Sylvie. I learned a lot about the arc of your project from this write-up. You treated many sides of these problems with dignity and respect. You were systematic in your reporting.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0+FW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great stuff, Sylvie. I learned a lot about the arc of your project from this write-up. You treated many sides of these problems with dignity and respect. You were systematic in your reporting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1727919628.128519",
+        "client_msg_id": "D46D8DFC-3EDB-4843-9B0B-B6EFD14A68C2",
+        "text": "Thank you, Michael! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2MsZp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, Michael! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

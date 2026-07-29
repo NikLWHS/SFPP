@@ -1,0 +1,454 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680546847.473859",
+        "client_msg_id": "f033c66e-b0de-480f-8662-1ec0ef7427f1",
+        "text": "<https:\/\/theangryarmy.today\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/?feed_id=6229&amp;_unique_id=642af1acba0bd>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/theangryarmy.today\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/?feed_id=6229&_unique_id=642af1acba0bd",
+                "ts": 1680528486,
+                "image_url": "https:\/\/theangryarmy.today\/wp-content\/uploads\/2023\/04\/Treasure_Island_03-1024x683.jpg",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 144041,
+                "service_icon": "https:\/\/theangryarmy.today\/wp-content\/uploads\/2023\/01\/cropped-Token-PNG-file-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/theangryarmy.today\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/?feed_id=6229&amp;_unique_id=642af1acba0bd",
+                "fallback": "The Angry Army: Promising to Prevent Floods at Treasure Island, Builders Downplay Risk of Sea Rise - The Angry Army",
+                "text": "This story was reported by the San Francisco Public Press, an independent nonprofit newsroom focused on accountability journalism, in partnership with Inside",
+                "title": "Promising to Prevent Floods at Treasure Island, Builders Downplay Risk of Sea Rise - The Angry Army",
+                "title_link": "https:\/\/theangryarmy.today\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/?feed_id=6229&_unique_id=642af1acba0bd",
+                "service_name": "The Angry Army",
+                "fields": [
+                    {
+                        "value": "angryarmy",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "22 minutes",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NxamM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theangryarmy.today\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/?feed_id=6229&_unique_id=642af1acba0bd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680546969.179259",
+        "client_msg_id": "2A1C0FFE-354A-4155-9E8B-F6F07B2A456D",
+        "text": "Nice. What I neglected to say in the meeting was that Inside Climate News offered this story for reprint on Climate Desk, a national collaboration of more than a dozen other orgs. This is therefore authorized by us. Would have preferred they not strip out the link to our site in the precede.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680546969.179259",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1680550038.062199",
+        "reply_users": [
+            "U01B9FNF801",
+            "U02LAK62DEV",
+            "U036YAYMM"
+        ],
+        "replies": [
+            {
+                "user": "U01B9FNF801",
+                "ts": "1680547082.878829"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1680549081.949539"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1680550038.062199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680550038.062199",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice. What I neglected to say in the meeting was that Inside Climate News offered this story for reprint on Climate Desk, a national collaboration of more than a dozen other orgs. This is therefore authorized by us. Would have preferred they not strip out the link to our site in the precede."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680546997.311029",
+        "client_msg_id": "23e08fe6-0fc7-4c6e-8754-7a6600c8bfe9",
+        "text": "Newsletter, 2nd under Bay Area under regional water news and commentary: <https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-break-a-1952-record-san-luis-fills-for-just-third-time-in-12-years-wastewater-treatment-facilities-could-be-a-solution-for-cities-or\/|https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-bre[…]ter-treatment-facilities-could-be-a-solution-for-cities-or\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-break-a-1952-record-san-luis-fills-for-just-third-time-in-12-years-wastewater-treatment-facilities-could-be-a-solution-for-cities-or\/",
+                "service_icon": "https:\/\/i0.wp.com\/mavensnotebook.com\/wp-content\/uploads\/2012\/12\/cropped-Logo3.jpg?fit=180%2C180&amp;ssl=1",
+                "thumb_url": "https:\/\/mavensnotebook.com\/wp-content\/uploads\/2023\/02\/Header_Daily-2.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 600,
+                "id": 1,
+                "original_url": "https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-break-a-1952-record-san-luis-fills-for-just-third-time-in-12-years-wastewater-treatment-facilities-could-be-a-solution-for-cities-or\/",
+                "fallback": "MAVEN'S NOTEBOOK | Water news: DAILY DIGEST, 4\/3: Will Monday’s big snow tally break a 1952 record?; San Luis fills for just third time in 12 years; Wastewater treatment facilities could be a solution for cities’ organic waste challenges; Acres of L.A. County sewage sludge threaten to contaminate Tulare Lake floodwaters; and more ...",
+                "text": "[cmtoc_table_of_contents] On the calendar today ... MEETING: The SSMP Community Engagement Committee will meet at 11:00 a.m. for a virtual meeting on Zoom",
+                "title": "DAILY DIGEST, 4\/3: Will Monday’s big snow tally break a 1952 record?; San Luis fills for just third time in 12 years; Wastewater treatment facilities could be a solution for cities’ organic waste challenges; Acres of L.A. County sewage sludge threaten to contaminate Tulare Lake floodwaters; and more ...",
+                "title_link": "https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-break-a-1952-record-san-luis-fills-for-just-third-time-in-12-years-wastewater-treatment-facilities-could-be-a-solution-for-cities-or\/",
+                "service_name": "MAVEN'S NOTEBOOK | Water news"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Newsletter, 2nd under Bay Area under regional water news and commentary: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-break-a-1952-record-san-luis-fills-for-just-third-time-in-12-years-wastewater-treatment-facilities-could-be-a-solution-for-cities-or\/",
+                                "text": "https:\/\/mavensnotebook.com\/2023\/04\/03\/daily-digest-4-3-will-mondays-big-snow-tally-bre[…]ter-treatment-facilities-could-be-a-solution-for-cities-or\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680547082.878829",
+        "client_msg_id": "67665f32-cf2a-49f6-b938-7f6488694b04",
+        "text": "I would have liked it if they didn't strip Kristi's credit. Yesica's is still on all the photos, thankfully.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680546969.179259",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would have liked it if they didn't strip Kristi's credit. Yesica's is still on all the photos, thankfully."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680547195.170869",
+        "client_msg_id": "5b796a89-89e8-4e51-9910-4c5a1fbf1b91",
+        "text": "Redirect from Environmental Health News: <https:\/\/www.ehn.org\/promising-to-prevent-flooding-treasure-island-builders-downplay-sea-rise-risk-2659720945.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Redirect from Environmental Health News: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ehn.org\/promising-to-prevent-flooding-treasure-island-builders-downplay-sea-rise-risk-2659720945.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1680549081.949539",
+        "client_msg_id": "91c42772-c528-488d-b321-92faec702937",
+        "text": "<@U036YAYMM> Is there a link eo the Cliamte Desk i can use? Cuz for some of the foundations I'm telling, I want to share the Inside Climate News and Cliamtes Desk links.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680546969.179259",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gUbHB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is there a link eo the Cliamte Desk i can use? Cuz for some of the foundations I'm telling, I want to share the Inside Climate News and Cliamtes Desk links."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680550038.062199",
+        "client_msg_id": "4D0928CF-956E-4F7F-AA57-1A0000E6873F",
+        "text": "I am not sure Climate Desk publishes material itself, haven’t checked. Here’s ICN’s link: <https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/|https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680546969.179259",
+        "parent_user_id": "U036YAYMM",
+        "attachments": [
+            {
+                "from_url": "https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/",
+                "ts": 1680526800,
+                "image_url": "https:\/\/insideclimatenews.org\/wp-content\/uploads\/2023\/03\/Treasure_Island_05.jpg",
+                "image_width": 1872,
+                "image_height": 1248,
+                "image_bytes": 499863,
+                "service_icon": "https:\/\/insideclimatenews.org\/wp-content\/uploads\/2020\/09\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/",
+                "fallback": "Inside Climate News: Promising to Prevent Floods at Treasure Island, Builders Downplay Risk of Sea Rise - Inside Climate News",
+                "text": "This story was reported by the San Francisco Public Press, an independent nonprofit newsroom focused on accountability journalism, in partnership with Inside Climate News. Sea level rise is forcing cities around San Francisco Bay to weigh demand for new housing against the need to protect communities from flooding. Builders say they can solve this dilemma with […]",
+                "title": "Promising to Prevent Floods at Treasure Island, Builders Downplay Risk of Sea Rise - Inside Climate News",
+                "title_link": "https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/",
+                "service_name": "Inside Climate News"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZGu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not sure Climate Desk publishes material itself, haven’t checked. Here’s ICN’s link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/",
+                                "text": "https:\/\/insideclimatenews.org\/news\/03042023\/treasure-island-san-francisco-sea-level-rise\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680556223.544689",
+        "client_msg_id": "3d1b526e-7cca-4a93-ba2b-5bbbe8a20974",
+        "text": "Currently on the homepage, a few stories down <https:\/\/www.dailyclimate.org\/> (a blurb and link)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.dailyclimate.org\/media-library\/collaboration-climate-crisis.jpg?id=33400387&width=1200&height=600&coordinates=0%2C487%2C0%2C488",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 60535,
+                "from_url": "https:\/\/www.dailyclimate.org\/",
+                "service_icon": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNTE0NDgwMi8yMDAweC5qcGciLCJleHBpcmVzX2F0IjoxNzAxOTcxNDM0fQ.urN8gWlC4CY0QPim3g59nQ6VwsEVM2K3fQBg3w9bwOg\/img.jpg?width=192&amp;height=192",
+                "id": 1,
+                "original_url": "https:\/\/www.dailyclimate.org\/",
+                "fallback": "The Daily Climate",
+                "text": "We push good journalism and science into public discussion and public policy on environmental health issues, including climate change",
+                "title": "The Daily Climate",
+                "title_link": "https:\/\/www.dailyclimate.org\/",
+                "service_name": "dailyclimate.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Currently on the homepage, a few stories down "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dailyclimate.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (a blurb and link)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1708467494.458269",
+        "client_msg_id": "ee273f04-6cd2-4bdc-acdc-07cf16954da8",
+        "text": "<https:\/\/www.editorandpublisher.com\/stories\/new-leadership-for-nonprofit-newsroom-dedicated-to-local-investigative-reporting,248303>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/alpha.creativecirclecdn.com\/editorandpublisher\/medium\/20240220-135521-LaHood_Lila.jpg",
+                "image_width": 850,
+                "image_height": 850,
+                "image_bytes": 120562,
+                "from_url": "https:\/\/www.editorandpublisher.com\/stories\/new-leadership-for-nonprofit-newsroom-dedicated-to-local-investigative-reporting,248303",
+                "service_icon": "https:\/\/cdn1.creativecirclemedia.com\/editorandpublisher\/original\/20200831-133324-eandPfavicon.png.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.editorandpublisher.com\/stories\/new-leadership-for-nonprofit-newsroom-dedicated-to-local-investigative-reporting,248303",
+                "fallback": "Editor and Publisher: New leadership for nonprofit newsroom dedicated to local investigative reporting - Editor and Publisher",
+                "text": "The San Francisco Public Press celebrates 15 years and an executive director transition.",
+                "title": "New leadership for nonprofit newsroom dedicated to local investigative reporting - Editor and Publisher",
+                "title_link": "https:\/\/www.editorandpublisher.com\/stories\/new-leadership-for-nonprofit-newsroom-dedicated-to-local-investigative-reporting,248303",
+                "service_name": "Editor and Publisher"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zovzg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.editorandpublisher.com\/stories\/new-leadership-for-nonprofit-newsroom-dedicated-to-local-investigative-reporting,248303"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01PU2BUHU5",
+                    "U05RTFC5UP7",
+                    "U02V28GTKMW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1708467590.561449",
+        "client_msg_id": "55b9dde9-aa3d-49a0-bc8c-c1fb59d21566",
+        "text": "That’s great. Will get a lot of readership. Who knew that E&amp;P was running free press releases? And they took the time to lay it out nice with images. We should make a note of that for the future.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2WtVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s great. Will get a lot of readership. Who knew that E&P was running free press releases? And they took the time to lay it out nice with images. We should make a note of that for the future."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

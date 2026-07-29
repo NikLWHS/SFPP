@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1709059870.154789",
+        "client_msg_id": "b3865188-2b3e-44e0-818e-d7bf43626959",
+        "text": "A partial result of me attending the monthly media coalition meetings, we got Lila quoted in _Local Voices on Local News: Community Perspectives and Policy Recommendations for Strengthening San Francisco’s Journalism Ecosystem_. <https:\/\/www.commoncause.org\/california\/resource\/bay-info-needs\/|You can find the final report here>.\n\nIn the section about CA state funding for journalists and the Local News Fellowship (AKA the way we get to work with Zhe --hooray!)\n_*Lila LaHood, publisher of San Francisco Public Press, says the fellowship model is a good one. “There’s this level of trust because there’s clearly no influence from the state,” she says. “There’s a clear firewall, there’s a sense of responsibility, and the people who’ve been chosen to manage the program and oversee it are already trusted in the field.”*_\n\nThe report documents a \"community listening process California Common Cause undertook over five months to understand San Francisco’s local news landscape and the information needs of its communities. This report, known as a community information needs assessment, put us in touch with more than 175 people across the city through 12 focus groups and 26 interviews.\n\n\"In it, we share what regular San Francisco residents are saying about their news needs. We also share the voices of independent publishers who are members of the Bay Area Independent Community Media Coalition, a group led by California Common Cause to explore ways to work collectively to bolster the city’s local news ecosystem through cooperation and policy advocacy.\n\n\"Public policy solutions aimed to close the civic information gaps in San Francisco were discussed, as were opportunities for longer-term partnerships and collaboration.\n\n\"More to come on a resolution at the San Francisco Board of Supervisors that starts making forward progress on the recommendations of the report.\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.commoncause.org\/california\/wp-content\/uploads\/sites\/29\/2022\/03\/CA-share.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 31911,
+                "from_url": "https:\/\/www.commoncause.org\/california\/resource\/bay-info-needs\/",
+                "service_icon": "https:\/\/www.commoncause.org\/california\/wp-content\/uploads\/sites\/29\/2018\/04\/cropped-cc-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.commoncause.org\/california\/resource\/bay-info-needs\/",
+                "fallback": "California Common Cause: Local Voices on Local News",
+                "title": "Local Voices on Local News",
+                "title_link": "https:\/\/www.commoncause.org\/california\/resource\/bay-info-needs\/",
+                "service_name": "California Common Cause"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RO1+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A partial result of me attending the monthly media coalition meetings, we got Lila quoted in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Local Voices on Local News: Community Perspectives and Policy Recommendations for Strengthening San Francisco’s Journalism Ecosystem",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.commoncause.org\/california\/resource\/bay-info-needs\/",
+                                "text": "You can find the final report here"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nIn the section about CA state funding for journalists and the Local News Fellowship (AKA the way we get to work with Zhe --hooray!)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lila LaHood, publisher of San Francisco Public Press, says the fellowship model is a good one. “There’s this level of trust because there’s clearly no influence from the state,” she says. “There’s a clear firewall, there’s a sense of responsibility, and the people who’ve been chosen to manage the program and oversee it are already trusted in the field.”",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThe report documents a \"community listening process California Common Cause undertook over five months to understand San Francisco’s local news landscape and the information needs of its communities. This report, known as a community information needs assessment, put us in touch with more than 175 people across the city through 12 focus groups and 26 interviews.\n\n\"In it, we share what regular San Francisco residents are saying about their news needs. We also share the voices of independent publishers who are members of the Bay Area Independent Community Media Coalition, a group led by California Common Cause to explore ways to work collectively to bolster the city’s local news ecosystem through cooperation and policy advocacy.\n\n\"Public policy solutions aimed to close the civic information gaps in San Francisco were discussed, as were opportunities for longer-term partnerships and collaboration.\n\n\"More to come on a resolution at the San Francisco Board of Supervisors that starts making forward progress on the recommendations of the report.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

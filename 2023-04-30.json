@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1682918696.626959",
+        "client_msg_id": "57417e19-ac3c-4276-8c9a-97a85e2f6f74",
+        "text": "Sylvie's story in the increase in overdose deaths got a mention by NextCity — <https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-supreme-court-opens-the-doors-for-fossil-fuel-lawsuits>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-supreme-court-opens-the-doors-for-fossil-fuel-lawsuits",
+                "image_url": "https:\/\/nextcity.org\/images\/daily\/_resized\/BreakFreeFossilFuels_unsplash_eelco-bohtlingk.jpeg",
+                "image_width": 1200,
+                "image_height": 800,
+                "image_bytes": 197789,
+                "service_icon": "https:\/\/nextcity.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-supreme-court-opens-the-doors-for-fossil-fuel-lawsuits",
+                "fallback": "The Weekly Wrap: Supreme Court Opens The Doors For Fossil Fuel Lawsuits",
+                "text": "Also, New York could have its minimum wage pegged to inflation.",
+                "title": "The Weekly Wrap: Supreme Court Opens The Doors For Fossil Fuel Lawsuits",
+                "title_link": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-supreme-court-opens-the-doors-for-fossil-fuel-lawsuits",
+                "service_name": "nextcity.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sylvie's story in the increase in overdose deaths got a mention by NextCity — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-supreme-court-opens-the-doors-for-fossil-fuel-lawsuits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

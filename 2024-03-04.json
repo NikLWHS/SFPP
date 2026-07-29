@@ -1,0 +1,344 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1709581189.165809",
+        "edited": {
+            "user": "U01B9FNF801",
+            "ts": "1709581214.000000"
+        },
+        "client_msg_id": "dafe6b22-bee4-4299-bc7e-6a95872a15bc",
+        "text": "The Frisc also linked to <@U05RTFC5UP7>'s story but called us SF Public Press :face_with_diagonal_mouth: <https:\/\/thefrisc.com\/street-photo-spotlight-lunar-new-year-parade-2024-aa6853e23543>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z1++q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Frisc also linked to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s story but called us SF Public Press "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_diagonal_mouth",
+                                "unicode": "1fae4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/thefrisc.com\/street-photo-spotlight-lunar-new-year-parade-2024-aa6853e23543"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "melting_face",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1709582520.504059",
+        "client_msg_id": "71391c20-8674-4e69-8a62-3cb03e7b10cd",
+        "text": "<https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-03-04\/civic-tying-cash-welfare-to-drug-screening>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/f7b9b2c\/2147483647\/strip\/true\/crop\/799x419+0+57\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F02%2F821670fc4669aa05e80a45e7aea2%2Fsf-city-hall-wally-gobetz.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 203249,
+                "from_url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-03-04\/civic-tying-cash-welfare-to-drug-screening",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-03-04\/civic-tying-cash-welfare-to-drug-screening",
+                "fallback": "KALW: Civic: Tying Cash Welfare To Drug Screening",
+                "text": "San Francisco Mayor London Breed is asking voters to approve a solution that drug tests people who receive assistance to compel them into treatment.",
+                "title": "Civic: Tying Cash Welfare To Drug Screening",
+                "title_link": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-03-04\/civic-tying-cash-welfare-to-drug-screening",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DR7Np",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-03-04\/civic-tying-cash-welfare-to-drug-screening"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1709592728.733699",
+        "client_msg_id": "0EBEF891-224F-4FCB-8578-AF99EF1D2AD7",
+        "text": "I just heard Hana Baba’s promo on KALW mentioning Civic. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kdOP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just heard Hana Baba’s promo on KALW mentioning Civic"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1709592746.795339",
+        "client_msg_id": "01D4E08A-C235-4D91-94B2-02DF3A3AD37E",
+        "text": " For tomorrow’s broadcast ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Au6\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " For "
+                            },
+                            {
+                                "type": "text",
+                                "text": "tomorrow’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " broadcast "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1709593121.704579",
+        "client_msg_id": "cd98f063-a93e-41e7-8251-be78ae5f5cc1",
+        "text": "Nice",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ga\/aG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1709593135.068739",
+        "client_msg_id": "dda2b325-c97f-47f0-b013-92dd0a40f903",
+        "text": "It'll be the judges episode",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WprM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It'll be the judges episode"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1709593151.533259",
+        "client_msg_id": "b1418070-5738-42b8-841e-093174d8d810",
+        "text": "They are running Lila’s Judges episode tomorrow.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocWo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They are running Lila’s Judges episode tomorrow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

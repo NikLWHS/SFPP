@@ -1,0 +1,234 @@
+[
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1680910320.511269",
+        "client_msg_id": "90FA06F7-D1F7-46AB-BF0C-42317C416D0C",
+        "text": "I’m at this reparations panel event thing and ran into Majeid Crawford who runs the New Community Leadership Foundation, the org that is doing COP work in the city that I wrote about. He told me that the article has been really impactful in their work and someone from the New York Times reached out to him for an interview about reparations because they read the article (and they specifically cited the article). So that’s pretty awesome. Here’s to hoping that they link back to our work ;)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m at this reparations panel event thing and ran into Majeid Crawford who runs the New Community Leadership Foundation, the org that is doing COP work in the city that I wrote about. He told me that the article has been really impactful in their work and someone from the New York Times reached out to him for an interview about reparations because they read the article (and they specifically cited the article). So that’s pretty awesome. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Here’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to hoping that they link back to our work ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1680910410.761809",
+        "client_msg_id": "61ACBE71-94E4-412E-B786-3F0F1C3FBC46",
+        "text": "Way to go, Madison.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Way to go, Madison."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680911042.783789",
+        "client_msg_id": "c46da482-4785-4c43-8d11-ada6e28a2796",
+        "text": "Awesome. It’s great to document these kinds of interactions with sources. It sound like you’ll be competing with The Times for stories from this point forward. They don’t know what they’re up against.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLanA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome. It’s great to document these kinds of interactions with sources. It sound like you’ll be competing with The Times for stories from this point forward. They don’t know what they’re up against."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1680914073.412179",
+        "client_msg_id": "394C6D37-8911-4006-B036-C7559E9A271A",
+        "text": "Thanks y’all! I’m glad the program will be getting the attention it needs to keep working, and we’ll be here to keep the city accountable to its promises! More to come :) ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "text",
+                                "text": "y’all"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " glad the program will be getting the attention it needs to keep working, and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we’ll"
+                            },
+                            {
+                                "type": "text",
+                                "text": " be here to keep the city accountable to its promises! More to come :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

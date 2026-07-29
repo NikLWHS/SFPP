@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1677447507.983009",
+        "client_msg_id": "a90db871-3443-49c4-9cfa-2c330999af2f",
+        "text": "Getting some twitter traction in _two_ languages! :blush:\n<https:\/\/twitter.com\/reseauiml\/status\/1629831622500515840>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/reseauiml\/status\/1629831622500515840",
+                "ts": 1677417114,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/reseauiml\/status\/1629831622500515840",
+                "fallback": "<https:\/\/twitter.com\/reseauiml|@reseauiml>: Un article de <https:\/\/twitter.com\/mildobserver|@mildobserver> sur les camps de réunification.\n\n\"Cela n'a l'air de rien, mais on vous oblige à dire du bien de votre agresseur\", a déclaré Toyos. \"J'appellerais cela un traumatisme d'autodestruction\". \n\n<https:\/\/www.sfpublicpress.org\/childrens-violent-removal-from-santa-cruz-home-raises-calls-to-end-reunification-camps\/>",
+                "text": "Un article de <https:\/\/twitter.com\/mildobserver|@mildobserver> sur les camps de réunification.\n\n\"Cela n'a l'air de rien, mais on vous oblige à dire du bien de votre agresseur\", a déclaré Toyos. \"J'appellerais cela un traumatisme d'autodestruction\". \n\n<https:\/\/www.sfpublicpress.org\/childrens-violent-removal-from-santa-cruz-home-raises-calls-to-end-reunification-camps\/>",
+                "author_name": "Réseau International des Mères en Lutte",
+                "author_link": "https:\/\/twitter.com\/reseauiml\/status\/1629831622500515840",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1419681340463755269\/umGyu8rM_normal.jpg",
+                "author_subname": "@reseauiml",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/IJKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Getting some twitter traction in "
+                            },
+                            {
+                                "type": "text",
+                                "text": "two",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " languages! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/reseauiml\/status\/1629831622500515840"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

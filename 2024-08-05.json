@@ -1,0 +1,120 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1722891716.179059",
+        "client_msg_id": "8dc57f69-b648-4ece-b332-9caf9aa2cc44",
+        "text": "A profile of comics journalist Dan Archer includes a link to a project he did for us in 2012 —\n\n<https:\/\/downthetubes.net\/voices-of-nepal-graphic-novel-investigates-human-trafficking-and-how-comics-can-be-used-to-empower-survivors\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/downthetubes.net\/voices-of-nepal-graphic-novel-investigates-human-trafficking-and-how-comics-can-be-used-to-empower-survivors\/",
+                "ts": 1722855803,
+                "image_url": "https:\/\/downthetubes.net\/wp-content\/uploads\/2024\/08\/Voices-from-Nepal-Cover-SNIP.jpg",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 186925,
+                "service_icon": "https:\/\/downthetubes.net\/wp-content\/uploads\/2018\/08\/cropped-DTT-Logo-2018-512x512-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/downthetubes.net\/voices-of-nepal-graphic-novel-investigates-human-trafficking-and-how-comics-can-be-used-to-empower-survivors\/",
+                "fallback": "downthetubes.net: “Voices of Nepal” graphic novel investigates human trafficking and how comics can be used to empower survivors",
+                "text": "More than a decade on from its beginnings, this powerful study of human trafficking is published",
+                "title": "“Voices of Nepal” graphic novel investigates human trafficking and how comics can be used to empower survivors",
+                "title_link": "https:\/\/downthetubes.net\/voices-of-nepal-graphic-novel-investigates-human-trafficking-and-how-comics-can-be-used-to-empower-survivors\/",
+                "service_name": "downthetubes.net"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5ofl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A profile of comics journalist Dan Archer includes a link to a project he did for us in 2012 —\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/downthetubes.net\/voices-of-nepal-graphic-novel-investigates-human-trafficking-and-how-comics-can-be-used-to-empower-survivors\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U01PU2BUHU5",
+                    "U07BW27EEHF",
+                    "U58JZC631"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1722891848.693029",
+        "client_msg_id": "cc7bafb3-720a-415c-badd-bd7e08d04991",
+        "text": "Wow, that’s cool. I believe we introduced him to the topic.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5C2y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, that’s cool. I believe we introduced him to the topic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

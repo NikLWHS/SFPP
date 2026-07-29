@@ -1,0 +1,183 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1712926784.101019",
+        "client_msg_id": "A5643014-5993-4635-B187-86E47871D386",
+        "text": "Did you scroll to the bottom and look at the chart? Why do they list Liana and Sylvie each with three episodes, but not Civic itself which has hundreds of episodes?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vn1YS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you scroll to the bottom and look at the chart? Why do they list Liana and Sylvie each with three episodes, but not Civic itself which has hundreds of episodes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1712938546.801099",
+        "client_msg_id": "aaa3bd6d-0376-4951-82d2-5b2f34960482",
+        "text": "Oh that's weird",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jm355",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh that's weird"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Listed in the In the News \/ ITN from Berkeley Media Studies. \"April 12, 2024\n_A curated daily digest of public health &amp; social justice headlines for practitioners, advocates, &amp; journalists. The views expressed by the authors are their own. Inclusion in this newsletter ≠ endorsement.\"_\n _Lisa pitches them for listing and they also get our newsletter and see our great work!_",
+        "files": [
+            {
+                "id": "F06U7LRC7U4",
+                "created": 1712965486,
+                "timestamp": 1712965486,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 88005,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F06U7LRC7U4\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F06U7LRC7U4\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 318,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 424,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 636,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06U7LRC7U4-d11634759a\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 706,
+                "original_w": 827,
+                "original_h": 730,
+                "thumb_tiny": "AwAqADDTIyMU3YPenHpTMH+6PzoAXYPegKB2z9aNp7AfnRtP90fnQAuB6D8qUADoKaAR0A\/OlG7PIH50ADcg1Htbn\/GpD0NNyvq360ANCN\/k0oQ9zS5X1b9aOP8Aa\/WgA2f7VOAA6U3j\/b\/WnBcev50ADfdPemDB6JUlJQA3H+wKdk\/3f1paKAEyf7v60AknlcfjS0UAf\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F06U7LRC7U4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F06U7LRC7U4-c44b5f0f6a",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faYVS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Listed in the In the News \/ ITN from Berkeley Media Studies. \"April 12, 2024\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "A curated daily digest of public health & social justice headlines for practitioners, advocates, & journalists. The views expressed by the authors are their own. Inclusion in this newsletter ≠ endorsement.\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Lisa pitches them for listing and they also get our newsletter and see our great work!",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712965593.051909",
+        "client_msg_id": "fd0355fa-8359-45af-be00-8fb16f1791bb",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1709774786.688739",
+        "client_msg_id": "bbe70c3b-107b-448c-b8ea-6dd656e94047",
+        "text": "<https:\/\/leadbureau.org\/drug-policy-addiction-specialists-oppose-prop-f-tying-welfare-to-drug-tests\/> <@U02V28GTKMW> the link shows the incorrect URL, but directs to our site correctly. Looks like one of Sylvie's guests probably initiated it. Is it worth pointing out this error? And who should do it?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CLitP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/leadbureau.org\/drug-policy-addiction-specialists-oppose-prop-f-tying-welfare-to-drug-tests\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the link shows the incorrect URL, but directs to our site correctly. Looks like one of Sylvie's guests probably initiated it. Is it worth pointing out this error? And who should do it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

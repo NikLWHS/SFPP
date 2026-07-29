@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1678824251.264439",
+        "client_msg_id": "dfe5bff0-049c-4e0d-a638-54a952c24bf3",
+        "text": "KALW linked to Madison's story: <https:\/\/www.kalw.org\/politics\/2023-03-13\/sf-supes-to-review-draft-reparations-plan>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678824251.264439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1678993711.674989",
+        "reply_users": [
+            "U02DXRYCD2N"
+        ],
+        "replies": [
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1678993711.674989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/b95481b\/2147483647\/strip\/true\/crop\/800x450+0+59\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2Fe7%2F28a7dde04b95a1e514b2a62ea701%2Fsf-city-hall-adam-fagen.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 185579,
+                "from_url": "https:\/\/www.kalw.org\/politics\/2023-03-13\/sf-supes-to-review-draft-reparations-plan",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "ts": 1678769236,
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/politics\/2023-03-13\/sf-supes-to-review-draft-reparations-plan",
+                "fallback": "KALW: SF ‘Supes’ to review draft reparations plan",
+                "text": "Policymakers at the national, state, and local levels are considering initiatives aimed at redressing the trauma experienced by African Americans through slavery. And on Tuesday, the San Francisco’s Board of Supervisors will discuss reparation recommendations.",
+                "title": "SF ‘Supes’ to review draft reparations plan",
+                "title_link": "https:\/\/www.kalw.org\/politics\/2023-03-13\/sf-supes-to-review-draft-reparations-plan",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "83Nb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KALW linked to Madison's story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/politics\/2023-03-13\/sf-supes-to-review-draft-reparations-plan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV",
+                    "U01B9FNF801",
+                    "U02DXRYCD2N",
+                    "U02V28GTKMW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

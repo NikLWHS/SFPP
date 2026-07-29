@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1710786087.104149",
+        "edited": {
+            "user": "U02LAK62DEV",
+            "ts": "1710787524.000000"
+        },
+        "client_msg_id": "f35945dc-47a7-4a8f-a34d-37fb301a4ca1",
+        "text": "Listening right now to KALW and <@U02V28GTKMW> Sylvie's interview by Sunni --sounds great! When they post the perma link later,  I'll put it here. Ok here it is <https:\/\/www.kalw.org\/2024-03-18\/san-franciscos-fentanyl-epidemic-continues-to-defy-solutions>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalw.org\/2024-03-18\/san-franciscos-fentanyl-epidemic-continues-to-defy-solutions",
+                "ts": 1710781200,
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/4f90baf\/2147483647\/strip\/true\/crop\/4397x2308+0+320\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F67%2Fdf5b6f7044f294041837e09dfffc%2Fsylviesturm-headshot.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 96862,
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2024-03-18\/san-franciscos-fentanyl-epidemic-continues-to-defy-solutions",
+                "fallback": "KALW: San Francisco's fentanyl epidemic continues to defy solutions",
+                "text": "Last year, 811 San Francisco residents died from accidental overdoses. More than half of those deaths were linked to fentanyl, a potent, synthetic opiod normally prescribed as a painkiller. Today, we look behind the numbers with Sylvie Sturm, the reporter at the San Francisco Public Press, who recently wrote a series on the city's fight against fentanyl.",
+                "title": "San Francisco's fentanyl epidemic continues to defy solutions",
+                "title_link": "https:\/\/www.kalw.org\/2024-03-18\/san-franciscos-fentanyl-epidemic-continues-to-defy-solutions",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x11fE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Listening right now to KALW and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sylvie's interview by Sunni --sounds great! When they post the perma link later,  I'll put it here. Ok here it is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2024-03-18\/san-franciscos-fentanyl-epidemic-continues-to-defy-solutions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

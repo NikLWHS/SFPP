@@ -1,0 +1,52 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1687913506.393969",
+        "edited": {
+            "user": "U01B9FNF801",
+            "ts": "1687913559.000000"
+        },
+        "client_msg_id": "55640abe-1e62-4516-8e6a-27a5c923d1e1",
+        "text": "<https:\/\/occupysf.net\/index.php\/2023\/06\/24\/reporters-notebook-the-rebellious-legacy-of-lesbian-money\/> republished but without stripping us out. weird formatting on my end, though. <@UKJ1HMMAM>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=dkL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/occupysf.net\/index.php\/2023\/06\/24\/reporters-notebook-the-rebellious-legacy-of-lesbian-money\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " republished but without stripping us out. weird formatting on my end, though. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

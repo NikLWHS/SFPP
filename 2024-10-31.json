@@ -1,0 +1,85 @@
+[
+    {
+        "text": "and I betcha Zhe's K will get social ups",
+        "files": [
+            {
+                "id": "F07UDCGV98S",
+                "created": 1730403444,
+                "timestamp": 1730403444,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 133684,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F07UDCGV98S\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F07UDCGV98S\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 159,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 212,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 317,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 353,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 423,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07UDCGV98S-f5736d0d69\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 451,
+                "original_w": 1475,
+                "original_h": 650,
+                "thumb_tiny": "AwAVADDQDHew7DGOKdmmAgyMMDjHNP7UAHelpKWgBMUUfhS0ARhv3jjnjHen9qiX\/XSfh\/Kpe1ABS0lLQAUUUUAf\/9k=",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F07UDCGV98S\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F07UDCGV98S-09b9371160",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMhWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and I betcha Zhe's K will get social ups"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1730403471.497939",
+        "client_msg_id": "1eb960d3-659f-4a72-ac94-9df574ad091e"
+    }
+]

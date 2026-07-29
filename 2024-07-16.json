@@ -1,0 +1,166 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1721151565.294189",
+        "client_msg_id": "2cd702aa-4c67-417e-a656-24da1939f789",
+        "text": "Not nearly as big a get as having reporters on Crosscurrents, but putting this here as part of archiving ancillary aspects of our event.\n<https:\/\/www.sfgate.com\/news\/bayarea\/article\/governments-can-gatekeep-public-information-a-19570525.php>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721151565.294189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1721676077.562219",
+        "reply_users": [
+            "UKJ1HMMAM"
+        ],
+        "replies": [
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1721676077.562219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fvuli",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not nearly as big a get as having reporters on Crosscurrents, but putting this here as part of archiving ancillary aspects of our event.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfgate.com\/news\/bayarea\/article\/governments-can-gatekeep-public-information-a-19570525.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1721151632.566439",
+        "client_msg_id": "ed5a724a-ef4d-4265-831f-f001785602fb",
+        "text": "<https:\/\/centerforhealthjournalism.org\/our-work\/insights\/what-reporting-about-intersection-domestic-violence-and-homelessness-taught-me|VIJI's USC reflection is up> ! (we might save it for 7\/26 newsletter since we have new articles this week)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/centerforhealthjournalism.org\/sites\/default\/files\/styles\/social_share_image\/public\/images\/unnamed_3.jpg?itok=o0w8pY8Y",
+                "image_width": 1200,
+                "image_height": 1600,
+                "image_bytes": 293274,
+                "from_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/what-reporting-about-intersection-domestic-violence-and-homelessness-taught-me",
+                "service_icon": "https:\/\/centerforhealthjournalism.org\/themes\/custom\/chj2023\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/what-reporting-about-intersection-domestic-violence-and-homelessness-taught-me",
+                "fallback": "USC Center for Health Journalism: What reporting about the intersection of domestic violence and homelessness taught me",
+                "text": "Domestic violence is an overlooked driver of homelessness among women in California. A journalist recounts her experience interviewing survivors, who sought to share their stories in an effort to reclaim control and heal from trauma.",
+                "title": "What reporting about the intersection of domestic violence and homelessness taught me",
+                "title_link": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/what-reporting-about-intersection-domestic-violence-and-homelessness-taught-me",
+                "service_name": "USC Center for Health Journalism"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/Pxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/what-reporting-about-intersection-domestic-violence-and-homelessness-taught-me",
+                                "text": "VIJI's USC reflection is up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ! (we might save it for 7\/26 newsletter since we have new articles this week)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1721151713.092039",
+        "client_msg_id": "24affd43-18cc-422e-8bf4-cbe7385a97fb",
+        "text": "that's great",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XNz+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

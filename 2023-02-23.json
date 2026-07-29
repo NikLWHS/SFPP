@@ -1,0 +1,415 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1677176520.000319",
+        "client_msg_id": "f091c980-5e22-4e18-9d96-ca64b4be9062",
+        "text": "<http:\/\/Law.com|Law.com> picked up Viji’s story: <https:\/\/www.law.com\/therecorder\/2023\/02\/22\/state-lawmaker-weighs-expansion-of-electronic-court-reporting\/?slreturn=20230123132049>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677176520.000319",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1677179657.671569",
+        "reply_users": [
+            "U01B9FNF801",
+            "U036YAYMM",
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U01B9FNF801",
+                "ts": "1677177101.768469"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1677177502.875849"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1677179510.638869"
+            },
+            {
+                "user": "U01B9FNF801",
+                "ts": "1677179657.671569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1677179657.671569",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.law.com\/therecorder\/2023\/02\/22\/state-lawmaker-weighs-expansion-of-electronic-court-reporting\/?slreturn=20230123132049",
+                "image_url": "https:\/\/images.law.com\/contrib\/content\/uploads\/sites\/403\/2022\/11\/Stenograph_2_110410-767x633.jpg",
+                "image_width": 767,
+                "image_height": 633,
+                "image_bytes": 63388,
+                "service_icon": "https:\/\/www.law.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.law.com\/therecorder\/2023\/02\/22\/state-lawmaker-weighs-expansion-of-electronic-court-reporting\/?slreturn=20230123132049",
+                "fallback": "The Recorder: State Lawmaker Weighs Expansion of Electronic Court Reporting | The Recorder",
+                "text": "State Sen. Susan Rubio plans to carry legislation expanding the use of electronic recording in California's courts, Capitol sources say. Certified court reporters and their labor union are preparing to fight the bill.",
+                "title": "State Lawmaker Weighs Expansion of Electronic Court Reporting | The Recorder",
+                "title_link": "https:\/\/www.law.com\/therecorder\/2023\/02\/22\/state-lawmaker-weighs-expansion-of-electronic-court-reporting\/?slreturn=20230123132049",
+                "service_name": "The Recorder"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Un",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Law.com",
+                                "text": "Law.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " picked up Viji’s story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.law.com\/therecorder\/2023\/02\/22\/state-lawmaker-weighs-expansion-of-electronic-court-reporting\/?slreturn=20230123132049"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1677177101.768469",
+        "client_msg_id": "9d7b0f05-4093-422f-995a-f7250f593c0b",
+        "text": "Does this count if Viji or the SFPP aren't mentioned?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677176520.000319",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/0Vw0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does this count if Viji or the SFPP aren't mentioned?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1677177502.875849",
+        "client_msg_id": "62757617-d256-474b-94e1-f523be70bd2f",
+        "text": "I couldn’t open the link because of a paywall, but my Google alert said it cited the Public Press.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677176520.000319",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I couldn’t open the link because of a paywall, but my Google alert said it cited the Public Press."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1677179510.638869",
+        "client_msg_id": "b5051805-35de-4add-b58d-bc28caf83a55",
+        "text": "yes mentions SFPP.\nFree acct allows for 1 article per month.\n\n\"A Los Angeles County lawmaker is pursuing legislation that would expand the use of electronic recording in state court proceedings, a proposal expected to draw heavy opposition from certified court reporters and their labor union.\nSen. Susan Rubio, D-Baldwin Park, has not made public specific bill language, and her office did not return messages seeking more information. But several legislative sources said the second-term state senator has told others in the Capitol that she intends to introduce legislation allowing electronic recording in civil and family law cases.\nJennafer Wagner, director of programs at the Family Violence Appellate Project, <https:\/\/www.sfpublicpress.org\/california-could-allow-electronic-recording-in-civil-and-family-court-helping-poor-litigants\/|told> the San Francisco Public Press on Feb. 20 that her organization is sponsoring the bill. In an email Wednesday, Wagner said she had “nothing to share at this time” on the proposed legislation.\n\nCurrent law restricts electronic recording in state courts to limited civil, infraction and misdemeanor matters. Court reporters and their union, Service Employees International Union, a potent force in statehouse politics, have beaten back past legislative attempts to expand its use, arguing that the technology is unreliable and does not have the ability to pause proceedings if a party can’t be heard.\nRose Nava, a Los Angeles County court reporter, said Rubio’s bill would create a two-tiered system with parties who can afford to pay for private stenographers and parties who would have to rely instead on court-provided electronic reporting.\n“Senator Rubio’s bill is wrong-headed and goes counter to current legislative priorities of ensuring courts have appropriate funding to recruit and retain court reporters who have always been considered the gold standard in capturing the verbatim record,” Nava said. “We believe all litigants are entitled to an accurate and quality transcript.”\n\nInterest in electronic recording resurfaced in recent years as the COVID-19 pandemic increased remote hearings and technology and the numbers of certified court reporters across the state dropped. In November 2022, 54 trial court executive officers issued a <https:\/\/www.law.com\/therecorder\/2022\/11\/07\/labor-union-judicial-leaders-draw-battle-lines-on-future-of-court-reporters\/?utm_source=email&amp;utm_medium=enl&amp;utm_content=20221110&amp;utm_campaign=lawbarometer&amp;utm_term=law|press release> calling the shortage of court reporters a “crisis,” one that could not be solved with recently allocated funding from the state because “there is no one to hire.” The statement called for changes to “the current statutory framework” limiting the use of electronic recording.\nThat same month, the Judicial Council released a <https:\/\/www.law.com\/therecorder\/2022\/11\/28\/report-calls-for-expansion-of-electronic-recording-and-court-recorder-recruitment\/|report> recommending that the state increase its use of electronic reporting in cases where official reporters are not available.\nLeading Democratic lawmakers, however, publicly <https:\/\/www.law.com\/therecorder\/2022\/11\/02\/no-will-no-way-correcting-the-record-on-the-la-superior-court-reporter-shortage\/|accused> Los Angeles County Superior Court specifically of not moving aggressively enough to retain and recruit official reporters. Then, in a striking turnabout, Los Angeles court executives earlier this month announced a new package of five-figure incentives to attract new official reporters and to lure veteran ones away from retirement.\n\n“We are optimistic that these efforts … will help address the shortage,” court executive officer David Slayton said at the time.\nOther state lawmakers have already introduced bills relating to court reporting and remote proceedings.\n<https:\/\/leginfo.legislature.ca.gov\/faces\/billTextClient.xhtml?bill_id=202320240AB1214&amp;search_keywords=%22court+reporters%22|AB 1214> by Assembly Judiciary Chairman Brian Maienschein would allow defendants, at their request, to appear remotely in all proceedings except for trials through 2026. Felony defendants could appear remotely at arraignments, initial court appearances and other limited instances that don’t involve testimony. The bill would also require the Judicial Council to set minimum technology standards for remote proceedings and it would bar courts from retaliating against court reporters who notify judges about remote connection troubles or sound problems.\n<https:\/\/leginfo.legislature.ca.gov\/faces\/billTextClient.xhtml?bill_id=202320240SB22|SB 22> by Senate Judiciary Chairman Tom Umberg addresses some of the same issues as AB 1214 and would also extend until 2026 authority for courts to use remote proceedings in civil matters. Current statutory authority ends on July 1, 2023.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677176520.000319",
+        "parent_user_id": "U036YAYMM",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/california-could-allow-electronic-recording-in-civil-and-family-court-helping-poor-litigants\/",
+                "ts": 1676909452,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2023\/02\/SenRubio-1170x1243.jpg",
+                "image_width": 1170,
+                "image_height": 1243,
+                "image_bytes": 218343,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/california-could-allow-electronic-recording-in-civil-and-family-court-helping-poor-litigants\/",
+                "fallback": "San Francisco Public Press: California Could Allow Electronic Recording in Civil and Family Court",
+                "text": "State Sen. Susan Rubio has introduced a bill that would allow California’s 58 trial courts to digitally record civil and family law cases.",
+                "title": "California Could Allow Electronic Recording in Civil and Family Court",
+                "title_link": "https:\/\/www.sfpublicpress.org\/california-could-allow-electronic-recording-in-civil-and-family-court-helping-poor-litigants\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Viji Sundaram",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/www.law.com\/therecorder\/2022\/11\/07\/labor-union-judicial-leaders-draw-battle-lines-on-future-of-court-reporters\/?utm_source=email&utm_medium=enl&utm_content=20221110&utm_campaign=lawbarometer&utm_term=law",
+                "image_url": "https:\/\/images.law.com\/contrib\/content\/uploads\/sites\/403\/2022\/11\/Stenograph_2_110410-767x633.jpg",
+                "image_width": 767,
+                "image_height": 633,
+                "image_bytes": 63388,
+                "service_icon": "https:\/\/www.law.com\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/www.law.com\/therecorder\/2022\/11\/07\/labor-union-judicial-leaders-draw-battle-lines-on-future-of-court-reporters\/?utm_source=email&amp;utm_medium=enl&amp;utm_content=20221110&amp;utm_campaign=lawbarometer&amp;utm_term=law",
+                "fallback": "The Recorder: Labor Union, Judicial Leaders Draw Battle Lines on Future of Court Reporters | The Recorder",
+                "text": "A fight over the future of court reporting in California is likely to influence the legislative debate over other judicial branch priorities, including expansion of remote proceedings and the creation of more judgeships.",
+                "title": "Labor Union, Judicial Leaders Draw Battle Lines on Future of Court Reporters | The Recorder",
+                "title_link": "https:\/\/www.law.com\/therecorder\/2022\/11\/07\/labor-union-judicial-leaders-draw-battle-lines-on-future-of-court-reporters\/?utm_source=email&utm_medium=enl&utm_content=20221110&utm_campaign=lawbarometer&utm_term=law",
+                "service_name": "The Recorder"
+            },
+            {
+                "from_url": "https:\/\/www.law.com\/therecorder\/2022\/11\/28\/report-calls-for-expansion-of-electronic-recording-and-court-recorder-recruitment\/",
+                "image_url": "https:\/\/images.law.com\/contrib\/content\/uploads\/sites\/403\/2021\/08\/shutterstock_1689338005-767x633.jpg",
+                "image_width": 768,
+                "image_height": 633,
+                "image_bytes": 77312,
+                "service_icon": "https:\/\/www.law.com\/apple-touch-icon.png",
+                "id": 3,
+                "original_url": "https:\/\/www.law.com\/therecorder\/2022\/11\/28\/report-calls-for-expansion-of-electronic-recording-and-court-recorder-recruitment\/",
+                "fallback": "The Recorder: Report Calls for Expansion of Electronic Recording and Court Recorder Recruitment | The Recorder",
+                "text": "A majority of members of a committee studying remote technology said electronic recording should be allowed to ensure litigants have records available for appeals.",
+                "title": "Report Calls for Expansion of Electronic Recording and Court Recorder Recruitment | The Recorder",
+                "title_link": "https:\/\/www.law.com\/therecorder\/2022\/11\/28\/report-calls-for-expansion-of-electronic-recording-and-court-recorder-recruitment\/",
+                "service_name": "The Recorder"
+            },
+            {
+                "from_url": "https:\/\/www.law.com\/therecorder\/2022\/11\/02\/no-will-no-way-correcting-the-record-on-the-la-superior-court-reporter-shortage\/",
+                "image_url": "https:\/\/images.law.com\/contrib\/content\/uploads\/sites\/403\/2022\/11\/Sacramento-Capitol-1237-767x633.jpg",
+                "image_width": 768,
+                "image_height": 633,
+                "image_bytes": 74936,
+                "service_icon": "https:\/\/www.law.com\/apple-touch-icon.png",
+                "id": 4,
+                "original_url": "https:\/\/www.law.com\/therecorder\/2022\/11\/02\/no-will-no-way-correcting-the-record-on-the-la-superior-court-reporter-shortage\/",
+                "fallback": "The Recorder: No Will, No Way: Correcting the Record on the LA Superior Court Reporter ‘Shortage’ | The Recorder",
+                "text": "We must reiterate that a court reporter fee-barrier is unacceptable. In our economically diverse state, we must demand a level playing field when our constituents enter the courthouse, says California State lawmakers Sen. Maria Elena Durazo, Assembly Speaker Anthony Rendon, Assemblyman Miguel Santiago and Assemblyman Reggie Jones-Sawyer.",
+                "title": "No Will, No Way: Correcting the Record on the LA Superior Court Reporter ‘Shortage’ | The Recorder",
+                "title_link": "https:\/\/www.law.com\/therecorder\/2022\/11\/02\/no-will-no-way-correcting-the-record-on-the-la-superior-court-reporter-shortage\/",
+                "service_name": "The Recorder"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AuEY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes mentions SFPP.\nFree acct allows for 1 article per month.\n\n\"A Los Angeles County lawmaker is pursuing legislation that would expand the use of electronic recording in state court proceedings, a proposal expected to draw heavy opposition from certified court reporters and their labor union.\nSen. Susan Rubio, D-Baldwin Park, has not made public specific bill language, and her office did not return messages seeking more information. But several legislative sources said the second-term state senator has told others in the Capitol that she intends to introduce legislation allowing electronic recording in civil and family law cases.\nJennafer Wagner, director of programs at the Family Violence Appellate Project, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/california-could-allow-electronic-recording-in-civil-and-family-court-helping-poor-litigants\/",
+                                "text": "told"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the San Francisco Public Press on Feb. 20 that her organization is sponsoring the bill. In an email Wednesday, Wagner said she had “nothing to share at this time” on the proposed legislation.\n\nCurrent law restricts electronic recording in state courts to limited civil, infraction and misdemeanor matters. Court reporters and their union, Service Employees International Union, a potent force in statehouse politics, have beaten back past legislative attempts to expand its use, arguing that the technology is unreliable and does not have the ability to pause proceedings if a party can’t be heard.\nRose Nava, a Los Angeles County court reporter, said Rubio’s bill would create a two-tiered system with parties who can afford to pay for private stenographers and parties who would have to rely instead on court-provided electronic reporting.\n“Senator Rubio’s bill is wrong-headed and goes counter to current legislative priorities of ensuring courts have appropriate funding to recruit and retain court reporters who have always been considered the gold standard in capturing the verbatim record,” Nava said. “We believe all litigants are entitled to an accurate and quality transcript.”\n\nInterest in electronic recording resurfaced in recent years as the COVID-19 pandemic increased remote hearings and technology and the numbers of certified court reporters across the state dropped. In November 2022, 54 trial court executive officers issued a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.law.com\/therecorder\/2022\/11\/07\/labor-union-judicial-leaders-draw-battle-lines-on-future-of-court-reporters\/?utm_source=email&utm_medium=enl&utm_content=20221110&utm_campaign=lawbarometer&utm_term=law",
+                                "text": "press release"
+                            },
+                            {
+                                "type": "text",
+                                "text": " calling the shortage of court reporters a “crisis,” one that could not be solved with recently allocated funding from the state because “there is no one to hire.” The statement called for changes to “the current statutory framework” limiting the use of electronic recording.\nThat same month, the Judicial Council released a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.law.com\/therecorder\/2022\/11\/28\/report-calls-for-expansion-of-electronic-recording-and-court-recorder-recruitment\/",
+                                "text": "report"
+                            },
+                            {
+                                "type": "text",
+                                "text": " recommending that the state increase its use of electronic reporting in cases where official reporters are not available.\nLeading Democratic lawmakers, however, publicly "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.law.com\/therecorder\/2022\/11\/02\/no-will-no-way-correcting-the-record-on-the-la-superior-court-reporter-shortage\/",
+                                "text": "accused"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Los Angeles County Superior Court specifically of not moving aggressively enough to retain and recruit official reporters. Then, in a striking turnabout, Los Angeles court executives earlier this month announced a new package of five-figure incentives to attract new official reporters and to lure veteran ones away from retirement.\n\n“We are optimistic that these efforts … will help address the shortage,” court executive officer David Slayton said at the time.\nOther state lawmakers have already introduced bills relating to court reporting and remote proceedings.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/leginfo.legislature.ca.gov\/faces\/billTextClient.xhtml?bill_id=202320240AB1214&search_keywords=%22court+reporters%22",
+                                "text": "AB 1214"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by Assembly Judiciary Chairman Brian Maienschein would allow defendants, at their request, to appear remotely in all proceedings except for trials through 2026. Felony defendants could appear remotely at arraignments, initial court appearances and other limited instances that don’t involve testimony. The bill would also require the Judicial Council to set minimum technology standards for remote proceedings and it would bar courts from retaliating against court reporters who notify judges about remote connection troubles or sound problems.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/leginfo.legislature.ca.gov\/faces\/billTextClient.xhtml?bill_id=202320240SB22",
+                                "text": "SB 22"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by Senate Judiciary Chairman Tom Umberg addresses some of the same issues as AB 1214 and would also extend until 2026 authority for courts to use remote proceedings in civil matters. Current statutory authority ends on July 1, 2023."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1677179657.671569",
+        "edited": {
+            "user": "U01B9FNF801",
+            "ts": "1677179705.000000"
+        },
+        "client_msg_id": "f94bfd81-80d5-4a15-acdf-dfffdc3c57b0",
+        "text": "Thanks <@U02LAK62DEV> - I used the <http:\/\/12ft.io|12ft.io> and apparently it only works on the preview. Good to know.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1677176520.000319",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q14JU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02LAK62DEV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - I used the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/12ft.io",
+                                "text": "12ft.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and apparently it only works on the preview. Good to know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1680631750.698549",
+        "client_msg_id": "1691bfa6-8bbe-4e69-a8c7-e43951848582",
+        "text": "Re: The Angry Army -- <@U036YAYMM> Should we contact that site or Inside Climate News about Kristi's byline and a link back to our website?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6qkRi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Re: The Angry Army -- "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Should we contact that site or Inside Climate News about Kristi's byline and a link back to our website?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680632334.951759",
+        "client_msg_id": "ac37d2df-a842-4ece-98fd-5f853a504e99",
+        "text": "Wouldn’t be a bad idea. I’m not sure how big their audience is or whether they’re a site that will pick us up in the future.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wouldn’t be a bad idea. I’m not sure how big their audience is or whether they’re a site that will pick us up in the future."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680639949.868709",
+        "client_msg_id": "03000bda-799f-47be-a059-b907b608c8df",
+        "text": "<https:\/\/weather.co\/climate-change\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/> They credit us at the top, but remove Kristi's credit, and link to ICN :face_palm:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680639949.868709",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1680655620.660129",
+        "reply_users": [
+            "U036YAYMM",
+            "U01B9FNF801"
+        ],
+        "replies": [
+            {
+                "user": "U036YAYMM",
+                "ts": "1680646104.890839"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1680646194.954749"
+            },
+            {
+                "user": "U01B9FNF801",
+                "ts": "1680652888.025639"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1680655620.660129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1680655620.660129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "50M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/weather.co\/climate-change\/promising-to-prevent-floods-at-treasure-island-builders-downplay-risk-of-sea-rise\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " They credit us at the top, but remove Kristi's credit, and link to ICN "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_palm",
+                                "unicode": "1f926"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680646104.890839",
+        "client_msg_id": "dc5cf41a-2702-4853-856a-ba7f242085db",
+        "text": "Ugh! This is a fake plagiarist website! This is one of the innumerable content-stripping farms that steal stories and then change random words using a thesaurus to try to avoid getting caught by the search engines. There are so many of these things that stole content from the LA Times, I’m sure they’re aware of this. But still, it’s frustrating, and I’m sure does tons of damage to journalism orgs’ reputations by inserting nonsense and factual errors all over the place. EVIL EVIL EVIL.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680639949.868709",
+        "parent_user_id": "U01B9FNF801",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CoL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ugh! This is a fake plagiarist website! This is one of the innumerable content-stripping farms that steal stories and then change random words using a thesaurus to try to avoid getting caught by the search engines. There are so many of these things that stole content from the LA Times, I’m sure they’re aware of this. But still, it’s frustrating, and I’m sure does tons of damage to journalism orgs’ reputations by inserting nonsense and factual errors all over the place. EVIL EVIL EVIL."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680646194.954749",
+        "client_msg_id": "70539be9-f2f7-4b3d-ba58-00033909a7bc",
+        "text": "This has happened to our content in the past, but it’s fairly pointless to try to ask for a takedown, as they know quite well what they’re doing, and I’m sure never respond by removing the content, much less changing their ways. The industry ought to launch a class-action suit.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680639949.868709",
+        "parent_user_id": "U01B9FNF801",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jKPVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This has happened to our content in the past, but it’s fairly pointless to try to ask for a takedown, as they know quite well what they’re doing, and I’m sure never respond by removing the content, much less changing their ways. The industry ought to launch a class-action suit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1680652888.025639",
+        "client_msg_id": "57183B78-3770-46EC-80E1-53E16C281704",
+        "text": "I see. I didn’t even skim this one but maybe Inside Climate News has more resources to go after them?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680639949.868709",
+        "parent_user_id": "U01B9FNF801",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILukv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see. I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " even skim this one but maybe Inside Climate News has more resources to go after them"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1680655620.660129",
+        "client_msg_id": "553a43f6-a0b4-46a0-b0a8-9159300ed7d7",
+        "text": "I spent 10 minutes and wrote an angry takedown letter to GoDaddy, their host. I don’t expect anything to come of it, but it made me feel good.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1680639949.868709",
+        "parent_user_id": "U01B9FNF801",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GU93",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I spent 10 minutes and wrote an angry takedown letter to GoDaddy, their host. I don’t expect anything to come of it, but it made me feel good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5",
+                    "U02DXRYCD2N",
+                    "U01B9FNF801"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

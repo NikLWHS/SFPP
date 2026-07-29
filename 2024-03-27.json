@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1711569907.323009",
+        "client_msg_id": "3bdbab08-9600-4687-9881-7d6ac072bd76",
+        "text": "Mention and link to our reporting in East Bay Times: <https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-recycling-city-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/|https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-[…]-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.eastbaytimes.com\/wp-content\/uploads\/2024\/03\/SJM-L-BADRECYCLERS-1-1.jpg?w=1024&h=768",
+                "image_width": 1024,
+                "image_height": 768,
+                "image_bytes": 141100,
+                "from_url": "https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-recycling-city-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/",
+                "service_icon": "https:\/\/www.eastbaytimes.com\/favicon.ico",
+                "ts": 1711544425,
+                "id": 1,
+                "original_url": "https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-recycling-city-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/",
+                "fallback": "East Bay Times: One major Bay Area city is particularly bad at recycling. City staff have a hands-on idea for how to turn it around.",
+                "text": "The double-sided tag will have a green “Good job!” message with a smiley face on one side, which will be shown to residents who recycle correctly. Residents who do not recycle correctly may wake up…",
+                "title": "One major Bay Area city is particularly bad at recycling. City staff have a hands-on idea for how to turn it around.",
+                "title_link": "https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-recycling-city-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/",
+                "service_name": "East Bay Times"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CN+V1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mention and link to our reporting in East Bay Times: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-recycling-city-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/",
+                                "text": "https:\/\/www.eastbaytimes.com\/2024\/03\/27\/one-major-bay-area-city-is-particularly-bad-at-[…]-staff-have-a-hands-on-idea-for-how-to-turn-it-around\/amp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B9FNF801",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1677788562.293599",
+        "client_msg_id": "57edff44-da08-4114-8ff2-a2657d11b2df",
+        "text": "<https:\/\/48hills.org\/2023\/03\/radio-play-the-forever-wave-imagines-the-climate-drowned-sf-of-2070\/>\n&gt; *THE FOREVER WAVE* _kicks off Sat\/4, 8pm-10pm on KSFP 102.5 LP FM, (also <http:\/\/sfpublicpress.org\/ksfp|sfpublicpress.org\/ksfp>) broadcasting from Sutro Tower in San Francisco, and then continues with other dates around the Bay Area. <https:\/\/estrellasuerteproductions.com\/forever-wave\/|See the full schedule here>._",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RAtca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/48hills.org\/2023\/03\/radio-play-the-forever-wave-imagines-the-climate-drowned-sf-of-2070\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "THE FOREVER WAVE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "kicks off Sat\/4, 8pm-10pm on KSFP 102.5 LP FM, (also ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sfpublicpress.org\/ksfp",
+                                "text": "sfpublicpress.org\/ksfp",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") broadcasting from Sutro Tower in San Francisco, and then continues with other dates around the Bay Area. ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/estrellasuerteproductions.com\/forever-wave\/",
+                                "text": "See the full schedule here",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1677788701.545209",
+        "client_msg_id": "b20b1963-e6d0-49a0-815a-857153c2f4a8",
+        "text": "KSFP got 2 mentions\n<https:\/\/www.broadwayworld.com\/san-francisco\/article\/New-Radio-Play-THE-FOREVER-WAVE-To-Air-This-March-20230124>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KSFP got 2 mentions\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.broadwayworld.com\/san-francisco\/article\/New-Radio-Play-THE-FOREVER-WAVE-To-Air-This-March-20230124"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

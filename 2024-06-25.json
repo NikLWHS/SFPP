@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1719335731.516779",
+        "client_msg_id": "bf3c2610-c59b-4db3-8a64-359a6d506df2",
+        "text": "\"Fellow Zhe Wu exposed <https:\/\/www.sfpublicpress.org\/as-bay-area-cities-adopt-real-time-ai-translation-for-public-meetings-sf-abstains\/|inadequate language services at San Francisco public meetings> for the San Francisco Public Press.\"\nFrom this release by <https:\/\/fellowships.journalism.berkeley.edu\/cafellows\/another-boost-to-local-news-in-california-state-funded-fellows-to-report-from-shasta-to-orange-counties\/|CA Local News Fellowships>.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xa0bK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Fellow Zhe Wu exposed "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/as-bay-area-cities-adopt-real-time-ai-translation-for-public-meetings-sf-abstains\/",
+                                "text": "inadequate language services at San Francisco public meetings"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the San Francisco Public Press.\"\nFrom this release by "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fellowships.journalism.berkeley.edu\/cafellows\/another-boost-to-local-news-in-california-state-funded-fellows-to-report-from-shasta-to-orange-counties\/",
+                                "text": "CA Local News Fellowships"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1719335769.087749",
+        "client_msg_id": "6618339e-ee83-41e4-b52a-4b23fdb170aa",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qF+xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1719345215.479699",
+        "client_msg_id": "85c423bd-38f6-43ec-823a-8c98c13d34f9",
+        "text": "Oh that's so cool!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iG1rA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh that's so cool!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

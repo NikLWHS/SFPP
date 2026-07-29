@@ -1,0 +1,197 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1725915764.316979",
+        "client_msg_id": "721c9adf-9e1d-4c60-8d32-d7a79dfe1031",
+        "text": "<https:\/\/www.kalw.org\/2024-09-03\/for-many-san-franciscans-city-hall-meetings-are-lost-in-translation>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalw.org\/2024-09-03\/for-many-san-franciscans-city-hall-meetings-are-lost-in-translation",
+                "ts": 1725393600,
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/bbc5cea\/2147483647\/strip\/true\/crop\/4608x2419+0+257\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F7f%2Ffdcfe84841e1a0998ee704da8d95%2Fzhe-wu-san-francisco-public-press.JPG",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 93582,
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2024-09-03\/for-many-san-franciscans-city-hall-meetings-are-lost-in-translation",
+                "fallback": "KALW: For many San Franciscans, City Hall meetings are lost in translation",
+                "text": "In a racially-diverse city, like San Francisco, English is a second language for many communities. But when these communities come to City Hall with their concerns it is often difficult navigating around the government bureaucracy.",
+                "title": "For many San Franciscans, City Hall meetings are lost in translation",
+                "title_link": "https:\/\/www.kalw.org\/2024-09-03\/for-many-san-franciscans-city-hall-meetings-are-lost-in-translation",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Z96z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2024-09-03\/for-many-san-franciscans-city-hall-meetings-are-lost-in-translation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1725915776.858929",
+        "client_msg_id": "8ec7f7b4-cbb7-40d8-bba1-f4f2b0c008d8",
+        "text": "<https:\/\/www.ehn.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669107287.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ehn.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669107287.html",
+                "ts": 1725360820,
+                "image_url": "https:\/\/www.ehn.org\/media-library\/image.jpg?id=53576217&width=1200&height=600&coordinates=0%2C80%2C0%2C80",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 157524,
+                "service_icon": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MjAyOTQ4MC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1MjQyNjYwNH0.R3gYrNdEoQOROdrU5cecYQc4GEyIG4J-pmGChKqW8es\/img.png?width=192&amp;height=192",
+                "id": 1,
+                "original_url": "https:\/\/www.ehn.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669107287.html",
+                "fallback": "EHN: San Francisco landlord leads eco-friendly renovation while safeguarding tenants",
+                "text": "A San Francisco landlord is testing how green retrofits can enhance comfort without displacing low-income tenants, amid concerns that citywide efforts could raise rents and push out residents.Audrey Mei Yi Brown reports for San Francisco Public <http:\/\/Press.In|Press.In> short:Amparo Vigil, a landlord in the Mission ...",
+                "title": "San Francisco landlord leads eco-friendly renovation while safeguarding tenants",
+                "title_link": "https:\/\/www.ehn.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669107287.html",
+                "service_name": "EHN"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MJDOJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ehn.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669107287.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1725915811.797179",
+        "client_msg_id": "09000cad-451d-4d5e-b95d-b0faa1584fa9",
+        "text": "<https:\/\/www.dailyclimate.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669119721.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.dailyclimate.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669119721.html",
+                "ts": 1725361080,
+                "image_url": "https:\/\/www.dailyclimate.org\/media-library\/image.jpg?id=53576217&width=1200&height=600&coordinates=0%2C80%2C0%2C80",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 157524,
+                "service_icon": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xNTE0NDgwMi8yMDAweC5qcGciLCJleHBpcmVzX2F0IjoxNzY1MDQzNDM0fQ.Br2KAsCAJkWrlrVS3_aAvexfu_EhBmyuR4tPa2AU6fE\/img.jpg?width=192&amp;height=192",
+                "id": 1,
+                "original_url": "https:\/\/www.dailyclimate.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669119721.html",
+                "fallback": "The Daily Climate: San Francisco landlord leads eco-friendly renovation while safeguarding tenants",
+                "text": "A San Francisco landlord is testing how green retrofits can enhance comfort without displacing low-income tenants, amid concerns that citywide efforts could raise rents and push out residents.Audrey Mei Yi Brown reports for San Francisco Public <http:\/\/Press.In|Press.In> short:Amparo Vigil, a landlord in the Mission ...",
+                "title": "San Francisco landlord leads eco-friendly renovation while safeguarding tenants",
+                "title_link": "https:\/\/www.dailyclimate.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669119721.html",
+                "service_name": "The Daily Climate"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YupEK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dailyclimate.org\/san-francisco-landlord-leads-eco-friendly-renovation-while-safeguarding-tenants-2669119721.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

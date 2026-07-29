@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Got into the widget! <@U05RTFC5UP7> see screen snip",
+        "files": [
+            {
+                "id": "F075NPUCTPH",
+                "created": 1717203487,
+                "timestamp": 1717203487,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 666090,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F075NPUCTPH\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F075NPUCTPH\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 151,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 202,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 302,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 336,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 403,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F075NPUCTPH-4aed1bb6e0\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 430,
+                "original_w": 1245,
+                "original_h": 523,
+                "thumb_tiny": "AwAUADC79oh3Fd4yOoo+0Q4z5i+nWqTWkxmc8BSSfvc09LeeNcLgnPUtigCwZ4XbAkQ+xFOWaIDBkX8OKpR2k6yBjt6nPzU\/7NJwcKD3560mBbM0I6uKckkbthWBNVGtnOMhTgY64qW3haOQk45HPNGoyxgUY5B9KWimIKAMDFFFACFcnvS0UUAf\/9k=",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F075NPUCTPH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F075NPUCTPH-b67edcb97d",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bYVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got into the widget! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05RTFC5UP7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " see screen snip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1717203496.578659",
+        "client_msg_id": "5a8a2cea-c285-45a9-8a96-a78525b4af17",
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

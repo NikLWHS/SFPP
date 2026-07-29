@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1685569681.642039",
+        "client_msg_id": "8f6422e3-9042-4b98-94b5-3b9c751f7415",
+        "text": "From one of my sources (Prof. James Lance Taylor) in response to me sharing the story link: _Madison, thank you. Excellent and compelling work. Thanks for including me!_\n\nAlways nice to get good feedback",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xUW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From one of my sources (Prof. James Lance Taylor) in response to me sharing the story link: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Madison, thank you. Excellent and compelling work. Thanks for including me!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAlways nice to get good feedback"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U01B9FNF801",
+                    "U01PU2BUHU5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

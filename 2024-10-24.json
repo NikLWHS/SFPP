@@ -1,0 +1,157 @@
+[
+    {
+        "text": "So great to see all our write ups at KALW (yay!)  but were they going to embed our 2- minute audio briefs on prop there too? <@UKJ1HMMAM>\n<https:\/\/www.kalw.org\/2024-elections>",
+        "files": [
+            {
+                "id": "F07TSHN110R",
+                "created": 1729794839,
+                "timestamp": 1729794839,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 128386,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F07TSHN110R\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F07TSHN110R\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 314,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 419,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 628,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07TSHN110R-ad76ea7d76\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 698,
+                "original_w": 802,
+                "original_h": 700,
+                "thumb_tiny": "AwApADCvdPILuTEjBQ3TdTI53MsY3v8AeGcsfWrFxeOly6COLAbGStIl4xkjGyHJIHCe9LoNXNQBsnLYpcH++f0pAzEnC0uW\/uj86Ygwf75\/SlAP97NJlv7o\/OlBbPKgfjQBl3D2ouHDrMW3c4PFMT7H5iMEmBLDGSOuanm095JncMg3HI61GmmSrIjGRCFIPegNDS3DPel3L6mgDBOABml59qAEDr6n8qUMCeKOfal5oAw7pWN3Ie27pUcZPmxDaRhh\/OugpO9AXGBeTlvyp2B\/eP506igBuB\/eP50AAH7xP1NOooA\/\/9k=",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F07TSHN110R\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F07TSHN110R-54eee8f3c8",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rTj6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So great to see all our write ups at KALW (yay!)  but were they going to embed our 2- minute audio briefs on prop there too? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/2024-elections"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1729794890.583819",
+        "client_msg_id": "7087d171-9985-4612-a7f0-0df2c03d048a",
+        "thread_ts": "1729794890.583819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1729896373.951939",
+        "reply_users": [
+            "UKC0EQURX"
+        ],
+        "replies": [
+            {
+                "user": "UKC0EQURX",
+                "ts": "1729896373.951939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kalw.org\/2024-elections",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/2024-elections",
+                "fallback": "KALW: 2024 Elections",
+                "text": "Coverage of the 2024 elections from the San Francisco Bay Area.",
+                "title": "2024 Elections",
+                "title_link": "https:\/\/www.kalw.org\/2024-elections",
+                "service_name": "KALW"
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1729795102.403829",
+        "client_msg_id": "cc350331-8a29-4f76-ac52-68daef5bb80f",
+        "text": "They asked for KSFP and SFPP logos which I thought they were going to incorporate with the audio. These short takes are text versions of the scipts. They will also give us a schedule on when all of the short pieces aired in the live newscasts after the election.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9PsM1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They asked for KSFP and SFPP logos which I thought they were going to incorporate with the audio. These short takes are text versions of the scipts. They will also give us a schedule on when all of the short pieces aired in the live newscasts after the election."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

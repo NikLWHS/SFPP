@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1674018608.148549",
+        "client_msg_id": "120F7356-7AB1-4794-87FC-25E4B12A59D6",
+        "text": "<https:\/\/twitter.com\/votesf_app\/status\/1615573733682597889?s=46&amp;t=F-KPjvV7CPXeHo3qYo8DZw|https:\/\/twitter.com\/votesf_app\/status\/1615573733682597889?s=46&amp;t=F-KPjvV7CPXeHo3qYo8DZw> ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/votesf_app\/status\/1615573733682597889?s=46&amp;t=F-KPjvV7CPXeHo3qYo8DZw",
+                "ts": 1674017768,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/votesf_app\/status\/1615573733682597889?s=46&amp;t=F-KPjvV7CPXeHo3qYo8DZw",
+                "fallback": "<https:\/\/twitter.com\/VoteSF_app|@VoteSF_app>: 1) New voters &amp; voters unfamiliar with SF politics got most value of features that gave context about local races and candidates. The contests marked \"notable\" (:fire:) had the most engagement and users reported the finding <https:\/\/twitter.com\/SFPublicPress|@SFPublicPress>'s candidate descriptions very informative",
+                "text": "1) New voters &amp; voters unfamiliar with SF politics got most value of features that gave context about local races and candidates. The contests marked \"notable\" (:fire:) had the most engagement and users reported the finding <https:\/\/twitter.com\/SFPublicPress|@SFPublicPress>'s candidate descriptions very informative",
+                "author_name": "VoteSF",
+                "author_link": "https:\/\/twitter.com\/VoteSF_app\/status\/1615573733682597889",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1568145706762014720\/nMGwcueY_normal.jpg",
+                "author_subname": "@VoteSF_app",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcEj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/votesf_app\/status\/1615573733682597889?s=46&t=F-KPjvV7CPXeHo3qYo8DZw",
+                                "text": "https:\/\/twitter.com\/votesf_app\/status\/1615573733682597889?s=46&t=F-KPjvV7CPXeHo3qYo8DZw"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

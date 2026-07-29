@@ -1,0 +1,265 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1676661432.969219",
+        "edited": {
+            "user": "U01B9FNF801",
+            "ts": "1676661455.000000"
+        },
+        "client_msg_id": "f25b64f6-ead4-4771-97fc-1a5e927bfe5c",
+        "text": "Scroll down to \"articles about parental alienation\" for TWO from us <https:\/\/pissedoffparent.com\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pissedoffparent.com\/",
+                "image_url": "https:\/\/pissedoffparent.com\/wp-content\/uploads\/2019\/12\/youtube-image-e1599507655586.png",
+                "image_width": 1000,
+                "image_height": 550,
+                "image_bytes": 502589,
+                "service_icon": "https:\/\/pissedoffparent.com\/wp-content\/uploads\/2019\/05\/POP_LOGO-1.png",
+                "id": 1,
+                "original_url": "https:\/\/pissedoffparent.com\/",
+                "fallback": "Pissed Off Parent",
+                "text": "Portal site for learning about % equal shared parenting % , % child support % , the OAG, % parental alienation % , and % parental alienation % .",
+                "title": "Pissed Off Parent",
+                "title_link": "https:\/\/pissedoffparent.com\/",
+                "service_name": "pissedoffparent.com",
+                "fields": [
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sRZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scroll down to \"articles about parental alienation\" for TWO from us "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pissedoffparent.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02V28GTKMW",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1676661522.269729",
+        "client_msg_id": "fa4186fb-0cae-4519-a3a4-4845e1c0450d",
+        "text": "Reporter's notebook also made it to the side bar here <https:\/\/divorcelawyercosprings.com\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/divorcelawyercosprings.com\/",
+                "image_url": "http:\/\/divorcelawyercosprings.com\/wp-content\/uploads\/2022\/02\/divorce.jpg",
+                "image_width": 600,
+                "image_height": 320,
+                "image_bytes": 15665,
+                "service_icon": "https:\/\/divorcelawyercosprings.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/divorcelawyercosprings.com\/",
+                "fallback": "Colorado Springs Divorce Lawyers: Colorado Springs Divorce &amp; Family Law",
+                "text": "Family Law in Colorado Springs Our Family Law Firm provides civil separation, child custody, marriage dissolution, and Colorado Springs child custody details to all who are contemplating using a Colorado divorce lawyer. We offer a free initial review of your situation by a premier Colorado Read More ...",
+                "title": "Colorado Springs Divorce &amp; Family Law",
+                "title_link": "https:\/\/divorcelawyercosprings.com\/",
+                "service_name": "Colorado Springs Divorce Lawyers",
+                "fields": [
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0VR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reporter's notebook also made it to the side bar here "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/divorcelawyercosprings.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1676662896.576999",
+        "client_msg_id": "5bfcbae8-87a7-4f7c-a454-4495d7121a2e",
+        "text": "2nd from the top for Ambika's Climate\/Aging story <https:\/\/www.geron.org\/press-room\/journalists-in-aging-fellows-program\/media-coverage>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.geron.org\/press-room\/journalists-in-aging-fellows-program\/media-coverage",
+                "service_icon": "https:\/\/www.geron.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.geron.org\/press-room\/journalists-in-aging-fellows-program\/media-coverage",
+                "fallback": "Media Coverage",
+                "text": "The Gerontological Society of America",
+                "title": "Media Coverage",
+                "title_link": "https:\/\/www.geron.org\/press-room\/journalists-in-aging-fellows-program\/media-coverage",
+                "service_name": "geron.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L9y6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2nd from the top for Ambika's Climate\/Aging story "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.geron.org\/press-room\/journalists-in-aging-fellows-program\/media-coverage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1676663580.775219",
+        "client_msg_id": "9074d344-c9a9-4bce-b4bc-714fb93e599a",
+        "text": "Scroll all the way down to the last category \"Division Street and related materials\" <https:\/\/robertgumpert.com\/7-days\/23-january-29-january-2023> for Yesi &amp; Madison's storm story",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/robertgumpert.com\/7-days\/23-january-29-january-2023",
+                "service_icon": "https:\/\/assets.squarespace.com\/universal\/default-favicon.ico",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/614891f27b90a13c4765cac3\/t\/63d695629391646b57b3ba68\/1675007330202\/01+23_01_24-003.jpg?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 1125,
+                "id": 1,
+                "original_url": "https:\/\/robertgumpert.com\/7-days\/23-january-29-january-2023",
+                "fallback": "Robert Gumpert  |  Photographer: 23 January – 29 January 2023 — Robert Gumpert  |  Photographer",
+                "text": "Photography",
+                "title": "23 January – 29 January 2023 — Robert Gumpert  |  Photographer",
+                "title_link": "https:\/\/robertgumpert.com\/7-days\/23-january-29-january-2023",
+                "service_name": "Robert Gumpert  |  Photographer"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scroll all the way down to the last category \"Division Street and related materials\" "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/robertgumpert.com\/7-days\/23-january-29-january-2023"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for Yesi & Madison's storm story"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

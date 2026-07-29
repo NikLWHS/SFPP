@@ -1,0 +1,117 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1723062992.311819",
+        "client_msg_id": "3ad4dda1-ec17-45c6-b878-7c0a2897efcd",
+        "text": "Link to our Miranda event post from MuckRock —\n\n<https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financial-disclosures-and-other-public-records-can-improve-election-reporting\/|https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financ[…]res-and-other-public-records-can-improve-election-reporting\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723062992.311819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1723063333.540279",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1723063333.540279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financial-disclosures-and-other-public-records-can-improve-election-reporting\/",
+                "image_url": "https:\/\/cdn.muckrock.com\/news_images\/2024\/08\/07\/For_the_Record.png.2400x800_q85.png",
+                "image_width": 2400,
+                "image_height": 800,
+                "image_bytes": 34568,
+                "service_icon": "https:\/\/cdn.muckrock.com\/icons\/logo.png",
+                "id": 1,
+                "original_url": "https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financial-disclosures-and-other-public-records-can-improve-election-reporting\/",
+                "fallback": "MuckRock: For the Record: How personal financial disclosures and other public records can improve election reporting",
+                "text": "Take advantage of new resources to help your election reporting.",
+                "title": "For the Record: How personal financial disclosures and other public records can improve election reporting",
+                "title_link": "https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financial-disclosures-and-other-public-records-can-improve-election-reporting\/",
+                "service_name": "MuckRock"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cGsDU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link to our Miranda event post from MuckRock —\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financial-disclosures-and-other-public-records-can-improve-election-reporting\/",
+                                "text": "https:\/\/www.muckrock.com\/news\/archives\/2024\/aug\/07\/for-the-record-how-personal-financ[…]res-and-other-public-records-can-improve-election-reporting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1723063333.540279",
+        "client_msg_id": "fe57b637-62a2-4333-a713-d55461fb431c",
+        "text": "Thanks Amanda. it's a love-fest. She and I connected again during the Logan Symposium.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1723062992.311819",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hnmnD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Amanda. it's a love-fest. She and I connected again during the Logan Symposium."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

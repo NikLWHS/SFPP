@@ -1,0 +1,94 @@
+[
+    {
+        "text": "Um, well this wasn't the first one I'd hoped KQED would use in their widget...",
+        "files": [
+            {
+                "id": "F06SH5SC15G",
+                "created": 1712099620,
+                "timestamp": 1712099620,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 489554,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F06SH5SC15G\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F06SH5SC15G\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 262,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 349,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 524,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SH5SC15G-7e8712e240\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 582,
+                "original_w": 917,
+                "original_h": 667,
+                "thumb_tiny": "AwAiADC+\/DdW\/AZpM+7\/APfNVL6Ux3CjcQu3oKZDLG6yb\/vAcE80AaI5A\/rS4FUZfJDjecEqD\/KmQom5s4\/1mOtK6CzNHFGKqNdqrMPkyCRjNLFdb3VTsyT2JP8ASi4E8kaO2WRWPqRmkEEQ6Ig\/4CKQBnd\/3jDDYAGPQUFSOsrD\/gQ\/wqrCBoo2PMan\/gIpVgiHIjUf8BFNwf8Anqf++h\/hSENniU4\/3h\/hRYdx\/kxkkmNevXA5pRDGpBCqCPYVGFkPSQ\/99D\/Chw6RFvMbIHtRYVx6ffk\/3v6Cn4B6imJ9+T\/e\/oKfQwG7V\/uj8qQqPQU+mmgYmABwKjm\/1LfSpD0qOb\/Ut9KFuJn\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F06SH5SC15G\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F06SH5SC15G-2f7111ba8a",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IAx6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Um, well this wasn't the first one I'd hoped KQED would use in their widget..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712110197.849549",
+        "client_msg_id": "9fdd1203-4816-4076-87e6-fec162555601",
+        "thread_ts": "1712110197.849549",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712250686.849509",
+        "reply_users": [
+            "U19LB1TK5"
+        ],
+        "replies": [
+            {
+                "user": "U19LB1TK5",
+                "ts": "1712250686.849509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

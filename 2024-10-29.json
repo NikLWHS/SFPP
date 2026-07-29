@@ -1,0 +1,215 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1730252100.591769",
+        "client_msg_id": "b90c986c-faa8-4e03-8f27-51c9f5ca0110",
+        "text": "Bay Nature republished our Prop K page, and linked to the voter guide and our newsletter signup page. It looks really good.\n\nAnd they'll link to it in their own newsletter, which goes out Thursday. <https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/|https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/baynature.org\/wp-content\/uploads\/2024\/10\/prop-k-lincoln-great-hw-20240905-0255.jpg",
+                "image_width": 1800,
+                "image_height": 1246,
+                "image_bytes": 1831041,
+                "from_url": "https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/",
+                "service_icon": "https:\/\/baynature.org\/wp-content\/themes\/crate\/apple-touch-icon.png",
+                "ts": 1730251186,
+                "id": 1,
+                "original_url": "https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/",
+                "fallback": "Bay Nature: What to Do With SF's Great Highway? Here's the Skinny on Prop. K. -",
+                "text": "City voters will decide this year whether to authorize the Great Highway to go car-free, and maybe become a park. The San Francisco Public Press reports.",
+                "title": "What to Do With SF's Great Highway? Here's the Skinny on Prop. K. -",
+                "title_link": "https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/",
+                "service_name": "Bay Nature",
+                "fields": [
+                    {
+                        "value": "Zhe Wu",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41c+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bay Nature republished our Prop K page, and linked to the voter guide and our newsletter signup page. It looks really good.\n\nAnd they'll link to it in their own newsletter, which goes out Thursday. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/",
+                                "text": "https:\/\/baynature.org\/2024\/10\/29\/what-to-do-with-sfs-great-highway-heres-the-skinny-on-prop-k\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801",
+                    "U02V28GTKMW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1730252140.923219",
+        "client_msg_id": "e5f487ed-4b88-4448-a894-ce4bb57d0b05",
+        "text": "From Kate Golden: \"Added a link in the intro tag to your voter guide because it is excellent and people should know about it\"\n\n:)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y7VAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From Kate Golden: \"Added a link in the intro tag to your voter guide because it is excellent and people should know about it\"\n\n:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "UKC0EQURX",
+                    "U07BW27EEHF"
+                ],
+                "count": 3
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1730254699.820319",
+        "client_msg_id": "a9c431c7-c468-4afb-b75c-fca21408bdb9",
+        "text": "It looks great! I'm happy to see Zhe's reporting reaching more people :slightly_smiling_face:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTWpF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks great! I'm happy to see Zhe's reporting reaching more people "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

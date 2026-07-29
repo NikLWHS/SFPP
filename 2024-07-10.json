@@ -1,0 +1,125 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1720642699.889859",
+        "client_msg_id": "5fb8f354-161f-49f5-a9a0-4f67b6953377",
+        "text": "<@U02LAK62DEV> We're in their newsletter! <https:\/\/calmatters.org\/newsletter\/us-supreme-court-decisions-california\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/i0.wp.com\/calmatters.org\/wp-content\/uploads\/2022\/04\/021214-Amazon-Warehouse-Tracy-REUTERS-CM-01.jpg?fit=2000%2C1333&ssl=1",
+                "image_width": 2000,
+                "image_height": 1333,
+                "image_bytes": 1298477,
+                "from_url": "https:\/\/calmatters.org\/newsletter\/us-supreme-court-decisions-california\/",
+                "service_icon": "https:\/\/i0.wp.com\/calmatters.org\/wp-content\/uploads\/2022\/06\/cropped-favicon_2023_512.png?fit=180%2C180&amp;ssl=1",
+                "ts": 1720616400,
+                "id": 1,
+                "original_url": "https:\/\/calmatters.org\/newsletter\/us-supreme-court-decisions-california\/",
+                "fallback": "CalMatters: How California laws may help shield it from Supreme Court decisions",
+                "text": "California laws might serve as a “regulatory backup” if federal regulations and policies start getting overturned.",
+                "title": "How California laws may help shield it from Supreme Court decisions",
+                "title_link": "https:\/\/calmatters.org\/newsletter\/us-supreme-court-decisions-california\/",
+                "service_name": "CalMatters",
+                "fields": [
+                    {
+                        "value": "7 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    },
+                    {
+                        "value": "Lynn La",
+                        "title": "Written by",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpK6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02LAK62DEV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We're in their newsletter! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calmatters.org\/newsletter\/us-supreme-court-decisions-california\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1720643012.561189",
+        "client_msg_id": "ccad0cba-1363-4313-a421-0b3b5aa4bb99",
+        "text": "AWESOME! we'll thank Dan Hu here tomorrow. Great article, and timing. Listed above all the other external bits. Yay! Congrats to you Lila for forging this relationship with Dan.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e4Egk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AWESOME! we'll thank Dan Hu here tomorrow. Great article, and timing. Listed above all the other external bits. Yay! Congrats to you Lila for forging this relationship with Dan."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1732565805.594769",
+        "client_msg_id": "7eabf7ca-0db5-4a14-b5a2-07051e9434bb",
+        "text": "Well, this is interesting. . .\n\n<https:\/\/mediabiasfactcheck.com\/san-francisco-public-press-bias\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732565805.594769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1732577623.006019",
+        "reply_users": [
+            "U02DXRYCD2N"
+        ],
+        "replies": [
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1732577623.006019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/mediabiasfactcheck.com\/wp-content\/uploads\/2023\/09\/DESIGN2Final-e1723214119173.png",
+                "image_width": 1600,
+                "image_height": 900,
+                "image_bytes": 207359,
+                "from_url": "https:\/\/mediabiasfactcheck.com\/san-francisco-public-press-bias\/",
+                "service_icon": "https:\/\/i0.wp.com\/mediabiasfactcheck.com\/wp-content\/uploads\/2020\/12\/cropped-transparent-MBFC-Square512.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/mediabiasfactcheck.com\/san-francisco-public-press-bias\/",
+                "fallback": "Media Bias\/Fact Check: San Francisco Public Press - Bias and Credibility",
+                "text": "LEFT BIAS These media sources are moderate to strongly biased toward liberal causes through story selection and\/or political affiliation.  They may",
+                "title": "San Francisco Public Press - Bias and Credibility",
+                "title_link": "https:\/\/mediabiasfactcheck.com\/san-francisco-public-press-bias\/",
+                "service_name": "Media Bias\/Fact Check",
+                "fields": [
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKEGQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, this is interesting. . .\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mediabiasfactcheck.com\/san-francisco-public-press-bias\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1732565829.945579",
+        "client_msg_id": "47ab5f07-dc71-471c-989d-183194665ac8",
+        "text": "<https:\/\/www.theguardian.com\/us-news\/2024\/nov\/25\/san-francisco-navy-lab-human-radiation>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/i.guim.co.uk\/img\/media\/43db7dde97a4c4d749dc350042f7cb17decb9de6\/0_112_1170_702\/master\/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab2ce5657bf3ada43e448265f83510af",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 132694,
+                "from_url": "https:\/\/www.theguardian.com\/us-news\/2024\/nov\/25\/san-francisco-navy-lab-human-radiation",
+                "service_icon": "https:\/\/www.theguardian.com\/favicon.ico",
+                "ts": 1732561202,
+                "id": 1,
+                "original_url": "https:\/\/www.theguardian.com\/us-news\/2024\/nov\/25\/san-francisco-navy-lab-human-radiation",
+                "fallback": "the Guardian: Revealed: how a San Francisco navy lab became a hub for human radiation experiments",
+                "text": "Operations at a cold war lab exposed at least 1,073 people to radiation. Risks to the nearby communities persist",
+                "title": "Revealed: how a San Francisco navy lab became a hub for human radiation experiments",
+                "title_link": "https:\/\/www.theguardian.com\/us-news\/2024\/nov\/25\/san-francisco-navy-lab-human-radiation",
+                "service_name": "the Guardian"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OWEt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/us-news\/2024\/nov\/25\/san-francisco-navy-lab-human-radiation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1732577623.006019",
+        "client_msg_id": "afbb7485-d73c-40dd-8fe5-89212dcc58ca",
+        "text": "this website is an interesting rabbit hole lol. amusing that their apparent rating comes in part from an article we republished and not one we wrote lol",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1732565805.594769",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/i2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this website is an interesting rabbit hole lol. amusing that their apparent rating comes in part from an article we republished and not one we wrote lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,358 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1713990280.732049",
+        "client_msg_id": "af497096-57d4-4c8f-9e01-075efefe8375",
+        "text": "Ran today at 11:30 am on KALW and is on their website. <https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713990280.732049",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1713998423.333549",
+        "reply_users": [
+            "U02LAK62DEV",
+            "UKJ1HMMAM"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1713997709.186729"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1713997861.345039"
+            },
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1713998335.255529"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1713998423.333549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d167913\/2147483647\/strip\/true\/crop\/1156x650+22+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 238281,
+                "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants",
+                "fallback": "KALW: CIVIC: Is SF a Sanctuary City if There's No Shelter for Migrants?",
+                "text": "The second of three investigative stories airing this week from CIVIC, a podcast produced by SF Public Press.",
+                "title": "CIVIC: Is SF a Sanctuary City if There's No Shelter for Migrants?",
+                "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1etNA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ran today at 11:30 am on KALW and is on their website. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1713997709.186729",
+        "client_msg_id": "9d791c31-6710-410c-a32b-0841ee106f34",
+        "text": "love seeing this. <@UKJ1HMMAM> could you nudge them to link to our site on words Civic and\/or San Francisco Public Press?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713990280.732049",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8QKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "love seeing this. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKJ1HMMAM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you nudge them to link to our site on words Civic and\/or San Francisco Public Press?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1713997846.745519",
+        "client_msg_id": "02f6caa8-cd14-4527-a989-eab1f28ad3fb",
+        "text": "actualyy it makes me wonder if for i ternal tracking if Slack can connect with a google sheet and our people can choose from a simple list of tags...",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713897423.991119",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4\/FOM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "actualyy it makes me wonder if for i ternal tracking if Slack can connect with a google sheet and our people can choose from a simple list of tags..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1713997861.345039",
+        "client_msg_id": "7fb53e86-0f3d-4425-aa92-b41e579b301c",
+        "text": "I can ask. Maybe directly to the Civic page? The reporter link does take them back to our website.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713990280.732049",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wz3Xv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can ask. Maybe directly to the Civic page? The reporter link does take them back to our website."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "UKJ1HMMAM",
+        "thread_ts": "1713990280.732049",
+        "root": {
+            "user": "UKJ1HMMAM",
+            "type": "message",
+            "ts": "1713990280.732049",
+            "client_msg_id": "af497096-57d4-4c8f-9e01-075efefe8375",
+            "text": "Ran today at 11:30 am on KALW and is on their website. <https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants>",
+            "team": "T036YAYMK",
+            "thread_ts": "1713990280.732049",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1713998423.333549",
+            "reply_users": [
+                "U02LAK62DEV",
+                "UKJ1HMMAM"
+            ],
+            "replies": [
+                {
+                    "user": "U02LAK62DEV",
+                    "ts": "1713997709.186729"
+                },
+                {
+                    "user": "UKJ1HMMAM",
+                    "ts": "1713997861.345039"
+                },
+                {
+                    "user": "UKJ1HMMAM",
+                    "ts": "1713998335.255529"
+                },
+                {
+                    "user": "U02LAK62DEV",
+                    "ts": "1713998423.333549"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/d167913\/2147483647\/strip\/true\/crop\/1156x650+22+0\/resize\/1200x675!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fa6%2Fc7aefe9c4e6aa496466ba7656b27%2Fbm-civic-art-horizontal.png",
+                    "image_width": 1200,
+                    "image_height": 675,
+                    "image_bytes": 238281,
+                    "from_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants",
+                    "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                    "id": 1,
+                    "original_url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants",
+                    "fallback": "KALW: CIVIC: Is SF a Sanctuary City if There's No Shelter for Migrants?",
+                    "text": "The second of three investigative stories airing this week from CIVIC, a podcast produced by SF Public Press.",
+                    "title": "CIVIC: Is SF a Sanctuary City if There's No Shelter for Migrants?",
+                    "title_link": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants",
+                    "service_name": "KALW"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1etNA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Ran today at 11:30 am on KALW and is on their website. "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.kalw.org\/show\/bay-made\/2024-04-24\/civic-is-sf-a-sanctuary-city-if-theres-no-shelter-for-migrants"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1713998335.255529",
+        "client_msg_id": "e3a4b170-9d24-4f34-9554-44c172b9d787",
+        "text": "I’ve asked David to do an url link in the body of their description that takes them back to the individual stories. That seems like a simple lift and doesn’t break their format structure.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "25DlR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve asked David to do an url link in the body of their description that takes them back to the individual stories. That seems like a simple lift and doesn’t break their format structure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1713998423.333549",
+        "client_msg_id": "0339274e-8ef0-49a2-890c-938e5c03e538",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713990280.732049",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CrZI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

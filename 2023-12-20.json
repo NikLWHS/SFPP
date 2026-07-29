@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1703119037.018209",
+        "client_msg_id": "05a10a2d-8733-4373-8622-9b4e89773075",
+        "text": "Ethnic Media Services picked up Viji’s story. It’s an abbreviated version for distribution through their partner network. I’ll let you know if any other publications pick it up.\n\n<https:\/\/ethnicmediaservices.org\/domestic-violence\/court-reporter-shortage-limits-justice-in-domestic-violence-cases\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ethnicmediaservices.org\/domestic-violence\/court-reporter-shortage-limits-justice-in-domestic-violence-cases\/",
+                "ts": 1703104447,
+                "image_url": "https:\/\/ethnicmediaservices.org\/wp-content\/uploads\/2023\/12\/Untitled-design-4.jpg",
+                "image_width": 1200,
+                "image_height": 650,
+                "image_bytes": 81393,
+                "service_icon": "https:\/\/ethnicmediaservices.org\/wp-content\/uploads\/2022\/06\/cropped-E-in-EMS-512px-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/ethnicmediaservices.org\/domestic-violence\/court-reporter-shortage-limits-justice-in-domestic-violence-cases\/",
+                "fallback": "Ethnic Media Services: Court Reporter Shortage Limits Justice in Domestic Violence Cases | EMS",
+                "text": "The lack of transcripts in family court makes winning appeals harder for low-income litigants. Advocates say the lives of abused women and their children are at risk.",
+                "title": "Court Reporter Shortage Limits Justice in Domestic Violence Cases | EMS",
+                "title_link": "https:\/\/ethnicmediaservices.org\/domestic-violence\/court-reporter-shortage-limits-justice-in-domestic-violence-cases\/",
+                "service_name": "Ethnic Media Services",
+                "fields": [
+                    {
+                        "value": "Viji Sundaram",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQqyt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ethnic Media Services picked up Viji’s story. It’s an abbreviated version for distribution through their partner network. I’ll let you know if any other publications pick it up.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ethnicmediaservices.org\/domestic-violence\/court-reporter-shortage-limits-justice-in-domestic-violence-cases\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

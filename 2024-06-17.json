@@ -1,0 +1,98 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1718637442.122109",
+        "client_msg_id": "80175d9d-09ce-47a0-97f7-8a67d26a2757",
+        "text": "Yesi was on KQED at 6 am and 8 am in the newscast.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5W+0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesi was on KQED at 6 am and 8 am in the newscast."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1718637447.646369",
+        "client_msg_id": "ab1f5bea-b499-47cf-abda-d463be663dcd",
+        "text": "People living in more than 50 RVs near San Francisco State University are being told they need to leave the area by tomorrow [[Tues]] morning.\n\nThat’s two weeks earlier than they were initially told.\n\nThe change comes days after the group blocked Winston Drive in protest of the scheduled July 2nd eviction.\n\nYesica Prado… [[ YES-e-kah PRAH-dough ]] a multimedia journalist for the San Francisco Public Press… says residents have been meeting with city officials… and complying with their rules… including new parking enforcement:\n\n*YP: [[I think that’s just kind of just a harsh reality. Because even if people do try to work, try to keep their area clean, it’s like, what is it that the city wants, right? It’s like, you just can’t make them happy :09]]*\n\nPrado says the group is trying to obtain legal help to stop their eviction and come up with a viable housing solution.\n\nCity officials have not responded to a request for comment.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zk31c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "People living in more than 50 RVs near San Francisco State University are being told they need to leave the area by tomorrow [[Tues]] morning.\n\nThat’s two weeks earlier than they were initially told.\n\nThe change comes days after the group blocked Winston Drive in protest of the scheduled July 2nd eviction.\n\nYesica Prado… [[ YES-e-kah PRAH-dough ]] a multimedia journalist for the San Francisco Public Press… says residents have been meeting with city officials… and complying with their rules… including new parking enforcement:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "YP: [[I think that’s just kind of just a harsh reality. Because even if people do try to work, try to keep their area clean, it’s like, what is it that the city wants, right? It’s like, you just can’t make them happy :09]]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPrado says the group is trying to obtain legal help to stop their eviction and come up with a viable housing solution.\n\nCity officials have not responded to a request for comment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

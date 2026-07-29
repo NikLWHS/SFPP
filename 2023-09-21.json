@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1695316182.785319",
+        "client_msg_id": "c76e077c-02d0-42e4-b63d-e86fee1be40d",
+        "text": "Me too. It also occurs to me that if we think there’s ongoing interest in this, we might consider doing a webinar to discuss the issue (the provision of services), show off the graphic, and then invite some expert guests to discuss their challenges in getting the right info to the right people.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c9IL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too. It also occurs to me that if we think there’s ongoing interest in this, we might consider doing a webinar to discuss the issue (the provision of services), show off the graphic, and then invite some expert guests to discuss their challenges in getting the right info to the right people."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

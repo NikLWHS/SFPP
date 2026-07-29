@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1689392679.907859",
+        "client_msg_id": "ED7FF9F2-B589-4988-AC40-49B3C0C77D0E",
+        "text": "Next City’s newsletter linked to Madison’s latest reparations story\n\n<https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears|https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/nextcity.org\/images\/daily\/_resized\/1024px-RNC_04_protest_56.jpg",
+                "image_width": 1024,
+                "image_height": 768,
+                "image_bytes": 144265,
+                "from_url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears",
+                "service_icon": "https:\/\/nextcity.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears",
+                "fallback": "The Weekly Wrap: New York City Is Rejecting More Back Payments For Tenants In Rent Arrears",
+                "text": "Also: Report says public banks are a good thing, actually.",
+                "title": "The Weekly Wrap: New York City Is Rejecting More Back Payments For Tenants In Rent Arrears",
+                "title_link": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears",
+                "service_name": "nextcity.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Next City’s newsletter linked to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Madison’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " latest reparations story\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears",
+                                "text": "https:\/\/nextcity.org\/urbanist-news\/the-weekly-wrap-new-york-city-rejecting-back-payments-tenants-rent-arrears"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

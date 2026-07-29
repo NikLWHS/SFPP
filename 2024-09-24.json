@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1727196375.034109",
+        "client_msg_id": "84cba3ee-597e-4968-83ef-bc314063ada0",
+        "text": "<https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-with-air-purifiers-2669255087.html?vgo_ee=mPeg4t27P%2F9UuLGaGBPqXts5kzv13Ht4nTLrCZAMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde|https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-wit[…]AMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.ehn.org\/media-library\/image.jpg?id=53675259&width=1200&height=600&coordinates=0%2C255%2C0%2C255",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 194466,
+                "from_url": "https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-with-air-purifiers-2669255087.html?vgo_ee=mPeg4t27P%2F9UuLGaGBPqXts5kzv13Ht4nTLrCZAMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde",
+                "service_icon": "https:\/\/assets.rebelmouse.io\/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MjAyOTQ4MC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1MjQyNjYwNH0.R3gYrNdEoQOROdrU5cecYQc4GEyIG4J-pmGChKqW8es\/img.png?width=192&amp;height=192",
+                "ts": 1727174700,
+                "id": 1,
+                "original_url": "https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-with-air-purifiers-2669255087.html?vgo_ee=mPeg4t27P%2F9UuLGaGBPqXts5kzv13Ht4nTLrCZAMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde",
+                "fallback": "EHN: Government program helps low-income tenants breathe easier with air purifiers",
+                "text": "A pilot program in San Francisco is providing free air purifiers to low-income tenants, many of whom live in buildings plagued by poor ventilation and pollution that worsen respiratory conditions.Audrey Mei Yi Brown reports for San Francisco Public <http:\/\/Press.In|Press.In> short:A government-funded initiative distr...",
+                "title": "Government program helps low-income tenants breathe easier with air purifiers",
+                "title_link": "https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-with-air-purifiers-2669255087.html?vgo_ee=mPeg4t27P%2F9UuLGaGBPqXts5kzv13Ht4nTLrCZAMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde",
+                "service_name": "EHN"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nrtqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-with-air-purifiers-2669255087.html?vgo_ee=mPeg4t27P%2F9UuLGaGBPqXts5kzv13Ht4nTLrCZAMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde",
+                                "text": "https:\/\/www.ehn.org\/government-program-helps-low-income-tenants-breathe-easier-wit[…]AMicspBI9qOmlnfA%3D%3D%3A6lmbsfsrNTc1sFWmUVNfR%2BEmt%2FPPY%2Bde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fiestaparrot",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1727210229.076379",
+        "client_msg_id": "37b4ca43-2c39-48f2-b679-468d01818ff6",
+        "text": "Nice placement!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkFRO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice placement!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

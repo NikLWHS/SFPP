@@ -1,0 +1,132 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1711752898.148149",
+        "client_msg_id": "e6369cdc-f30d-409e-a869-ae1d2b14dec6",
+        "text": "Above was picked up by whatever this site is AND retained our link <https:\/\/www.governing.com\/management-and-administration\/san-jose-is-bad-at-recycling-but-it-has-a-plan-to-improve>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.governing.com\/management-and-administration\/san-jose-is-bad-at-recycling-but-it-has-a-plan-to-improve",
+                "service_icon": "https:\/\/www.governing.com\/apple-touch-icon.png",
+                "ts": 1711608140,
+                "id": 1,
+                "original_url": "https:\/\/www.governing.com\/management-and-administration\/san-jose-is-bad-at-recycling-but-it-has-a-plan-to-improve",
+                "fallback": "Governing: San Jose Is Bad at Recycling, But It Has a Plan to Improve",
+                "text": "In 2015, just 32 percent of the city’s single-family recycling bins were contaminated with non-recyclable material. By 2020, it was more than half. The city hopes education will help.",
+                "title": "San Jose Is Bad at Recycling, But It Has a Plan to Improve",
+                "title_link": "https:\/\/www.governing.com\/management-and-administration\/san-jose-is-bad-at-recycling-but-it-has-a-plan-to-improve",
+                "service_name": "Governing"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgWES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Above was picked up by whatever this site is AND retained our link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.governing.com\/management-and-administration\/san-jose-is-bad-at-recycling-but-it-has-a-plan-to-improve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "The chart lives on!\n(now in correct Slack channel)",
+        "files": [
+            {
+                "id": "F06SQ826ZU0",
+                "created": 1711753726,
+                "timestamp": 1711753726,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 313493,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F06SQ826ZU0\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F06SQ826ZU0\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SQ826ZU0-46f88d344e\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SQ826ZU0-46f88d344e\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SQ826ZU0-46f88d344e\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 273,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SQ826ZU0-46f88d344e\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 364,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SQ826ZU0-46f88d344e\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F06SQ826ZU0-46f88d344e\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 546,
+                "thumb_720_h": 720,
+                "original_w": 546,
+                "original_h": 720,
+                "thumb_tiny": "AwAwACTQydxGOMdaUZ9P1oI5pPxFADufb86WmY9xR+IoAd+Box7GlHSigBjMqn5sDPvTRLH\/AHl\/Oob0EhQKrbcnkACrUboylNp2NDzY\/wC8tHmx\/wB5aomJcfeFJsXvzRZBzs0gQwyDkUtRwf6lfpUlSzRO6K84BkQHpg03amcdfxp1wdrocZ4NRbgW3bfwptbaEJ6tXHFF7j9aXYuD1\/nTRJkgBevrSTZDDnt2pqKE5u1yzB\/qV+lSVHB\/qV+lSVL3Ljsj\/9k=",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F06SQ826ZU0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F06SQ826ZU0-d998ebd8bc",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3V0a5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The chart lives on!\n(now in correct Slack channel)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711753765.431879",
+        "client_msg_id": "d1f62fd2-43a3-4d04-a9e2-b7f287a1273c"
+    }
+]

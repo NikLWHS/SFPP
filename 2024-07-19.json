@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1721430305.064669",
+        "edited": {
+            "user": "U58JZC631",
+            "ts": "1721458155.000000"
+        },
+        "client_msg_id": "9417a06c-c8a2-4677-b064-241ebffd9b94",
+        "text": "Zhe's two stories about the Great Highway got mentions in a recent SFist post. Helps explain our great traffic to the new story, as well as decent renewed traffic to her previous story.\n\n<https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/|https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/img.sfist.com\/2024\/07\/car-protest.jpg",
+                "image_width": 2000,
+                "image_height": 1100,
+                "image_bytes": 223149,
+                "from_url": "https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/",
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "ts": 1721324554,
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: Car Lovers Holding ‘Car Rally’ Thursday To Protest Car-Free Great Highway Plan",
+                "text": "Some people are not fans of the car-free Great Highway proposal slated for SF’s November ballot, and they’re organizing a car caravan Thursday morning to honk their displeasure at the idea.",
+                "title": "Car Lovers Holding ‘Car Rally’ Thursday To Protest Car-Free Great Highway Plan",
+                "title_link": "https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Joe Kukura",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF Politics, car-free, Great Highway, joel engardio, sunset district",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7KO9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zhe's two stories about the Great Highway got mentions in a recent SFist post. Helps explain our great traffic to the new story, as well as decent renewed traffic to her previous story.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/",
+                                "text": "https:\/\/sfist.com\/2024\/07\/18\/car-lovers-holding-car-rally-thursday-to-protest-car-free-great-highway-plan\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

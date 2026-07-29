@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1677521055.876369",
+        "client_msg_id": "a2d93e70-e6cb-4fe9-a2ba-b7689221e20d",
+        "text": "This is a message from Maya and Sebastian's grandmother, who we reported on for the past two articles\/Civic episodes:\n\nDear Ms. Sturm, Thank you so very much for your excellent article on reunification camps and family courts. I am the 81 year old grandmother of Maya and Sebastian. The press conference held by Ryan Coonerty was in my driveway. I am sure you have some idea of the trauma our family is experiencing. I have been a completely devoted grandmother to these two children since -literally- their first breaths. This is BY FAR the worst thing I have ever experienced in my long life, including the unexpected death of my husband. I and a devoted group of my friends have attended every court hearing. What we witnessed in those hearings is hard to believe. None of us could have ever believed this could happen in our state and in our beloved Santa Cruz. Our family is so grateful for this kind of publicity. Sunlight is the best disinfectant. Thanks Again, Karen Laing",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a message from Maya and Sebastian's grandmother, who we reported on for the past two articles\/Civic episodes:\n\nDear Ms. Sturm, Thank you so very much for your excellent article on reunification camps and family courts. I am the 81 year old grandmother of Maya and Sebastian. The press conference held by Ryan Coonerty was in my driveway. I am sure you have some idea of the trauma our family is experiencing. I have been a completely devoted grandmother to these two children since -literally- their first breaths. This is BY FAR the worst thing I have ever experienced in my long life, including the unexpected death of my husband. I and a devoted group of my friends have attended every court hearing. What we witnessed in those hearings is hard to believe. None of us could have ever believed this could happen in our state and in our beloved Santa Cruz. Our family is so grateful for this kind of publicity. Sunlight is the best disinfectant. Thanks Again, Karen Laing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B9FNF801",
+                    "U02DXRYCD2N",
+                    "U19LB1TK5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

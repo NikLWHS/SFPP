@@ -1,0 +1,42 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1721676077.562219",
+        "client_msg_id": "ae58e61c-ea3b-473b-ab22-63a2b795f3a4",
+        "text": "Actually the Bay City story is pretty important. That wire is used all over the region and it's possible that other papers ran the piece as well, but didn't show up in Google News searches.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1721151565.294189",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ah\/fq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually the Bay City story is pretty important. That wire is used all over the region and it's possible that other papers ran the piece as well, but didn't show up in Google News searches."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

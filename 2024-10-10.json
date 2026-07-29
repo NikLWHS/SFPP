@@ -1,0 +1,384 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1728570987.576719",
+        "client_msg_id": "8eec7d7b-6569-42b2-803a-8d5965c0f907",
+        "text": "I had signed us up for INN's national content sharing system called On The Ground. They picked up our Prop O to offer to others.\n<@U02V28GTKMW>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Y6S1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I had signed us up for INN's national content sharing system called On The Ground. They picked up our Prop O to offer to others.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1728574680.552069",
+        "client_msg_id": "2a0d7879-11ee-4f6a-928b-4bbe3697b8a9",
+        "text": "see <@U07BW27EEHF> First. Upper left :slightly_smiling_face: and first in individual list. <https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows|Amidst> other heavy hitters!\n<https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows",
+                "image_url": "https:\/\/centerforhealthjournalism.org\/sites\/default\/files\/styles\/social_share_image\/public\/images\/2024%20Data%20Fellowship%20class.png?itok=Z8vD_0ST",
+                "image_width": 1077,
+                "image_height": 1067,
+                "image_bytes": 1166958,
+                "service_icon": "https:\/\/centerforhealthjournalism.org\/themes\/custom\/chj2023\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows",
+                "fallback": "USC Center for Health Journalism: The Center for Health Journalism announces 2024 Data Fellows",
+                "text": "We're thrilled to announce the selection of 17 talented and diverse journalists who will be participating in our 2024 Data Fellowship.",
+                "title": "The Center for Health Journalism announces 2024 Data Fellows",
+                "title_link": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows",
+                "service_name": "USC Center for Health Journalism"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rFygp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "see "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07BW27EEHF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " First. Upper left "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and first in individual list. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows",
+                                "text": "Amidst"
+                            },
+                            {
+                                "type": "text",
+                                "text": " other heavy hitters!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/center-health-journalism-announces-2024-data-fellows"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "stuck_out_tongue_closed_eyes",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "partying_face",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1728575010.225099",
+        "client_msg_id": "27e88df7-b41e-49aa-a60a-634cfe74d3a4",
+        "text": "GO AUDREY!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSAhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GO AUDREY!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1728598266.405179",
+        "client_msg_id": "3de3725b-b16f-47c8-bf2d-9754cd3863b4",
+        "text": "<https:\/\/podcasts.apple.com\/us\/podcast\/election-briefs-your-quick-guide-to-whats-on-the-ballot\/id1169153051>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/podcasts.apple.com\/us\/podcast\/election-briefs-your-quick-guide-to-whats-on-the-ballot\/id1169153051",
+                "image_url": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Podcasts125\/v4\/b6\/f1\/cd\/b6f1cd78-2092-0c66-2423-0f7d9bb2850d\/mza_14150181595725918155.png\/1200x1200bf-60.jpg",
+                "image_width": 1200,
+                "image_height": 1200,
+                "image_bytes": 103193,
+                "service_icon": "https:\/\/podcasts.apple.com\/assets\/favicon\/favicon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/podcasts.apple.com\/us\/podcast\/election-briefs-your-quick-guide-to-whats-on-the-ballot\/id1169153051",
+                "fallback": "Apple Podcasts: Election Briefs: Your Quick Guide to What's on the Ballot",
+                "text": "Politics Podcast · @@episodeCount@@ Episodes",
+                "title": "Election Briefs: Your Quick Guide to What's on the Ballot",
+                "title_link": "https:\/\/podcasts.apple.com\/us\/podcast\/election-briefs-your-quick-guide-to-whats-on-the-ballot\/id1169153051",
+                "service_name": "Apple Podcasts"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S762w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/podcasts.apple.com\/us\/podcast\/election-briefs-your-quick-guide-to-whats-on-the-ballot\/id1169153051"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N",
+                    "U01B9FNF801",
+                    "U58JZC631"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1728598289.186989",
+        "client_msg_id": "53cb25a7-337c-41f3-9db0-111487ed21b1",
+        "text": "Click through -- they're featuring us along with CalMatters",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0oqE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Click through -- they're featuring us along with CalMatters"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1728598338.810709",
+        "client_msg_id": "d8aadc62-d81b-41b4-9e58-4458c3aaa512",
+        "text": "<https:\/\/allevents.in\/san%20francisco\/ca-state-ballot-props-everything-you-need-to-know\/100001039177607197>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/allevents.in\/san%20francisco\/ca-state-ballot-props-everything-you-need-to-know\/100001039177607197",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F867915239%2F13694240329%2F1%2Foriginal.20241006-200055?auto=format%2Ccompress&q=75&sharp=10&s=c2068be971ff776195ca4c2b7474e531",
+                "image_width": 1080,
+                "image_height": 1080,
+                "image_bytes": 118991,
+                "service_icon": "https:\/\/allevents.in\/img\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/allevents.in\/san%20francisco\/ca-state-ballot-props-everything-you-need-to-know\/100001039177607197",
+                "fallback": "AllEvents.in: CA State Ballot Props: Everything You Need to Know",
+                "text": "CA State Ballot Props: Everything You Need to Know Hosted By San Francisco Public Press. Event starts on Monday, 21 October 2024 and happening at Dogpatch Hub, San Francisco, CA. Register or Buy Tickets, Price information.",
+                "title": "CA State Ballot Props: Everything You Need to Know",
+                "title_link": "https:\/\/allevents.in\/san%20francisco\/ca-state-ballot-props-everything-you-need-to-know\/100001039177607197",
+                "service_name": "AllEvents.in"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VeXsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/allevents.in\/san%20francisco\/ca-state-ballot-props-everything-you-need-to-know\/100001039177607197"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U01B9FNF801",
+                    "U05RTFC5UP7"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

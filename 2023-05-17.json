@@ -1,0 +1,772 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1684350953.368679",
+        "client_msg_id": "c9d3ca61-8116-4be7-b197-a679387b4493",
+        "text": "Hey hey, we're linked out in this one <https:\/\/www.nytimes.com\/2023\/05\/16\/us\/san-francisco-reparations.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYU2P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey hey, we're linked out in this one "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nytimes.com\/2023\/05\/16\/us\/san-francisco-reparations.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1684350958.525859",
+        "client_msg_id": "5304b2a6-fb2e-4a38-ac50-ba9c0427667b",
+        "text": "<@U02DXRYCD2N>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=zR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F05835Q7KPY",
+                "created": 1684350982,
+                "timestamp": 1684350982,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01B9FNF801",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 115029,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F05835Q7KPY\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F05835Q7KPY\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 101,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 134,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 202,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 224,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 269,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F05835Q7KPY-a228c583f4\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 287,
+                "original_w": 1854,
+                "original_h": 519,
+                "thumb_tiny": "AwANADDQJOT1oyff\/P4Uu3ml2j0oAbk+p\/z+FGT6n\/P4U7aPSjaPSgBvPv8A5\/ClU+uaXaPSjaB2oA\/\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F05835Q7KPY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F05835Q7KPY-48c2944382",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01B9FNF801",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1684350989.202509",
+        "client_msg_id": "47075c43-ad81-465a-835a-ce346f5b0d3f"
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1684351166.295389",
+        "client_msg_id": "170171d0-8dee-4c75-b5a2-6e1f6b13d459",
+        "text": "Great news! It will be interesting to see of there is a jump in views on Madison’s story?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684351166.295389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1684356534.248229",
+        "reply_users": [
+            "U02DXRYCD2N"
+        ],
+        "replies": [
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1684356534.248229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GQt0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great news! It will be interesting to see of there is a jump in views on Madison’s story?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1684356020.950449",
+        "client_msg_id": "fd2336fd-21e6-45c8-b048-e04cd865c498",
+        "text": "and so is that NYT article something we'd post to social and share that we're glad they linked back to us? <@U01B9FNF801>\nBTW I didn't see 4\/27 or 5\/04 on Twitter (are you girl\/boycotting TWTR ? :-)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684356020.950449",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1684361774.498549",
+        "reply_users": [
+            "U01B9FNF801",
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U01B9FNF801",
+                "ts": "1684358785.631289"
+            },
+            {
+                "user": "U01B9FNF801",
+                "ts": "1684361364.821279"
+            },
+            {
+                "user": "U01B9FNF801",
+                "ts": "1684361402.075719"
+            },
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1684361774.498549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and so is that NYT article something we'd post to social and share that we're glad they linked back to us? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01B9FNF801"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBTW I didn't see 4\/27 or 5\/04 on Twitter (are you girl\/boycotting TWTR ? :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1684356352.619219",
+        "client_msg_id": "588bcd71-e5da-466e-9260-498e6434c826",
+        "text": "wooo!! i honestly did not think they would do that, especially regarding the lack of linking with Mission Local’s breaking news about Bob Lee. But perhaps they learned their lesson regarding not crediting SF nonprofits after the backlash ;)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SzgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wooo!! i honestly did not think they would do that, especially regarding the lack of linking with Mission Local’s breaking news about Bob Lee. But perhaps they learned their lesson regarding not crediting SF nonprofits after the backlash ;)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1684356534.248229",
+        "client_msg_id": "89d91d97-7cca-4a21-a588-1d154794d118",
+        "text": "sadly, based on the comments i don’t know how many people are actually reading the nyt article fully, so idk how many will be bothered to click through on the links. but i hope they do!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684351166.295389",
+        "parent_user_id": "UKJ1HMMAM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9czym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sadly, based on the comments i don’t know how many people are actually reading the nyt article fully, so idk how many will be bothered to click through on the links. but i hope they do!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1684357002.533269",
+        "client_msg_id": "2F63E708-66A5-45FD-8E29-5065D94FD16C",
+        "text": "They should pay us for the privilege of linking to us. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyDS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They should pay us for the privilege of linking to us"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Re: bump: On the first 7 days we published \"housing program to redress...\" Google Analytics says 102+154+111+166+52+37+41 (totals 663) pageviews for each of those first 7 days and yesterday BYT did bump it up with 38 yesterday and 18 so far today. Total since Feb 28 is 1069 pageviews w\/ 816 of em unique. See graphic snip",
+        "files": [
+            {
+                "id": "F0583MN0E86",
+                "created": 1684356705,
+                "timestamp": 1684356705,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 14756,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0583MN0E86\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0583MN0E86\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 39,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 53,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 79,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 88,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 105,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0583MN0E86-bfeab57224\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 112,
+                "original_w": 1233,
+                "original_h": 135,
+                "thumb_tiny": "AwAFADDSFFAooAM80Ud6KADNFFFAH\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F0583MN0E86\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F0583MN0E86-7080ab629f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RlGDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Re: bump: On the first 7 days we published \"housing program to redress...\" Google Analytics says 102+154+111+166+52+37+41 (totals 663) pageviews for each of those first 7 days and yesterday BYT did bump it up with 38 yesterday and 18 so far today. Total since Feb 28 is 1069 pageviews w\/ 816 of em unique. See graphic snip"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1684358069.456469",
+        "client_msg_id": "834746bf-3a4c-4a89-aa92-d75c7d8eae01",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B9FNF801",
+                    "U02DXRYCD2N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1684358785.631289",
+        "client_msg_id": "9F98B01A-D679-4B9E-AF35-C903AD596B1F",
+        "text": "I don’t understand what you mean by the dates.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684356020.950449",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I9YJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "don’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " understand what you mean by the dates."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1684361364.821279",
+        "client_msg_id": "55231513-5a35-48d8-b5b3-536abbf0d3b3",
+        "text": "<https:\/\/twitter.com\/SFPublicPress\/status\/1654240295276670976?s=20> ??",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684356020.950449",
+        "parent_user_id": "U02LAK62DEV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/SFPublicPress\/status\/1654240295276670976?s=20",
+                "service_icon": "http:\/\/abs.twimg.com\/favicons\/twitter.2.ico",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/677985841524830208\/oVN-p_ix_200x200.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/SFPublicPress\/status\/1654240295276670976?s=20",
+                "fallback": "Twitter: San Francisco Public Press on Twitter",
+                "text": "NEW: While state law enforcement agencies converge in San Francisco to address the city's drug problem, public defense attorneys and harm reduction advocates fear the move may worsen the rate of fatal ODs.\n\n:memo:@mildobserver\n#NationalGuard #CHP #SanFrancisco\n<https:\/\/t.co\/OkaIThvT4l>",
+                "title": "San Francisco Public Press on Twitter",
+                "title_link": "https:\/\/twitter.com\/SFPublicPress\/status\/1654240295276670976?s=20",
+                "service_name": "Twitter"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RqWS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/SFPublicPress\/status\/1654240295276670976?s=20"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1684361402.075719",
+        "client_msg_id": "d862606f-30f3-428d-b8df-a5d5d41d7000",
+        "text": "<https:\/\/twitter.com\/SFPublicPress\/status\/1651731983888957440?s=20>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684356020.950449",
+        "parent_user_id": "U02LAK62DEV",
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/SFPublicPress\/status\/1651731983888957440?s=20",
+                "service_icon": "http:\/\/abs.twimg.com\/favicons\/twitter.2.ico",
+                "thumb_url": "https:\/\/pbs.twimg.com\/profile_images\/677985841524830208\/oVN-p_ix_200x200.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/SFPublicPress\/status\/1651731983888957440?s=20",
+                "fallback": "Twitter: San Francisco Public Press on Twitter",
+                "text": "NEW: CA state Sen. @SusanRubioCA reintroduces \"Piqui's Law: Keeping Children Safe from Family Violence.\"\n\nThe bill expands training for judges on domestic violence and child abuse and prevents courts from ordering reunification therapy.\n\n<https:\/\/t.co\/FhNj0fdtnF>",
+                "title": "San Francisco Public Press on Twitter",
+                "title_link": "https:\/\/twitter.com\/SFPublicPress\/status\/1651731983888957440?s=20",
+                "service_name": "Twitter"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/SFPublicPress\/status\/1651731983888957440?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1684361774.498549",
+        "client_msg_id": "3d595f09-2b0e-44d9-9f36-6bbc5f7114df",
+        "text": "Oh hey, sorry --now I see 'em further down. Thx!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1684356020.950449",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvtZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh hey, sorry --now I see 'em further down. Thx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1684363598.615029",
+        "client_msg_id": "98cbcce3-8316-4ff9-afb4-60ca8600e0ec",
+        "text": "Link exchange is a really fruitful strategy for the long term. It doesn’t have to be formal — the more we link out, the more others are likely to reciprocate.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZ24",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link exchange is a really fruitful strategy for the long term. It doesn’t have to be formal — the more we link out, the more others are likely to reciprocate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "exclamation",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

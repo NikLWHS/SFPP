@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1730330523.241849",
+        "client_msg_id": "3753a6fe-38f7-4272-a8fd-f9ae0aaa48d7",
+        "text": "Very nice.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DhBHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very nice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

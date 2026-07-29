@@ -1,0 +1,246 @@
+[
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1708557122.935919",
+        "client_msg_id": "f796bc14-2217-48c7-8722-0f97f66771d1",
+        "text": "<@U027DJF07FU>'s photo essay is listed in CatchLight's 2023 round up :camera_with_flash::blush:\n\n<https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&amp;utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&amp;utm_medium=email&amp;utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D|https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&amp;utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&amp;utm_medium=email&amp;utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&utm_medium=email&utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/5c2e71b370e80283cbf6fd90\/5c2e7dc24d7a9c7f5ba14b53\/65d52330b8708967015aee4a\/1708552507896\/FaithInTheValley_013-medium.jpg?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 999,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5c2e71b370e80283cbf6fd90\/1546547827326-GYUJFN199XZVF05DKZNY\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&amp;utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&amp;utm_medium=email&amp;utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D",
+                "fallback": "CatchLight: 14 Stories that Demonstrated Powerful Visual Journalism in 2023",
+                "text": "Last month, CatchLight Local staff, Fellows, journalists and partners gathered for a day of shared learning and conversations. We began the event by each sharing an example of visual journalism from last year that left a lasting impression or impact on us as readers and viewers. As a resource and so",
+                "title": "14 Stories that Demonstrated Powerful Visual Journalism in 2023",
+                "title_link": "https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&utm_medium=email&utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D",
+                "service_name": "CatchLight"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bjKla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U027DJF07FU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s photo essay is listed in CatchLight's 2023 round up "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&utm_medium=email&utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D",
+                                "text": "https:\/\/www.catchlight.io\/news\/2024\/2\/21\/catchlight-local-visual-journalism-community-picks?utm_source=General+Mailing+List&utm_campaign=629e1cbacc-EMAIL_CAMPAIGN_2023_02_28_11_08_COPY_01&utm_medium=email&utm_term=0_-1691f20afb-%5BLIST_EMAIL_ID%5D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "UKJ1HMMAM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1708557802.963519",
+        "client_msg_id": "7008c9f8-df01-4b27-a743-2eb126e0595f",
+        "text": "Excellent!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Rjsv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excellent!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1708562051.105219",
+        "client_msg_id": "856831ca-e0a6-4e48-87c5-a2b515bae09c",
+        "text": "What lovely news!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vzM56",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What lovely news!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1708564659.719969",
+        "client_msg_id": "140b2114-a430-459f-9b2f-f7a4c5be5dc3",
+        "text": "(not as exciting as Yesi's news but...) moving from promo channel:  <http:\/\/SFPublicPress.org|SFPublicPress.org> alum Brian Howey won a Polk Award for Justice Reporting 2\/19\/2024\n<https:\/\/www.sfpublicpress.org\/author\/brian-howey\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/secure.gravatar.com\/avatar\/44ab2f029f49d99861901d156d18e15c?s=500&d=mm&r=g",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 8274,
+                "from_url": "https:\/\/www.sfpublicpress.org\/author\/brian-howey\/",
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/author\/brian-howey\/",
+                "fallback": "San Francisco Public Press: Brian Howey, Author at San Francisco Public Press",
+                "text": "Brian Howey was a staff reporter at the San Francisco Public Press in 2020 and 2021. In 2020, Howey won the Society of Professional Journalists, NorCal Excellence in Journalism Award in Print\/Online Small Division for his coverage of San Francisco’s response to homelessness during the pandemic. He can be reached at <mailto:BrianWHowey@gmail.com|BrianWHowey@gmail.com> For encrypted email, write to <mailto:Brianwhowey@protonmail.com|Brianwhowey@protonmail.com>. Follow him on Twitter: @SteelandBallast.",
+                "title": "Brian Howey, Author at San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/author\/brian-howey\/",
+                "service_name": "San Francisco Public Press"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BdF5s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(not as exciting as Yesi's news but...) moving from promo channel:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/SFPublicPress.org",
+                                "text": "SFPublicPress.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " alum Brian Howey won a Polk Award for Justice Reporting 2\/19\/2024\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/author\/brian-howey\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

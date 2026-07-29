@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1721067310.234369",
+        "client_msg_id": "f2169a5f-b606-4e77-83b2-36a748c3f08d",
+        "text": "<@U01PU2BUHU5> and <@U02DXRYCD2N> on Crosscurrents today: <https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-07-15\/san-franciscos-mental-health-system-art-of-the-azimuth-the-intersection>\n\nThey sounded so good!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/npr.brightspotcdn.com\/dims4\/default\/4c4eb6d\/2147483647\/strip\/true\/crop\/6969x3659+0+116\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2Fac%2Fe437416f4bffa25aa089e1d24444%2Fsf-public-press-image-no-1.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 132208,
+                "from_url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-07-15\/san-franciscos-mental-health-system-art-of-the-azimuth-the-intersection",
+                "service_icon": "https:\/\/www.kalw.org\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-07-15\/san-franciscos-mental-health-system-art-of-the-azimuth-the-intersection",
+                "fallback": "KALW: San Francisco's Mental Health System \/ Art Of The Azimuth \/ The Intersection",
+                "text": "Today, a look at San Francisco's policies when people are in crisis. Then, a Burning Man artist shares his work. And, a group trying to make Black Rock City accessible.",
+                "title": "San Francisco's Mental Health System \/ Art Of The Azimuth \/ The Intersection",
+                "title_link": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-07-15\/san-franciscos-mental-health-system-art-of-the-azimuth-the-intersection",
+                "service_name": "KALW"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sB6a5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Crosscurrents today: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kalw.org\/podcast\/crosscurrents\/2024-07-15\/san-franciscos-mental-health-system-art-of-the-azimuth-the-intersection"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nThey sounded so good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1724263245.814919",
+        "client_msg_id": "d1e3a44d-86e9-49db-a01b-29874dd11e2b",
+        "text": "<@U02DXRYCD2N>'s USC Insights \/reflections piece! <@UKC0EQURX> there are some strong pull quotes in there. <https:\/\/centerforhealthjournalism.org\/our-work\/insights\/digging-deeper-citys-data-dashboards-uncovers-hidden-stories-homelessness-records>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/centerforhealthjournalism.org\/sites\/default\/files\/styles\/social_share_image\/public\/images\/Alvarado_GettyImages-1321731357.jpg?itok=NnzbXv81",
+                "image_width": 1024,
+                "image_height": 715,
+                "image_bytes": 127045,
+                "from_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/digging-deeper-citys-data-dashboards-uncovers-hidden-stories-homelessness-records",
+                "service_icon": "https:\/\/centerforhealthjournalism.org\/themes\/custom\/chj2023\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/digging-deeper-citys-data-dashboards-uncovers-hidden-stories-homelessness-records",
+                "fallback": "USC Center for Health Journalism: Digging deeper into a city’s data dashboards uncovers hidden stories in homelessness records",
+                "text": "A reporter finds that San Francisco's data dashboards on homelessness obscured more than they revealed.",
+                "title": "Digging deeper into a city’s data dashboards uncovers hidden stories in homelessness records",
+                "title_link": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/digging-deeper-citys-data-dashboards-uncovers-hidden-stories-homelessness-records",
+                "service_name": "USC Center for Health Journalism"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qsGC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "'s USC Insights \/reflections piece! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UKC0EQURX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there are some strong pull quotes in there. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/our-work\/insights\/digging-deeper-citys-data-dashboards-uncovers-hidden-stories-homelessness-records"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U07BW27EEHF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

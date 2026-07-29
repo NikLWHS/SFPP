@@ -1,0 +1,439 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U07BW27EEHF",
+        "text": "<@U07BW27EEHF> has joined the channel",
+        "inviter": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1722625434.412669"
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1722625464.774629",
+        "client_msg_id": "96cdb72f-ce10-4898-9289-ec455bdd0653",
+        "text": "<!channel> INN _finalist_ *San Francisco Public Press*, _<https:\/\/www.sfpublicpress.org\/facing-brutal-storms-homeless-people-encountered-hurdles-to-finding-shelter\/|Facing Brutal Storms, Homeless People Encountered Hurdles to Finding Shelter>_, Madison Alvarado and Yesica Prado.\n\nFinalist for <https:\/\/inn.org\/news\/compulsively-readable-finalists-for-the-2024-nonprofit-news-awards-showcase-the-storytelling-power-of-nonprofit-news\/|Insight Award for Visual Journalism, small division>\n\"This year, the finalists’ work competed among the largest-ever pool of entries: 626, up nearly 40% from 2023. A total of 75 judges from a variety of news organizations — 25 percent more than last year — selected the finalists.\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/inn.org\/news\/compulsively-readable-finalists-for-the-2024-nonprofit-news-awards-showcase-the-storytelling-power-of-nonprofit-news\/",
+                "image_url": "https:\/\/inn.org\/wp-content\/uploads\/2024\/08\/INNY-2024_Web-banner-images_3-1024x576.jpg",
+                "image_width": 1024,
+                "image_height": 576,
+                "image_bytes": 94384,
+                "service_icon": "https:\/\/inn.org\/wp-content\/themes\/dbt-base-theme\/assets\/dbt\/dist\/images\/pwa\/apple-icon-180.png",
+                "id": 2,
+                "original_url": "https:\/\/inn.org\/news\/compulsively-readable-finalists-for-the-2024-nonprofit-news-awards-showcase-the-storytelling-power-of-nonprofit-news\/",
+                "fallback": "Institute for Nonprofit News: “Compulsively readable”: Finalists for the 2024 Nonprofit News Awards showcase the storytelling power of nonprofit news",
+                "text": "“Creative and poignant.” “Compulsively readable.” “I was hooked.” “Wow, wow, wow,” one judge wrote. “I loved this so much.” Those were just some of the",
+                "title": "“Compulsively readable”: Finalists for the 2024 Nonprofit News Awards showcase the storytelling power of nonprofit news",
+                "title_link": "https:\/\/inn.org\/news\/compulsively-readable-finalists-for-the-2024-nonprofit-news-awards-showcase-the-storytelling-power-of-nonprofit-news\/",
+                "service_name": "Institute for Nonprofit News",
+                "fields": [
+                    {
+                        "value": "9 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TvsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " INN "
+                            },
+                            {
+                                "type": "text",
+                                "text": "finalist ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "San Francisco Public Press",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/facing-brutal-storms-homeless-people-encountered-hurdles-to-finding-shelter\/",
+                                "text": "Facing Brutal Storms, Homeless People Encountered Hurdles to Finding Shelter",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", Madison Alvarado and Yesica Prado.\n\nFinalist for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/inn.org\/news\/compulsively-readable-finalists-for-the-2024-nonprofit-news-awards-showcase-the-storytelling-power-of-nonprofit-news\/",
+                                "text": "Insight Award for Visual Journalism, small division"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"This year, the finalists’ work competed among the largest-ever pool of entries: 626, up nearly 40% from 2023. A total of 75 judges from a variety of news organizations — 25 percent more than last year — selected the finalists.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U07BW27EEHF",
+                    "U05RTFC5UP7",
+                    "UKJ1HMMAM",
+                    "U58JZC631"
+                ],
+                "count": 5
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U01B9FNF801",
+                    "U05RTFC5UP7",
+                    "U58JZC631",
+                    "U02V28GTKMW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801",
+                    "U07BW27EEHF",
+                    "U05RTFC5UP7",
+                    "U58JZC631"
+                ],
+                "count": 4
+            },
+            {
+                "name": "pray::skin-tone-4",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1722625731.121029",
+        "client_msg_id": "7B0DE1AB-0487-450D-B35E-D03A0F5912BE",
+        "text": "Congratulations <@U01PU2BUHU5> and <@U02DXRYCD2N>!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2MTcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congratulations "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1722625737.020059",
+        "client_msg_id": "3A29B263-A14E-44C6-B252-7097C776D87B",
+        "text": "Mad props to <@U01PU2BUHU5> for the stunning photos. That’s the whole reason we’re up for this award!!! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1722625737.020059",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1722626956.567239",
+        "reply_users": [
+            "U01PU2BUHU5"
+        ],
+        "replies": [
+            {
+                "user": "U01PU2BUHU5",
+                "ts": "1722626956.567239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQZx1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mad props to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the stunning photos"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the whole reason we’re up for this award!!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5",
+                    "U58JZC631",
+                    "U01B9FNF801",
+                    "U02V28GTKMW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U01B9FNF801",
+                    "U07BW27EEHF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "hugging_face",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1722626217.814559",
+        "client_msg_id": "02B8CA63-A4EE-404C-A960-751D0DF97C37",
+        "text": "Wooooooo",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0Zor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wooooooo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1722626956.567239",
+        "client_msg_id": "eab0f306-35dc-4ef2-a794-96309680be5b",
+        "text": "We make a great team! :heart_on_fire::hugging_face:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1722625737.020059",
+        "parent_user_id": "U02DXRYCD2N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7g0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We make a great team! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face",
+                                "unicode": "1f917"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07BW27EEHF",
+        "type": "message",
+        "ts": "1722627637.931439",
+        "client_msg_id": "37041fbb-b1f9-4248-8938-c2ad736ca1eb",
+        "text": "Congrats y'all!! Such beautiful and important work!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "49ac95eac7b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-07-08\/7392425454371_49ac95eac7b2c1d21792_72.png",
+            "first_name": "Audrey",
+            "real_name": "Audrey Brown",
+            "display_name": "Audrey Brown",
+            "team": "T036YAYMK",
+            "name": "abrown",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lzwjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Congrats y'all!! Such beautiful and important work!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

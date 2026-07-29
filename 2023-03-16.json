@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1678993711.674989",
+        "client_msg_id": "4e89bc11-cabc-4651-a384-308bf8fcff59",
+        "text": "The author of the piece also reached out to me via email to see if i might be interested in doing a Q&amp;A with Sunni Khalid about the meeting\/the reparations plan\/potentially the dream keeper initiative so that is also exciting! nothing confirmed yet but stuff potentially in the works",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1678824251.264439",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4IK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The author of the piece also reached out to me via email to see if i might be interested in doing a Q&A with Sunni Khalid about the meeting\/the reparations plan\/potentially the dream keeper initiative so that is also exciting! nothing confirmed yet but stuff potentially in the works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

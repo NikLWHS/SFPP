@@ -1,0 +1,248 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1715895686.937039",
+        "client_msg_id": "9889a556-9c4d-45c3-89f7-641084a08748",
+        "text": "<https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/|https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/publicintegrity.org\/wp-content\/uploads\/2024\/05\/GettyImages-2121029847-scaled.jpg",
+                "image_width": 2560,
+                "image_height": 2167,
+                "image_bytes": 1196021,
+                "from_url": "https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/",
+                "service_icon": "https:\/\/i0.wp.com\/publicintegrity.org\/wp-content\/uploads\/2021\/09\/CPI-columns-new-color.jpg?fit=82%2C86&amp;ssl=1",
+                "ts": 1715891707,
+                "id": 1,
+                "original_url": "https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/",
+                "fallback": "Center for Public Integrity: Despite efforts to close gap, parity in mental health care remains elusive",
+                "text": "In recent years, mental health care has become a mainstream issue. President Biden proposed an expansion of services nationwide. Lawmakers and celebrities speak openly about their struggles. States are providing incentives to expand the behavioral health workforce. Companies are recognizing the need for mental health leave. Telehealth care is rapidly expanding. But countless surveys have […]",
+                "title": "Despite efforts to close gap, parity in mental health care remains elusive",
+                "title_link": "https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/",
+                "service_name": "Center for Public Integrity",
+                "fields": [
+                    {
+                        "value": "Nora Fleming",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "12 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Vk1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/",
+                                "text": "https:\/\/publicintegrity.org\/health\/health-parity\/gap-parity-mental-health-care-remains-elusive\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1715895816.158599",
+        "client_msg_id": "5eef86af-cb61-4647-87ec-73eb6c66962f",
+        "text": "That article is by Nora Fleming, our contact at the Carter Center for the 5150 work. She tried to weave together all the reporting on mental health that their project funded over the last two years, including ours.\n\nNot all participating reporters got a call out.\n\nBut ours did.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715895816.158599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715898980.075249",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1715898980.075249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gHvE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That article is by Nora Fleming, our contact at the Carter Center for the 5150 work. She tried to weave together all the reporting on mental health that their project funded over the last two years, including ours.\n\nNot all participating reporters got a call out.\n\nBut ours did."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1715895823.824389",
+        "client_msg_id": "9ec561f0-54ad-4528-82ee-327e9ce97256",
+        "text": "_Without treatment, mental health conditions worsen and can lead to a crisis, resulting in unemployment, homelessness or incarceration._ \n\n_In 2023, city dispatchers in San Francisco received 23,000 calls about people having a crisis or attempting suicide, Madison Alvarado and Yesica Prado of the San Francisco Public Press found. In investigating the city’s response system, they learned San Francisco spends millions of tax dollars annually on a myriad of crisis services in the city. Yet while people may be held and treated for emergency care, they are often released with no long-term treatment plan, leading to a cyclical pattern._",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KeKwL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Without treatment, mental health conditions worsen and can lead to a crisis, resulting in unemployment, homelessness or incarceration. \n",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "In 2023, city dispatchers in San Francisco received 23,000 calls about people having a crisis or attempting suicide, Madison Alvarado and Yesica Prado of the San Francisco Public Press found. In investigating the city’s response system, they learned San Francisco spends millions of tax dollars annually on a myriad of crisis services in the city. Yet while people may be held and treated for emergency care, they are often released with no long-term treatment plan, leading to a cyclical pattern.",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1715898980.075249",
+        "client_msg_id": "2aaecaf1-7c03-4cc1-b546-7a3ec306ec21",
+        "text": "Great! and on the CPI mental health parity collaborative perma page listed above older articles.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715895816.158599",
+        "parent_user_id": "U58JZC631",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0xGeR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great! and on the CPI mental health parity collaborative perma page listed above older articles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

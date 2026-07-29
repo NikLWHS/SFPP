@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1679082910.721879",
+        "client_msg_id": "ac091c80-ea99-4ea3-a2de-57dc071263d2",
+        "text": "<https:\/\/occupysf.net\/index.php\/page\/3\/> Looks like an aggregator and they picked up both of Madison's reparations stories",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Unp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/occupysf.net\/index.php\/page\/3\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Looks like an aggregator and they picked up both of Madison's reparations stories"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

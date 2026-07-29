@@ -1,0 +1,119 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1720561260.196929",
+        "client_msg_id": "26773786-591e-4837-9e66-3d39386fd771",
+        "text": "I could've sworn i said historic not historical :slightly_smiling_face: <https:\/\/www.sfgate.com\/news\/bayarea\/article\/veteran-reporter-to-talk-local-government-secrecy-19556567.php>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/s.hdnux.com\/photos\/01\/34\/02\/57\/24128448\/3\/rawImage.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 50974,
+                "from_url": "https:\/\/www.sfgate.com\/news\/bayarea\/article\/veteran-reporter-to-talk-local-government-secrecy-19556567.php",
+                "service_icon": "https:\/\/www.sfgate.com\/sites\/sfgate\/apple-touch-icon-196x196.png",
+                "ts": 1720188000,
+                "id": 1,
+                "original_url": "https:\/\/www.sfgate.com\/news\/bayarea\/article\/veteran-reporter-to-talk-local-government-secrecy-19556567.php",
+                "fallback": "SFGATE: Veteran Reporter To Talk Local Government Secrecy With Publisher Of San Francisco Public Press",
+                "text": "By Cameron Fozi",
+                "title": "Veteran Reporter To Talk Local Government Secrecy With Publisher Of San Francisco Public Press",
+                "title_link": "https:\/\/www.sfgate.com\/news\/bayarea\/article\/veteran-reporter-to-talk-local-government-secrecy-19556567.php",
+                "service_name": "SFGATE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1i\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I could've sworn i said historic not historical "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfgate.com\/news\/bayarea\/article\/veteran-reporter-to-talk-local-government-secrecy-19556567.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1720577917.420509",
+        "client_msg_id": "5AEE6623-7615-49F4-B758-8CA2A71769E0",
+        "text": "Nice placement!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gb1i9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice placement!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,481 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1716486136.059859",
+        "client_msg_id": "95D87194-5F89-443D-806E-B752044C631A",
+        "text": "Awesome Yesi! Congrats. Yes we should represent. Unfortunately I’m on jury duty standby that week so I can’t commit at the moment. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5a2Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome Yesi! Congrats. Yes we should represent"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Unfortunately "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on jury duty standby that week so "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I can’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " commit at the moment"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1716487065.224629",
+        "client_msg_id": "4bcec57c-3b52-4637-874a-cc11c65db4a1",
+        "text": "I am supposed to be out of town for one of the days but I would love to support your from afar! Will there be recordings of your talk? Also, does anyone have a link to your talk at Catchlight? It’s so cool to see your work getting the attention and accolades it deserves! :tada:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tPdo+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am supposed to be out of town for one of the days but I would love to support your from afar! Will there be recordings of your talk? Also, does anyone have a link to your talk at Catchlight? It’s so cool to see your work getting the attention and accolades it deserves! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1716487561.316279",
+        "client_msg_id": "0b4e807e-2b19-42ae-91d1-6fa9a45d0089",
+        "text": "great presentation, kudos! watch at: <https:\/\/www.player.catchlight.io\/8567\/1\/2024-catchlight-visual-storytelling-summit\/scholarship-of-a-lived-experience|https:\/\/www.player.catchlight.io\/8567\/1\/2024-catchlight-visual-storytelling-summit\/scholarship-of-a-lived-experience>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716487561.316279",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1716497387.308239",
+        "reply_users": [
+            "U02DXRYCD2N",
+            "U01PU2BUHU5"
+        ],
+        "replies": [
+            {
+                "user": "U02DXRYCD2N",
+                "ts": "1716487579.137959"
+            },
+            {
+                "user": "U01PU2BUHU5",
+                "ts": "1716497333.268699"
+            },
+            {
+                "user": "U01PU2BUHU5",
+                "ts": "1716497387.308239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IvAFg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great presentation, kudos! watch at: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.player.catchlight.io\/8567\/1\/2024-catchlight-visual-storytelling-summit\/scholarship-of-a-lived-experience",
+                                "text": "https:\/\/www.player.catchlight.io\/8567\/1\/2024-catchlight-visual-storytelling-summit\/scholarship-of-a-lived-experience"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N",
+                    "U02V28GTKMW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "melting_face",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U05RTFC5UP7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1716487579.137959",
+        "client_msg_id": "ac731c2e-cddd-41b5-92c4-b86775d4c40b",
+        "text": "ty lisa!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716487561.316279",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "leySi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ty lisa!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1716497333.268699",
+        "client_msg_id": "943c326c-f82e-4452-bd37-296993d6a140",
+        "text": "CatchLight sent me some feedback on the talk in case you would like to use it for anything Lisa. See comments below from some of the guests:\n\n&gt; _\"Yesica's phenomenal presentation was special in all the right ways. Her work is a perfect case study on the importance of local visual journalism, and its deeply tangible value that shows up in community relationships and even the aesthetic approach to image making. She was also clearly very well prepared to deliver an outstanding, engaging talk.\"_\n&gt; _\"I loved the way Yesica wove her own story and experiences into the narrative, showing how they informed the approach she took with her reporting. The presentation also had incredible editing and managed to show how a story can be candid about the challenges of living in encampments in the Bay while preserving the dignity and personhood of the people featured.\"_",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716487561.316279",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DF0Hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CatchLight sent me some feedback on the talk in case you would like to use it for anything Lisa. See comments below from some of the guests:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Yesica's phenomenal presentation was special in all the right ways. Her work is a perfect case study on the importance of local visual journalism, and its deeply tangible value that shows up in community relationships and even the aesthetic approach to image making. She was also clearly very well prepared to deliver an outstanding, engaging talk.\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"I loved the way Yesica wove her own story and experiences into the narrative, showing how they informed the approach she took with her reporting. The presentation also had incredible editing and managed to show how a story can be candid about the challenges of living in encampments in the Bay while preserving the dignity and personhood of the people featured.\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1716497387.308239",
+        "client_msg_id": "acd10ee7-89f8-42c5-a431-5057b803f204",
+        "text": "I was not very well prepared lol :sweat_smile:\nI just spoke from the heart :yellow_heart:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1716487561.316279",
+        "parent_user_id": "U02LAK62DEV",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k3onc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was not very well prepared lol "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI just spoke from the heart "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yellow_heart",
+                                "unicode": "1f49b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Here're the QR codes to print and cut pointing to Driving Home and your photos --if you'd like",
+        "files": [
+            {
+                "id": "F07598CGB6D",
+                "created": 1716497365,
+                "timestamp": 1716497365,
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 189941,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "QR Yesi Driving Home.docx",
+                "title": "QR Yesi Driving Home.docx",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F07598CGB6D\/qr_yesi_driving_home.docx?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F07598CGB6D\/download\/qr_yesi_driving_home.docx?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07598CGB6D-711f0e24d1\/qr_yesi_driving_home_converted.pdf?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F07598CGB6D-711f0e24d1\/qr_yesi_driving_home_thumb_pdf.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F07598CGB6D\/qr_yesi_driving_home.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F07598CGB6D-555b523e33",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQjhT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here're the QR codes to print and cut pointing to Driving Home and your photos --if you'd like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1716497389.145649",
+        "client_msg_id": "473258ab-5fee-46dc-898d-f6cc65bd2cd5",
+        "thread_ts": "1716422930.941449",
+        "parent_user_id": "U01PU2BUHU5",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
