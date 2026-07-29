@@ -1,0 +1,290 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1631744638.000900",
+        "client_msg_id": "35338c38-0e75-42a9-b6ae-7353ddd142e3",
+        "text": "SF All In shared Noah's evictions impact tracker. (How do I grab a link to a post on Facebook and share it outside of the FB empire??) --&gt; <https:\/\/www.facebook.com\/SFALLINHOMES>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Log In or Sign Up to View",
+                "title_link": "https:\/\/www.facebook.com\/SFALLINHOMES",
+                "text": "See posts, photos and more on Facebook.",
+                "fallback": "Log In or Sign Up to View",
+                "from_url": "https:\/\/www.facebook.com\/SFALLINHOMES",
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yv\/r\/B8BxsscfVBr.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/SFALLINHOMES"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6P0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SF All In shared Noah's evictions impact tracker. (How do I grab a link to a post on Facebook and share it outside of the FB empire??) --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/SFALLINHOMES"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1631748430.002700",
+        "client_msg_id": "e87a83a8-d6b4-47b5-ada2-70de7e60b0a7",
+        "text": "Two things...\n\n1. It tracks rent-relief applications \/ payment approvals, not evictions.\n2. To link directly to a specific Facebook post, click that post's timestamp. For this post, right now that says \"4 hrs\" ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hPSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Two things...\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It tracks rent-relief applications \/ payment approvals, not evictions."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "To link directly to a specific Facebook post, click that post's timestamp. For this post, right now that says \"4 hrs\" "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1631748436.002900",
+        "client_msg_id": "ef1d141c-ed99-4f6d-8f70-c534d0ae247b",
+        "text": "Here's the link: <https:\/\/www.facebook.com\/SFALLINHOMES\/posts\/884565108862926?__tn__=-R>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Log In or Sign Up to View",
+                "title_link": "https:\/\/www.facebook.com\/SFALLINHOMES\/posts\/884565108862926?__tn__=-R",
+                "text": "See posts, photos and more on Facebook.",
+                "fallback": "Log In or Sign Up to View",
+                "from_url": "https:\/\/www.facebook.com\/SFALLINHOMES\/posts\/884565108862926?__tn__=-R",
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yv\/r\/B8BxsscfVBr.ico",
+                "service_name": "facebook.com",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/SFALLINHOMES\/posts\/884565108862926?__tn__=-R"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=iBs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's the link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/SFALLINHOMES\/posts\/884565108862926?__tn__=-R"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1631748480.003700",
+        "client_msg_id": "60d52fc9-5678-4ca1-beb1-eefbc649f05b",
+        "text": "Doh! Re: #1, yes, I know. Foggy brain. Re: #2 -- thank you!!!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G4KnZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Doh! Re: #1, yes, I know. Foggy brain. Re: #2 -- thank you!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1631748521.004300",
+        "client_msg_id": "24266df0-aad9-444c-8d55-2ce7006e889a",
+        "text": "Because clicking on a time stamp to get the link is such an intuitive feature (?????)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxNk6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because clicking on a time stamp to get the link is such an intuitive feature (?????)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1631748534.004500",
+        "client_msg_id": "efa1e316-e015-4401-8e7d-45e7c1f7dbdc",
+        "text": "FB -- so easy to hate",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W4Dw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FB -- so easy to hate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

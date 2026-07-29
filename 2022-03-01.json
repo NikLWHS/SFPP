@@ -1,0 +1,270 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1646161607.800369",
+        "edited": {
+            "user": "U02LAK62DEV",
+            "ts": "1646178356.000000"
+        },
+        "client_msg_id": "c4629934-db64-40f9-bd0b-f4d8c246c0e2",
+        "text": "<@U19LB1TK5>  FIJ newsletter\n*<https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/|Reporting sparks review of oversight of ride sharing companies’ dangerous drivers>*\n<https:\/\/fij.dm.networkforgood.com\/emails\/1754463>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "ts": 1634747421,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/10\/Ride_Hailing_19-1170x780.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 197661,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "fallback": "San Francisco Public Press: California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "text": "The agency responsible for regulating the ride-hailing industry in California has failed to collect consistent data on complaints of assaults, threats and harassment on Uber and Lyft rides, a San Francisco Public Press investigation found.",
+                "title": "California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "title_link": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Seth Rosenfeld",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "15 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  FIJ newsletter\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                                "text": "Reporting sparks review of oversight of ride sharing companies’ dangerous drivers",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fij.dm.networkforgood.com\/emails\/1754463"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1646177841.870949",
+        "client_msg_id": "13b1002a-3d9e-4ee1-81c7-d97ceb1c76e9",
+        "text": "KQED picked up the story in full (though credited ProPublica only). I’ve emailed them to ask for a revised credit line. <https:\/\/www.kqed.org\/news\/11906631\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.kqed.org\/news\/11906631\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant",
+                "image_url": "https:\/\/ww2.kqed.org\/app\/uploads\/sites\/10\/2020\/05\/RS43039_009_KQED_SanFrancisco_TentEncampments_05052020-qut-1-1020x680.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 160326,
+                "service_icon": "https:\/\/www.kqed.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.kqed.org\/news\/11906631\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant",
+                "fallback": "KQED: In San Francisco, Hundreds of Homes for Unhoused People Sit Vacant | KQED",
+                "text": "As of early February, San Francisco's Department of Homelessness and Supportive Housing reported 1,633 unhoused people approved for supportive housing and awaiting their turn to move in — despite 888 vacancies in its permanent supportive housing stock as of Feb. 22. Filling those empty rooms would cut the waiting list by more than half, and house roughly 1 in every 8 homeless people in the city.",
+                "title": "In San Francisco, Hundreds of Homes for Unhoused People Sit Vacant | KQED",
+                "title_link": "https:\/\/www.kqed.org\/news\/11906631\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant",
+                "service_name": "KQED"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOCf\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KQED picked up the story in full (though credited ProPublica only). I’ve emailed them to ask for a revised credit line. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kqed.org\/news\/11906631\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1646184938.607599",
+        "client_msg_id": "ac79bea1-9323-4dc0-9ff4-78ac4cba92b0",
+        "text": "Joe Fitzgerald Rodriguez cites Nuala’s reporting: <https:\/\/www.kqed.org\/news\/11906661\/woman-who-died-in-homeless-encampment-fire-idd-as-sf-mother-of-3-who-was-evicted-in-2018>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJRc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joe Fitzgerald Rodriguez cites Nuala’s reporting: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kqed.org\/news\/11906661\/woman-who-died-in-homeless-encampment-fire-idd-as-sf-mother-of-3-who-was-evicted-in-2018"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F034T3CN1V5",
+                "created": 1646184945,
+                "timestamp": 1646184945,
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U036YAYMM",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 149452,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Screenshot 2022-03-01 at 5.34.45 PM.jpg",
+                "title": "Screenshot 2022-03-01 at 5.34.45 PM.jpg",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F034T3CN1V5\/screenshot_2022-03-01_at_5.34.45_pm.jpg?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F034T3CN1V5\/download\/screenshot_2022-03-01_at_5.34.45_pm.jpg?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_64.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_80.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_360.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 49,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_480.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 66,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_160.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_720.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 98,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_800.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 109,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_960.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 131,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034T3CN1V5-5ef1edd8da\/screenshot_2022-03-01_at_5.34.45_pm_1024.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 140,
+                "original_w": 1784,
+                "original_h": 244,
+                "thumb_tiny": "AwAGADDQPU0lKeppKB2ClAzSU5O9AWDYfWlC4NLRQI\/\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F034T3CN1V5\/screenshot_2022-03-01_at_5.34.45_pm.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F034T3CN1V5-eff4eb173f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1646184948.258389",
+        "client_msg_id": "017ec28e-68fc-4667-b6e6-4ee71501631f"
+    }
+]

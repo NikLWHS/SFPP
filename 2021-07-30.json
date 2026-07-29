@@ -1,0 +1,128 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1627667924.000400",
+        "client_msg_id": "803bd8d0-a036-4e63-95b3-c724b3a42ced",
+        "text": "<@U19LB1TK5> is this a good channel to discuss bumping our numbers up?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GytIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is this a good channel to discuss bumping our numbers up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1627672256.001000",
+        "client_msg_id": "30125b72-7385-43a2-b9e7-1dd40193b4d5",
+        "text": "<@U58JZC631> No. This is for sharing stories that mention @sfpublicpress or that we broke first.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0B2Xr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U58JZC631"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No. This is for sharing stories that mention @sfpublicpress or that we broke first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1627673755.001400",
+        "client_msg_id": "5889c5be-7067-4ee6-8294-aac0c172d83a",
+        "text": "... make new channel, then?\n<@U19LB1TK5>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... make new channel, then?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1632256263.019400",
+        "client_msg_id": "9efde2eb-249f-4f94-aff0-daf89c8c35a0",
+        "text": "<https:\/\/rjionline.org\/news\/lessons-learned-from-a-scoop-out-of-san-quentin\/>\nYukari Kane from the Prison Journalism Project blogs about collaborating with us on the San Quentin COVID scoop.\n\n&gt; We thought this story would be of interest to a local media partner, so we contacted our friends at <https:\/\/www.sfpublicpress.org\/|San Francisco Public Press>, an independent nonprofit news organization with a reputation for investigative reporting.\n&gt; The San Francisco Public Press is precisely the kind of organization we want to be working more with: They are open-minded and publish work by non-traditionally trained writers, but they also take journalism seriously in a way that aligns with PJP’s ethics.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BKAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rjionline.org\/news\/lessons-learned-from-a-scoop-out-of-san-quentin\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nYukari Kane from the Prison Journalism Project blogs about collaborating with us on the San Quentin COVID scoop.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We thought this story would be of interest to a local media partner, so we contacted our friends at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/",
+                                "text": "San Francisco Public Press"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", an independent nonprofit news organization with a reputation for investigative reporting."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The San Francisco Public Press is precisely the kind of organization we want to be working more with: They are open-minded and publish work by non-traditionally trained writers, but they also take journalism seriously in a way that aligns with PJP’s ethics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "UQH93QFNV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

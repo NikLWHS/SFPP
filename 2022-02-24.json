@@ -1,0 +1,500 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645746135.984169",
+        "client_msg_id": "7188be36-3197-40e9-a98a-c95721da005d",
+        "text": "Pickup of Nuala’s story:\n\n<https:\/\/brokeassstuart.com\/2022\/02\/24\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/brokeassstuart.com\/2022\/02\/24\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/",
+                "image_url": "https:\/\/brokeassstuart.com\/wp-content\/pictsnShit\/2022\/02\/Propublica_Homelessness_secondary-illustration_B_final_High-res-1536x1027-1.jpg",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 219156,
+                "service_icon": "https:\/\/brokeassstuart.com\/wp-content\/pictsnShit\/2015\/01\/BAS_Favicon_57x571.png",
+                "id": 1,
+                "original_url": "https:\/\/brokeassstuart.com\/2022\/02\/24\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/",
+                "fallback": "Broke-Ass Stuart's Website: In San Francisco, Hundreds of Homes for the Homeless Sit Vacant - Broke-Ass Stuart's Website",
+                "text": "For more than a year, San Francisco’s Department of Homelessness and Supportive Housing has wrestled with a growing number of vacancies. Despite having more than 1,600 homeless people on the waitlist for these units, 888 sit empty. By the department’s own estimation, at least 400 of those people have been waiting for more than a year — far beyond its own goal of 45 days.",
+                "title": "In San Francisco, Hundreds of Homes for the Homeless Sit Vacant - Broke-Ass Stuart's Website",
+                "title_link": "https:\/\/brokeassstuart.com\/2022\/02\/24\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/",
+                "service_name": "Broke-Ass Stuart's Website",
+                "fields": [
+                    {
+                        "value": "Alex Mak - Managing Editor",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7x4x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pickup of Nuala’s story:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brokeassstuart.com\/2022\/02\/24\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645746171.564399",
+        "client_msg_id": "b01d26e5-f10e-4ff1-8391-b4c9a4e0095f",
+        "text": "Literally just cut and pasted our press release.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jeV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Literally just cut and pasted our press release."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1645746510.444569",
+        "client_msg_id": "5C5D2731-D0CC-4FA8-8A78-A91270D0EB26",
+        "text": "Hahaha sounds like Stuart. But he has a big audience!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha sounds like Stuart. But he has a big audience!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1645746538.368989",
+        "client_msg_id": "1BB3A8A6-9DB7-45DC-A06B-0C05A316694F",
+        "text": "The SF Standard video will be up in the morning",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The SF Standard video will be up in the morning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "UKJ1HMMAM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1645747257.555639",
+        "client_msg_id": "dda471bb-87ad-481c-8123-e945e7e80431",
+        "text": "Regarding both Stuart and the video -- that's great!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G21f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Regarding both Stuart and the video -- that's great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1645749511.246559",
+        "client_msg_id": "a79c1507-038b-43c0-96ff-0dd5b6bd9737",
+        "text": "I asked him to do this and he said yes -- yay!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYIot",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I asked him to do this and he said yes -- yay!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1645751043.798179",
+        "client_msg_id": "88c16fb6-6ff4-4b71-8bf8-deb8fcb47073",
+        "text": "nice!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Asrf3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1645753644.715039",
+        "client_msg_id": "d481b661-2267-41a4-a275-d6faa9303bc5",
+        "text": "Top story in The SF Minute :blush: If you haven't done so already, please subscribe to it! Nick seems quite responsive to friendly requests for coverage. -- <https:\/\/www.thesfminute.com\/p\/-housing-for-the-homeless-sits-vacant?utm_source=url>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1645753644.715039",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1645807744.110149",
+        "reply_users": [
+            "U01EHNW3M6J"
+        ],
+        "replies": [
+            {
+                "user": "U01EHNW3M6J",
+                "ts": "1645807744.110149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.thesfminute.com\/p\/-housing-for-the-homeless-sits-vacant?utm_source=url",
+                "image_url": "https:\/\/cdn.substack.com\/image\/fetch\/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep\/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff40ed2d7-a171-4208-b32d-1e42099f16a1_1024x626.jpeg",
+                "image_width": 409,
+                "image_height": 250,
+                "image_bytes": 211883,
+                "service_icon": "https:\/\/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com\/public\/images\/77300340-ab7b-470c-9f52-7d55a146072e\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.thesfminute.com\/p\/-housing-for-the-homeless-sits-vacant?utm_source=url",
+                "fallback": ":house: Housing for the homeless sits vacant",
+                "text": "2.24.22",
+                "title": ":house: Housing for the homeless sits vacant",
+                "title_link": "https:\/\/www.thesfminute.com\/p\/-housing-for-the-homeless-sits-vacant?utm_source=url",
+                "service_name": "thesfminute.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kh5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top story in The SF Minute "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " If you haven't done so already, please subscribe to it! Nick seems quite responsive to friendly requests for coverage. -- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.thesfminute.com\/p\/-housing-for-the-homeless-sits-vacant?utm_source=url"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1645753720.643799",
+        "client_msg_id": "0762c081-6f0e-4f57-b25f-cce5e8b9f51c",
+        "text": "(Not sure why he used a Getty image -- maybe he's received complaints from other outlets.)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qs+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Not sure why he used a Getty image -- maybe he's received complaints from other outlets.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645753792.177769",
+        "client_msg_id": "481c08b6-ff42-42b5-a57d-de7b0fa029e2",
+        "text": "Our main image is beautiful and large (no good for cropping either) so maybe that? Maybe just easier to replace with generic in the right size?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/89u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our main image is beautiful and large (no good for cropping either) so maybe that? Maybe just easier to replace with generic in the right size?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1643081127.000500",
+        "client_msg_id": "7342e3f9-a25a-47fc-b764-e72233720a3f",
+        "text": "Habitat for Humanity Greater San Francisco shared Madison's Build Back Better story: <https:\/\/www.facebook.com\/habitatgsf\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.facebook.com\/habitatgsf\/",
+                "thumb_url": "https:\/\/scontent-atl3-2.xx.fbcdn.net\/v\/t39.30808-1\/p200x200\/251505644_10159499115769605_5324697007292430270_n.png?_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=8XC36c8PGMkAX8hi2Uv&_nc_ht=scontent-atl3-2.xx&oh=00_AT8TX4djOP7868FBHgxlyWC37OtXx10Zpi521unYBv3Krg&oe=61F43BAF",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yD\/r\/d4ZIVX-5C-b.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/habitatgsf\/",
+                "fallback": "Habitat for Humanity Greater San Francisco",
+                "text": "Habitat for Humanity Greater San Francisco, San Francisco, California. 17,836 likes · 39 talking about this · 431 were here. We build homes and sustain homeownership opportunities for families in...",
+                "title": "Habitat for Humanity Greater San Francisco",
+                "title_link": "https:\/\/www.facebook.com\/habitatgsf\/",
+                "service_name": "facebook.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B68Bf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Habitat for Humanity Greater San Francisco shared Madison's Build Back Better story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/habitatgsf\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

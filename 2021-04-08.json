@@ -1,0 +1,322 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U036YAYMM",
+        "text": "<@U036YAYMM> has joined the channel",
+        "type": "message",
+        "ts": "1617903488.000200"
+    },
+    {
+        "subtype": "channel_purpose",
+        "user": "U036YAYMM",
+        "purpose": "Experimental channel to drop significant accomplishments: awards, policy changes, prominent mentions, pickup by others, broadcast appearances",
+        "text": "set the channel description: Experimental channel to drop significant accomplishments: awards, policy changes, prominent mentions, pickup by others, broadcast appearances",
+        "type": "message",
+        "ts": "1617903489.000300"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UQH93QFNV",
+        "text": "<@UQH93QFNV> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1617903504.000500"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U19LB1TK5",
+        "text": "<@U19LB1TK5> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1617903504.000700"
+    },
+    {
+        "text": "<https:\/\/sfpublicpress.slack.com\/files\/U5ZQBSV9V\/F01TQEVU2G2\/image.png>",
+        "files": [
+            {
+                "id": "F01TQEVU2G2",
+                "created": 1617903259,
+                "timestamp": 1617903259,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U5ZQBSV9V",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 113139,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "listen here",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F01TQEVU2G2\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F01TQEVU2G2\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 335,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 447,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 670,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 744,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 893,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F01TQEVU2G2-ad4ee7893c\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 953,
+                "original_w": 1061,
+                "original_h": 987,
+                "thumb_tiny": "AwAsADAF3MDwsY\/4CaX7bcY6J+Rqn5bUmxqeg+SfYu\/bZ\/RPyNH2249E\/I1UCnaRgH3zTdjetGg3Tl2Lpvbj+6n5Gmm\/lTtHn0waqbG9aXyn9KeguSfY2PssX90fmaPssP8AcH61NRUj5pdyD7LD\/cH60v2WDH3B+Zp3ln++1PAwPWgfM+5B5Fv\/AM8\/50fZov7g\/WlUSCQlnBX0xUtAOUl1E687iPanDAH3s\/Wmg0vPrQQOpDyOtLSAY6UANYfl3oXpT8UUAf\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F01TQEVU2G2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F01TQEVU2G2-c09c41c208",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "x_files": [
+            "F01TQEVU2G2"
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfpublicpress.slack.com\/files\/U5ZQBSV9V\/F01TQEVU2G2\/image.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1617903559.000900",
+        "client_msg_id": "4de283b4-63ff-4cd4-837d-3ddf148e9e68"
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1617903647.001800",
+        "client_msg_id": "42546fb0-7be5-4e6c-9469-253de9906273",
+        "text": "Nina Sparling interviewed on KQED about HUD rejecting Plaza East demolition.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q4XaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nina Sparling interviewed on KQED about HUD rejecting Plaza East demolition."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<https:\/\/sfpublicpress.slack.com\/files\/U5ZQBSV9V\/F01THPX0SRL\/kqed_radio_hourly_cast_040821.mp3>",
+        "files": [
+            {
+                "id": "F01THPX0SRL",
+                "created": 1617904415,
+                "timestamp": 1617904415,
+                "mimetype": "audio\/mpeg",
+                "filetype": "mp3",
+                "pretty_type": "MP3",
+                "user": "U5ZQBSV9V",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 2348607,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "KQED_Radio_hourly_cast_040821.mp3",
+                "title": "KQED_Radio_hourly_cast_040821.mp3",
+                "is_transcription_region_supported": true,
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F01THPX0SRL\/kqed_radio_hourly_cast_040821.mp3?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F01THPX0SRL\/download\/kqed_radio_hourly_cast_040821.mp3?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "audio_wave_samples": [
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0,
+                    70,
+                    40,
+                    10,
+                    80,
+                    50,
+                    20,
+                    90,
+                    60,
+                    30,
+                    0
+                ],
+                "media_display_type": "audio",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F01THPX0SRL\/kqed_radio_hourly_cast_040821.mp3",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F01THPX0SRL-36dfdcb640",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "x_files": [
+            "F01THPX0SRL"
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWdWD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfpublicpress.slack.com\/files\/U5ZQBSV9V\/F01THPX0SRL\/kqed_radio_hourly_cast_040821.mp3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1617905203.002000",
+        "client_msg_id": "9433ef9c-2195-4ecb-8fdd-03b8892d0365"
+    }
+]

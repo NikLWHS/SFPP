@@ -1,0 +1,125 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1664383322.251209",
+        "client_msg_id": "11f1c9bf-9bcf-409d-abde-84e6ec6e116c",
+        "text": "Mentions Yesi's Twitter reports. <https:\/\/sfist.com\/2022\/09\/27\/caltrans-apparently-hits-an-amtrak-train-while-trying-to-clear-wood-street-encampment-in-oakland\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfist.com\/2022\/09\/27\/caltrans-apparently-hits-an-amtrak-train-while-trying-to-clear-wood-street-encampment-in-oakland\/",
+                "ts": 1664319933,
+                "image_url": "https:\/\/img.sfist.com\/2022\/09\/wood-street.jpeg",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 464991,
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2022\/09\/27\/caltrans-apparently-hits-an-amtrak-train-while-trying-to-clear-wood-street-encampment-in-oakland\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: Caltrans Crew Hits an Amtrak Train With a Crane While Trying to Clear Wood Street Encampment In Oakland",
+                "text": "An unexpected snag straight from a Looney Tunes cartoon has held up the renewed clearing of West Oakland's Wood Street encampment, as Caltrans reportedly managed to hit a moving Amtrak train while bagging and tagging unsheltered people’s tents and structures.",
+                "title": "Caltrans Crew Hits an Amtrak Train With a Crane While Trying to Clear Wood Street Encampment In Oakland",
+                "title_link": "https:\/\/sfist.com\/2022\/09\/27\/caltrans-apparently-hits-an-amtrak-train-while-trying-to-clear-wood-street-encampment-in-oakland\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Joe Kukura",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF News, wood street, encampment, caltrans, amtrak",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdUvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mentions Yesi's Twitter reports. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2022\/09\/27\/caltrans-apparently-hits-an-amtrak-train-while-trying-to-clear-wood-street-encampment-in-oakland\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1664398684.690659",
+        "client_msg_id": "06a54fc9-6c99-47f1-ba3e-6e1ad1380365",
+        "text": "Good reporting <@U01PU2BUHU5>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good reporting "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

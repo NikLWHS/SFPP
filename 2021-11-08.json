@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1636418392.010000",
+        "client_msg_id": "beffb313-9652-4d1a-9367-c814fbf545b5",
+        "text": "Memorializing this from another channel: the Chronicle copied our 2018 analysis of the progressive-moderate spectrum in San Francisco.\n<https:\/\/www.sfchronicle.com\/projects\/2021\/supervisor-scores\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "The San Francisco Chronicle: We used an algorithm to score S.F. supervisors from progressive to moderate",
+                "image_url": "https:\/\/s.hdnux.com\/photos\/01\/20\/11\/37\/21679606\/4\/1200x0.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 21346,
+                "from_url": "https:\/\/www.sfchronicle.com\/projects\/2021\/supervisor-scores\/",
+                "service_name": "The San Francisco Chronicle",
+                "service_icon": "https:\/\/www.sfchronicle.com\/favicon.ico",
+                "title": "We used an algorithm to score S.F. supervisors from progressive to moderate",
+                "title_link": "https:\/\/www.sfchronicle.com\/projects\/2021\/supervisor-scores\/",
+                "text": "We used an algorithm to examine S.F. supervisor voting behavior to see which supervisors are furthest apart.",
+                "id": 1,
+                "original_url": "https:\/\/www.sfchronicle.com\/projects\/2021\/supervisor-scores\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wBWzB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Memorializing this from another channel: the Chronicle copied our 2018 analysis of the progressive-moderate spectrum in San Francisco.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfchronicle.com\/projects\/2021\/supervisor-scores\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1636418423.010500",
+        "client_msg_id": "be81d4f6-2de2-4687-85df-be29edfe9f12",
+        "text": "Quote from the piece:\n&gt; (A similar 2018 analysis by the <https:\/\/www.sfpublicpress.org\/finally-data-map-s-f-city-halls-progressive-moderate-divide\/|San Francisco Public Press> and UC Davis used the same scale.)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "San Francisco Public Press: Finally, Data Map S.F. City Hall’s Progressive-Moderate Divide - San Francisco Public Press",
+                "image_url": "https:\/\/sfpublicpress.org\/wp-content\/uploads\/2018\/06\/for_social_cropped.jpg",
+                "image_width": 330,
+                "image_height": 250,
+                "image_bytes": 714300,
+                "from_url": "https:\/\/www.sfpublicpress.org\/finally-data-map-s-f-city-halls-progressive-moderate-divide\/",
+                "service_name": "San Francisco Public Press",
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "title": "Finally, Data Map S.F. City Hall’s Progressive-Moderate Divide - San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/finally-data-map-s-f-city-halls-progressive-moderate-divide\/",
+                "text": "Exclusive: A data-driven analysis has, at last, mapped the progressive-moderate divide at San Francisco City Hall that political observers have known in their guts for years.",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Noah Arroyo",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "9 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1527897595,
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/finally-data-map-s-f-city-halls-progressive-moderate-divide\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NT1xE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quote from the piece:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(A similar 2018 analysis by the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/finally-data-map-s-f-city-halls-progressive-moderate-divide\/",
+                                "text": "San Francisco Public Press"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and UC Davis used the same scale.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

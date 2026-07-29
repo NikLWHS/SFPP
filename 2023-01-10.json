@@ -1,0 +1,495 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1673394286.573969",
+        "client_msg_id": "c2e27d32-124f-4717-b5cd-512c1c726048",
+        "text": "Yooooooo <https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighthb> <@U01PU2BUHU5>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yooooooo "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighthb"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1673394407.314869",
+        "client_msg_id": "05a105d5-5838-4a5a-b184-54adfccd6123",
+        "text": "(I do not like the reformatting though)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Cw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I do not like the reformatting though)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1673394446.670199",
+        "client_msg_id": "ace7abd3-a234-4259-9bae-11d9eded1cfa",
+        "text": "I don't like the reformatting either. There's no context for the photos...",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NtabK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't like the reformatting either. There's no context for the photos..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1673394457.472259",
+        "client_msg_id": "fb06cc2d-78a9-46f7-88e1-b38181d42195",
+        "text": ":pensive:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wMxG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "pensive",
+                                "unicode": "1f614"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1673394523.829069",
+        "client_msg_id": "51634b4d-f1d3-4b3e-b7b8-11a48aa5bab9",
+        "text": "yeah the reformatting was … a mistake lol",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah the reformatting was … a mistake lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1673394917.741949",
+        "client_msg_id": "bf88ccbd-6195-40ff-ab1d-054e0ff34112",
+        "text": "I know it's long, but it's the tick tock story that provides context to how messed up city staff behaved towards people. It's reframed as if this was my opinion, but is not. It's what really happened to people.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DZnCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know it's long, but it's the tick tock story that provides context to how messed up city staff behaved towards people. It's reframed as if this was my opinion, but is not. It's what really happened to people."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1673395057.350299",
+        "client_msg_id": "914bd7dc-cde4-4f1c-8985-570038d48920",
+        "text": "I mean, it's cool that they picked it up, but it really feels watered down after having read the original.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean, it's cool that they picked it up, but it really feels watered down after having read the original."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up_2::skin-tone-4",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1673395176.493719",
+        "client_msg_id": "bfec363f-094a-4a02-a474-90ba1ca00a46",
+        "text": "Yeah it does...and this way, city officials escape from accountability.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah it does...and this way, city officials escape from accountability."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01PU2BUHU5",
+        "type": "message",
+        "ts": "1673396287.146359",
+        "edited": {
+            "user": "U01PU2BUHU5",
+            "ts": "1673396356.000000"
+        },
+        "client_msg_id": "ee5fbf6b-bf3a-4338-96bb-f6dc8fef1d20",
+        "text": "I'm sorry, but would it be possible to ask Berkeleyside to stop the story at this last paragraph: \n\nIn response, Radu in several emails has directed business owners in Alameda County to request “substance abuse resources and permanent housing resources to address the people living at this encampment.”\n\nAnd then they can provide a link at the bottom to read the full story at the SFPP site <@U19LB1TK5>? Because the way it is formatted now, it makes it seem like that's the whole story, but is not.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "4b581a111d3f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-03-29\/1914862454420_4b581a111d3f68c33ec2_72.jpg",
+            "first_name": "Yesica",
+            "real_name": "Yesica Prado",
+            "display_name": "Yesica Prado",
+            "team": "T036YAYMK",
+            "name": "yesica.prado13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HxYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sorry, but would it be possible to ask Berkeleyside to stop the story at this last paragraph: \n\nIn response, Radu in several emails has directed business owners in Alameda County to request “substance abuse resources and permanent housing resources to address the people living at this encampment.”\n\nAnd then they can provide a link at the bottom to read the full story at the SFPP site "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? Because the way it is formatted now, it makes it seem like that's the whole story, but is not."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1673405138.732159",
+        "client_msg_id": "3ADAB045-8CAD-4064-8882-F1218D0DFBD4",
+        "text": "<@U01PU2BUHU5> I’m sorry I didn’t see this earlier — I was in meetings away from my computer all afternoon. I agree they should have linked to our version of the photo essay rather than run the photos without the text.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5Ne",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I’m"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry I "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " see this earlier "
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I was in meetings away from my computer all afternoon. I agree they should have linked to our version of the photo essay rather than run the photos without the text."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1673405149.684399",
+        "client_msg_id": "83708AE7-889D-4595-9C7A-88217EA16783",
+        "text": "Let’s talk in the morning.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQaVR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let’s talk"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the morning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

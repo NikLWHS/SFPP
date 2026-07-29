@@ -1,0 +1,66 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U02DXRYCD2N",
+        "text": "<@U02DXRYCD2N> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1648056673.313899"
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1648058740.442829",
+        "client_msg_id": "5cd2a741-eafb-4a5d-a485-6ccb5d14ef69",
+        "text": "<https:\/\/nypost.com\/2022\/03\/21\/units-to-house-all-nycs-homeless-are-sitting-vacant-survey\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nypost.com\/2022\/03\/21\/units-to-house-all-nycs-homeless-are-sitting-vacant-survey\/",
+                "ts": 1647891549,
+                "image_url": "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2022\/03\/apartments-nyc-comp.jpg?quality=90&strip=all&w=1024",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 299726,
+                "service_icon": "https:\/\/nypost.com\/wp-content\/themes\/nypost-2016\/static\/images\/apple-icons\/nypost\/apple-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/nypost.com\/2022\/03\/21\/units-to-house-all-nycs-homeless-are-sitting-vacant-survey\/",
+                "fallback": "New York Post: Enough units to house all NYC’s homeless are sitting vacant: survey",
+                "text": "A recent survey by the Supportive Housing Network of New York found that 10 percent of the city’s apartments for homeless housing are sitting empty,",
+                "title": "Enough units to house all NYC’s homeless are sitting vacant: survey",
+                "title_link": "https:\/\/nypost.com\/2022\/03\/21\/units-to-house-all-nycs-homeless-are-sitting-vacant-survey\/",
+                "service_name": "New York Post"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AP2v0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nypost.com\/2022\/03\/21\/units-to-house-all-nycs-homeless-are-sitting-vacant-survey\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

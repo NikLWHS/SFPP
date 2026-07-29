@@ -1,0 +1,247 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1639765313.047100",
+        "client_msg_id": "7b9a3e05-f364-46a3-a253-424ed82ae38c",
+        "text": "I don't think we have a mechanism for that, if you mean something that's automated.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+HcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think we have a mechanism for that, if you mean something that's automated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639776556.048400",
+        "client_msg_id": "91BE0D20-1F29-4D60-BDE1-F66BE6BB7B7A",
+        "text": "We had discussions of doing this specifically for radio, but it can and ideally should be down for many sources. But we currently don't have a system. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We had discussions of doing this specifically for radio, but it can and ideally should be down for many sources. But we currently don't have a system. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1639780916.054100",
+        "client_msg_id": "041c162b-87fc-4851-950b-bb5493a393ed",
+        "text": "Hi <@U58JZC631> i didn't mean \"automated\" per se but is it SOP for reporters to send link to final story to sources? [And preferably with verbiage that encourages groups to let their communities know via all their comms. Esp w\/ hashtags...]",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XvgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U58JZC631"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i didn't mean \"automated\" per se but is it SOP for reporters to send link to final story to sources? [And preferably with verbiage that encourages groups to let their communities know via all their comms. Esp w\/ hashtags...]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1639781787.054800",
+        "client_msg_id": "59df0637-f5dd-4c92-98ed-121d8b8da4f9",
+        "text": "haha WELL we sent our latest to the main source in question but given that he wasn't happy about the premise of the story in the first place I think it would have been coming on pretty strong to encourage him to share it",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=5k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha WELL we sent our latest to the main source in question but given that he wasn't happy about the premise of the story in the first place I think it would have been coming on pretty strong to encourage him to share it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1639781823.055400",
+        "client_msg_id": "c8bd5531-d1ce-4aee-a5d7-fc011652c0b9",
+        "text": "I do share stories with Civic guests as a matter of course, and with some I do discuss sharing with their circles. I try to read the room.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4SmC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do share stories with Civic guests as a matter of course, and with some I do discuss sharing with their circles. I try to read the room."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639783933.056800",
+        "client_msg_id": "8a90f5f0-4f56-463b-9f7c-95d02303dfcc",
+        "text": "Lisa, are you suggesting we prepare a kind of digital packet to send out with suggested social media language, hashtags, links to our profiles and coverage, contact info for our editors, etc.?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p=nkx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lisa, are you suggesting we prepare a kind of digital packet to send out with suggested social media language, hashtags, links to our profiles and coverage, contact info for our editors, etc.?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

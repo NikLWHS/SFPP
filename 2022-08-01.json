@@ -1,0 +1,135 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1659400713.632329",
+        "client_msg_id": "ad46c842-9420-4c87-84a6-cc120115c8df",
+        "text": "On the A&amp;U AIDS Magazine website. Should have print version soon. <https:\/\/aumag.org\/2022\/07\/29\/back-to-the-fore\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/aumag.org\/2022\/07\/29\/back-to-the-fore\/",
+                "image_url": "https:\/\/aumag.org\/wp-content\/uploads\/2022\/07\/Main_03.jpg",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 109999,
+                "id": 1,
+                "original_url": "https:\/\/aumag.org\/2022\/07\/29\/back-to-the-fore\/",
+                "fallback": "Back to the Fore | A&amp;U Magazine",
+                "title": "Back to the Fore | A&amp;U Magazine",
+                "title_link": "https:\/\/aumag.org\/2022\/07\/29\/back-to-the-fore\/",
+                "service_name": "aumag.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On the A&U AIDS Magazine website. Should have print version soon. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aumag.org\/2022\/07\/29\/back-to-the-fore\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1659400846.288169",
+        "client_msg_id": "af1347b0-ae7b-41f5-8713-352709e72e96",
+        "text": "I'm going to have to go back and ask for proper credit to us.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnCT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm going to have to go back and ask for proper credit to us."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1659401241.097769",
+        "client_msg_id": "17F583C1-96A6-4A47-910D-26E32326CEA5",
+        "text": "Credit mentions are pretty good, if not perfect. More importantly, they need a line break between the last response and your bio. It's all mushed together at the bottom.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/Gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Credit mentions are pretty good, if not perfect. More importantly, they need a line break between the last response and your bio. It's all mushed together at the bottom."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

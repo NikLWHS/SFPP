@@ -1,0 +1,604 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1632170855.004700",
+        "client_msg_id": "32a22ed3-c80a-4e33-ad15-d28fda34024c",
+        "text": "<https:\/\/missionlocal.org\/2021\/09\/9-20-21-tracker\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Mission Local",
+                "title": "Covid-19 Tracker: Another dip in hospitalizations",
+                "title_link": "https:\/\/missionlocal.org\/2021\/09\/9-20-21-tracker\/",
+                "text": "Hospitalizations are down, infections are up while the average positivity rate and R Number remain low.",
+                "fallback": "Mission Local: Covid-19 Tracker: Another dip in hospitalizations",
+                "image_url": "https:\/\/missionloca.s3.amazonaws.com\/mission\/wp-content\/uploads\/2021\/09\/Screen-Shot-2021-09-20-at-1.26.27-PM.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Mark Rabine",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "6 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1632162884,
+                "from_url": "https:\/\/missionlocal.org\/2021\/09\/9-20-21-tracker\/",
+                "image_bytes": 105743,
+                "service_icon": "https:\/\/missionloca.s3.amazonaws.com\/mission\/wp-content\/uploads\/2021\/01\/iconlogomap-200x200.jpg",
+                "id": 1,
+                "original_url": "https:\/\/missionlocal.org\/2021\/09\/9-20-21-tracker\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O72",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/missionlocal.org\/2021\/09\/9-20-21-tracker\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1632170935.005200",
+        "edited": {
+            "user": "U58JZC631",
+            "ts": "1632171014.000000"
+        },
+        "client_msg_id": "26f76796-ff5a-42dc-975b-2de85990b6dd",
+        "text": ". . .\n_During the pandemic, we’ve heard a lot about public distrust of government and public health officials. But it’s a two-way street: the authorities also seem to have little trust in the public._\n\n_Over the weekend, we got a little closer to one of the enduring mysteries of the delta surge. Bayview Hunters Point is the San Francisco neighborhood which, according to San Francisco’s Department of Public Health, has both the highest rate of vaccination and the highest rate of infection. For many, the contradiction seemed to cast shade on the efficacy of the vaccine (though DPH does not report hospitalizations by neighborhood, only infections). For others, it represented a relatively high rate of testing._\n\n_*Thanks to Noah Arroyo at SF Public Press, we found out that although the neighborhood has high rates of vaccination, <https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/|there are census tracts within the Bayview> that have rather low rates.* Arroyo didn’t have any easy time prying the information loose from DPH, but disturbingly, neither did the community groups working with DPH to promote vaccination._\n\n_If DPH has the information on census tracts, and if this information gives clearer, more targeted, information on vaccination rates, why has it been withheld from community groups who are trying to convince residents to get vaccinated? Early in the pandemic, <https:\/\/missionlocal.org\/2020\/09\/experts-baffled-by-san-franciscos-dearth-of-data-and-covid-testing-in-latinx-community\/|epidemiologists across the country> warned against a failure to share data._\n_. . ._ ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f+k0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ". . .\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "During the pandemic, we’ve heard a lot about public distrust of government and public health officials. But it’s a two-way street: the authorities also seem to have little trust in the public.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Over the weekend, we got a little closer to one of the enduring mysteries of the delta surge. Bayview Hunters Point is the San Francisco neighborhood which, according to San Francisco’s Department of Public Health, has both the highest rate of vaccination and the highest rate of infection. For many, the contradiction seemed to cast shade on the efficacy of the vaccine (though DPH does not report hospitalizations by neighborhood, only infections). For others, it represented a relatively high rate of testing.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Thanks to Noah Arroyo at SF Public Press, we found out that although the neighborhood has high rates of vaccination, ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/",
+                                "text": "there are census tracts within the Bayview",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that have rather low rates.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Arroyo didn’t have any easy time prying the information loose from DPH, but disturbingly, neither did the community groups working with DPH to promote vaccination.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If DPH has the information on census tracts, and if this information gives clearer, more targeted, information on vaccination rates, why has it been withheld from community groups who are trying to convince residents to get vaccinated? Early in the pandemic, ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/missionlocal.org\/2020\/09\/experts-baffled-by-san-franciscos-dearth-of-data-and-covid-testing-in-latinx-community\/",
+                                "text": "epidemiologists across the country",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " warned against a failure to share data.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". . . ",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "shuffle_parrot",
+                "users": [
+                    "U19LB1TK5",
+                    "UQH93QFNV",
+                    "U01B9FNF801",
+                    "U01PU2BUHU5"
+                ],
+                "count": 4
+            },
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1632171077.006500",
+        "edited": {
+            "user": "U58JZC631",
+            "ts": "1632171624.000000"
+        },
+        "client_msg_id": "416cf0e7-1730-4321-bb44-089209c1aa97",
+        "text": "And just FYI, Lydia reached out to me over the weekend and congratulated me on the story. In our conversation, I shared with her that I'd been negotiating with DPH for weeks to get the data. I didn't know ML was going to publish this. That said, I'm OK with it.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632171077.006500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1633101993.021200",
+        "reply_users": [
+            "UKJ1HMMAM"
+        ],
+        "replies": [
+            {
+                "user": "UKJ1HMMAM",
+                "ts": "1633101993.021200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JXAh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And just FYI, Lydia reached out to me over the weekend and congratulated me on the story. In our conversation, I shared with her that I'd been negotiating with DPH for weeks to get the data. I didn't know ML was going to publish this. That said, I'm OK with it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1632171518.008600",
+        "client_msg_id": "F2CDFA24-46AB-4877-940B-B746F966F216",
+        "text": "Rule of thumb: if you’re talking to a journalist, assume they’re planning to publish something about your conversation. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ugQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rule of thumb: if you’re talking to a journalist, assume they’re planning to publish something about your conversation. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up_2",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "point_up_2::skin-tone-4",
+                "users": [
+                    "UQH93QFNV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1632171631.008900",
+        "client_msg_id": "7fa16fa4-2efd-4bd5-8b22-92c2e1aeba20",
+        "text": "Good advice.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPYo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good advice."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1632174153.010600",
+        "client_msg_id": "b8104354-83a3-4245-a6bf-a12660af3c57",
+        "text": "Remember, *you* can say \"off the record\" or \"on background,\" too — and then negotiate from there as needed.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7N0xD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remember, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " can say \"off the record\" or \"on background,\" too — and then negotiate from there as needed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1632174521.016100",
+        "client_msg_id": "8AADC3EB-637A-43BA-B12B-D4531CD31F1C",
+        "text": "My point was that people tend to relax when it seems like a casual conversation. ‘Hey, Noah, great story. By the way, how did you get the info?’ If you’re talking to a journalist outside your own organization, you should be vigilant of the possibility that they might be working you and respond accordingly. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "23iCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My point was that people tend to relax when it seems like a casual conversation. ‘Hey, Noah, great story. By the way, how did you get the info?’ If you’re talking to a journalist outside your own organization, you should be vigilant of the possibility that they might be working you and respond accordingly. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1632174588.016500",
+        "client_msg_id": "f18e8958-6718-4ef4-b25c-bbb36bb54cab",
+        "text": "yep, this time I learned what I should've already known: Lydia is always \"on.\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RyMC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, this time I learned what I should've already known: Lydia is always \"on.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1632174611.016900",
+        "client_msg_id": "c24ae072-2f47-4b94-bd9a-fd7d65bfb9b6",
+        "text": "(But, to your point Kurt, I should make the same assumption about any journo.)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(But, to your point Kurt, I should make the same assumption about any journo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1632180283.017900",
+        "client_msg_id": "1982b661-9304-4773-8b43-c575c2ba84b5",
+        "text": "Yes, yes, yes.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ckva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, yes, yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

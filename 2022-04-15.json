@@ -1,0 +1,75 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1650036750.140139",
+        "client_msg_id": "11568BB8-47A7-4252-8EBA-CE1FC2B71842",
+        "text": "Pickup in SFist for Nuala's story: <https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/|https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/",
+                "ts": 1649971200,
+                "image_url": "https:\/\/img.sfist.com\/2022\/04\/Navigation-Center-picture-768x476--1-.jpg",
+                "image_width": 403,
+                "image_height": 250,
+                "image_bytes": 77938,
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: New Report Details Curious ‘Algorithm’ That Decides Who Gets Homeless Housing Based on How Much Trauma They’ve Endured",
+                "text": "There are some pretty personal questions that go into deciding who gets supportive housing in this town, as a new report details the “algorithm” that sizes up how much trauma applicants have endured.",
+                "title": "New Report Details Curious ‘Algorithm’ That Decides Who Gets Homeless Housing Based on How Much Trauma They’ve Endured",
+                "title_link": "https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Joe Kukura",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF News, homelessness, homeless shelter, homeless shelters",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zratw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pickup in SFist for Nuala's story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/",
+                                "text": "https:\/\/sfist.com\/2022\/04\/14\/new-reports-details-curious-algorithm-that-decides-who-gets-homeless-housing-based-on-how-much-trauma-theyve-endured\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

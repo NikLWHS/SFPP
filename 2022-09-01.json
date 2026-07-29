@@ -1,0 +1,716 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1662061169.300439",
+        "client_msg_id": "d5040bb7-ce73-4a40-b303-e661ebd425e6",
+        "text": "I think this is a newsletter or aggregator. 8th story from the top is our heat wave story. <http:\/\/capitolbasement.com\/index.php?_c=19gj59dp74m18g9&amp;id=19gfd739edddjps>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this is a newsletter or aggregator. 8th story from the top is our heat wave story. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/capitolbasement.com\/index.php?_c=19gj59dp74m18g9&id=19gfd739edddjps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1662061384.514359",
+        "client_msg_id": "d40e958e-ddea-4ece-840c-8211d531cb81",
+        "text": "Nice!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PC1WN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1662061506.938679",
+        "client_msg_id": "e83dd180-4be9-439f-afa7-8937e53c1469",
+        "text": "Looks like a site made for state leaders!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like a site made for state leaders!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1662062238.948329",
+        "client_msg_id": "b8fe2286-608a-423a-bf82-0bd11be40c68",
+        "text": "Look who stole our story, stripping out the byline and not crediting the Public Press, but keeping the \"Civic\" embed??? <https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street\/",
+                "image_url": "https:\/\/aryan-artnews.com\/wp-content\/uploads\/2022\/01\/15_02_12_SFTS-008.jpg",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 167601,
+                "service_icon": "https:\/\/aryan-artnews.com\/wp-content\/uploads\/2021\/11\/cropped-81632-logo-for-IG-modified-5not-exceed-4mb-1-1-300x300.jpg",
+                "id": 1,
+                "original_url": "https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street\/",
+                "fallback": "Photographer Captures Homelessness Crisis in ‘Division Street’",
+                "title": "Photographer Captures Homelessness Crisis in ‘Division Street’",
+                "title_link": "https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street\/",
+                "service_name": "aryan-artnews.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TB3X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look who stole our story, stripping out the byline and not crediting the Public Press, but keeping the \"Civic\" embed??? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1662062270.918099",
+        "client_msg_id": "39be3f80-7880-4059-a254-0c3bcd884e36",
+        "text": "(I found this because Liana had a question about source tracking.)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKIBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I found this because Liana had a question about source tracking.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1662062395.131389",
+        "client_msg_id": "aa6e1e1c-b128-4156-ae5f-377107b9b9b5",
+        "text": "What a bizarre website. No idea where its based.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksWb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What a bizarre website. No idea where its based."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1662062396.081829",
+        "client_msg_id": "113b085c-e1af-44ee-b45d-1a39541327cc",
+        "text": "Oh my god, that’s infuriating.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IA3E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh my god, that’s infuriating."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1662062421.946009",
+        "client_msg_id": "11b30558-bd93-4fb3-bee2-9d2822a05f5e",
+        "text": "It’s clearly another automated nefarious scraper. These things are legion.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZTvRG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s clearly another automated nefarious scraper. These things are legion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1662062442.194499",
+        "client_msg_id": "2b507ba3-0bb2-4106-95a3-1b4806a65c53",
+        "text": "And the name — is it about art, white supremacy or both?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p3ZRB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And the name — is it about art, white supremacy or both?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1662062478.126999",
+        "client_msg_id": "9e392f6a-cd5a-4fee-8304-8f78caa443aa",
+        "text": "Something tells me India. Not the Arayan of white supremacy.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Exr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something tells me India. Not the Arayan of white supremacy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1662062600.165199",
+        "client_msg_id": "6310c191-08c9-4926-8e96-6f0eb218f6a8",
+        "text": "I’m surprised no one in the news industry has written about these mass-produced scammer websites. Maybe I should write about it for CJR.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cO3qR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m surprised no one in the news industry has written about these mass-produced scammer websites. Maybe I should write about it for CJR."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1662062624.209819",
+        "client_msg_id": "7913d2b1-c9d3-4b93-a4c4-30ea36c4faaf",
+        "text": "That would be interesting.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be interesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1662062674.707599",
+        "client_msg_id": "6571a0cc-879a-486b-8993-990ec84b431f",
+        "text": "I would personally feel better if someone vented about this because it really is so frustrating",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mao7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would personally feel better if someone vented about this because it really is so frustrating"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1662062837.921049",
+        "client_msg_id": "569ee1ed-cde2-4403-b7c4-b512d4b967c7",
+        "text": "For what it’s worth, I just added this comment to the bottom of the story, and it went through!\n\nHello,\n\nI am the editor of a news website, the San Francisco Public Press, that owns the copyright to this story: <https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street>. You do not have permission to reprint this on your website. Please remove it.\n\nRespectfully,\n\nMichael Stoll\nExecutive Director\nSan Francisco Public Press\n<https:\/\/sfpublicpress.org>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For what it’s worth, I just added this comment to the bottom of the story, and it went through!\n\nHello,\n\nI am the editor of a news website, the San Francisco Public Press, that owns the copyright to this story: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aryan-artnews.com\/photographer-captures-homelessness-crisis-in-division-street"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". You do not have permission to reprint this on your website. Please remove it.\n\nRespectfully,\n\nMichael Stoll\nExecutive Director\nSan Francisco Public Press\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfpublicpress.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1662062988.120799",
+        "client_msg_id": "0bbaae1d-737d-4f5e-90e5-1c573a6f2615",
+        "text": "Haha, and it looks like it was just removed! So someone is actively monitoring this scam.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiG6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha, and it looks like it was just removed! So someone is actively monitoring this scam."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1662062989.845999",
+        "client_msg_id": "d46ae67b-5dd7-42bb-a4b4-5bb92c814663",
+        "text": "<https:\/\/www.androidpolice.com\/google-plagiarized-news-content-publishers-statement\/> yeah it seems like google is pushing outlets to police this issue themselves rather than do much about it",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.androidpolice.com\/google-plagiarized-news-content-publishers-statement\/",
+                "ts": 1655323056,
+                "image_url": "https:\/\/static1.anpoimages.com\/wordpress\/wp-content\/uploads\/2021\/04\/30\/DSCF4993-scaled.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 402060,
+                "service_icon": "https:\/\/www.androidpolice.com\/public\/build\/images\/favicon-240x240.b52f69ef.png",
+                "id": 1,
+                "original_url": "https:\/\/www.androidpolice.com\/google-plagiarized-news-content-publishers-statement\/",
+                "fallback": "Android Police: Stolen content spreads across Google's Discover Feed, and the tech giant couldn't care less",
+                "text": "Hey Google, why is my Discover feed filled with stolen articles?",
+                "title": "Stolen content spreads across Google's Discover Feed, and the tech giant couldn't care less",
+                "title_link": "https:\/\/www.androidpolice.com\/google-plagiarized-news-content-publishers-statement\/",
+                "service_name": "Android Police"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.androidpolice.com\/google-plagiarized-news-content-publishers-statement\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yeah it seems like google is pushing outlets to police this issue themselves rather than do much about it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1662063745.810179",
+        "client_msg_id": "be5a33fa-9a1a-47d2-80c8-9bd0f2513b74",
+        "text": "<@U036YAYMM> At the very bottom of the page, there is a generic email address: <mailto:info@aryan-artnews.com|info@aryan-artnews.com>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDtE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " At the very bottom of the page, there is a generic email address: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:info@aryan-artnews.com",
+                                "text": "info@aryan-artnews.com",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

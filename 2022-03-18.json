@@ -1,0 +1,236 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1647628725.029699",
+        "client_msg_id": "45d2ceaf-9b5f-4a3d-82ac-33a306fdb5e9",
+        "text": "Hi <@U01EHNW3M6J> how fun to meet you in person!\n\nYes, the timing of all their _new_ presentation slides and spreadsheets will be great to attribute to your fab reporting.  (...and I can't wait to see the spike in filled-vacancies)\n\nBTW <@U19LB1TK5> or <@U036YAYMM> did anyone approach Examiner for correction 2\/3rds of the way down in article where they say \"ProPublica\" rather than \"The San Francisco Public Press and ProPublica.\"\n\nI'm in the middle of writing about the impact of our other work for the Ottaway proposal...",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01EHNW3M6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how fun to meet you in person!\n\nYes, the timing of all their "
+                            },
+                            {
+                                "type": "text",
+                                "text": "new ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "presentation slides and spreadsheets will be great to attribute to your fab reporting.  (...and I can't wait to see the spike in filled-vacancies)\n\nBTW "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did anyone approach Examiner for correction 2\/3rds of the way down in article where they say \"ProPublica\" rather than \"The San Francisco Public Press and ProPublica.\"\n\nI'm in the middle of writing about the impact of our other work for the Ottaway proposal..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1647628873.946729",
+        "client_msg_id": "646D4A2B-44A1-4EAA-BFC3-E55A027CAB3B",
+        "text": "I got KQED to correct their story. They were apologetic about that. I didn't engage with the Ex story, so does anyone have connections there they can approach?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TN4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I got KQED to correct their story. They were apologetic about that. I didn't engage with the Ex story, so does anyone have connections there they can approach?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1647645557.385669",
+        "client_msg_id": "953eb4c4-efd7-4ae1-a5bc-4ef2b1b3623e",
+        "text": "I hope we didn't burn a bridge with KQED.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope we didn't burn a bridge with KQED."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1647648109.282379",
+        "client_msg_id": "80A4F74A-6356-4383-8547-E10BAE74D246",
+        "text": "Not at all. They were gracious. They had a pre-existing agreement with ProPublica, which did not adequately inform them of how the Local Reporting Network operated. They were using an old template (that even referenced a newsletter that's no longer published).",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tdcSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not at all. They were gracious. They had a pre-existing agreement with ProPublica, which did not adequately inform them of how the Local Reporting Network operated. They were using an old template (that even referenced a newsletter that's no longer published)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1647648147.822179",
+        "client_msg_id": "61a7f00a-659e-4d7e-8700-6f2d2fa1614c",
+        "text": "Good.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Jd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

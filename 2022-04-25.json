@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1650906480.541449",
+        "client_msg_id": "832dd9e8-5093-4c0e-8031-374bb19d442a",
+        "text": "<http:\/\/global.chinadaily.com.cn\/a\/202204\/25\/WS6266574fa310fd2b29e592fb.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/global.chinadaily.com.cn\/a\/202204\/25\/WS6266574fa310fd2b29e592fb.html",
+                "image_url": "http:\/\/img2.chinadaily.com.cn\/images\/202204\/25\/6266574fa310fd2bec854eb0.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 114989,
+                "service_icon": "https:\/\/img2.chinadaily.com.cn\/static\/common\/img\/sharelogo2.jpg",
+                "id": 1,
+                "original_url": "http:\/\/global.chinadaily.com.cn\/a\/202204\/25\/WS6266574fa310fd2b29e592fb.html",
+                "fallback": "America's wealth gap is rooted in racism: US media",
+                "text": "Income inequality grew substantially in the United States during the COVID-19 pandemic, as the country's billionaires got 70 percent richer, according to a recent article by The San Francisco Public Press.",
+                "title": "America's wealth gap is rooted in racism: US media",
+                "title_link": "http:\/\/global.chinadaily.com.cn\/a\/202204\/25\/WS6266574fa310fd2b29e592fb.html",
+                "service_name": "global.chinadaily.com.cn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/global.chinadaily.com.cn\/a\/202204\/25\/WS6266574fa310fd2b29e592fb.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1650906492.217679",
+        "client_msg_id": "f1155869-e1c9-4bb0-a650-3ef15fcf27db",
+        "text": "<https:\/\/english.news.cn\/northamerica\/20220425\/a4c1a31647124639bc2df8fca09c9f78\/c.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/english.news.cn\/northamerica\/20220425\/a4c1a31647124639bc2df8fca09c9f78\/c.html",
+                "service_icon": "https:\/\/english.news.cn\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/english.news.cn\/northamerica\/20220425\/a4c1a31647124639bc2df8fca09c9f78\/c.html",
+                "fallback": "America's wealth gap is rooted in racism: U.S. media",
+                "text": "America's wealth gap is rooted in racism: U.S. media-",
+                "title": "America's wealth gap is rooted in racism: U.S. media",
+                "title_link": "https:\/\/english.news.cn\/northamerica\/20220425\/a4c1a31647124639bc2df8fca09c9f78\/c.html",
+                "service_name": "english.news.cn"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RaJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/english.news.cn\/northamerica\/20220425\/a4c1a31647124639bc2df8fca09c9f78\/c.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1673465276.261639",
+        "client_msg_id": "6e10ae7e-8adf-4191-9956-e9818014da1e",
+        "text": "FYI to the team, Lila’s reaching out to editors there to ask for fixes to the story.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ewo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI to the team, Lila’s reaching out to editors there to ask for fixes to the story."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1673478795.317099",
+        "client_msg_id": "f2e0ded6-d30f-45a7-8951-618707d8d48c",
+        "text": "The tick tock was added to the story in full: <https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighth>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673478795.317099",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1673479122.082669",
+        "reply_users": [
+            "U01B9FNF801"
+        ],
+        "replies": [
+            {
+                "user": "U01B9FNF801",
+                "ts": "1673479122.082669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighth",
+                "ts": 1673393629,
+                "image_url": "https:\/\/newspack-berkeleyside-cityside.s3.amazonaws.com\/wp-content\/uploads\/2023\/01\/8TH_ST_31new.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1425244,
+                "service_icon": "https:\/\/i0.wp.com\/newspack-berkeleyside-cityside.s3.amazonaws.com\/wp-content\/uploads\/2018\/07\/cropped-berkeleyside-favicon-1.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighth",
+                "fallback": "Berkeleyside: First Person: Berkeley encampment clearing meant chaos for unhoused people",
+                "text": "Berkeley police and city staff begin rousting people living in tents and vehicles shortly after 6 a.m. on Tuesday, Oct. 4.",
+                "title": "First Person: Berkeley encampment clearing meant chaos for unhoused people",
+                "title_link": "https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighth",
+                "service_name": "Berkeleyside",
+                "fields": [
+                    {
+                        "value": "Yesica Prado",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "41 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGtza",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The tick tock was added to the story in full: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.berkeleyside.org\/2023\/01\/10\/berkeley-clears-encampment-sweep-harrison-eighth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1673478939.606499",
+        "client_msg_id": "53c2442c-7bfd-4dde-8b2b-2a9dafe51ef2",
+        "text": "Yay! Incidentally, I like the general look of the layout (not how they treated this particular story) including bracketing the story with a well designed newsletter sign-up at the top and a donation appeal at the end.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6B21h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yay! Incidentally, I like the general look of the layout (not how they treated this particular story) including bracketing the story with a well designed newsletter sign-up at the top and a donation appeal at the end."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1673479122.082669",
+        "client_msg_id": "e7823114-d026-4c1f-8a01-18eb1ec07bd9",
+        "text": "The context for the photos was really important and I'm glad you got this corrected",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673478795.317099",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The context for the photos was really important and I'm glad you got this corrected"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645128207.938229",
+        "client_msg_id": "c7400530-db75-4be4-915c-7bd7ffc396ed",
+        "text": "Not sure if this is on our radar, but we're linked a few times: <https:\/\/homelessness.ucsf.edu\/news?page=1>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/homelessness.ucsf.edu\/news?page=1",
+                "service_icon": "https:\/\/homelessness.ucsf.edu\/profiles\/ucsf_b1gfoot\/themes\/ucsf_b1gfoot_theme\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/homelessness.ucsf.edu\/news?page=1",
+                "fallback": "News &amp; Research | Page 2 | Benioff Homelessness and Housing Initiative",
+                "text": "Our projects tackle questions that directly concern policymakers and community partners, as we build the evidence needed to develop and strengthen scalable solutions to homelessness in the San Francisco Bay Area, California, and across the United States.",
+                "title": "News &amp; Research | Page 2 | Benioff Homelessness and Housing Initiative",
+                "title_link": "https:\/\/homelessness.ucsf.edu\/news?page=1",
+                "service_name": "homelessness.ucsf.edu"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MvE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not sure if this is on our radar, but we're linked a few times: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/homelessness.ucsf.edu\/news?page=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645128278.691899",
+        "client_msg_id": "5275f5aa-a810-45c5-bd77-a7a99c6f8c1d",
+        "text": "(once on pg2, twice on pg3, didn't go further than pg 4)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ahr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(once on pg2, twice on pg3, didn't go further than pg 4)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645128289.362739",
+        "client_msg_id": "fa8c098a-7020-4f38-a176-ecc32a4e07f2",
+        "text": "Is there a way to scrape for our links?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u23jp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a way to scrape for our links?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645141460.206779",
+        "client_msg_id": "1131a64d-61ec-4001-94a6-339543adb553",
+        "text": "Very cool. I have a few Google alerts for “Public Press,” but not sure how to directly surface URL links within pages, if that’s what you’re suggesting.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very cool. I have a few Google alerts for “Public Press,” but not sure how to directly surface URL links within pages, if that’s what you’re suggesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645147146.038889",
+        "client_msg_id": "d0beb212-b3a4-4c1d-86b7-257129c66387",
+        "text": "I don't know the term for what they're doing, but wondering if there's some kind of alert for when we get... embedded?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXKo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know the term for what they're doing, but wondering if there's some kind of alert for when we get... embedded?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645147182.044149",
+        "client_msg_id": "db39cb2a-2bda-47dd-8aa9-8ad7ece2d05a",
+        "text": "It looks like they just do a linking back with a preview of any homelessness story in SF media",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks like they just do a linking back with a preview of any homelessness story in SF media"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645149484.858969",
+        "client_msg_id": "9c2956ad-9691-43af-9749-4af8cfcaf088",
+        "text": "Very cool. I recall seeing there might be services that sniff out linkbacks, but not sure which ones are the best (or hopefully free).",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very cool. I recall seeing there might be services that sniff out linkbacks, but not sure which ones are the best (or hopefully free)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

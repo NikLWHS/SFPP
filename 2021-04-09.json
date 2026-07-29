@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1618007107.000700",
+        "client_msg_id": "96fffb49-8008-4988-b21b-029fd8e7aea6",
+        "text": "San Francisco Business Times picked up Plaza East story with a link back -- see fourth item -- <https:\/\/www.bizjournals.com\/sanfrancisco\/news\/2021\/04\/08\/sfbt-digest-twitter-instacart-sothebys.html>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "San Francisco Business Times",
+                "title": "SFBT Thursday Digest: Sotheby's new brokerage; Twitter eyes Clubhouse",
+                "title_link": "https:\/\/www.bizjournals.com\/sanfrancisco\/news\/2021\/04\/08\/sfbt-digest-twitter-instacart-sothebys.html",
+                "text": "Sotheby's International Realty has announced the opening of a new #BayArea brokerage. #realestate",
+                "fallback": "San Francisco Business Times: SFBT Thursday Digest: Sotheby's new brokerage; Twitter eyes Clubhouse",
+                "image_url": "https:\/\/media.bizj.us\/view\/img\/11940759\/sfbt5-things-to-know-today*1200xx13333-7500-0-0.png",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.bizjournals.com\/sanfrancisco\/news\/2021\/04\/08\/sfbt-digest-twitter-instacart-sothebys.html",
+                "image_bytes": 1158184,
+                "id": 1,
+                "original_url": "https:\/\/www.bizjournals.com\/sanfrancisco\/news\/2021\/04\/08\/sfbt-digest-twitter-instacart-sothebys.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "San Francisco Business Times picked up Plaza East story with a link back -- see fourth item -- "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bizjournals.com\/sanfrancisco\/news\/2021\/04\/08\/sfbt-digest-twitter-instacart-sothebys.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

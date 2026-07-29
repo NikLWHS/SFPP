@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1635538080.005300",
+        "client_msg_id": "0a882e50-81cf-4b6e-be43-b09b186ca0c6",
+        "text": "Seth's story got picked up in the CalMatters roundup — <https:\/\/calmatters.org\/newsletters\/whatmatters\/2021\/10\/california-vaccine-kids-booster\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CalMatters",
+                "title": "California prepares to vaccinate kids, give more boosters",
+                "title_link": "https:\/\/calmatters.org\/newsletters\/whatmatters\/2021\/10\/california-vaccine-kids-booster\/",
+                "text": "California is getting ready for COVID vaccines for kids ages 5 to 11, in addition to more booster shots for adults.",
+                "fallback": "CalMatters: California prepares to vaccinate kids, give more boosters",
+                "image_url": "https:\/\/calmatters.org\/wp-content\/uploads\/2021\/10\/102721-Newsom-Booster-COVID-AP-CM-01.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Emily Hoeven",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "9 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1635424800,
+                "from_url": "https:\/\/calmatters.org\/newsletters\/whatmatters\/2021\/10\/california-vaccine-kids-booster\/",
+                "image_bytes": 1493251,
+                "service_icon": "https:\/\/i1.wp.com\/calmatters.org\/wp-content\/uploads\/2019\/07\/cropped-cropped-calmatters-favicon.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/calmatters.org\/newsletters\/whatmatters\/2021\/10\/california-vaccine-kids-booster\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seth's story got picked up in the CalMatters roundup — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calmatters.org\/newsletters\/whatmatters\/2021\/10\/california-vaccine-kids-booster\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639067948.029800",
+        "client_msg_id": "25b38a43-a0fe-49ce-92a3-a327b8772669",
+        "text": "Hey that’s great!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey that’s great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1639068197.033200",
+        "client_msg_id": "0fd3bce2-aa4b-4303-8fe1-eb0db6c02974",
+        "text": "If the Forum producers have reached out to you it's pretty clear they plan on doing the show. When I worked there as a fill-in we'd be careful not to promise that the show would happen or when. We'd also usually reach out to more people than we could use, so you may or may not be  in the final cut. It shows a real appreciation of your work that they reached out to you, so crossing fingers. If you're comfortable with the idea, make it clear you are OK with being in studio. That will improve the odds they use you and people actually sitting in the studio generally get asked more questions and get more air time.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSyC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If the Forum producers have reached out to you it's pretty clear they plan on doing the show. When I worked there as a fill-in we'd be careful not to promise that the show would happen or when. We'd also usually reach out to more people than we could use, so you may or may not be  in the final cut. It shows a real appreciation of your work that they reached out to you, so crossing fingers. If you're comfortable with the idea, make it clear you are OK with being in studio. That will improve the odds they use you and people actually sitting in the studio generally get asked more questions and get more air time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EHNW3M6J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1639075152.033600",
+        "client_msg_id": "b54bbe80-3a94-41e0-a3f4-a684c0a55d6b",
+        "text": "<@U01EHNW3M6J> yaaaaaaaaay!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXcrE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EHNW3M6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yaaaaaaaaay!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1639086221.034800",
+        "client_msg_id": "00458901-4d70-4f5a-a8ad-f54a23cade54",
+        "text": "<@U036YAYMM> <@U58JZC631> Will either of you be able to submit the stories you linked for consideration for JMA awards? This is the submission form\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfjW5RXs18IM4DCE01rAXg8S-DcjCs897X0YgEWZzSuaQYrcg\/viewform>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U58JZC631"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Will either of you be able to submit the stories you linked for consideration for JMA awards? This is the submission form\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfjW5RXs18IM4DCE01rAXg8S-DcjCs897X0YgEWZzSuaQYrcg\/viewform"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639086897.037000",
+        "client_msg_id": "0d7270cc-13b3-47b7-85f8-1559f3f1c1a7",
+        "text": "I’ve got my eye on that, and think I can do it on Saturday, but am running out of time this week to do the luxe treatment (write through each one with a nomination letter like I usually do). If anyone wants to pitch in and has the time it’d be appreciated.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve got my eye on that, and think I can do it on Saturday, but am running out of time this week to do the luxe treatment (write through each one with a nomination letter like I usually do). If anyone wants to pitch in and has the time it’d be appreciated."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1639088829.038200",
+        "client_msg_id": "f70ff38f-abc7-4314-8305-7949e8b0c570",
+        "text": "I would maybe save some time by combining the two Seth stories into one submission. You don't need a letter for these in the same formal way as you might for EIJ awards. It's basically all one field in the google form — explain why it should win an award and how the work advanced access to public records \/ improved transparency, then paste in links.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SEaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would maybe save some time by combining the two Seth stories into one submission. You don't need a letter for these in the same formal way as you might for EIJ awards. It's basically all one field in the google form — explain why it should win an award and how the work advanced access to public records \/ improved transparency, then paste in links."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639090999.039000",
+        "client_msg_id": "0629f5a9-7e48-4a6d-ac2f-6121d1b6bc0a",
+        "text": "Google form — good to know. Yes, I was planning to do that. The second was just a follow up to the first. And both are a follow up to the FOI award he got from them last year!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jG0k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google form — good to know. Yes, I was planning to do that. The second was just a follow up to the first. And both are a follow up to the FOI award he got from them last year!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

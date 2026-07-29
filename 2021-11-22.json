@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1637596215.012100",
+        "client_msg_id": "ed87e7a0-6558-436c-a9b0-148dbe75e062",
+        "text": "I'm peeved about this. Surprised that Herrera would just drop it. I didn't know that's how things work.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWnk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm peeved about this. Surprised that Herrera would just drop it. I didn't know that's how things work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1637607991.014700",
+        "client_msg_id": "b477a974-99db-435d-827a-37ef5ba44a7e",
+        "text": "<@U01EHNW3M6J> Are you planning to appeal this? Would be great since it’s relevant to your story. We do shut down inactive email addresses. This suggests to me that we should instead redirect them to editors@",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6qCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EHNW3M6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Are you planning to appeal this? Would be great since it’s relevant to your story. We do shut down inactive email addresses. This suggests to me that we should instead redirect them to editors@"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1637617741.016100",
+        "client_msg_id": "541c9958-94a6-491b-ae66-3142d45e31a6",
+        "text": "<@U036YAYMM> I wasn't planning on it... currently spending every waking second tracking down interviews for my first ProPublica story. Let me reach out to Brian, he retweeted this so maybe he has some thoughts on it.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w\/bW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I wasn't planning on it... currently spending every waking second tracking down interviews for my first ProPublica story. Let me reach out to Brian, he retweeted this so maybe he has some thoughts on it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

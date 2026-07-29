@@ -1,0 +1,210 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1657320605.800729",
+        "client_msg_id": "f43d8dad-60d1-47ba-a306-21829f840f31",
+        "text": "Bay Area Reporter is going to publish our Future of AIDS Quilt stories along with A&amp;U AIDS Magazine. So we will have a local publication and a national one sharing our work!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMksU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bay Area Reporter is going to publish our Future of AIDS Quilt stories along with A&U AIDS Magazine. So we will have a local publication and a national one sharing our work!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "Wow, cool! Just checking, you did send the republication guidelines to them? If not, use this slightly updated PDF version:",
+        "files": [
+            {
+                "id": "F03NFLTFNVD",
+                "created": 1657322655,
+                "timestamp": 1657322655,
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U036YAYMM",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 115959,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "SFPP - 2022 Guide for Republication and Reuse.pdf",
+                "title": "SFPP - 2022 Guide for Republication and Reuse.pdf",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03NFLTFNVD\/sfpp_-_2022_guide_for_republication_and_reuse.pdf?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03NFLTFNVD\/download\/sfpp_-_2022_guide_for_republication_and_reuse.pdf?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03NFLTFNVD-16b57feac9\/sfpp_-_2022_guide_for_republication_and_reuse_thumb_pdf.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F03NFLTFNVD\/sfpp_-_2022_guide_for_republication_and_reuse.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F03NFLTFNVD-cee1bf7ac9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, cool! Just checking, you did send the republication guidelines to them? If not, use this slightly updated PDF version:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1657322660.415289",
+        "client_msg_id": "fddb39e9-002e-41e3-aefd-ecc17e29d8fb"
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1657322678.219049",
+        "client_msg_id": "fec87a21-f733-4521-b545-ce9d274d6e21",
+        "text": "Yes, to both.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MDa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, to both."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1657322714.953009",
+        "client_msg_id": "2bd4a994-e1ef-4081-84ca-7fc82bc0bef6",
+        "text": "Great!!!!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hpIgW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U02LAK62DEV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

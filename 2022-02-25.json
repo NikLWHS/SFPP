@@ -1,0 +1,1071 @@
+[
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1645807665.248289",
+        "client_msg_id": "154FE7D1-DCFE-4020-B94F-3BB40B7E0124",
+        "text": "<https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/|https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/",
+                "ts": 1645804455,
+                "image_url": "https:\/\/sfstandard.com\/wp-content\/uploads\/2022\/02\/Sleep-Site_01.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1956875,
+                "service_icon": "https:\/\/sfstandard.com\/wp-content\/uploads\/2020\/11\/cropped-Logomark-Gold-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/",
+                "fallback": "The San Francisco Standard: More than 800 Homes Remain Unfilled as Thousands Sit on Waitlist",
+                "text": "SF Public Press’ Nuala Bishari uncovers why the city’s housing process is so slow.",
+                "title": "More than 800 Homes Remain Unfilled as Thousands Sit on Waitlist",
+                "title_link": "https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/",
+                "service_name": "The San Francisco Standard",
+                "fields": [
+                    {
+                        "value": "Sarah Wright",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIx\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/",
+                                "text": "https:\/\/sfstandard.com\/public-health-safety\/homelessness\/more-than-800-homes-remain-unfilled-thousands-of-unhoused-sit-on-waitlist\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1645807677.936009",
+        "client_msg_id": "480E8D5F-1942-42BA-B450-A28665E6A711",
+        "text": "My video is a little glitchy but otherwise this isn't bad",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kvwS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My video is a little glitchy but otherwise this isn't bad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-4",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1645807744.110149",
+        "client_msg_id": "AFD92D7F-ED19-487A-A2AF-8769A0C223F9",
+        "text": "I hear the Standard just acquired this, FYI",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1645753644.715039",
+        "parent_user_id": "U19LB1TK5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ge9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hear the Standard just acquired this, FYI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645808345.899359",
+        "client_msg_id": "b5356b67-817c-41bd-aed2-427f478bd6d1",
+        "text": "A shout-out for Noah’s tenant organizing coverage yesterday in Next City’s newsletter: <https:\/\/nextcity.org\/urbanist-news\/housing-in-brief-nyc-mayor-increases-policing-of-homelessness-on-the-subway>\n\nSan Francisco Tenants Are Close to Having Collective Bargaining Rights\nTenants in San Francisco could soon be permitted to form collective bargaining entities — much like labor unions — to negotiate debt, rent increases and building maintenance with landlords. The Board of Supervisors voted on Feb. 15 to approve<https:\/\/sfgov.legistar.com\/LegislationDetail.aspx?ID=5191199&amp;GUID=F81B312D-FBF7-4122-BE1C-0313544C15C8| the measure>, according to the <https:\/\/www.sfpublicpress.org\/sf-tenants-to-gain-new-powers-in-negotiations-with-landlords\/|San Francisco Public Press>. The board must vote _yes_ a second time for the bill to become law. Landlords would be required to negotiate “in good faith” with tenant associations. The bill prohibits landlords from interfering with tenant organizing, whether by residents of the building or from visitors. The protections would cover private buildings with five or more units, and 50% of a building’s units would need to sign on for a newly formed tenant association to be recognized. It would be the first city legislation in the country granting collective bargaining rights to tenants in privately owned residential buildings. Residents of federal public housing have had the right to organize <https:\/\/d3n8a8pro7vhmx.cloudfront.net\/saveourhomesusa\/pages\/241\/attachments\/original\/1508355249\/F_Federal_Register_HUD_30_copies_2-2_stapled.pdf?1508355249|since 2002>.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/nextcity.org\/urbanist-news\/housing-in-brief-nyc-mayor-increases-policing-of-homelessness-on-the-subway",
+                "image_url": "https:\/\/nextcity.org\/images\/daily\/_resized\/51888496442_6b8e08e1b7_k.jpg",
+                "image_width": 339,
+                "image_height": 250,
+                "image_bytes": 146369,
+                "service_icon": "https:\/\/nextcity.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/nextcity.org\/urbanist-news\/housing-in-brief-nyc-mayor-increases-policing-of-homelessness-on-the-subway",
+                "fallback": "Housing in Brief: NYC Mayor Increases Policing of Homelessness on the Subway",
+                "text": "Also: S.F. tenants are close to collective bargaining rights.",
+                "title": "Housing in Brief: NYC Mayor Increases Policing of Homelessness on the Subway",
+                "title_link": "https:\/\/nextcity.org\/urbanist-news\/housing-in-brief-nyc-mayor-increases-policing-of-homelessness-on-the-subway",
+                "service_name": "nextcity.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LeITB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A shout-out for Noah’s tenant organizing coverage yesterday in Next City’s newsletter: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nextcity.org\/urbanist-news\/housing-in-brief-nyc-mayor-increases-policing-of-homelessness-on-the-subway"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSan Francisco Tenants Are Close to Having Collective Bargaining Rights\nTenants in San Francisco could soon be permitted to form collective bargaining entities — much like labor unions — to negotiate debt, rent increases and building maintenance with landlords. The Board of Supervisors voted on Feb. 15 to approve"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfgov.legistar.com\/LegislationDetail.aspx?ID=5191199&GUID=F81B312D-FBF7-4122-BE1C-0313544C15C8",
+                                "text": " the measure"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", according to the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/sf-tenants-to-gain-new-powers-in-negotiations-with-landlords\/",
+                                "text": "San Francisco Public Press"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". The board must vote "
+                            },
+                            {
+                                "type": "text",
+                                "text": "yes",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a second time for the bill to become law. Landlords would be required to negotiate “in good faith” with tenant associations. The bill prohibits landlords from interfering with tenant organizing, whether by residents of the building or from visitors. The protections would cover private buildings with five or more units, and 50% of a building’s units would need to sign on for a newly formed tenant association to be recognized. It would be the first city legislation in the country granting collective bargaining rights to tenants in privately owned residential buildings. Residents of federal public housing have had the right to organize "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/d3n8a8pro7vhmx.cloudfront.net\/saveourhomesusa\/pages\/241\/attachments\/original\/1508355249\/F_Federal_Register_HUD_30_copies_2-2_stapled.pdf?1508355249",
+                                "text": "since 2002"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01EHNW3M6J",
+                    "U19LB1TK5",
+                    "U01B9FNF801"
+                ],
+                "count": 3
+            },
+            {
+                "name": "raised_hands::skin-tone-4",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1645808955.381639",
+        "client_msg_id": "009E0E59-8C57-4369-9380-60A5AC675521",
+        "text": "<@U01EHNW3M6J> You sounded great!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4m4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EHNW3M6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You sounded great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1645808981.211189",
+        "client_msg_id": "27FE3C07-7375-4510-A3DA-C97484C7642D",
+        "text": "And nice shoutout for <@U58JZC631> ‘s story!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And nice shoutout for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U58JZC631"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ‘s story!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1645809005.244389",
+        "client_msg_id": "ae6fcd96-b716-44bf-b0a6-78cd08fbf092",
+        "text": "<@U01EHNW3M6J> agreed, you were fantastic.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01EHNW3M6J"
+                            },
+                            {
+                                "type": "text",
+                                "text": " agreed, you were fantastic."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1645809023.514249",
+        "client_msg_id": "CA121851-A59E-48B8-B465-B0D31F4722DB",
+        "text": "Gah thanks! Always a little excruciating watching one's self",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EgnQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gah thanks! Always a little excruciating watching one's self"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1645809049.911089",
+        "client_msg_id": "e67669bd-880f-44dc-91d5-f63c6e2dc1d5",
+        "text": "I'm not seeing the SFS vid on their Twitter feed yet. Any idea when they'll post it? We'll immediately retweet.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L=8\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not seeing the SFS vid on their Twitter feed yet. Any idea when they'll post it? We'll immediately retweet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1645809080.043599",
+        "client_msg_id": "600a6338-9f09-42ba-95b8-d30ab6d2e873",
+        "text": "IT was tight and you came across very naturally. It's SF Standard's lede story!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IT was tight and you came across very naturally. It's SF Standard's lede story!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1645809100.744669",
+        "client_msg_id": "558ff060-fb56-41a8-875d-911e052a85f9",
+        "text": "oh shit you're right mel",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh shit you're right mel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645809245.458809",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1645809374.000000"
+        },
+        "client_msg_id": "6673ef3b-5cc5-422d-bd84-b6ac48ac3cbd",
+        "text": "FYI, let’s try to keep back-and-forth on this channel to a minimum — it’s primarily a repository for recording items we can compile later for reports and such. Let’s either thread commentary under those items or move them to another channel so the main postings are easier to find. Thx.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FYI, let’s try to keep back-and-forth on this channel to a minimum — it’s primarily a repository for recording items we can compile later for reports and such. Let’s either thread commentary under those items or move them to another channel so the main postings are easier to find. Thx."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F034MRBG8AH",
+                "created": 1645809966,
+                "timestamp": 1645809966,
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U036YAYMM",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 173608,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F034MRBG8AH\/file.jpg?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F034MRBG8AH\/download\/file.jpg?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_64.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_80.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_360.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_480.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_160.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_720.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 332,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_800.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1733,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_960.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F034MRBG8AH-20a7e1efdb\/file_1024.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "original_w": 960,
+                "original_h": 2079,
+                "thumb_tiny": "AwAwABbSBAzyPzpA2TjI\/A0hPJ4FGT2AoAfjnNFIDntilzQBGTyaM88UE5YgEdfWl2n1xQBHLIYwCFJz71H9pb\/nn+tTSRCQANnj0qP7Mn+1+dAD\/KPm78gc\/mKftHrTiODnFN3DnaVz25oAcFA6UYo7+1LQB\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F034MRBG8AH\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F034MRBG8AH-285ab5a6bf",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1645809979.272809",
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U58JZC631",
+                    "U19LB1TK5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-4",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645812375.818519",
+        "client_msg_id": "CA0510C2-D92A-439C-821E-A25872B652C3",
+        "text": "<https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147?s=21|https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147?s=21>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147?s=21",
+                "ts": 1645812346,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147?s=21",
+                "fallback": "<https:\/\/twitter.com\/sfstandard|@sfstandard>: An investigation by <https:\/\/twitter.com\/TheBestNuala|@TheBestNuala> at <https:\/\/twitter.com\/SFPublicPress|@SFPublicPress> found that 888 homes set aside to house the homeless sit empty, even as more than 1600 people languish on the waiting list.\n\nWatch our reporter <https:\/\/twitter.com\/sarahfbwright|@sarahfbwright> discuss the issue with Nuala at the link. :arrow_down:\n<https:\/\/sfs.news\/w6j3nU>",
+                "text": "An investigation by <https:\/\/twitter.com\/TheBestNuala|@TheBestNuala> at <https:\/\/twitter.com\/SFPublicPress|@SFPublicPress> found that 888 homes set aside to house the homeless sit empty, even as more than 1600 people languish on the waiting list.\n\nWatch our reporter <https:\/\/twitter.com\/sarahfbwright|@sarahfbwright> discuss the issue with Nuala at the link. :arrow_down:\n<https:\/\/sfs.news\/w6j3nU>",
+                "author_name": "The San Francisco Standard",
+                "author_link": "https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1459369482015498250\/sUt7aJAa_normal.jpg",
+                "author_subname": "@sfstandard",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9wbDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147?s=21",
+                                "text": "https:\/\/twitter.com\/sfstandard\/status\/1497271617562374147?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1645815236.831819",
+        "client_msg_id": "3bb9211a-3d69-44aa-b990-c1ac9633ca04",
+        "text": "I uploaded Nuala's appearance on KIQI in the <#CGT9B9EQJ|promo> channel but here is a link to where it lives in Box.\n<https:\/\/sanfranciscopublicpress.box.com\/s\/huallr1w4709ecu2wpe7uvvf6fv4qndp>\nThat file is in a folder structure I've set up for all impact and promo materials for 2022. If you move it, please note here so that we can keep track and I can keep adding things.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3Ic5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I uploaded Nuala's appearance on KIQI in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CGT9B9EQJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel but here is a link to where it lives in Box.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sanfranciscopublicpress.box.com\/s\/huallr1w4709ecu2wpe7uvvf6fv4qndp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThat file is in a folder structure I've set up for all impact and promo materials for 2022. If you move it, please note here so that we can keep track and I can keep adding things."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1645815327.288039",
+        "client_msg_id": "682e1358-d284-4fe8-bb79-7bebe1b5f200",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1645815461.931069",
+        "client_msg_id": "ef04ca5f-1d89-4e27-802c-edd4e7827d45",
+        "text": "we don't have the Standard video as a standalone file, right? Only a link or embed?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R84G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we don't have the Standard video as a standalone file, right? Only a link or embed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1645815918.694829",
+        "client_msg_id": "d1194711-479b-4b4b-9d93-f578a15455f4",
+        "text": "Doesn't appear to be easily downloadable, not YouTube either",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Doesn't appear to be easily downloadable, not YouTube either"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1645815999.961749",
+        "client_msg_id": "9695699e-3e66-4aa8-b61f-1d15140d4e94",
+        "text": "A link might be better anyway, as it shows the context within which they created the video. We can always strip the audio out with Audio Hijack. I can do that and put the audio file there if you'd like.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A link might be better anyway, as it shows the context within which they created the video. We can always strip the audio out with Audio Hijack. I can do that and put the audio file there if you'd like."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645816249.061319",
+        "client_msg_id": "FF6DF704-FF9F-46C5-89D8-7E616276B65F",
+        "text": "Please see my earlier request not to use this channel for back and forth discussion other than in threads. Makes it much easier to retrospectively grab items, instead of scrolling through endless commentary. It's supposed to serve as a quick archive. Thx",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YcCFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please see my earlier request not to use this channel for back and forth discussion other than in threads. Makes it much easier to retrospectively grab items, instead of scrolling through endless commentary. It's supposed to serve as a quick archive. Thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1645816263.639109",
+        "client_msg_id": "72741441-1DDD-4D8B-AA36-448FA2698147",
+        "text": "Move discussion to promo. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Dm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Move discussion to promo. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1622578172.000400",
+        "client_msg_id": "be3a6f4e-7750-4729-9405-f704424496cf",
+        "text": "Nice call out for Laura :slightly_smiling_face:\n\n<https:\/\/nobhillgazette.com\/dossier-meet-the-citys-new-revolutionary-laureate\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Nob Hill Gazette",
+                "title": "Dossier: Meet The City’s New Revolutionary Laureate • The Nob Hill Gazette",
+                "title_link": "https:\/\/nobhillgazette.com\/dossier-meet-the-citys-new-revolutionary-laureate\/",
+                "text": "There’s a picture of San Francisco’s new poet laureate, Tongo Eisen-Martin, from his days at Meadows-Livingstone School in the early ’80s. In it, he and three classmates are holding up …",
+                "fallback": "The Nob Hill Gazette: Dossier: Meet The City’s New Revolutionary Laureate • The Nob Hill Gazette",
+                "image_url": "https:\/\/i2.wp.com\/nobhillgazette.com\/wp-content\/uploads\/2021\/05\/nhg_dossier_meet-the-citys-new-revolutiobary-laureate_june-2021_featured.jpg?fit=773%2C470&ssl=1",
+                "image_width": 411,
+                "image_height": 250,
+                "ts": 1622556063,
+                "from_url": "https:\/\/nobhillgazette.com\/dossier-meet-the-citys-new-revolutionary-laureate\/",
+                "image_bytes": 323580,
+                "id": 1,
+                "original_url": "https:\/\/nobhillgazette.com\/dossier-meet-the-citys-new-revolutionary-laureate\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G4rA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice call out for Laura "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nobhillgazette.com\/dossier-meet-the-citys-new-revolutionary-laureate\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

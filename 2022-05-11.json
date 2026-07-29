@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1652298400.511149",
+        "client_msg_id": "b64fdd85-6dc5-4709-85f6-f82f0a2be285",
+        "text": "To all and especially  to <@UQH93QFNV> <@U02DXRYCD2N> and <@U01PU2BUHU5> :\nJo Ellen Kaiser alerted me to see this FaceBook Live panel especially14 min about reframing and *Public Press was mentioned at 18:31 by Katherine Schaff of Berkeley Media Studies Group (BMSG) when she referred to a Laura Wenus et al virtual panel in 2020, Bay Area Black Community Leaders Envision Equitable Coronavirus Response.*\n\n(BMSG is developing a reporters toolkit on housing and BARHII is focused on a Black Housing Strategy with 40 organizations coordinating their strategies.)\n\n*<https:\/\/www.facebook.com\/watch\/live\/?ref=watch_permalink&amp;v=1167638050475595>*\nConnecting Housing Justice and Journalism: with Berkeley Media Studies Group, BARHII, and housing reporters\nTues, 5\/10 @ 12pm PST\/3pm EST\nPart of San Francisco's Affordable Housing Week 2022.\n*Panelists:*\nKathi Schaff, Berkeley Media Studies Group\nDarris Young, Bay Area Health Inequities Initiative\n*Laura Wenus, SF Chronicle*\nLaura Waxmann, SF Business Times\nManuela Tobias, CalMatters",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+zF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To all and especially  to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQH93QFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :\nJo Ellen Kaiser alerted me to see this FaceBook Live panel especially14 min about reframing and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Public Press was mentioned at 18:31 by Katherine Schaff of Berkeley Media Studies Group (BMSG) when she referred to a Laura Wenus et al virtual panel in 2020, Bay Area Black Community Leaders Envision Equitable Coronavirus Response.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n(BMSG is developing a reporters toolkit on housing and BARHII is focused on a Black Housing Strategy with 40 organizations coordinating their strategies.)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/watch\/live\/?ref=watch_permalink&v=1167638050475595",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nConnecting Housing Justice and Journalism: with Berkeley Media Studies Group, BARHII, and housing reporters\nTues, 5\/10 @ 12pm PST\/3pm EST\nPart of San Francisco's Affordable Housing Week 2022.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Panelists:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nKathi Schaff, Berkeley Media Studies Group\nDarris Young, Bay Area Health Inequities Initiative\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Laura Wenus, SF Chronicle",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLaura Waxmann, SF Business Times\nManuela Tobias, CalMatters"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

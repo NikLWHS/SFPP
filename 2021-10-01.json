@@ -1,0 +1,188 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1633101993.021200",
+        "client_msg_id": "647367ba-d095-49e8-bc0f-03ae2bb6bfb4",
+        "text": "The Chronicle catches up. <https:\/\/www.sfchronicle.com\/health\/article\/New-population-figures-change-what-we-thought-we-16500703.php>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1632171077.006500",
+        "parent_user_id": "U58JZC631",
+        "attachments": [
+            {
+                "service_name": "San Francisco Chronicle",
+                "title": "New population figures change what we thought we knew about COVID in San Francisco",
+                "title_link": "https:\/\/www.sfchronicle.com\/health\/article\/New-population-figures-change-what-we-thought-we-16500703.php",
+                "text": "If you look at the San Francisco Department of Public Health’s data on neighborhood...",
+                "fallback": "San Francisco Chronicle: New population figures change what we thought we knew about COVID in San Francisco",
+                "ts": 1633111200,
+                "from_url": "https:\/\/www.sfchronicle.com\/health\/article\/New-population-figures-change-what-we-thought-we-16500703.php",
+                "service_icon": "https:\/\/www.sfchronicle.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sfchronicle.com\/health\/article\/New-population-figures-change-what-we-thought-we-16500703.php"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uN0s+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Chronicle catches up. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfchronicle.com\/health\/article\/New-population-figures-change-what-we-thought-we-16500703.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1633116428.021500",
+        "client_msg_id": "efa49533-bfc8-4f31-903b-73e8a1113a92",
+        "text": "Correction: rent-relief tracker",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633033072.020300",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correction: rent-relief tracker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1633116438.021900",
+        "client_msg_id": "002f9242-f6a6-4fa3-bda5-0d80a8023a7c",
+        "text": "Mission Local cites our rent-relief tracker: <https:\/\/missionlocal.org\/2021\/09\/tenants-are-scrambling-to-overcome-setbacks-as-eviction-moratorium-expires\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Mission Local",
+                "title": "Tenants scramble to overcome setbacks as eviction moratorium expires",
+                "title_link": "https:\/\/missionlocal.org\/2021\/09\/tenants-are-scrambling-to-overcome-setbacks-as-eviction-moratorium-expires\/",
+                "text": "“They get evicted if they can’t jump through this hoop,” Nancy Pili Hernandez said.",
+                "fallback": "Mission Local: Tenants scramble to overcome setbacks as eviction moratorium expires",
+                "image_url": "https:\/\/missionloca.s3.amazonaws.com\/mission\/wp-content\/uploads\/2021\/07\/hub1-scaled.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Annika Hom",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "5 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1632405600,
+                "from_url": "https:\/\/missionlocal.org\/2021\/09\/tenants-are-scrambling-to-overcome-setbacks-as-eviction-moratorium-expires\/",
+                "image_bytes": 802701,
+                "service_icon": "https:\/\/missionloca.s3.amazonaws.com\/mission\/wp-content\/uploads\/2021\/01\/iconlogomap-200x200.jpg",
+                "id": 1,
+                "original_url": "https:\/\/missionlocal.org\/2021\/09\/tenants-are-scrambling-to-overcome-setbacks-as-eviction-moratorium-expires\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mission Local cites our rent-relief tracker: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/missionlocal.org\/2021\/09\/tenants-are-scrambling-to-overcome-setbacks-as-eviction-moratorium-expires\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U023GBQ6JS2"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

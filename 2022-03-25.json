@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1648228606.481619",
+        "client_msg_id": "f6155690-8a8a-4e3e-b511-fce922d4442a",
+        "text": "Nuala Bishari discussing her ProPublica story on KALW March 25, 2022\n\n<https:\/\/twitter.com\/yourcallradio\/status\/1507402515494625290?s=21&amp;t=rbObmlWFSZk5fVywIjFxpg>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/yourcallradio\/status\/1507402515494625290?s=21&amp;t=rbObmlWFSZk5fVywIjFxpg",
+                "ts": 1648227740,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/yourcallradio\/status\/1507402515494625290?s=21&amp;t=rbObmlWFSZk5fVywIjFxpg",
+                "fallback": "<https:\/\/twitter.com\/yourcallradio|@yourcallradio>: LIVE now: <https:\/\/twitter.com\/SFPublicPress|@SFPublicPress> reporter \/ <https:\/\/twitter.com\/propublica|@propublica> fellow <https:\/\/twitter.com\/TheBestNuala|@TheBestNuala> discusses her 10-month investigation, which found that in San Francisco, hundreds of units sit empty as unhoused people wait months or even years for assisted housing.  \n\nJoin us. <https:\/\/www.kalw.org\/show\/your-call\/2022-03-25\/media-roundtable-in-san-francisco-hundreds-of-units-sit-vacant-as-unhoused-people-wait-months-or-even-years-for-assisted-housing>",
+                "text": "LIVE now: <https:\/\/twitter.com\/SFPublicPress|@SFPublicPress> reporter \/ <https:\/\/twitter.com\/propublica|@propublica> fellow <https:\/\/twitter.com\/TheBestNuala|@TheBestNuala> discusses her 10-month investigation, which found that in San Francisco, hundreds of units sit empty as unhoused people wait months or even years for assisted housing.  \n\nJoin us. <https:\/\/www.kalw.org\/show\/your-call\/2022-03-25\/media-roundtable-in-san-francisco-hundreds-of-units-sit-vacant-as-unhoused-people-wait-months-or-even-years-for-assisted-housing>",
+                "author_name": "Your Call Radio",
+                "author_link": "https:\/\/twitter.com\/yourcallradio\/status\/1507402515494625290",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1089982078605803520\/WjL99Iz0_normal.jpg",
+                "author_subname": "@yourcallradio",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "41V\/K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nuala Bishari discussing her ProPublica story on KALW March 25, 2022\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/yourcallradio\/status\/1507402515494625290?s=21&t=rbObmlWFSZk5fVywIjFxpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

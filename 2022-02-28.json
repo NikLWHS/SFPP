@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1646095838.210669",
+        "client_msg_id": "196a0e6e-2f15-48a7-ab71-3c8bc800ba2d",
+        "text": "<https:\/\/www.hechoencalifornia1010.com\/podcast\/mucha-lana-para-homeless-quien-se-la-embolsa\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N1e1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hechoencalifornia1010.com\/podcast\/mucha-lana-para-homeless-quien-se-la-embolsa\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1646096228.378219",
+        "client_msg_id": "667478c2-af6f-4d29-9f9d-097d9bc37413",
+        "text": "<https:\/\/omny.fm\/shows\/kqed-segmented-audio\/why-does-sfs-supportive-housing-network-have-hundr>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/why-does-sfs-supportive-housing-network-have-hundr",
+                "thumb_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/image.jpg?t=1571842999&size=WideShare",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "image_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/image.jpg?t=1571842999&size=WideShare",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 32415,
+                "service_icon": "http:\/\/assets.omny.fm\/assets\/omny\/img\/favicon\/favicon-144x144.png",
+                "id": 1,
+                "original_url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/why-does-sfs-supportive-housing-network-have-hundr",
+                "fallback": "Why Does SF's Supportive Housing Network Have Hundreds of Empty Rooms? - KQED - Omny.fm",
+                "text": "San Francisco city officials say there are more than 1600 unhoused people approved for housing but waiting for their turn to move in. Meanwhile, there are more than 800 empty rooms in the city's Supportive Housing Network. KQED's Natalia Navarro sits down with Nuala Bishari who has been reporting on this gap for the San Francisco Public Press",
+                "title": "Why Does SF's Supportive Housing Network Have Hundreds of Empty Rooms? - KQED - Omny.fm",
+                "title_link": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/why-does-sfs-supportive-housing-network-have-hundr",
+                "service_name": "omny.fm",
+                "fields": [
+                    {
+                        "value": "4:09",
+                        "title": "Duration",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4AmKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/omny.fm\/shows\/kqed-segmented-audio\/why-does-sfs-supportive-housing-network-have-hundr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1646096869.333949",
+        "client_msg_id": "82d83302-7022-4ad9-92c6-c1afeacf6817",
+        "text": "<https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/february-28-2022-nikki-medoro-housing-for-homeless>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/february-28-2022-nikki-medoro-housing-for-homeless",
+                "thumb_url": "https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/image.jpg?t=1582566559&size=WideShare",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "image_url": "https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/image.jpg?t=1582566559&size=WideShare",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 60198,
+                "service_icon": "http:\/\/assets.omny.fm\/assets\/omny\/img\/favicon\/favicon-144x144.png",
+                "id": 1,
+                "original_url": "https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/february-28-2022-nikki-medoro-housing-for-homeless",
+                "fallback": "February 28, 2022: Nikki Medoro - Housing for homeless left vacant due to bureacracy - The Morning Show with Nikki Medoro - Omny.fm",
+                "text": "San Francisco Public Press and ProPublica's Nuala Bashiri tells the Morning Show with Nikki Medoro hundreds of homes for the homeless are sitting vacant due to inefficiencies within the community organizations in charge of them. Listeners weigh in with their ideas on what could help alleviate the unhoused population.",
+                "title": "February 28, 2022: Nikki Medoro - Housing for homeless left vacant due to bureacracy - The Morning Show with Nikki Medoro - Omny.fm",
+                "title_link": "https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/february-28-2022-nikki-medoro-housing-for-homeless",
+                "service_name": "omny.fm",
+                "fields": [
+                    {
+                        "value": "19:50",
+                        "title": "Duration",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oo9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/omny.fm\/shows\/the-morning-show-with-nikki-medoro\/february-28-2022-nikki-medoro-housing-for-homeless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

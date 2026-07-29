@@ -1,0 +1,255 @@
+[
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1646012368.831639",
+        "client_msg_id": "E1422472-B779-4387-8062-ACB90D0BBD77",
+        "text": "Our story was just mentioned on KQED, in a story about the deadly encampment fire under the highway",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5cKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our story was just mentioned on KQED, in a story about the deadly encampment fire under the highway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1646012403.962579",
+        "client_msg_id": "9054fa0a-2d4a-4407-a6f8-7aea367e9f38",
+        "text": "What time?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXjpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What time?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1646012465.689069",
+        "client_msg_id": "a0cf09d2-1180-48a4-a8b7-74c7be88af9e",
+        "text": "Was it in their five minute newscast bloc usually they use the 3 minute cutway for 2 minutes of local news.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PR5f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Was it in their five minute newscast bloc usually they use the 3 minute cutway for 2 minutes of local news."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1646012487.490929",
+        "client_msg_id": "CB552A5F-00D9-4699-A3AA-B26E8B2B901B",
+        "text": "It was JUST now",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f=a3T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It was JUST now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1646012504.664169",
+        "client_msg_id": "63F67A70-A473-4012-ABE7-CE5A0C492656",
+        "text": "Kinda surreal! Just turned on the radio in the car.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xszz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kinda surreal! Just turned on the radio in the car."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            },
+            {
+                "name": "boom",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1646012544.103369",
+        "client_msg_id": "9c4a68a7-c192-4a05-bd63-3b1fe1d9109a",
+        "text": "I'm just heading out the door. So I can't check their program schedule. I'll look when I get home.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm just heading out the door. So I can't check their program schedule. I'll look when I get home."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

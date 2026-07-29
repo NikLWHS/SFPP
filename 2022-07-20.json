@@ -1,0 +1,321 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658362528.515239",
+        "client_msg_id": "fd00fd5f-94a1-4709-a2dc-e3e51a510857",
+        "text": "Seth’s latest story up on the LA Times (mirroring our lead story today)\n<https:\/\/www.latimes.com\/california\/story\/2022-07-20\/state-utilities-regulator-new-rules-sexual-assaults-ouber-lyft-rides>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.latimes.com\/california\/story\/2022-07-20\/state-utilities-regulator-new-rules-sexual-assaults-ouber-lyft-rides",
+                "ts": 1658343652,
+                "image_url": "https:\/\/ca-times.brightspotcdn.com\/dims4\/default\/35ce411\/2147483647\/strip\/true\/crop\/2048x1075+0+0\/resize\/1200x630!\/quality\/90\/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8b%2Fd2%2Fe0a7c8d54ccb930e629e2e0d4f5b%2Fuber-hq-by-shop-architects.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 245723,
+                "service_icon": "https:\/\/www.latimes.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.latimes.com\/california\/story\/2022-07-20\/state-utilities-regulator-new-rules-sexual-assaults-ouber-lyft-rides",
+                "fallback": "Los Angeles Times: Uber and Lyft must adopt measures to prevent sexual assaults, California regulator rules",
+                "text": "The California Public Utilities Commission softened its rule but still enacted comprehensive measure to prevent attacks in ride-hailing vehicles.",
+                "title": "Uber and Lyft must adopt measures to prevent sexual assaults, California regulator rules",
+                "title_link": "https:\/\/www.latimes.com\/california\/story\/2022-07-20\/state-utilities-regulator-new-rules-sexual-assaults-ouber-lyft-rides",
+                "service_name": "Los Angeles Times"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seth’s latest story up on the LA Times (mirroring our lead story today)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.latimes.com\/california\/story\/2022-07-20\/state-utilities-regulator-new-rules-sexual-assaults-ouber-lyft-rides"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1658366641.001119",
+        "client_msg_id": "0cad8696-f2de-4083-8b76-093a8ba9107d",
+        "text": "Love the shirttail! (Translation: That's the italicized text at the end of the story.)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ReC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Love the shirttail! (Translation: That's the italicized text at the end of the story.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658367543.063399",
+        "client_msg_id": "d904d881-dfa6-4c77-a5c5-01b09030c1cf",
+        "text": "Oooo yes, nice link to the series!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lImjN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oooo yes, nice link to the series!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1658369852.174939",
+        "client_msg_id": "a96371f5-a99c-4b35-b22d-2dfd9f9c5294",
+        "text": "Yes the shirtail has fringe and link to series! \"partnerships rock!\"\nI wonder if there's anyway that LA times might hyperlink our name as well as Seth's reporting funders?\n\"_This article was produced by the San Francisco Public Press and was produced in partnership with the <http:\/\/www.mcgrawcenter.org\/|McGraw Center for Business Journalism> at the <http:\/\/www.journalism.cuny.edu\/|Craig Newmark Graduate School of Journalism> at the City University of New York. Support was also provided by the <https:\/\/fij.org\/|Fund for Investigative Journalism>. See previous stories at <http:\/\/sfpublicpress.org\/series\/ride-hailings-dark-data|sfpublicpress.org\/series\/ride-hailings-dark-data>.\"_\nBTW\n23 new newsletter signups yesterday and today. Some I can decode as coming from SoCal.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes the shirtail has fringe and link to series! \"partnerships rock!\"\nI wonder if there's anyway that LA times might hyperlink our name as well as Seth's reporting funders?\n\""
+                            },
+                            {
+                                "type": "text",
+                                "text": "This article was produced by the San Francisco Public Press and was produced in partnership with the ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.mcgrawcenter.org\/",
+                                "text": "McGraw Center for Business Journalism",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at the ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.journalism.cuny.edu\/",
+                                "text": "Craig Newmark Graduate School of Journalism",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " at the City University of New York. Support was also provided by the ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fij.org\/",
+                                "text": "Fund for Investigative Journalism",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". See previous stories at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sfpublicpress.org\/series\/ride-hailings-dark-data",
+                                "text": "sfpublicpress.org\/series\/ride-hailings-dark-data",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\"",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBTW\n23 new newsletter signups yesterday and today. Some I can decode as coming from SoCal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5",
+                    "U02V28GTKMW",
+                    "U01B9FNF801"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658370768.880369",
+        "client_msg_id": "A914C82E-8CCC-433B-BB75-5AAA1F038E74",
+        "text": "I thought the same thing on the link to our home page. Next time. I don’t want to bug Stuart Leavenworth with too many post-hoc asks unless they’re corrections.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658370768.880369",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658417092.582479",
+        "reply_users": [
+            "U02LAK62DEV"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1658417092.582479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658417092.582479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzd02",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought the same thing on the link to our home page. Next time. I don’t want to bug Stuart Leavenworth with too many post-hoc asks unless they’re corrections."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

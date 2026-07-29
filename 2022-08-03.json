@@ -1,0 +1,372 @@
+[
+    {
+        "text": "As much as we want to emphasize our gratitude for them picking up this story, this credit line is not acceptable. There’s not even any punctuation between your name and the publication name, making it hard to notice. We need to ask them to add a shirttail. Mel, can you shoot them an email? As a reminder, we should be sending everyone this and asking for them to agree to our stipulations. They’re not onerous. (I’ve pinned this to the channel.):\n<https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F03NFLTFNVD\/sfpp_-_2022_guide_for_republication_and_reuse.pdf>\n\nWe can ask for a custom shirttail to reflect the content or point to the original story (or a series), but at minimum they should add this default shirttail:\n\n&gt; _A version of this story was originally published by the San Francisco Public Press. Sign up to receive alerts about new reporting at <http:\/\/sfpublicpress.org\/newsletter|sfpublicpress.org\/newsletter>._\n_Or better yet,_\n\n&gt; _A version of this story was originally published by the San Francisco Public Press*, an independent nonprofit news organization*. Sign up to receive alerts about new reporting at <http:\/\/sfpublicpress.org\/newsletter|sfpublicpress.org\/newsletter>._\n",
+        "files": [
+            {
+                "id": "F03NFLTFNVD",
+                "created": 1657322655,
+                "timestamp": 1657322655,
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U036YAYMM",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 115959,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "SFPP - 2022 Guide for Republication and Reuse.pdf",
+                "title": "SFPP - 2022 Guide for Republication and Reuse.pdf",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03NFLTFNVD\/sfpp_-_2022_guide_for_republication_and_reuse.pdf?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03NFLTFNVD\/download\/sfpp_-_2022_guide_for_republication_and_reuse.pdf?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03NFLTFNVD-16b57feac9\/sfpp_-_2022_guide_for_republication_and_reuse_thumb_pdf.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F03NFLTFNVD\/sfpp_-_2022_guide_for_republication_and_reuse.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F03NFLTFNVD-cee1bf7ac9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U036YAYMM",
+        "display_as_bot": false,
+        "x_files": [
+            "F03NFLTFNVD"
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2h\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As much as we want to emphasize our gratitude for them picking up this story, this credit line is not acceptable. There’s not even any punctuation between your name and the publication name, making it hard to notice. We need to ask them to add a shirttail. Mel, can you shoot them an email? As a reminder, we should be sending everyone this and asking for them to agree to our stipulations. They’re not onerous. (I’ve pinned this to the channel.):\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F03NFLTFNVD\/sfpp_-_2022_guide_for_republication_and_reuse.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWe can ask for a custom shirttail to reflect the content or point to the original story (or a series), but at minimum they should add this default shirttail:\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A version of this story was originally published by the San Francisco Public Press. Sign up to receive alerts about new reporting at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sfpublicpress.org\/newsletter",
+                                "text": "sfpublicpress.org\/newsletter",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Or better yet,",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A version of this story was originally published by the San Francisco Public Press",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", an independent nonprofit news organization",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Sign up to receive alerts about new reporting at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/sfpublicpress.org\/newsletter",
+                                "text": "sfpublicpress.org\/newsletter",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ".",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1659547458.000299",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1659547577.000000"
+        },
+        "client_msg_id": "a7ce41c2-7681-49e2-88a1-42d78eade060"
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1659548092.215369",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1659548160.000000"
+        },
+        "client_msg_id": "7565e748-f3be-4e93-9029-ff6bb1649727",
+        "text": "Not really impact, but good to have associated with Viji’s story: a behind-the-scenes piece. <@UQH93QFNV> can you add a link to this piece from USC Annenberg? Maybe like this, inserted somewhere in each story, or perhaps in the story index for the project:\n\n_[See also: What I learned reporting on the failures of California’s coercive control law {California <https:\/\/centerforhealthjournalism.org\/resources\/lessons\/what-i-learned-reporting-failures-california-s-coercive-control-law}.>]_",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659548092.215369",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1659569218.693869",
+        "reply_users": [
+            "U02LAK62DEV",
+            "U036YAYMM"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1659568927.798859"
+            },
+            {
+                "user": "U036YAYMM",
+                "ts": "1659569218.693869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1659569218.693869",
+        "attachments": [
+            {
+                "from_url": "https:\/\/centerforhealthjournalism.org\/resources\/lessons\/what-i-learned-reporting-failures-california-s-coercive-control-law",
+                "thumb_url": "https:\/\/centerforhealthjournalism.org\/sites\/default\/files\/title_images\/Viji_molly-blackbird-a-xEUwYSPLw-unsplash.jpg",
+                "thumb_width": 4608,
+                "thumb_height": 3072,
+                "service_icon": "https:\/\/centerforhealthjournalism.org\/sites\/default\/files\/favicon%20%281%29.ico",
+                "id": 1,
+                "original_url": "https:\/\/centerforhealthjournalism.org\/resources\/lessons\/what-i-learned-reporting-failures-california-s-coercive-control-law",
+                "fallback": "Center for Health Journalism: What I learned reporting on the failures of California’s coercive control law",
+                "text": "A new law meant to curb domestic abuse runs up against judges who know little about it.",
+                "title": "What I learned reporting on the failures of California’s coercive control law",
+                "title_link": "https:\/\/centerforhealthjournalism.org\/resources\/lessons\/what-i-learned-reporting-failures-california-s-coercive-control-law",
+                "service_name": "Center for Health Journalism"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yIip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not really impact, but good to have associated with Viji’s story: a behind-the-scenes piece. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UQH93QFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can you add a link to this piece from USC Annenberg? Maybe like this, inserted somewhere in each story, or perhaps in the story index for the project:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[See also: What I learned reporting on the failures of California’s coercive control law {California ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/resources\/lessons\/what-i-learned-reporting-failures-california-s-coercive-control-law}.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "]",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1659568927.798859",
+        "client_msg_id": "7383800b-7599-4fb0-802f-6e00db360b1b",
+        "text": "<@UQH93QFNV> <@U19LB1TK5> excerpt and link to this in the next newsletter?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659548092.215369",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVw\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UQH93QFNV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " excerpt and link to this in the next newsletter?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1659569218.693869",
+        "client_msg_id": "69324fba-4623-42e3-addb-a4f3345bf560",
+        "text": "Sure!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1659548092.215369",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

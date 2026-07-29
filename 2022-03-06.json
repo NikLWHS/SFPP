@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1646574571.046609",
+        "client_msg_id": "B6644120-7A36-4073-9EB8-71416BEB6F28",
+        "text": "Link to ProPublica version in the middle of this one — <https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system|https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system",
+                "ts": 1646415000,
+                "image_url": "http:\/\/www.sfexaminer.com\/wp-content\/uploads\/2022\/03\/28320284_web1_220304-SFE-SARACEVIC_DURKIN_1.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 56533,
+                "id": 1,
+                "original_url": "https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system",
+                "fallback": "The San Francisco Examiner: Shocking tale of ‘Presidio boogie man’ reveals The City’s broken homeless system - The San Francisco Examiner",
+                "text": "One man’s perilous journey through drug addiction, jail and mental illness in San Francisco",
+                "title": "Shocking tale of ‘Presidio boogie man’ reveals The City’s broken homeless system - The San Francisco Examiner",
+                "title_link": "https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system",
+                "service_name": "The San Francisco Examiner",
+                "fields": [
+                    {
+                        "value": "Al Saracevic",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Link to ProPublica version in the middle of this one — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system",
+                                "text": "https:\/\/www.sfexaminer.com\/opinion\/shocking-tale-of-presidio-boogie-man-reveals-the-citys-broken-homeless-system"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

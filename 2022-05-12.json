@@ -1,0 +1,101 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1652403146.348789",
+        "client_msg_id": "d55eddef-2d36-4715-8652-26a21deedaa3",
+        "text": "Mention in the LA Times today (a newsletter about environmental issues), probably courtesy of the Bay Area editor, who was at our fundraiser last week:\n\n<https:\/\/www.latimes.com\/environment\/newsletter\/2022-05-12\/far-from-lake-powell-drought-punishes-another-western-dam-boiling-point>\n\n&gt; In related news, Seth Rosenfeld wrote an <https:\/\/www.sfpublicpress.org\/how-california-utilities-commission-undermines-the-public-records-act\/|important, thorough story> for the San Francisco Public Press showing how the utilities commission systematically subverts public records law, fighting tooth and nail to keep information about wildfire safety, utility companies and more out of the public eye.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.latimes.com\/environment\/newsletter\/2022-05-12\/far-from-lake-powell-drought-punishes-another-western-dam-boiling-point",
+                "ts": 1652385628,
+                "image_url": "https:\/\/ca-times.brightspotcdn.com\/dims4\/default\/d66ce69\/2147483647\/strip\/true\/crop\/3000x1575+0+213\/resize\/1200x630!\/quality\/90\/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fab%2F79%2F8de3b1af4370900f3c53d983d024%2F957705-na-0505-flaming-gorge-3-rcg.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 239278,
+                "service_icon": "https:\/\/www.latimes.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.latimes.com\/environment\/newsletter\/2022-05-12\/far-from-lake-powell-drought-punishes-another-western-dam-boiling-point",
+                "fallback": "Los Angeles Times: Far from Lake Powell, drought punishes another Western dam",
+                "text": "Flaming Gorge Reservoir is being drained as climate change spurs water shortages.",
+                "title": "Far from Lake Powell, drought punishes another Western dam",
+                "title_link": "https:\/\/www.latimes.com\/environment\/newsletter\/2022-05-12\/far-from-lake-powell-drought-punishes-another-western-dam-boiling-point",
+                "service_name": "Los Angeles Times"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTzSg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mention in the LA Times today (a newsletter about environmental issues), probably courtesy of the Bay Area editor, who was at our fundraiser last week:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.latimes.com\/environment\/newsletter\/2022-05-12\/far-from-lake-powell-drought-punishes-another-western-dam-boiling-point"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In related news, Seth Rosenfeld wrote an "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/how-california-utilities-commission-undermines-the-public-records-act\/",
+                                "text": "important, thorough story"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the San Francisco Public Press showing how the utilities commission systematically subverts public records law, fighting tooth and nail to keep information about wildfire safety, utility companies and more out of the public eye."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "UQH93QFNV"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

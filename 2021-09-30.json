@@ -1,0 +1,147 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1633033072.020300",
+        "client_msg_id": "c8e45fd5-bda8-4dbf-9f79-50da7854c902",
+        "text": "Examiner cites our eviction tracker in a news story\n\n<https:\/\/www.sfexaminer.com\/news\/eviction-cliff-looms-for-residential-and-commercial-renters-heres-what-you-need-to-know\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1633033072.020300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1633116428.021500",
+        "reply_users": [
+            "U58JZC631"
+        ],
+        "replies": [
+            {
+                "user": "U58JZC631",
+                "ts": "1633116428.021500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1633116428.021500",
+        "attachments": [
+            {
+                "service_name": "The San Francisco Examiner",
+                "title": "Eviction cliff looms for residential and commercial renters: Here’s what you need to know - The San Francisco Examiner",
+                "title_link": "https:\/\/www.sfexaminer.com\/news\/eviction-cliff-looms-for-residential-and-commercial-renters-heres-what-you-need-to-know\/",
+                "text": "San Francisco’s residential and commercial eviction moratoria will lift Friday, just as a similar statewide ban expires. However, many residents and businesses will still be subject to certain protections.",
+                "fallback": "The San Francisco Examiner: Eviction cliff looms for residential and commercial renters: Here’s what you need to know - The San Francisco Examiner",
+                "image_url": "https:\/\/www.sfexaminer.com\/wp-content\/uploads\/2021\/09\/26665291_web1_210929-SFE-EVICTIONS-PHOTO_1-1024x769.jpg",
+                "image_width": 333,
+                "image_height": 250,
+                "ts": 1632947400,
+                "from_url": "https:\/\/www.sfexaminer.com\/news\/eviction-cliff-looms-for-residential-and-commercial-renters-heres-what-you-need-to-know\/",
+                "image_bytes": 102993,
+                "service_icon": "https:\/\/2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com\/wp-content\/themes\/BlackPress\/assets\/images\/icons\/apple-touch-icon-144x144.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sfexaminer.com\/news\/eviction-cliff-looms-for-residential-and-commercial-renters-heres-what-you-need-to-know\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65Br",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Examiner cites our eviction tracker in a news story\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfexaminer.com\/news\/eviction-cliff-looms-for-residential-and-commercial-renters-heres-what-you-need-to-know\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1633033107.020900",
+        "client_msg_id": "3e526674-33aa-479a-a0d8-d68aa8600255",
+        "text": "SF Weekly quotes me about the paper’s history, in one of its last stories.\n\n<https:\/\/www.sfweekly.com\/culture\/alternative-facts-sf-weekly-turns-40-takes-a-break\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "SF Weekly",
+                "title": "Alternative Facts: SF Weekly Turns 40, Takes a Break - SF Weekly",
+                "title_link": "https:\/\/www.sfweekly.com\/culture\/alternative-facts-sf-weekly-turns-40-takes-a-break\/",
+                "text": "Our knees hurt from dancing, we’ve gained weight from all those \"best burrito\" listicles, and, frankly, we’ve been hung over for four decades straight.",
+                "fallback": "SF Weekly: Alternative Facts: SF Weekly Turns 40, Takes a Break - SF Weekly",
+                "image_url": "https:\/\/www.sfweekly.com\/wp-content\/uploads\/2021\/09\/01_Cover_092321_lowres-1.jpg",
+                "image_width": 355,
+                "image_height": 250,
+                "ts": 1633023968,
+                "from_url": "https:\/\/www.sfweekly.com\/culture\/alternative-facts-sf-weekly-turns-40-takes-a-break\/",
+                "image_bytes": 762373,
+                "service_icon": "https:\/\/1ryzas42x65e2oosia40bgli-wpengine.netdna-ssl.com\/wp-content\/uploads\/2018\/01\/cropped-sfw-1-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfweekly.com\/culture\/alternative-facts-sf-weekly-turns-40-takes-a-break\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SF Weekly quotes me about the paper’s history, in one of its last stories.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfweekly.com\/culture\/alternative-facts-sf-weekly-turns-40-takes-a-break\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1635265686.002000",
+        "client_msg_id": "b67f9342-e484-4472-a57b-8a4eea11f0d8",
+        "text": "<https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/|https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Bay Area Legal Aid",
+                "title": "Guide for tenants being sued for pandemic rent debt - Bay Area Legal Aid",
+                "title_link": "https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/",
+                "text": "An article by Noah Arroyo published yesterday in the San Francisco Public Press provides a useful overview of critical first steps and frequently asked questions for tenants facing lawsuits in small claims court for unpaid rent during the pandemic. Starting November 1st, landlords seeking to recover unpaid rent will be permitted to sue tenants in … Read More",
+                "fallback": "Bay Area Legal Aid: Guide for tenants being sued for pandemic rent debt - Bay Area Legal Aid",
+                "thumb_url": "https:\/\/baylegal.org\/wp-content\/uploads\/2021\/02\/CourtCOVIDStock-scaled.jpeg",
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "BayLegal",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "1 minute",
+                        "short": true
+                    }
+                ],
+                "ts": 1635264239,
+                "from_url": "https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/",
+                "thumb_width": 2560,
+                "thumb_height": 1708,
+                "service_icon": "https:\/\/baylegal.org\/wp-content\/uploads\/2017\/07\/cropped-BayLegalOrg-Site-Icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/",
+                                "text": "https:\/\/baylegal.org\/guide-for-tenants-being-sued-for-pandemic-rent-debt\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1635265720.002300",
+        "client_msg_id": "43cc62ad-70a2-47cc-9940-8f0955b8ea71",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1635268092.002600",
+        "client_msg_id": "4CB2EC13-120C-4B45-84BE-86F3BC42D3A1",
+        "text": "Beautiful",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yr7IH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Beautiful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1635274254.002800",
+        "client_msg_id": "C6040489-534B-4A63-B9A6-9D7461ACA1FC",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Q4fY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1635276261.003000",
+        "client_msg_id": "9c610598-f5d9-4f7c-b549-2df67c6d6187",
+        "text": "Nice!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9wvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

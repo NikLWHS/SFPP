@@ -1,0 +1,259 @@
+[
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1647287097.723449",
+        "client_msg_id": "0928f255-81b8-40fa-843b-008a5cac22c4",
+        "text": "<https:\/\/www.sfexaminer.com\/findings\/san-franciscos-homeless-tracker-has-been-broken-for-years\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfexaminer.com\/findings\/san-franciscos-homeless-tracker-has-been-broken-for-years\/",
+                "ts": 1647023400,
+                "image_url": "http:\/\/www.sfexaminer.com\/wp-content\/uploads\/2022\/03\/28374067_web1_220311-SFE-HOMELESSTRACKER_1.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 208851,
+                "id": 1,
+                "original_url": "https:\/\/www.sfexaminer.com\/findings\/san-franciscos-homeless-tracker-has-been-broken-for-years\/",
+                "fallback": "The San Francisco Examiner: San Francisco’s ‘homeless tracker’ has been broken for years - The San Francisco Examiner",
+                "text": "Auditors urgently called for a fix to the $8.5 million system in 2020",
+                "title": "San Francisco’s ‘homeless tracker’ has been broken for years - The San Francisco Examiner",
+                "title_link": "https:\/\/www.sfexaminer.com\/findings\/san-franciscos-homeless-tracker-has-been-broken-for-years\/",
+                "service_name": "The San Francisco Examiner",
+                "fields": [
+                    {
+                        "value": "Jeff Elder",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "7 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0gqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfexaminer.com\/findings\/san-franciscos-homeless-tracker-has-been-broken-for-years\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "oH HEY. This is interesting.",
+        "files": [
+            {
+                "id": "F036KKSUK6K",
+                "created": 1647288348,
+                "timestamp": 1647288348,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01EHNW3M6J",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 108735,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Screen Shot 2022-03-14 at 1.00.14 PM.png",
+                "title": "Screen Shot 2022-03-14 at 1.00.14 PM.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F036KKSUK6K\/screen_shot_2022-03-14_at_1.00.14_pm.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F036KKSUK6K\/download\/screen_shot_2022-03-14_at_1.00.14_pm.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F036KKSUK6K-133826f009\/screen_shot_2022-03-14_at_1.00.14_pm_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F036KKSUK6K-133826f009\/screen_shot_2022-03-14_at_1.00.14_pm_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F036KKSUK6K-133826f009\/screen_shot_2022-03-14_at_1.00.14_pm_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 268,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F036KKSUK6K-133826f009\/screen_shot_2022-03-14_at_1.00.14_pm_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 358,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F036KKSUK6K-133826f009\/screen_shot_2022-03-14_at_1.00.14_pm_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F036KKSUK6K-133826f009\/screen_shot_2022-03-14_at_1.00.14_pm_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 537,
+                "original_w": 786,
+                "original_h": 586,
+                "thumb_tiny": "AwAjADC+A4dsnjtTxnvSPIqfeOKb58ePvUASUVD56k\/Kyn86cJl7sKLASUxtxZdvA78UedGejUqyIxwDzQAyUAsMik2gJyo\/KnSjkcUnJTnP5UALsXHAUfhSbB6r+VL0XgfpSZ9j\/wB80AAQDpt\/KnKoBHAz9Kbn2P8A3zTgcsODQA+iiigAooooAKKKKAP\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F036KKSUK6K\/screen_shot_2022-03-14_at_1.00.14_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F036KKSUK6K-3ef0004b23",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01EHNW3M6J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AzTmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oH HEY. This is interesting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1647288364.601709",
+        "client_msg_id": "a86c3c07-1c33-4327-a6c5-db9b9e366e72"
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1647288408.384119",
+        "client_msg_id": "d31628db-e3ab-4077-b6ff-be63911c8431",
+        "text": "these are guidelines on how long a PSH unit can sit vacant. I'm getting confirmation on if this was created \/ distributed after our article came out, but if so that's a BIG IMPACT. <@U19LB1TK5> I'll keep you posted.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1647288408.384119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647362654.190589",
+        "reply_users": [
+            "U01EHNW3M6J"
+        ],
+        "replies": [
+            {
+                "user": "U01EHNW3M6J",
+                "ts": "1647362654.190589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "these are guidelines on how long a PSH unit can sit vacant. I'm getting confirmation on if this was created \/ distributed after our article came out, but if so that's a BIG IMPACT. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U19LB1TK5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'll keep you posted."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U58JZC631",
+                    "UKC0EQURX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1647293537.518869",
+        "client_msg_id": "18A3036D-188A-4055-8F6A-049E0D03C26B",
+        "text": "Indeed. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Indeed. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

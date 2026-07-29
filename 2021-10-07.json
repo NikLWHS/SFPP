@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1633639738.026200",
+        "client_msg_id": "09062441-db05-4a64-93c4-dc1c35ed8316",
+        "text": "We won no fewer than FOUR first-place awards from the SF Press Club: (<https:\/\/sfpressclub.org\/2021\/10\/05\/the-2021-winners\/>)\n\nRadio\/Audio-Non-Commercial: Public Affairs Program (Staff of 1-4)\n*First Place: Laura Wenus, Mel Baker, Liana Wilcox, “Civic”, KSFP*\nSecond Place: Bill Buchanan, Jim Buchanan, “Davisville, Aug. 17, 2020: The Palms, on indefinite hiatus, is ending its lease in Winters”, KDRT\nThird Place: Bill Buchanan, Jim Buchanan, “Davisville, Feb. 17, 2020: Ryan Easterday, a U.S. Navy commander from Davis”, KDRT\n\nRadio\/Audio-Non-Commercial: Series or Continuing Coverage\n*First Place: Laura Wenus, Mel Baker, “Essential Workers”, KSFP*\nSecond Place: James Henderson, “Joe Cotchett – Benefactor Series”, KHMB Radio\n\nNewspapers-Non-Daily: Photography \/ Photo Series\n*First Place: Yesica Prado, Lila LaHood, Noah Arroyo, Jenny Stratton, “Driving Home: Surviving the Housing Crisis”, San Francisco Public Press*\nSecond Place: Benjamin Fanjoy, Mabel Jiménez, Chris Cuadrado, “Las Vidas Negras Importan”, El Tecolote\nThird Place: Tomas Ovalle, “Greens and Dreams”, Silicon Valley Business Journal\n\nNewspapers-Non-Daily: Investigative Reporting\n*First Place: Seth Rosenfeld, Jonathan Krim, Liz Enochs, Michael Stoll, “Ride-Hailing’s Dark Data”, San Francisco Public Press*\nSecond Place: Jonathan Greenberg, “Trump’s Attack on Biden’s Faith Echoes Norman Peale’s Anti-Catholic Campaign Against Kennedy”, The Sonoma Independent\nThird Place: Tyler Breisacher, “College Trustees…, Changes to …“, The Guardsman",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tfM\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We won no fewer than FOUR first-place awards from the SF Press Club: ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfpressclub.org\/2021\/10\/05\/the-2021-winners\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nRadio\/Audio-Non-Commercial: Public Affairs Program (Staff of 1-4)\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "First Place: Laura Wenus, Mel Baker, Liana Wilcox, “Civic”, KSFP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSecond Place: Bill Buchanan, Jim Buchanan, “Davisville, Aug. 17, 2020: The Palms, on indefinite hiatus, is ending its lease in Winters”, KDRT\nThird Place: Bill Buchanan, Jim Buchanan, “Davisville, Feb. 17, 2020: Ryan Easterday, a U.S. Navy commander from Davis”, KDRT\n\nRadio\/Audio-Non-Commercial: Series or Continuing Coverage\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "First Place: Laura Wenus, Mel Baker, “Essential Workers”, KSFP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSecond Place: James Henderson, “Joe Cotchett – Benefactor Series”, KHMB Radio\n\nNewspapers-Non-Daily: Photography \/ Photo Series\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "First Place: Yesica Prado, Lila LaHood, Noah Arroyo, Jenny Stratton, “Driving Home: Surviving the Housing Crisis”, San Francisco Public Press",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSecond Place: Benjamin Fanjoy, Mabel Jiménez, Chris Cuadrado, “Las Vidas Negras Importan”, El Tecolote\nThird Place: Tomas Ovalle, “Greens and Dreams”, Silicon Valley Business Journal\n\nNewspapers-Non-Daily: Investigative Reporting\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "First Place: Seth Rosenfeld, Jonathan Krim, Liz Enochs, Michael Stoll, “Ride-Hailing’s Dark Data”, San Francisco Public Press",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSecond Place: Jonathan Greenberg, “Trump’s Attack on Biden’s Faith Echoes Norman Peale’s Anti-Catholic Campaign Against Kennedy”, The Sonoma Independent\nThird Place: Tyler Breisacher, “College Trustees…, Changes to …“, The Guardsman"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5",
+                    "U58JZC631"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1633639824.026500",
+        "client_msg_id": "1755ce87-c0ee-4aaf-8fc7-33c536b02d8c",
+        "text": ":fast_parrot:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XlN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fast_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

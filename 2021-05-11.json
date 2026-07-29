@@ -1,0 +1,69 @@
+[
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1620789359.000100",
+        "client_msg_id": "c0612459-04db-4d8f-8c5a-d2232696e2a1",
+        "text": "Here's how another nonprofit tracks impact: <https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09|https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Mississippi Free Press",
+                "title": "Impact and Media - Mississippi Free Press",
+                "title_link": "https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09",
+                "text": "Since the MFP launched on March 3, 2020, it has published numerous impactful stories and been picked up by dozens of media outlets.",
+                "fallback": "Mississippi Free Press: Impact and Media - Mississippi Free Press",
+                "image_url": "https:\/\/www.mississippifreepress.org\/wp-content\/uploads\/2020\/08\/The-New-Yorker-logo-300x95.png",
+                "fields": [
+                    {
+                        "title": "Est. reading time",
+                        "value": "58 minutes",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09",
+                "image_width": 300,
+                "image_height": 95,
+                "image_bytes": 13930,
+                "service_icon": "https:\/\/www.mississippifreepress.org\/wp-content\/uploads\/2020\/04\/cropped-MFP-Logo_Initials-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "olgLt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's how another nonprofit tracks impact: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09",
+                                "text": "https:\/\/www.mississippifreepress.org\/impact-and-media\/?s=09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

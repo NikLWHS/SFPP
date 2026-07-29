@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1668028324.145859",
+        "client_msg_id": "e7db4db4-a842-45e2-8526-5a09958cb453",
+        "text": "I think this was mentioned in another channel, but I didn't see it here: <https:\/\/www.americanpressinstitute.org\/publications\/api-updates\/election-fund-recipients\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668028324.145859",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1668033685.633839",
+        "reply_users": [
+            "U02LAK62DEV",
+            "U01B9FNF801"
+        ],
+        "replies": [
+            {
+                "user": "U02LAK62DEV",
+                "ts": "1668031772.732239"
+            },
+            {
+                "user": "U01B9FNF801",
+                "ts": "1668033685.633839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.americanpressinstitute.org\/publications\/api-updates\/election-fund-recipients\/",
+                "ts": 1664366432,
+                "image_url": "https:\/\/www.americanpressinstitute.org\/wp-content\/uploads\/2022\/09\/Screen-Shot-2022-09-28-at-8.44.11-AM.png",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1527307,
+                "id": 1,
+                "original_url": "https:\/\/www.americanpressinstitute.org\/publications\/api-updates\/election-fund-recipients\/",
+                "fallback": "American Press Institute: Thirty-one news organizations to receive support from the American Press Institute through its Election Coverage and Community Listening Fund",
+                "text": "The projects funded will start immediately and run through this election year, but they will also yield important lessons for 2023 and 2024 that can be shared through journalism networks and conversations facilitated by API. ",
+                "title": "Thirty-one news organizations to receive support from the American Press Institute through its Election Coverage and Community Listening Fund",
+                "title_link": "https:\/\/www.americanpressinstitute.org\/publications\/api-updates\/election-fund-recipients\/",
+                "service_name": "American Press Institute",
+                "fields": [
+                    {
+                        "value": "No Author",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "9 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this was mentioned in another channel, but I didn't see it here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.americanpressinstitute.org\/publications\/api-updates\/election-fund-recipients\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1668031772.732239",
+        "client_msg_id": "9c0ec1b5-9808-480d-9244-09c53dbe0e73",
+        "text": "yes thanks. Lila asked for 5k or 6k and we got 3k They said because \"so many applicants\" etc. --good to \"see\" you almost in person today. Best wishes for the rest of this week.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668028324.145859",
+        "parent_user_id": "U01B9FNF801",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyWs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes thanks. Lila asked for 5k or 6k and we got 3k They said because \"so many applicants\" etc. --good to \"see\" you almost in person today. Best wishes for the rest of this week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1668033685.633839",
+        "client_msg_id": "7e0079be-c32c-434b-974e-dd8255e4c0c2",
+        "text": "Thanks Lisa!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1668028324.145859",
+        "parent_user_id": "U01B9FNF801",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GPx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Lisa!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1668050830.164979",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1668050844.000000"
+        },
+        "client_msg_id": "B6AAFA5D-858D-4411-A4B0-B495EC821A71",
+        "text": "Thanks for finding this. We should add their logo to our funders page BTW. ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dlVQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for finding this. We should add their logo to our funders page BTW. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

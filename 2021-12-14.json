@@ -1,0 +1,327 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1639517273.039700",
+        "client_msg_id": "b9ad2770-1911-4440-bf5b-5e18a5f1b8d2",
+        "text": "This press release includes multiple references to Noah's reporting. *PRESS RELEASE*\n\n*Contact:* Brad Hirn, Housing Rights Committee of SF: <mailto:brad@hrcsf.org|brad@hrcsf.org> \n\n*After 3+ months of debt strike, Veritas tenants win partial but significant concessions on COVID rent relief*\n_*SF’s largest landlord commits to canceling debt for tenants not fully covered by the state program, but issue of “shadow debt” remains*_\n\n*SAN FRANCISCO* -- After 3+ months of an unprecedented debt strike, the Veritas Tenants Association (VTA) -- the citywide tenant union for Veritas tenants throughout San Francisco -- has won partial but significant concessions in their fight for a comprehensive rent-relief agreement that covers all their members and minimizes reliance on <https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/|over-subscribed> public funds.\n\n“VTA members have been at the <https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/|forefront> of urging large, corporate landlords like Veritas to minimize their reliance on public funds and negotiate with their tenant associations,” said VTA member Juana May, one of the strikers. “We are proud that Veritas has made these commitments, especially after earlier statements indicating that tenants who have applied would be on the hook for any remaining debt.”\n\nIn response to the strike, Veritas has made two significant concessions: First, Veritas will forgive any remaining debt for tenants who have applied to the CA rent-relief program and do not receive 100% relief through the program. Secondly, for tenants who have applied to the CA rent-relief program, Veritas will not impose annual rent increases in 2022.\n\nThese concessions represent a key part of the VTA’s demands. However, the VTA is still calling on Veritas to return to its original promise of negotiating rent relief for tenants who lost income due to the pandemic, paid rent to Veritas, and incurred thousands of dollars in “<https:\/\/www.sfpublicpress.org\/thousands-in-sf-saddled-with-rent-debt-but-ineligible-for-government-help\/|shadow debt>.” During prior discussions, Veritas committed to the VTA that they were open to discussing rent relief for tenants who have taken on shadow debt. That commitment remains unfulfilled.\n\n“During 2020 and 2021, I had to use all of my savings, plus unemployment assistance, and max out credit cards just to keep up with the rent to Veritas. Now, I've been left with more than $20,000 in shadow debt,” said Derek Hena, one of the strikers. “I know I am not the only one dealing with the abyss of ‘shadow debt.’”\n\nAdditionally, the VTA remains concerned about Veritas imposing banked rent increases on tenants, including passthroughs. In their announcement, Veritas did not commit to withholding banked rent increases from 2020 and 2021, and the concession they did make will only apply to tenants with rent debt who have applied for the CA rent-relief program.\n\n“The VTA opposes tiered relief that doesn’t actually meet the needs of our members,” said VTA member Debbie Nunez. “Shadow debt and banked rent increases remain issues. We’ve always believed that we can reach an agreement at the negotiating table, and we believe we can finish this process if Veritas comes back to the table.”\n\nVTA members on debt strike will be voting later this month on whether to continue the strike into January 2022.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                "ts": 1639512300,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/12\/Screenshot-2021-12-14-115956-edited-1170x760.jpg",
+                "image_width": 385,
+                "image_height": 250,
+                "image_bytes": 72541,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                "fallback": "San Francisco Public Press: San Francisco Rent Relief Tracker",
+                "text": "Rent-relief requests in San Francisco surpass funds by more than 40%, two months after the statewide eviction moratorium's end.",
+                "title": "San Francisco Rent Relief Tracker",
+                "title_link": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Noah Arroyo",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                "ts": 1617665400,
+                "image_url": "https:\/\/www.sfexaminer.com\/wp-content\/uploads\/2021\/04\/24749548_web1_201201-sfe-rent_1.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 82928,
+                "id": 2,
+                "original_url": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                "fallback": "The San Francisco Examiner: Supervisors call for rent relief funds to target small landlords, affordable housing providers - The San Francisco Examiner",
+                "text": "With $54.4 million in federal rent relief funds to distribute, several San Francisco supervisors are urging The City to prioritize...",
+                "title": "Supervisors call for rent relief funds to target small landlords, affordable housing providers - The San Francisco Examiner",
+                "title_link": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                "service_name": "The San Francisco Examiner",
+                "fields": [
+                    {
+                        "value": "Ida Mojadad",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "2 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/thousands-in-sf-saddled-with-rent-debt-but-ineligible-for-government-help\/",
+                "ts": 1633644568,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/10\/signal-2021-10-07-144353-1170x878.jpeg",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 184238,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 3,
+                "original_url": "https:\/\/www.sfpublicpress.org\/thousands-in-sf-saddled-with-rent-debt-but-ineligible-for-government-help\/",
+                "fallback": "San Francisco Public Press: Thousands of SF Renters Saddled With Debt, Can't Get Government Help",
+                "text": "San Franciscans who borrowed to pay rent in the pandemic are stuck with that debt, leaving them worse off than those who let the bills lapse.",
+                "title": "Thousands of SF Renters Saddled With Debt, Can't Get Government Help",
+                "title_link": "https:\/\/www.sfpublicpress.org\/thousands-in-sf-saddled-with-rent-debt-but-ineligible-for-government-help\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Noah Arroyo",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "7 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HyW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This press release includes multiple references to Noah's reporting. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "PRESS RELEASE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Contact: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Brad Hirn, Housing Rights Committee of SF: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:brad@hrcsf.org",
+                                "text": "brad@hrcsf.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "After 3+ months of debt strike, Veritas tenants win partial but significant concessions on COVID rent relief",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SF’s largest landlord commits to canceling debt for tenants not fully covered by the state program, but issue of “shadow debt” remains",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SAN FRANCISCO",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- After 3+ months of an unprecedented debt strike, the Veritas Tenants Association (VTA) -- the citywide tenant union for Veritas tenants throughout San Francisco -- has won partial but significant concessions in their fight for a comprehensive rent-relief agreement that covers all their members and minimizes reliance on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                                "text": "over-subscribed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " public funds.\n\n“VTA members have been at the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                                "text": "forefront"
+                            },
+                            {
+                                "type": "text",
+                                "text": " of urging large, corporate landlords like Veritas to minimize their reliance on public funds and negotiate with their tenant associations,” said VTA member Juana May, one of the strikers. “We are proud that Veritas has made these commitments, especially after earlier statements indicating that tenants who have applied would be on the hook for any remaining debt.”\n\nIn response to the strike, Veritas has made two significant concessions: First, Veritas will forgive any remaining debt for tenants who have applied to the CA rent-relief program and do not receive 100% relief through the program. Secondly, for tenants who have applied to the CA rent-relief program, Veritas will not impose annual rent increases in 2022.\n\nThese concessions represent a key part of the VTA’s demands. However, the VTA is still calling on Veritas to return to its original promise of negotiating rent relief for tenants who lost income due to the pandemic, paid rent to Veritas, and incurred thousands of dollars in “"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/thousands-in-sf-saddled-with-rent-debt-but-ineligible-for-government-help\/",
+                                "text": "shadow debt"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".” During prior discussions, Veritas committed to the VTA that they were open to discussing rent relief for tenants who have taken on shadow debt. That commitment remains unfulfilled.\n\n“During 2020 and 2021, I had to use all of my savings, plus unemployment assistance, and max out credit cards just to keep up with the rent to Veritas. Now, I've been left with more than $20,000 in shadow debt,” said Derek Hena, one of the strikers. “I know I am not the only one dealing with the abyss of ‘shadow debt.’”\n\nAdditionally, the VTA remains concerned about Veritas imposing banked rent increases on tenants, including passthroughs. In their announcement, Veritas did not commit to withholding banked rent increases from 2020 and 2021, and the concession they did make will only apply to tenants with rent debt who have applied for the CA rent-relief program.\n\n“The VTA opposes tiered relief that doesn’t actually meet the needs of our members,” said VTA member Debbie Nunez. “Shadow debt and banked rent increases remain issues. We’ve always believed that we can reach an agreement at the negotiating table, and we believe we can finish this process if Veritas comes back to the table.”\n\nVTA members on debt strike will be voting later this month on whether to continue the strike into January 2022."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1639517995.040200",
+        "client_msg_id": "4fee6946-8680-406d-a8ef-47facb73096d",
+        "text": "That's a lot of <@U58JZC631> references!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's a lot of "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U58JZC631"
+                            },
+                            {
+                                "type": "text",
+                                "text": " references!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "UQH93QFNV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1639518013.040400",
+        "client_msg_id": "62636fd9-d107-48fe-adcc-03851665faeb",
+        "text": ":grinning:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTpML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

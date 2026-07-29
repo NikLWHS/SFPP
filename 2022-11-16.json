@@ -1,0 +1,96 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1668650802.907459",
+        "client_msg_id": "8c992274-1b23-49ed-a826-a3bf97349df2",
+        "text": "*New grants awarded for 21 investigative projects in 11 states*\n\n_Funding, editorial mentorship and legal support will help journalists produce groundbreaking investigative stories_\n\nWASHINGTON, DC, November 16, 2022 – The Fund for Investigative Journalism today announced that its board of directors has awarded grants to reporters and media outlets for 21 new investigative projects.\n\n…\n\n• San Francisco Public Press, for a project led by Madison Alvarado\n",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7qPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New grants awarded for 21 investigative projects in 11 states",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Funding, editorial mentorship and legal support will help journalists produce groundbreaking investigative stories",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWASHINGTON, DC, November 16, 2022 – The Fund for Investigative Journalism today announced that its board of directors has awarded grants to reporters and media outlets for 21 new investigative projects.\n\n…\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "San Francisco Public Press, for a project led by Madison Alvarado"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "partying_face",
+                "users": [
+                    "U01PU2BUHU5",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

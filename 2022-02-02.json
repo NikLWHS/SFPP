@@ -1,0 +1,85 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1643830704.070529",
+        "client_msg_id": "aeabcf90-e55f-4fd1-81a9-cb1ade332254",
+        "text": "Yesica’s Fire story tops SFIST story items list. <https:\/\/sfist.com\/2022\/02\/01\/day-around-the-bay-a-terrible-day-for-muni-with-yet-another-operator-shortage\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfist.com\/2022\/02\/01\/day-around-the-bay-a-terrible-day-for-muni-with-yet-another-operator-shortage\/",
+                "ts": 1643768252,
+                "image_url": "https:\/\/img.sfist.com\/2022\/02\/photo-1583105838122-b206fbb5bd7c.jpeg",
+                "image_width": 377,
+                "image_height": 250,
+                "image_bytes": 68609,
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2022\/02\/01\/day-around-the-bay-a-terrible-day-for-muni-with-yet-another-operator-shortage\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: Day Around the Bay: A Terrible Day for Muni, With Yet Another Operator Shortage",
+                "text": "Encampment fires surged during the pandemic, a sideshow showed up in the normally docile Richmond District, and more than 20 Muni lines were slowed by driver shortages today.",
+                "title": "Day Around the Bay: A Terrible Day for Muni, With Yet Another Operator Shortage",
+                "title_link": "https:\/\/sfist.com\/2022\/02\/01\/day-around-the-bay-a-terrible-day-for-muni-with-yet-another-operator-shortage\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Joe Kukura",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF News, datb",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VcYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesica’s Fire story tops SFIST story items list. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2022\/02\/01\/day-around-the-bay-a-terrible-day-for-muni-with-yet-another-operator-shortage\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5",
+                    "U01B9FNF801",
+                    "U01PU2BUHU5"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

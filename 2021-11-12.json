@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1636766243.011300",
+        "client_msg_id": "c8491523-66b7-4990-998e-82b4d1c054e6",
+        "text": "Viji's story from 2012 is referenced in the third graf — <https:\/\/www.berkeleyside.org\/2021\/11\/12\/lakireddy-bali-reddy-dead-berkeley>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "Berkeleyside: Lakireddy Bali Reddy, Berkeley landlord convicted of sex trafficking, dead at 84",
+                "image_url": "https:\/\/www.berkeleyside.org\/wp-content\/uploads\/2021\/11\/Screen-Shot-2021-11-12-at-3.54.10-PM-e1636761309327.png",
+                "image_width": 416,
+                "image_height": 250,
+                "image_bytes": 585890,
+                "from_url": "https:\/\/www.berkeleyside.org\/2021\/11\/12\/lakireddy-bali-reddy-dead-berkeley",
+                "service_name": "Berkeleyside",
+                "service_icon": "https:\/\/www.berkeleyside.org\/wp-content\/uploads\/2018\/07\/cropped-berkeleyside-favicon-1-180x180.png",
+                "title": "Lakireddy Bali Reddy, Berkeley landlord convicted of sex trafficking, dead at 84",
+                "title_link": "https:\/\/www.berkeleyside.org\/2021\/11\/12\/lakireddy-bali-reddy-dead-berkeley",
+                "text": "Reddy was a real estate tycoon in Berkeley and founded an engineering college in his hometown in India.",
+                "ts": 1636765058,
+                "id": 1,
+                "original_url": "https:\/\/www.berkeleyside.org\/2021\/11\/12\/lakireddy-bali-reddy-dead-berkeley"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "haz1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Viji's story from 2012 is referenced in the third graf — "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.berkeleyside.org\/2021\/11\/12\/lakireddy-bali-reddy-dead-berkeley"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U02LAK62DEV",
+        "text": "<@U02LAK62DEV> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1635961911.005600"
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1635964008.006000",
+        "client_msg_id": "ade1a46e-7c35-480d-a878-f10c239fe3bf",
+        "text": "Mentions Rent Relief tracker. *PRESS RELEASE*\n\n*Contact:* Brad Hirn, Housing Rights Committee of SF: <tel:7738928844|773-892-8844>\n\n*As Rent-Relief Funds Dwindle, Veritas Tenants Vote to Continue Debt Strike through November*\n_*SF’s largest landlord continues to refuse negotiations &amp; to back-track on past commitments*_\n\n*SAN FRANCISCO* -- Members of the Veritas Tenants Association (VTA) -- the citywide tenant union for Veritas tenants throughout San Francisco -- have voted overwhelmingly to continue their debt strike through November in response to Veritas’ continued refusal to negotiate on urgent rent-relief issues. On September 24, Veritas abruptly terminated discussions with their tenants.\n\nThe debt strike continues as public funds for rent relief continue to shrink. According to _San Francisco Public Press_’ rent-relief <https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/|tracker>, “[M]ore than 13,500 households had asked for a total of $214.7 million in rent and utility assistance as of [late October].” That amount exceeds SF’s current allocation of $182.1 million by more than $32 million.\n\n“VTA members have been at the <https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/|forefront> of urging large, corporate landlords like Veritas to minimize their reliance on public funds and negotiate _*first*_ with their tenant associations,” said VTA member Debbie Nunez. “Veritas can afford to meet the needs of their tenants, but they continue to smear and dehumanize us.”\n\nFor more than a year, the VTA has sought a voice in the decisions affecting their homes. To date, Veritas has back-tracked on three key issues, forcing members to continue their debt strike past the expiration of the moratorium. First, Veritas has refused to negotiate a debt-relief agreement that covers _*all*_ their tenants, not just those who are approved for the California rent-relief program, and that minimizes reliance on public funds. Second, Veritas, despite indicating to the VTA that they were open to rent relief for tenants who have incurred “shadow debt” while paying rent, has refused to negotiate relief for these tenants. Third, Veritas, despite telling members in 2020 that they would not impose missed rent increases, told the VTA that they intend to impose missed rent increases and passthroughs starting in 2022.\n\nIn early August 2021, Veritas issued a press release publicizing their own eviction moratorium through the end of the year, _regardless of city, state, or federal law_. On October 5, five days after the expiration of California’s eviction moratorium, Veritas informed their tenants via email that their so-called moratorium would simply amount to compliance with existing state law. They specifically indicated that tenants on strike will be excluded and potentially subject to legal action.\n\nFurthermore, Veritas indicated in their email that, if the state program does not fully reimburse Veritas for a tenant who has applied to the program, then that tenant will be responsible for the remainder. This point contradicts Veritas COO Jeff Jerden’s <https:\/\/www.bloomberg.com\/news\/articles\/2021-07-09\/what-tenants-are-doing-to-continue-cancel-the-rent?srnd=citylab|statement> to _Bloomberg News_, in which he says, “[W]e have committed publicly to work with all residents that have remaining past due balances and would have qualified for rental relief under the state’s definition of need to ensure they can stay in their homes.”\n\n“The VTA urges Veritas to choose a path of resolution and help end this strike,” said VTA member Maria Toriche, one of the strikers. “This $4.5 billion corporation can do better than back-track.”\nAttachments area",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The San Francisco Examiner",
+                "title": "Supervisors call for rent relief funds to target small landlords, affordable housing providers - The San Francisco Examiner",
+                "title_link": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                "text": "With $54.4 million in federal rent relief funds to distribute, several San Francisco supervisors are urging The City to prioritize small landlords and affordable housing providers and their tenants.",
+                "fallback": "The San Francisco Examiner: Supervisors call for rent relief funds to target small landlords, affordable housing providers - The San Francisco Examiner",
+                "image_url": "https:\/\/www.sfexaminer.com\/wp-content\/uploads\/2021\/04\/24749548_web1_201201-sfe-rent_1.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1617665400,
+                "from_url": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                "image_bytes": 82928,
+                "service_icon": "https:\/\/2zwmzkbocl625qdrf2qqqfok-wpengine.netdna-ssl.com\/wp-content\/themes\/BlackPress\/assets\/images\/icons\/apple-touch-icon-144x144.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/"
+            },
+            {
+                "service_name": "Bloomberg.com",
+                "title": "These Tenants Want Rent Relief. But They Also Want Lasting Change.",
+                "title_link": "https:\/\/www.bloomberg.com\/news\/articles\/2021-07-09\/what-tenants-are-doing-to-continue-cancel-the-rent?srnd=citylab",
+                "text": "Renter assistance and affordable housing funds are starting to come through in some parts of the U.S. But some tenants organizations see this as the moment to ask for more. ",
+                "fallback": "Bloomberg.com: These Tenants Want Rent Relief. But They Also Want Lasting Change.",
+                "image_url": "https:\/\/assets.bwbx.io\/images\/users\/iqjWHBFdfxIU\/iVEL2yaPWuvY\/v1\/1200x811.jpg",
+                "from_url": "https:\/\/www.bloomberg.com\/news\/articles\/2021-07-09\/what-tenants-are-doing-to-continue-cancel-the-rent?srnd=citylab",
+                "image_width": 370,
+                "image_height": 250,
+                "image_bytes": 257635,
+                "service_icon": "https:\/\/assets.bwbx.io\/s3\/javelin\/public\/javelin\/images\/favicon-black-63fe5249d3.png",
+                "id": 2,
+                "original_url": "https:\/\/www.bloomberg.com\/news\/articles\/2021-07-09\/what-tenants-are-doing-to-continue-cancel-the-rent?srnd=citylab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HE4bi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mentions Rent Relief tracker. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "PRESS RELEASE",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Contact: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Brad Hirn, Housing Rights Committee of SF: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:7738928844",
+                                "text": "773-892-8844"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "As Rent-Relief Funds Dwindle, Veritas Tenants Vote to Continue Debt Strike through November",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SF’s largest landlord continues to refuse negotiations & to back-track on past commitments",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "SAN FRANCISCO",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -- Members of the Veritas Tenants Association (VTA) -- the citywide tenant union for Veritas tenants throughout San Francisco -- have voted overwhelmingly to continue their debt strike through November in response to Veritas’ continued refusal to negotiate on urgent rent-relief issues. On September 24, Veritas abruptly terminated discussions with their tenants.\n\nThe debt strike continues as public funds for rent relief continue to shrink. According to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "San Francisco Public Press",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "’ rent-relief "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                                "text": "tracker"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", “[M]ore than 13,500 households had asked for a total of $214.7 million in rent and utility assistance as of [late October].” That amount exceeds SF’s current allocation of $182.1 million by more than $32 million.\n\n“VTA members have been at the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfexaminer.com\/news\/supervisors-call-for-rent-relief-funds-to-target-small-landlords-affordable-housing-providers\/",
+                                "text": "forefront"
+                            },
+                            {
+                                "type": "text",
+                                "text": " of urging large, corporate landlords like Veritas to minimize their reliance on public funds and negotiate "
+                            },
+                            {
+                                "type": "text",
+                                "text": "first",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " with their tenant associations,” said VTA member Debbie Nunez. “Veritas can afford to meet the needs of their tenants, but they continue to smear and dehumanize us.”\n\nFor more than a year, the VTA has sought a voice in the decisions affecting their homes. To date, Veritas has back-tracked on three key issues, forcing members to continue their debt strike past the expiration of the moratorium. First, Veritas has refused to negotiate a debt-relief agreement that covers "
+                            },
+                            {
+                                "type": "text",
+                                "text": "all",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " their tenants, not just those who are approved for the California rent-relief program, and that minimizes reliance on public funds. Second, Veritas, despite indicating to the VTA that they were open to rent relief for tenants who have incurred “shadow debt” while paying rent, has refused to negotiate relief for these tenants. Third, Veritas, despite telling members in 2020 that they would not impose missed rent increases, told the VTA that they intend to impose missed rent increases and passthroughs starting in 2022.\n\nIn early August 2021, Veritas issued a press release publicizing their own eviction moratorium through the end of the year, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "regardless of city, state, or federal law",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". On October 5, five days after the expiration of California’s eviction moratorium, Veritas informed their tenants via email that their so-called moratorium would simply amount to compliance with existing state law. They specifically indicated that tenants on strike will be excluded and potentially subject to legal action.\n\nFurthermore, Veritas indicated in their email that, if the state program does not fully reimburse Veritas for a tenant who has applied to the program, then that tenant will be responsible for the remainder. This point contradicts Veritas COO Jeff Jerden’s "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bloomberg.com\/news\/articles\/2021-07-09\/what-tenants-are-doing-to-continue-cancel-the-rent?srnd=citylab",
+                                "text": "statement"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Bloomberg News",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", in which he says, “[W]e have committed publicly to work with all residents that have remaining past due balances and would have qualified for rental relief under the state’s definition of need to ensure they can stay in their homes.”\n\n“The VTA urges Veritas to choose a path of resolution and help end this strike,” said VTA member Maria Toriche, one of the strikers. “This $4.5 billion corporation can do better than back-track.”\nAttachments area"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1635974266.007400",
+        "client_msg_id": "aede931f-5753-49c8-afb5-569b815ee6c8",
+        "text": "This is great on many levels. Being able to provide original data-driven context and analysis to track the accountability of government success in real time is a public service.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWtZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is great on many levels. Being able to provide original data-driven context and analysis to track the accountability of government success in real time is a public service."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1635974333.008300",
+        "client_msg_id": "fdef5f7b-6a2e-421c-9092-0937ead44a3d",
+        "text": "Since this is a press release quoting our rent relief tracker it's possible other outlets will use it in their stories. So we should \"keep track\" of the use of the tracker.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9xT=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Since this is a press release quoting our rent relief tracker it's possible other outlets will use it in their stories. So we should \"keep track\" of the use of the tracker."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1635974440.009000",
+        "client_msg_id": "5802fc82-f223-4098-9744-2b7dfcc0b55b",
+        "text": "Noah, set up a Google alert for “rent-relief tracker” and “San Francisco”",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZpsDD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Noah, set up a Google alert for “rent-relief tracker” and “San Francisco”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1656691127.144689",
+        "client_msg_id": "6559171e-b7f7-4a88-943f-95701f74b877",
+        "text": "Very nice! The display looks great. FYI, Viji has lined up a few other publications interested in rerunning it. Stay tuned.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very nice! The display looks great. FYI, Viji has lined up a few other publications interested in rerunning it. Stay tuned."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

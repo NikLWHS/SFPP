@@ -1,0 +1,301 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1653675687.703929",
+        "client_msg_id": "e8918178-ef16-4773-9354-d797500b45a3",
+        "text": "LA Times version of Seth’s CPUC takedown is up!\n<https:\/\/www.latimes.com\/california\/story\/2022-05-27\/how-the-california-public-utilities-commission-circumvents-the-state-public-records-act>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.latimes.com\/california\/story\/2022-05-27\/how-the-california-public-utilities-commission-circumvents-the-state-public-records-act",
+                "ts": 1653678043,
+                "image_url": "https:\/\/ca-times.brightspotcdn.com\/dims4\/default\/f4c5065\/2147483647\/strip\/true\/crop\/3500x1838+0+238\/resize\/1200x630!\/quality\/90\/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F5d%2F672011a8035de78de8b340a27a04%2Fimg-3067138-me-1206-camp-2-1-sf5mftpj.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 137084,
+                "service_icon": "https:\/\/www.latimes.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.latimes.com\/california\/story\/2022-05-27\/how-the-california-public-utilities-commission-circumvents-the-state-public-records-act",
+                "fallback": "Los Angeles Times: How the Public Utilities Commission circumvents the California Public Records Act",
+                "text": "The CPUC has multiple barriers to prevent the public from learning about its handling of deadly disasters and corporate scandals, an investigation found.",
+                "title": "How the Public Utilities Commission circumvents the California Public Records Act",
+                "title_link": "https:\/\/www.latimes.com\/california\/story\/2022-05-27\/how-the-california-public-utilities-commission-circumvents-the-state-public-records-act",
+                "service_name": "Los Angeles Times"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XM5fC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LA Times version of Seth’s CPUC takedown is up!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.latimes.com\/california\/story\/2022-05-27\/how-the-california-public-utilities-commission-circumvents-the-state-public-records-act"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U01B9FNF801",
+                    "UFEH6KZU7",
+                    "U19LB1TK5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1653679880.285839",
+        "client_msg_id": "5ffa2c34-e3d6-44e1-9277-b554f710d5a3",
+        "text": "<@U036YAYMM> how's about you alert the <http:\/\/www.mcgrawcenter.org\/|McGraw Center for Business Journalism>  (I've just alerted <https:\/\/fij.org\/|Fund for Investigative Journalism>.)  Other foundations are already on their way to weekend time zones. So I suggest we can compose others today but schedule for Tuesday delivery so they don't get buried (yes?)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aM8vu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " how's about you alert the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.mcgrawcenter.org\/",
+                                "text": "McGraw Center for Business Journalism"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  (I've just alerted "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fij.org\/",
+                                "text": "Fund for Investigative Journalism"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".)  Other foundations are already on their way to weekend time zones. So I suggest we can compose others today but schedule for Tuesday delivery so they don't get buried (yes?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1653681014.227019",
+        "client_msg_id": "06F3FF27-1F7D-49A2-AC5D-B27CA31EE904",
+        "text": "I was in the middle of doing just that!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "was"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "in"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "the"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "middle"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "of"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "just"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1653697024.339319",
+        "client_msg_id": "25c2c80b-e766-487a-a856-5ceab4fc707b",
+        "text": "\"...the impact of nonprofit journalism cannot be understood or measured by a one-size-fits all approach.\" <https:\/\/inn.org\/research\/case-studies\/how-nonprofit-newsrooms-measure-impact\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/inn.org\/research\/case-studies\/how-nonprofit-newsrooms-measure-impact\/",
+                "image_url": "https:\/\/inn.org\/wp-content\/uploads\/2022\/05\/Nonprofit-News-Impact-facebook.png",
+                "image_width": 298,
+                "image_height": 250,
+                "image_bytes": 39279,
+                "service_icon": "https:\/\/inn.org\/wp-content\/themes\/dbt-base-theme\/assets\/dbt\/dist\/images\/pwa\/apple-icon-180.png",
+                "id": 1,
+                "original_url": "https:\/\/inn.org\/research\/case-studies\/how-nonprofit-newsrooms-measure-impact\/",
+                "fallback": "Institute for Nonprofit News: Case study series: How nonprofit news measures its impact",
+                "text": "Nonprofit news outlets work toward different types of impact, from enabling civic engagement to uncovering corruption. See how they define and measure their impact in this new case study series.",
+                "title": "Case study series: How nonprofit news measures its impact",
+                "title_link": "https:\/\/inn.org\/research\/case-studies\/how-nonprofit-newsrooms-measure-impact\/",
+                "service_name": "Institute for Nonprofit News",
+                "fields": [
+                    {
+                        "value": "2 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"...the impact of nonprofit journalism cannot be understood or measured by a one-size-fits all approach.\" "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/inn.org\/research\/case-studies\/how-nonprofit-newsrooms-measure-impact\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

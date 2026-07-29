@@ -1,0 +1,279 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1646240405.087709",
+        "client_msg_id": "bd72e626-02cb-4d96-b8f6-a10f65d1a38d",
+        "text": "Didn't see this one in the channel: <https:\/\/www.nationofchange.org\/2022\/02\/25\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.nationofchange.org\/2022\/02\/25\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/",
+                "ts": 1645807851,
+                "image_url": "https:\/\/i2.wp.com\/www.nationofchange.org\/wp-content\/uploads\/2022\/02\/1200x0.jpg?fit=1200%2C799&ssl=1",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 81414,
+                "service_icon": "https:\/\/i1.wp.com\/www.nationofchange.org\/wp-content\/uploads\/2017\/05\/cropped-favicon.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/www.nationofchange.org\/2022\/02\/25\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/",
+                "fallback": "NationofChange: In San Francisco, hundreds of homes for the homeless sit vacant - NationofChange",
+                "text": "At least part of the problem is a shortage of case managers, who are the crucial link between vacant units and the hundreds of people approved for housing.",
+                "title": "In San Francisco, hundreds of homes for the homeless sit vacant - NationofChange",
+                "title_link": "https:\/\/www.nationofchange.org\/2022\/02\/25\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/",
+                "service_name": "NationofChange"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9wFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Didn't see this one in the channel: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nationofchange.org\/2022\/02\/25\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1646240460.113089",
+        "client_msg_id": "1ae049d9-c5b2-4042-857b-a3fc949fbcd1",
+        "text": "Also Monday's CalMatters newsletter <https:\/\/calmatters.org\/newsletters\/2022\/02\/california-school-mask-mandate\/> (scroll all the way to end for \"Other Things worth your time\")",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/calmatters.org\/newsletters\/2022\/02\/california-school-mask-mandate\/",
+                "ts": 1646053200,
+                "image_url": "https:\/\/calmatters.org\/wp-content\/uploads\/2022\/02\/012222-School-Masks-AP-CM-01.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1862916,
+                "service_icon": "https:\/\/i0.wp.com\/calmatters.org\/wp-content\/uploads\/2019\/07\/cropped-cropped-calmatters-favicon.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/calmatters.org\/newsletters\/2022\/02\/california-school-mask-mandate\/",
+                "fallback": "CalMatters: Get ready for new school mask rules, California",
+                "text": "CalMatters is dedicated to explaining how state government impacts our lives. Your support helps us produce journalism that makes a difference. Donate now. Today is a day that millions of Californians have been anticipating with eagerness, dread and uncertainty: After three weeks of buildup, Gov. Gavin Newsom’s administration is finally set to announce an update to the […]",
+                "title": "Get ready for new school mask rules, California",
+                "title_link": "https:\/\/calmatters.org\/newsletters\/2022\/02\/california-school-mask-mandate\/",
+                "service_name": "CalMatters",
+                "fields": [
+                    {
+                        "value": "Emily Hoeven",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "10 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3KA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also Monday's CalMatters newsletter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/calmatters.org\/newsletters\/2022\/02\/california-school-mask-mandate\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (scroll all the way to end for \"Other Things worth your time\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UKC0EQURX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1646240520.256439",
+        "client_msg_id": "60ae33d6-33b2-483a-b4be-18cec99e1b88",
+        "text": "And from Friday <https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/02\/25\/school-mask-rule-rage-by-the-numbers-00011716> under \"Idle\"",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/02\/25\/school-mask-rule-rage-by-the-numbers-00011716",
+                "image_url": "https:\/\/static.politico.com\/da\/f5\/44342c424c68b675719324b1106b\/politico.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 37632,
+                "service_icon": "https:\/\/www.politico.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/02\/25\/school-mask-rule-rage-by-the-numbers-00011716",
+                "fallback": "POLITICO: School mask rule rage, by the numbers",
+                "text": "Requiring masks and vaccines for in-classroom learning has become a broadly accepted idea.",
+                "title": "School mask rule rage, by the numbers",
+                "title_link": "https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/02\/25\/school-mask-rule-rage-by-the-numbers-00011716",
+                "service_name": "POLITICO"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HnzL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And from Friday "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/02\/25\/school-mask-rule-rage-by-the-numbers-00011716"
+                            },
+                            {
+                                "type": "text",
+                                "text": " under \"Idle\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1646269400.101439",
+        "client_msg_id": "2d0daaae-7d4e-458b-ae66-b44ebbb2ec39",
+        "text": "Stumbled upon another one <https:\/\/homerisesf.org\/2021\/04\/multiple-challenges-confront-new-leaders-at-sf-homelessness-department\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/homerisesf.org\/2021\/04\/multiple-challenges-confront-new-leaders-at-sf-homelessness-department\/",
+                "ts": 1619035473,
+                "image_url": "https:\/\/homerisesf.org\/wp-content\/uploads\/2021\/04\/SFPP-042121.jpg",
+                "image_width": 467,
+                "image_height": 250,
+                "image_bytes": 171587,
+                "service_icon": "https:\/\/homerisesf.org\/wp-content\/uploads\/2021\/05\/cropped-HomeRise-logomark-600x600-RGB-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/homerisesf.org\/2021\/04\/multiple-challenges-confront-new-leaders-at-sf-homelessness-department\/",
+                "fallback": "HomeRise: Multiple Challenges Confront New Leaders at SF Homelessness Department - HomeRise",
+                "text": "San Francisco Public Press, by Nuala Bishari The selection of Shireen McSpadden to lead the city’s homelessness department is being greeted optimistically by officials who have dealt extensively with San Francisco’s chronic inability to find shelter for all its residents. Supervisor Aaron Peskin and Joe Wilson, a prominent advocate for homeless people, said they were",
+                "title": "Multiple Challenges Confront New Leaders at SF Homelessness Department - HomeRise",
+                "title_link": "https:\/\/homerisesf.org\/2021\/04\/multiple-challenges-confront-new-leaders-at-sf-homelessness-department\/",
+                "service_name": "HomeRise"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Stumbled upon another one "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/homerisesf.org\/2021\/04\/multiple-challenges-confront-new-leaders-at-sf-homelessness-department\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

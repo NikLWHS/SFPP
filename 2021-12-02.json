@@ -1,0 +1,196 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1638469850.021800",
+        "client_msg_id": "608326EA-38D7-472C-9D43-FBF29EDE5277",
+        "text": "<https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php|https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php",
+                "service_name": "San Francisco Chronicle",
+                "title": "The owners of S.F.’s run-down Plaza East housing project want to redevelop it again. Will residents buy in?",
+                "title_link": "https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php",
+                "text": "The 20-year-old public housing complex on 3 acres has been riddled with maintenance...",
+                "ts": 1638475200,
+                "image_url": "https:\/\/s.hdnux.com\/photos\/01\/23\/04\/62\/21777575\/3\/rawImage.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 280214,
+                "fallback": "San Francisco Chronicle: The owners of S.F.’s run-down Plaza East housing project want to redevelop it again. Will residents buy in?",
+                "service_icon": "https:\/\/www.sfchronicle.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ybN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php",
+                                "text": "https:\/\/www.sfchronicle.com\/sf\/article\/The-owners-of-S-F-s-run-down-Plaza-East-16667874.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1638473941.022100",
+        "client_msg_id": "8DF9D3C8-1248-49D4-8EA4-98557F11D29D",
+        "text": "Sweeet!\n\n*A recent San Francisco Public Press investigation found the city’s department of building inspection has issued 90 notices of violation at the property in the last nine years — with 21 for plumbing and electrical issues, 10 for fire violations, six for sanitation problems, four for pest issues and two for mo*ld.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b8fAL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweeet!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "A recent San Francisco Public Press investigation found the city’s department of building inspection has issued 90 notices of violation at the property in the last nine years — with 21 for plumbing and electrical issues, 10 for fire violations, six for sanitation problems, four for pest issues and two for mo",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ld."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1638473980.022600",
+        "client_msg_id": "6d739ab4-9d5d-41ca-a278-747e2308a42a",
+        "text": "Unfortunately they didn't put in a link to the piece. But yes, great news.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unfortunately they didn't put in a link to the piece. But yes, great news."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1638480582.022900",
+        "client_msg_id": "7c1d1b2c-9961-47c1-9e94-983075df5108",
+        "text": "Kudos to <@U02DXRYCD2N>!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gc4zt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kudos to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1635387748.003800",
+        "client_msg_id": "E8785E86-D59F-49D2-A2F2-3E584157B378",
+        "text": "Seth’s story got a mention in the LA Times’ newsletter today.\n\n<https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california|https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california>\n",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Los Angeles Times",
+                "title": "Which COVID vaccine booster shot is right? Important information you should know",
+                "title_link": "https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california",
+                "text": "Federal officials said Americans can get a COVID-19 booster and may choose a different company’s vaccine for that next shot. Which one should you get?",
+                "fallback": "Los Angeles Times: Which COVID vaccine booster shot is right? Important information you should know",
+                "image_url": "https:\/\/ca-times.brightspotcdn.com\/dims4\/default\/0a44d4f\/2147483647\/strip\/true\/crop\/840x441+0+0\/resize\/1200x630!\/quality\/90\/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F58%2F2b%2F1d117d7049cca78539af1a1db587%2Fvaccine.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1635363045,
+                "from_url": "https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california",
+                "image_bytes": 135391,
+                "service_icon": "https:\/\/www.latimes.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seth’s story got a mention in the LA Times’ newsletter today.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california",
+                                "text": "https:\/\/www.latimes.com\/california\/newsletter\/2021-10-27\/booster-shot-covid-vaccine-essential-california"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1635387774.004300",
+        "client_msg_id": "AD082A3E-6E39-4078-AD2E-8B41235804D5",
+        "text": "Scroll down to Crimes and Courts",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scroll down to Crimes and Courts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1635388639.004500",
+        "client_msg_id": "276bf202-7dcd-42aa-af14-98f946b0725e",
+        "text": "Nice!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "671B8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1635388716.004700",
+        "client_msg_id": "6c4d40c4-517c-4bfc-ad08-eeff3bdda2ce",
+        "text": "CRIME AND COURTS\n\n*The agency responsible for regulating the ride-hailing industry in the state has failed to collect consistent data on claims of assaults, threats and harassment on Uber and Lyft rides*. A San Francisco Public Press investigation found that The California Public Utilities Commission, which is tasked with collecting the data, has allowed the companies to use very different interpretations of reporting requirements, raising questions about the data’s reliability. The commission’s director of news and outreach did not respond to specific questions about the data discrepancies or the letters, but in an email she acknowledged the issue. <https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/|San Francisco Public Press>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "San Francisco Public Press",
+                "title": "California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "title_link": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "text": "The agency responsible for regulating the ride-hailing industry in California has failed to collect consistent data on complaints of assaults, threats and harassment on Uber and Lyft rides, a San Francisco Public Press investigation found.",
+                "fallback": "San Francisco Public Press: California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/10\/Ride_Hailing_19-1170x780.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Written by",
+                        "value": "Seth Rosenfeld",
+                        "short": true
+                    },
+                    {
+                        "title": "Est. reading time",
+                        "value": "15 minutes",
+                        "short": true
+                    }
+                ],
+                "ts": 1634747421,
+                "from_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "image_bytes": 197661,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Em=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CRIME AND COURTS\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "The agency responsible for regulating the ride-hailing industry in the state has failed to collect consistent data on claims of assaults, threats and harassment on Uber and Lyft rides",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". A San Francisco Public Press investigation found that The California Public Utilities Commission, which is tasked with collecting the data, has allowed the companies to use very different interpretations of reporting requirements, raising questions about the data’s reliability. The commission’s director of news and outreach did not respond to specific questions about the data discrepancies or the letters, but in an email she acknowledged the issue. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                                "text": "San Francisco Public Press"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

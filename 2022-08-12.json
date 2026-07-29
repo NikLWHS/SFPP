@@ -1,0 +1,680 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335123.540689",
+        "client_msg_id": "b0ea9b93-5069-4ada-8b1b-bd37d36809f3",
+        "text": "<https:\/\/ethnicmediaservices.org\/domestic-violence\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ethnicmediaservices.org\/domestic-violence\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners\/",
+                "ts": 1658242837,
+                "image_url": "https:\/\/secureservercdn.net\/50.62.88.172\/99t.7da.myftpupload.com\/wp-content\/uploads\/2022\/07\/maid.jpg",
+                "image_width": 461,
+                "image_height": 250,
+                "image_bytes": 879817,
+                "service_icon": "https:\/\/secureservercdn.net\/50.62.88.172\/99t.7da.myftpupload.com\/wp-content\/uploads\/2022\/06\/cropped-E-in-EMS-512px-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/ethnicmediaservices.org\/domestic-violence\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners\/",
+                "fallback": "Ethnic Media Services: How California’s Coercive Control Law Could Help Women Manipulated by Partners | EMS",
+                "text": "Blanca suffered decades of psychological abuse from her husband, whose behaviors fall under a category of abuse experts call coercive control.",
+                "title": "How California’s Coercive Control Law Could Help Women Manipulated by Partners | EMS",
+                "title_link": "https:\/\/ethnicmediaservices.org\/domestic-violence\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners\/",
+                "service_name": "Ethnic Media Services",
+                "fields": [
+                    {
+                        "value": "Viji Sundaram",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dqdi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ethnicmediaservices.org\/domestic-violence\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335132.437429",
+        "client_msg_id": "ddfc38b6-6c23-4a06-a78e-d291649f8cb1",
+        "text": "<https:\/\/usa.inquirer.net\/106471\/california-courts-start-penalizing-psychological-domestic-abuse>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/usa.inquirer.net\/106471\/california-courts-start-penalizing-psychological-domestic-abuse",
+                "ts": 1659109780,
+                "thumb_url": "https:\/\/usa.inquirer.net\/files\/2022\/07\/ems.jpg",
+                "thumb_width": 1570,
+                "thumb_height": 852,
+                "service_icon": "https:\/\/usa.inquirer.net\/icon\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/usa.inquirer.net\/106471\/california-courts-start-penalizing-psychological-domestic-abuse",
+                "fallback": "INQUIRER.net USA: California courts start penalizing psychological domestic abuse",
+                "text": "The 2020 California law widens the definition of domestic violence and allows victims to introduce evidence of coercive control.",
+                "title": "California courts start penalizing psychological domestic abuse",
+                "title_link": "https:\/\/usa.inquirer.net\/106471\/california-courts-start-penalizing-psychological-domestic-abuse",
+                "service_name": "INQUIRER.net USA",
+                "fields": [
+                    {
+                        "value": "rciriacruz",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Zb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/usa.inquirer.net\/106471\/california-courts-start-penalizing-psychological-domestic-abuse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335151.654389",
+        "client_msg_id": "ed04ce3c-0e4a-4657-bddd-9857fb40d97d",
+        "text": "<https:\/\/ourweekly.com\/news\/2022\/08\/03\/california-courts-start-penalizing-psychological-domestic-abuse\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ourweekly.com\/news\/2022\/08\/03\/california-courts-start-penalizing-psychological-domestic-abuse\/",
+                "ts": 1659571066,
+                "image_url": "https:\/\/ourweekly.com\/wp-content\/uploads\/2022\/08\/image-5.jpeg",
+                "image_width": 461,
+                "image_height": 250,
+                "image_bytes": 127635,
+                "service_icon": "https:\/\/ourweekly.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/ourweekly.com\/news\/2022\/08\/03\/california-courts-start-penalizing-psychological-domestic-abuse\/",
+                "fallback": "Our Weekly: California courts start penalizing psychological domestic abuse  - Our Weekly",
+                "text": "It didn’t take long for Emily Caesar to realize that her husband Trevor had to have his way on everything — how she dressed, who she spoke with, how much […]",
+                "title": "California courts start penalizing psychological domestic abuse  - Our Weekly",
+                "title_link": "https:\/\/ourweekly.com\/news\/2022\/08\/03\/california-courts-start-penalizing-psychological-domestic-abuse\/",
+                "service_name": "Our Weekly",
+                "fields": [
+                    {
+                        "value": "Viji Sundaram",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "4 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ourweekly.com\/news\/2022\/08\/03\/california-courts-start-penalizing-psychological-domestic-abuse\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1660335171.205369",
+        "client_msg_id": "b88e3574-52df-4177-94ea-42a6f6084c82",
+        "text": ":+1:",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tI\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335192.463989",
+        "client_msg_id": "b7352b72-31df-40fd-b69f-f20ee25e6d75",
+        "text": "<https:\/\/holatexas.us\/home\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/holatexas.us\/home\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners",
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5d5332195ac1be000157cb1a\/ae695aaf-a5d3-4943-aa74-0eb927292117\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/holatexas.us\/home\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners",
+                "fallback": "Hola Texas - USA: How California’s Coercive Control Law Could Help Women Manipulated by Partners — Hola Texas - USA",
+                "text": "Dek:Blanca suffered decades of psychological abuse from her husband, whose behaviors fall under a category of abuse sociologists and family law experts call coercive control.",
+                "title": "How California’s Coercive Control Law Could Help Women Manipulated by Partners — Hola Texas - USA",
+                "title_link": "https:\/\/holatexas.us\/home\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners",
+                "service_name": "Hola Texas - USA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5OX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/holatexas.us\/home\/how-californias-coercive-control-law-could-help-women-manipulated-by-partners"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335209.660239",
+        "client_msg_id": "1db051c9-9d4e-4592-a161-e23adaccce05",
+        "text": "<https:\/\/www.laprogressive.com\/law-and-the-justice-system\/biased-justice>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.laprogressive.com\/law-and-the-justice-system\/biased-justice",
+                "image_url": "https:\/\/www.laprogressive.com\/.image\/t_share\/MTkxMDc3NDcyMDgxNTUyNzUw\/biased-justice-4.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 87128,
+                "service_icon": "https:\/\/www.laprogressive.com\/site\/images\/apple-touch-icon.png?v=2022-08-09-182427-0fd1553-028135",
+                "id": 1,
+                "original_url": "https:\/\/www.laprogressive.com\/law-and-the-justice-system\/biased-justice",
+                "fallback": "LA Progressive: Biased Justice",
+                "text": "Expanding view of domestic violence in California gives survivors new tool, but unsympathetic judges remain an obstacle.",
+                "title": "Biased Justice",
+                "title_link": "https:\/\/www.laprogressive.com\/law-and-the-justice-system\/biased-justice",
+                "service_name": "LA Progressive"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8B0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.laprogressive.com\/law-and-the-justice-system\/biased-justice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335238.918219",
+        "client_msg_id": "28aa42f8-0153-454a-a94b-d04620f19b52",
+        "text": "<https:\/\/tmz.ng\/biased-justice-la-progressive\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/tmz.ng\/biased-justice-la-progressive\/",
+                "ts": 1658680714,
+                "image_url": "https:\/\/tmz.ng\/wp-content\/uploads\/2022\/07\/biased-justice-4.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 70163,
+                "service_icon": "https:\/\/tmz.ng\/wp-content\/uploads\/2022\/05\/cropped-tmzng1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/tmz.ng\/biased-justice-la-progressive\/",
+                "fallback": "TmZ.NG | Business, Finance And Entertainment News: Biased Justice - LA Progressive - TmZ.NG | Business, Finance And Entertainment News",
+                "text": "Biased Justice - LA Progressive #Biased #Justice #Progressive Welcome to TmZ Blog, here is the new story we have for you today:",
+                "title": "Biased Justice - LA Progressive - TmZ.NG | Business, Finance And Entertainment News",
+                "title_link": "https:\/\/tmz.ng\/biased-justice-la-progressive\/",
+                "service_name": "TmZ.NG | Business, Finance And Entertainment News",
+                "fields": [
+                    {
+                        "value": "Ola",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "17 minutes",
+                        "title": "Time to read",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tmz.ng\/biased-justice-la-progressive\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660335344.461419",
+        "client_msg_id": "4bdd1e52-d777-4edc-9588-19cc759fb5b4",
+        "text": "<https:\/\/eltecolote.org\/content\/en\/california-courts-start-penalizing-psychological-domestic-abuse\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/eltecolote.org\/content\/en\/california-courts-start-penalizing-psychological-domestic-abuse\/",
+                "ts": 1659050215,
+                "image_url": "https:\/\/eltecolote.org\/content\/wp-content\/uploads\/2022\/07\/Coercive-control-part-3_web.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 145383,
+                "service_icon": "https:\/\/i0.wp.com\/eltecolote.org\/content\/wp-content\/uploads\/2019\/11\/cropped-Teco_T_red.png?fit=180%2C180&amp;ssl=1",
+                "id": 1,
+                "original_url": "https:\/\/eltecolote.org\/content\/en\/california-courts-start-penalizing-psychological-domestic-abuse\/",
+                "fallback": "El Tecolote: California courts start penalizing psychological domestic abuse - El Tecolote",
+                "text": "It didn’t take long for Emily Caesar to realize that Trevor, the man she had fallen in love with and married, had to have his way on everything — how she",
+                "title": "California courts start penalizing psychological domestic abuse - El Tecolote",
+                "title_link": "https:\/\/eltecolote.org\/content\/en\/california-courts-start-penalizing-psychological-domestic-abuse\/",
+                "service_name": "El Tecolote",
+                "fields": [
+                    {
+                        "value": "Viji Sundaram",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "11 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YGq1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/eltecolote.org\/content\/en\/california-courts-start-penalizing-psychological-domestic-abuse\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1660343810.379009",
+        "edited": {
+            "user": "U036YAYMM",
+            "ts": "1660343830.000000"
+        },
+        "client_msg_id": "92798B05-8E64-4A3B-BBA8-F2618FC1968F",
+        "text": "This is great! I hadn’t seen many of these. You must have a better Google Alert than I do. It’s instructive that the orgs are all over the place on how they credit us. Some of these don’t put us in the credit line, but they do include our instructions for inserting a canonical link, which wasn’t supposed to be copied and pasted. \n\n<http:\/\/TMZ.ng|TMZ.ng> seems to be a fake news site. One of many.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NPDI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is great! I hadn’t seen many of these. You must have a better Google Alert than I do. It’s instructive that the orgs are all over the place on how they credit us. Some of these don’t put us in the credit line, but they do include our instructions for inserting a canonical link, which wasn’t supposed to be copied and pasted. \n\nTMZ.ng seems to be a fake news site. One of many."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1660346176.696729",
+        "client_msg_id": "0ff08c73-65dc-4a7a-a22d-39c9d8a382c6",
+        "text": "TMZ ing looks like a site trying to spoof people looking for the celbrity news site TMZ. The second I opened it I was warned by Safari t had a least three viruses.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8RO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TMZ ing looks like a site trying to spoof people looking for the celbrity news site TMZ. The second I opened it I was warned by Safari t had a least three viruses."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660347503.268939",
+        "client_msg_id": "a826ad65-b088-4088-a1d2-9178bdb44072",
+        "text": "Interesting, I didn't get that alert",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting, I didn't get that alert"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1660347518.220389",
+        "client_msg_id": "0470afca-e64d-42fc-b6df-ca82df813c52",
+        "text": "I wasn't able to load a couple links. Sometimes I just do a search for the headline",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wasn't able to load a couple links. Sometimes I just do a search for the headline"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1660347570.347399",
+        "client_msg_id": "24f219c1-341c-4a2e-92aa-0e2d52b1c4de",
+        "text": "Makes sense. I suppose its a compliment that a spam news scrapping site decided to use the story!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0IZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Makes sense. I suppose its a compliment that a spam news scrapping site decided to use the story!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

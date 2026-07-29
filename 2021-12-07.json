@@ -1,0 +1,408 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1638925681.024200",
+        "client_msg_id": "2975c7e6-d4e0-4cd9-b7d3-a86b50f1b488",
+        "text": "<https:\/\/fij.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/> sry if duplicate here.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/fij.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "ts": 1635287382,
+                "image_url": "https:\/\/fij.org\/wp-content\/uploads\/2021\/10\/Ride_Hailing_19.jpeg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1554615,
+                "service_icon": "https:\/\/fij.org\/wp-content\/uploads\/2020\/09\/cropped-FIJ-Final-logo-Color-LtBG-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/fij.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "fallback": "The Fund for Investigative Journalism: California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints - The Fund for Investigative Journalism",
+                "text": "For years the California agency that regulates Uber and Lyft gathered annual reports about assaults that happen on their rides but kept that data secret. FIJ grantee Seth Rosenfeld is the first reporter to obtain some of those reports following an eight-month effort using the state’s public records act. His story in the nonprofit San Francisco Public Press revealed not only hundreds of assaults but also that the California Public Utilities Commission had failed to collect consistent data from the firms, raising questions not only about it's reliability but also about the agency’s oversight of the industry. Two days after Rosenfeld obtained the reports, the commission opened an investigation into how the firms reported the assault data.",
+                "title": "California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints - The Fund for Investigative Journalism",
+                "title_link": "https:\/\/fij.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "service_name": "The Fund for Investigative Journalism",
+                "fields": [
+                    {
+                        "value": "Kristen Goss",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "1 minute",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mp68",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fij.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sry if duplicate here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1638928280.025200",
+        "client_msg_id": "68742056-a087-494a-a5ec-3df8d50ebe95",
+        "text": "<!channel> I may have mentioned already (or you may know through SPJ) but the James Madison Award submission deadline is coming up soon. Do we have transparency, public records or meetings related work that we want to highlight?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jajt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I may have mentioned already (or you may know through SPJ) but the James Madison Award submission deadline is coming up soon. Do we have transparency, public records or meetings related work that we want to highlight?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1638928307.025400",
+        "client_msg_id": "15ab1839-5634-438a-af8e-5bec8d75e845",
+        "text": "Entries are due Saturday night\n<https:\/\/spjnorcal.org\/2021\/11\/05\/call-for-james-madison-freedom-of-information-awards-nominations-for-2021-work\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yFwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Entries are due Saturday night\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spjnorcal.org\/2021\/11\/05\/call-for-james-madison-freedom-of-information-awards-nominations-for-2021-work\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1638928483.025700",
+        "client_msg_id": "80fcea17-dae0-4566-aab6-643a2f82ae0d",
+        "text": "My early thoughts, from my own work:\n\n<https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                "ts": 1638214500,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/11\/Screenshot-2021-11-29-113015-1170x737.jpg",
+                "image_width": 397,
+                "image_height": 250,
+                "image_bytes": 77912,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                "fallback": "San Francisco Public Press: San Francisco Rent Relief Tracker",
+                "text": "Requested rent relief in San Francisco has far surpassed authorized funds, more than a month after the statewide eviction moratorium's end.",
+                "title": "San Francisco Rent Relief Tracker",
+                "title_link": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Noah Arroyo",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "3 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5lxl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My early thoughts, from my own work:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/san-francisco-rent-relief-tracker\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1638928488.026000",
+        "client_msg_id": "02d097c3-c93e-4a74-90df-151d5f22d08b",
+        "text": "<https:\/\/www.sfpublicpress.org\/states-rent-relief-program-neglects-vulnerable-communities-groups-say\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/states-rent-relief-program-neglects-vulnerable-communities-groups-say\/",
+                "ts": 1618339596,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/04\/rita_lui_cropped-1170x853.jpg",
+                "image_width": 343,
+                "image_height": 250,
+                "image_bytes": 200946,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/states-rent-relief-program-neglects-vulnerable-communities-groups-say\/",
+                "fallback": "San Francisco Public Press: State’s Rent-Relief Program Neglects Vulnerable Communities, Groups Say - San Francisco Public Press",
+                "text": "California’s program to alleviate rent debts — and prevent a wave of evictions in July — makes it tough for some of the state’s most vulnerable residents to request financial aid, community groups in San Francisco say. The way the system is designed prevents many people from applying, including those who live in informal housing arrangements, those who do not speak English and those who lack digital proficiency, according to staff at local organizations helping tenants and landlords file applications.",
+                "title": "State’s Rent-Relief Program Neglects Vulnerable Communities, Groups Say - San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/states-rent-relief-program-neglects-vulnerable-communities-groups-say\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Noah Arroyo",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "6 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7KSqy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/states-rent-relief-program-neglects-vulnerable-communities-groups-say\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1638928492.026300",
+        "client_msg_id": "69769ad9-8480-4de8-91ae-ea1c6f314417",
+        "text": "<https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/",
+                "ts": 1631832388,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/04\/50775446666_f0d33ce410_o-1170x749.jpg",
+                "image_width": 391,
+                "image_height": 250,
+                "image_bytes": 191977,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/",
+                "fallback": "San Francisco Public Press: Low Vaccination Rates in Parts of Bayview Could Be Driving High COVID-19 Infections - San Francisco Public Press",
+                "text": "Low vaccination rates in several pockets of Bayview-Hunters Point could help explain high cases of COVID-19 in San Francisco’s southeast.",
+                "title": "Low Vaccination Rates in Parts of Bayview Could Be Driving High COVID-19 Infections - San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Noah Arroyo",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "7 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAmS1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/low-vaccination-rates-in-parts-of-bayview-could-be-driving-high-covid-19-infections\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U58JZC631",
+        "type": "message",
+        "ts": "1638928513.026800",
+        "edited": {
+            "user": "U58JZC631",
+            "ts": "1638928520.000000"
+        },
+        "client_msg_id": "58096383-1753-46f5-8988-ce9a508f759c",
+        "text": "Sorry if any of these are actually bad fits.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "8aa29efb4a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-13\/6619261340375_8aa29efb4a303e3101dd_72.jpg",
+            "first_name": "Noah",
+            "real_name": "Noah Arroyo",
+            "display_name": "noah",
+            "team": "T036YAYMK",
+            "name": "noah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=azo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry if any of these are actually bad fits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

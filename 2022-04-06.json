@@ -1,0 +1,219 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1649282907.238779",
+        "client_msg_id": "133bce9e-4759-4dfb-9761-0825bd77da7e",
+        "text": "Got pickup today from Wired on Seth’s old stories.\n\n<https:\/\/www.wired.com\/story\/gig-workers-murder-report\/>\n\nFor years, Uber and Lyft successfully fought to keep their safety data out of the public eye, according to the <https:\/\/www.sfpublicpress.org\/california-agency-is-hiding-uber-and-lyft-accident-reports\/|San Francisco Public Press>. In 2020, the California Public Utilities Commission <https:\/\/www.sfpublicpress.org\/uber-lyft-lose-shield-on-safety-reports-as-california-regulator-rescinds-secrecy-rule\/|reversed> a rule that kept this data secret, but pre-2020 data remains confidential. A subsequent Public Press <https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/|investigation> found that the reporting varied widely between the two companies due to the CPUC’s broad definitions.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.wired.com\/story\/gig-workers-murder-report\/",
+                "ts": 1649235600,
+                "image_url": "https:\/\/media.wired.com\/photos\/624cc6003e9f7013f6ea35c9\/191:100\/w_1280,c_limit\/Lyft-Car-Gig-Workers-Murdered-Business-1141770973.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 161120,
+                "service_icon": "https:\/\/www.wired.com\/verso\/static\/wired\/assets\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.wired.com\/story\/gig-workers-murder-report\/",
+                "fallback": "Wired: When Gig Workers Are Murdered, Their Families Foot the Bill",
+                "text": "A new report claims that companies like Lyft and Uber offer meager assistance to the loved ones of workers slain on the job.",
+                "title": "When Gig Workers Are Murdered, Their Families Foot the Bill",
+                "title_link": "https:\/\/www.wired.com\/story\/gig-workers-murder-report\/",
+                "service_name": "Wired"
+            },
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/california-agency-is-hiding-uber-and-lyft-accident-reports\/",
+                "ts": 1578452880,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2020\/02\/redacted_p11_tilted.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 603380,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 2,
+                "original_url": "https:\/\/www.sfpublicpress.org\/california-agency-is-hiding-uber-and-lyft-accident-reports\/",
+                "fallback": "San Francisco Public Press: California Agency Is Hiding Uber and Lyft Accident Reports - San Francisco Public Press",
+                "text": "The number of ride-hailing accidents is rising as the services boom. But the industry has hidden safety records — with help from its chief regulator. 1. Footnote 42 Around midnight on March 13, 2016, Robert Robinson and his wife, Ruth, used the Uber app to hail a ride to their home at the edge of […]",
+                "title": "California Agency Is Hiding Uber and Lyft Accident Reports - San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/california-agency-is-hiding-uber-and-lyft-accident-reports\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Seth Rosenfeld",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "49 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/uber-lyft-lose-shield-on-safety-reports-as-california-regulator-rescinds-secrecy-rule\/",
+                "ts": 1584005032,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2020\/03\/annotation_2020-03-12_181114.jpg",
+                "image_width": 392,
+                "image_height": 250,
+                "image_bytes": 237630,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 3,
+                "original_url": "https:\/\/www.sfpublicpress.org\/uber-lyft-lose-shield-on-safety-reports-as-california-regulator-rescinds-secrecy-rule\/",
+                "fallback": "San Francisco Public Press: Uber, Lyft Lose Shield on Safety Reports as California Regulator Rescinds Secrecy Rule - San Francisco Public Press",
+                "text": "Uber and Lyft can no longer keep their safety reports quite so secret. Their California regulator reversed a rule shielding that data from public view.",
+                "title": "Uber, Lyft Lose Shield on Safety Reports as California Regulator Rescinds Secrecy Rule - San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/uber-lyft-lose-shield-on-safety-reports-as-california-regulator-rescinds-secrecy-rule\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Seth Rosenfeld",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "8 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            },
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "ts": 1634747421,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/10\/Ride_Hailing_19-1170x780.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 197661,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 4,
+                "original_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "fallback": "San Francisco Public Press: California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "text": "The agency responsible for regulating the ride-hailing industry in California has failed to collect consistent data on complaints of assaults, threats and harassment on Uber and Lyft rides, a San Francisco Public Press investigation found.",
+                "title": "California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "title_link": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Seth Rosenfeld",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "15 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got pickup today from Wired on Seth’s old stories.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wired.com\/story\/gig-workers-murder-report\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFor years, Uber and Lyft successfully fought to keep their safety data out of the public eye, according to the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/california-agency-is-hiding-uber-and-lyft-accident-reports\/",
+                                "text": "San Francisco Public Press"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". In 2020, the California Public Utilities Commission "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/uber-lyft-lose-shield-on-safety-reports-as-california-regulator-rescinds-secrecy-rule\/",
+                                "text": "reversed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a rule that kept this data secret, but pre-2020 data remains confidential. A subsequent Public Press "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                                "text": "investigation"
+                            },
+                            {
+                                "type": "text",
+                                "text": " found that the reporting varied widely between the two companies due to the CPUC’s broad definitions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1649283767.519389",
+        "client_msg_id": "2f051344-f25b-4b04-8a51-81119e5f7e39",
+        "text": ":fast_parrot: That is a great place to get a shout out!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fast_parrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " That is a great place to get a shout out!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

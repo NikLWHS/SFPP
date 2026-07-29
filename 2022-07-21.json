@@ -1,0 +1,904 @@
+[
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1658417092.582479",
+        "client_msg_id": "2bf7709a-bbb8-455d-a11e-c8f83986fdc2",
+        "text": "yes you're doing a wonderful job of shepherding that partnership.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1658370768.880369",
+        "parent_user_id": "U036YAYMM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+OY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes you're doing a wonderful job of shepherding that partnership."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658427547.398479",
+        "client_msg_id": "09a7bc8d-d249-4c24-8032-95f3a2d1ed03",
+        "text": "<https:\/\/news.yahoo.com\/uber-lyft-must-adopt-measures-120052268.html> <@U036YAYMM> the yahoo repub has the LA Times shirttail that lists us, and then immediately says that the story was originally published in the LA Times. Do you know anyone over there?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/news.yahoo.com\/uber-lyft-must-adopt-measures-120052268.html",
+                "image_url": "https:\/\/s.yimg.com\/uu\/api\/res\/1.2\/aKOUzY9srf4RIFcFMddBjw--~B\/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-\/https:\/\/media.zenfs.com\/en\/la_times_articles_853\/56e52be7f268fe3fb2e2ea89b5539c2a",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 88377,
+                "service_icon": "https:\/\/s.yimg.com\/rz\/l\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/news.yahoo.com\/uber-lyft-must-adopt-measures-120052268.html",
+                "fallback": "Uber and Lyft must adopt measures to prevent sexual assaults, California regulator rules",
+                "text": "The California Public Utilities Commission softened its rule but still enacted comprehensive measure to prevent attacks in ride-hailing vehicles.",
+                "title": "Uber and Lyft must adopt measures to prevent sexual assaults, California regulator rules",
+                "title_link": "https:\/\/news.yahoo.com\/uber-lyft-must-adopt-measures-120052268.html",
+                "service_name": "news.yahoo.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1ueN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.yahoo.com\/uber-lyft-must-adopt-measures-120052268.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the yahoo repub has the LA Times shirttail that lists us, and then immediately says that the story was originally published in the LA Times. Do you know anyone over there?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": ":face_with_raised_eyebrow: Is there anyone reviewing before publishing?",
+        "files": [
+            {
+                "id": "F03QH65UUBC",
+                "created": 1658427744,
+                "timestamp": 1658427744,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01B9FNF801",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 196613,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03QH65UUBC\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03QH65UUBC\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 129,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 172,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 259,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 287,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_960.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_960_w": 960,
+                "thumb_960_h": 345,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03QH65UUBC-dc0173103c\/image_1024.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 368,
+                "original_w": 2163,
+                "original_h": 777,
+                "thumb_tiny": "AwARADDR5o59TRgen6UfgfyoAOfU0fnR+B\/KlAB6igBOfelHXvRtHoKWgAooooAKKKKACiiigD\/\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F03QH65UUBC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F03QH65UUBC-95400b92c5",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01B9FNF801",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "face_with_raised_eyebrow",
+                                "unicode": "1f928"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Is there anyone reviewing before publishing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658427797.746119",
+        "client_msg_id": "8a9f6297-423a-4b12-b575-ea08346b30c5"
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658429131.984239",
+        "client_msg_id": "c3239495-b573-406d-867b-7fe45b87609c",
+        "text": "OK, this is new info — I was unaware that Yahoo was picking up LA Times stories. Good to know for future interactions with them and I will mention this. The tagline was apparently added somewhere in that re-syndication process, so not by us. I also noticed that “was produced” was repeated in the first line, which is my bad (though a little more subtle).",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3o=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK, this is new info — I was unaware that Yahoo was picking up LA Times stories. Good to know for future interactions with them and I will mention this. The tagline was apparently added somewhere in that re-syndication process, so not by us. I also noticed that “was produced” was repeated in the first line, which is my bad (though a little more subtle)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658433128.028949",
+        "client_msg_id": "d3c65e50-683b-42db-b3e1-0ddf5e853b28",
+        "text": "Heh, I was only commenting the \"This story originally appeared in the Los Angeles Times\" line coming immediately after our language about producing the story and the series link, clearly showing the original location.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=L=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Heh, I was only commenting the \"This story originally appeared in the Los Angeles Times\" line coming immediately after our language about producing the story and the series link, clearly showing the original location."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658433373.991869",
+        "client_msg_id": "f1869b94-788e-41e7-95ff-260c5498d2db",
+        "text": "I saw mention of the newsletter way above when this dropped, but didn't see a direct link <https:\/\/centerforhealthjournalism.org\/fellowships\/projects\/how-california-s-coercive-control-law-could-help-women-manipulated-partners>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSLCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw mention of the newsletter way above when this dropped, but didn't see a direct link "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/centerforhealthjournalism.org\/fellowships\/projects\/how-california-s-coercive-control-law-could-help-women-manipulated-partners"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658433653.438929",
+        "client_msg_id": "9a91203f-0df9-4ab8-ac8a-f8d003c93d87",
+        "text": "We were cited, but not linked to <https:\/\/www.hcamag.com\/us\/specialization\/employment-law\/california-demands-uber-lyft-crack-down-on-sexual-assaults\/413819>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We were cited, but not linked to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hcamag.com\/us\/specialization\/employment-law\/california-demands-uber-lyft-crack-down-on-sexual-assaults\/413819"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658433771.127289",
+        "client_msg_id": "41e27d40-f11f-4361-933f-b4efe9cd29ae",
+        "text": "This one kept the shirttail and all the in-article links, but stripped Seth's name. <https:\/\/24newspaper.in\/market\/7274\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This one kept the shirttail and all the in-article links, but stripped Seth's name. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/24newspaper.in\/market\/7274\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658433815.472979",
+        "edited": {
+            "user": "U01B9FNF801",
+            "ts": "1658433824.000000"
+        },
+        "client_msg_id": "f7137d8c-0a6d-4cba-85e4-c149b32d197a",
+        "text": "Same thing here, but removed all the links <https:\/\/newspub.live\/business\/uber-lyft-must-adopt-measures-to-prevent-sexual-assaults-california-regulator-rules\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=l2M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same thing here, but removed all the links "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newspub.live\/business\/uber-lyft-must-adopt-measures-to-prevent-sexual-assaults-california-regulator-rules\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658433958.154549",
+        "client_msg_id": "24d4d097-7d04-4c92-b020-b4985f34b8a2",
+        "text": "I think this is the politico newsletter <https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/07\/21\/californias-third-summer-with-covid-00047095> (scroll down to the \"California and the Capitol Corridor\" section)",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this is the politico newsletter "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.politico.com\/newsletters\/california-playbook\/2022\/07\/21\/californias-third-summer-with-covid-00047095"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (scroll down to the \"California and the Capitol Corridor\" section)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658434115.259019",
+        "client_msg_id": "ed1be1a4-688f-48fb-95d0-61eef6b271cf",
+        "text": "Yes, there seems to be a plague of fake news sites stealing content from publishers, and this accelerated when we started working with the LA Times (which they probably scrape more frequently). I’ve made our contact there aware of it, but there are so many of these things that it’s impossible to police unless the search engines get engaged and help by delisting them.\nThis from their laughable about page:\n*“News Pub is one of the best news portals online dedicated to providing our readers with the latest news from all around the world. Please fill out the form below to get in touch with us and we will get back to you as soon as possible.”*",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFXof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, there seems to be a plague of fake news sites stealing content from publishers, and this accelerated when we started working with the LA Times (which they probably scrape more frequently). I’ve made our contact there aware of it, but there are so many of these things that it’s impossible to police unless the search engines get engaged and help by delisting them.\nThis from their laughable about page:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "“News Pub is one of the best news portals online dedicated to providing our readers with the latest news from all around the world. Please fill out the form below to get in touch with us and we will get back to you as soon as possible.”",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658434697.107879",
+        "client_msg_id": "9a92a390-cfa8-44a1-a9b2-a166d1d10ead",
+        "text": "Do you want me to keep sharing when I find them? This is another one (no links, no Seth, but kept the shirttail and posted the LATimes story address w\/o language. <https:\/\/ustimespost.com\/california-has-new-rules-for-uber-lyft-to-reduce-assaults\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+sf86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you want me to keep sharing when I find them? This is another one (no links, no Seth, but kept the shirttail and posted the LATimes story address w\/o language. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ustimespost.com\/california-has-new-rules-for-uber-lyft-to-reduce-assaults\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658434731.662049",
+        "client_msg_id": "91e9baef-e35b-4c45-9b8b-f9ad72259509",
+        "text": "Also, do you want the newsletters and aggregators?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q1KB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, do you want the newsletters and aggregators?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658434914.955239",
+        "client_msg_id": "df5228eb-ae35-4dd4-ae42-e64af56eb689",
+        "text": "Newsletters and aggregators, sure. Finding the fake ones is not really impact, so let’s maybe put that into another channel. This is supposed to be a place to park links that we can later compile into reports, not to debug problems like piracy.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Newsletters and aggregators, sure. Finding the fake ones is not really impact, so let’s maybe put that into another channel. This is supposed to be a place to park links that we can later compile into reports, not to debug problems like piracy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1658434919.792909",
+        "client_msg_id": "E1F81EE5-5355-4959-8671-58D3194CAAAC",
+        "text": "Yes, please share here!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FyRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, please share here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1658434945.208659",
+        "client_msg_id": "33F3817A-EC50-4D38-9B37-B778A6F98623",
+        "text": ":point_up:what Michael said",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "puxK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_up",
+                                "unicode": "261d-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "what Michael said"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658435003.857369",
+        "client_msg_id": "74fd82eb-688b-492d-afa4-c3ca5a3dfa67",
+        "text": "Great, thanks for the additional direction. Also, the scrapers are just irritating me.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ia=b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, thanks for the additional direction. Also, the scrapers are just irritating me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658435192.944509",
+        "client_msg_id": "9f7724a4-c8d4-4117-bb19-bb5e4d075eec",
+        "text": "Car news, but no context in the link parade (Seth's LAT story about halfway down the page) <https:\/\/dailykanban.com\/2022\/07\/21\/thursday-morning-auto-news-jul-21-2022-ford-gm-want-to-lose-steering-wheel-tesla-dumps-most-of-its-bitcoin-more\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajcaE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Car news, but no context in the link parade (Seth's LAT story about halfway down the page) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dailykanban.com\/2022\/07\/21\/thursday-morning-auto-news-jul-21-2022-ford-gm-want-to-lose-steering-wheel-tesla-dumps-most-of-its-bitcoin-more\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1658435485.470829",
+        "client_msg_id": "b58dcfd0-1059-4c91-8ae6-c0930bff7310",
+        "text": "We're the 3rd one down in yesterday's post <https:\/\/www.rtumble.com\/archive\/22_07_20.htm>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Egf+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We're the 3rd one down in yesterday's post "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.rtumble.com\/archive\/22_07_20.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658437102.882329",
+        "client_msg_id": "c39255bf-c352-46f3-b95e-262c8d88f0aa",
+        "text": "Nice. We’re getting good ROI on this partnership.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kkftj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice. We’re getting good ROI on this partnership."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

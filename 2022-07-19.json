@@ -1,0 +1,149 @@
+[
+    {
+        "text": "OK <@UFEH6KZU7> and <@U02V28GTKMW> Thx. I see it now on CHCF CA Healthline (they fund Ctr for Health Journalism at Annenberg which supported Viji,so probably got it there) This is good! <https:\/\/californiahealthline.org\/morning-briefing\/monday-july-18-2022\/>",
+        "files": [
+            {
+                "id": "F03Q0QA7MT7",
+                "created": 1658245649,
+                "timestamp": 1658245649,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02LAK62DEV",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 78503,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "image.png",
+                "title": "image.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03Q0QA7MT7\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F03Q0QA7MT7\/download\/image.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03Q0QA7MT7-458e4ca447\/image_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03Q0QA7MT7-458e4ca447\/image_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03Q0QA7MT7-458e4ca447\/image_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 327,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03Q0QA7MT7-458e4ca447\/image_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 435,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F03Q0QA7MT7-458e4ca447\/image_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "original_w": 606,
+                "original_h": 668,
+                "thumb_tiny": "AwAwACvQO7J+Wk+b+7QeppKAHbm\/u0m58fd5pKKAHIz5+cDHtT6iqUdKAIzjJ+YUvyf3qQgbjyaTA9TQA75P71Hyf3qQbe+TS\/J6GgAAQnrT6YCo5ANPoAjJXJ4PWk3Lxwf0pTjJ4\/Wjj0\/WgAyo9fzo3p6fyoBxyB+tLvPpQAAgjIXNPpm\/2p9AH\/\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F03Q0QA7MT7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F03Q0QA7MT7-d9b8286ada",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02LAK62DEV",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSU54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UFEH6KZU7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02V28GTKMW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Thx. I see it now on CHCF CA Healthline (they fund Ctr for Health Journalism at Annenberg which supported Viji,so probably got it there) This is good! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/californiahealthline.org\/morning-briefing\/monday-july-18-2022\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1658245717.149089",
+        "client_msg_id": "f64da41f-f4c8-41d0-a080-4f7804c755fa",
+        "attachments": [
+            {
+                "from_url": "https:\/\/californiahealthline.org\/morning-briefing\/monday-july-18-2022\/",
+                "ts": 1658152465,
+                "image_url": "https:\/\/californiahealthline.org\/wp-content\/uploads\/sites\/3\/2018\/03\/chlnewsletterpromo2018.png",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 62938,
+                "service_icon": "https:\/\/californiahealthline.org\/wp-content\/themes\/kaiser-californiahealthline-2017\/static\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/californiahealthline.org\/morning-briefing\/monday-july-18-2022\/",
+                "fallback": "California Healthline: Monday, July 18, 2022",
+                "text": "Monday’s news roundup covers Medi-Cal, covid surge, mask rules, monkeypox,  LGBTQ+ protections, abortion, avian flu, housing, and more.",
+                "title": "Monday, July 18, 2022",
+                "title_link": "https:\/\/californiahealthline.org\/morning-briefing\/monday-july-18-2022\/",
+                "service_name": "California Healthline"
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1658251923.634859",
+        "client_msg_id": "6f2cbf93-76a3-459c-87fb-7d74f3f7f3da",
+        "text": "We’ve been in discussions with them about possibly picking up future stories, as long as they’re involved in some substantial way before it’s published.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CvotW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’ve been in discussions with them about possibly picking up future stories, as long as they’re involved in some substantial way before it’s published."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

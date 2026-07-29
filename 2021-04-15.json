@@ -1,0 +1,172 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1618501876.000600",
+        "client_msg_id": "edc667f6-7301-4230-9cd9-affb3b4b7000",
+        "text": "<https:\/\/www.theguardian.com\/us-news\/2021\/apr\/14\/san-francisco-homelessness-funding-covid-19> Cited Nuala’s story about 10% of homeless housing being vacant",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "the Guardian",
+                "title": "San Francisco has money and a new plan to tackle homelessness. Will it finally change things?",
+                "title_link": "https:\/\/www.theguardian.com\/us-news\/2021\/apr\/14\/san-francisco-homelessness-funding-covid-19",
+                "text": "Mayor London Breed tells the Guardian the city is ramping up efforts to expand supportive housing for homeless people",
+                "fallback": "the Guardian: San Francisco has money and a new plan to tackle homelessness. Will it finally change things?",
+                "image_url": "https:\/\/i.guim.co.uk\/img\/media\/c1197714b324a1e345f3e20b5b7fe41ea446de5d\/0_248_3996_2398\/master\/3996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=738b5831b8eb4699b8ca915b0030c772",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1618394438,
+                "from_url": "https:\/\/www.theguardian.com\/us-news\/2021\/apr\/14\/san-francisco-homelessness-funding-covid-19",
+                "image_bytes": 153505,
+                "service_icon": "https:\/\/static.guim.co.uk\/images\/favicon-32x32.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.theguardian.com\/us-news\/2021\/apr\/14\/san-francisco-homelessness-funding-covid-19"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sGn8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theguardian.com\/us-news\/2021\/apr\/14\/san-francisco-homelessness-funding-covid-19"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Cited Nuala’s story about 10% of homeless housing being vacant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1618505890.001400",
+        "client_msg_id": "b1c89f00-6d6f-4103-ba9f-b74f089e3b57",
+        "text": "<@U036YAYMM> some dude dropped us a Facebook Messenger message about this and I responded not having seen the piece. Can you drop him the url.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sInW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U036YAYMM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " some dude dropped us a Facebook Messenger message about this and I responded not having seen the piece. Can you drop him the url."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1618517249.001800",
+        "client_msg_id": "b236ee2e-8110-4e9d-9e0a-08c0f2471e95",
+        "text": "15th paragraph! :slightly_smiling_face:\n<https:\/\/www.wcnc.com\/article\/money\/charlotte-committee-chairman-successful-right-to-counsel-program\/275-12202f50-f157-487d-b167-eb5424b13a11>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "wcnc.com",
+                "title": "Charlotte committee chairman willing to look into successful right to counsel programs in other cities",
+                "title_link": "https:\/\/www.wcnc.com\/article\/money\/charlotte-committee-chairman-successful-right-to-counsel-program\/275-12202f50-f157-487d-b167-eb5424b13a11",
+                "text": "Several major cities have passed laws guaranteeing renters free legal representation in eviction cases. Malcolm Graham said he's interested in learning more.",
+                "fallback": "wcnc.com: Charlotte committee chairman willing to look into successful right to counsel programs in other cities",
+                "image_url": "https:\/\/media.wcnc.com\/assets\/WCNC\/images\/35e0ad20-e1b7-40f5-bfcd-23f70cd4524c\/35e0ad20-e1b7-40f5-bfcd-23f70cd4524c_1140x641.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wcnc.com\/article\/money\/charlotte-committee-chairman-successful-right-to-counsel-program\/275-12202f50-f157-487d-b167-eb5424b13a11",
+                "image_bytes": 51391,
+                "service_icon": "https:\/\/www.wcnc.com\/assets\/favicons\/WCNC.png?ver=2.5.4.3",
+                "id": 1,
+                "original_url": "https:\/\/www.wcnc.com\/article\/money\/charlotte-committee-chairman-successful-right-to-counsel-program\/275-12202f50-f157-487d-b167-eb5424b13a11"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15th paragraph! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wcnc.com\/article\/money\/charlotte-committee-chairman-successful-right-to-counsel-program\/275-12202f50-f157-487d-b167-eb5424b13a11"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

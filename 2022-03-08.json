@@ -1,0 +1,167 @@
+[
+    {
+        "user": "UKC0EQURX",
+        "type": "message",
+        "ts": "1646762068.231039",
+        "client_msg_id": "f8821c69-ba5e-49e1-a3b6-d6a41120e106",
+        "text": "This isn't strictly speaking *impact* but since we're putting media mentions here: Friends of SFACC newsletter has an excerpt from the Civic show on SFACC with extensive credit to us:\n\n<https:\/\/mailchi.mp\/friendsofsfacc.org\/march-2022-news-sfacc>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "66e0f79cb2e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-13\/7572731157060_66e0f79cb2e729ba3691_72.jpg",
+            "first_name": "Laura",
+            "real_name": "Laura Wenus",
+            "display_name": "Laura Wenus",
+            "team": "T036YAYMK",
+            "name": "laura.wenus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This isn't strictly speaking "
+                            },
+                            {
+                                "type": "text",
+                                "text": "impact",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " but since we're putting media mentions here: Friends of SFACC newsletter has an excerpt from the Civic show on SFACC with extensive credit to us:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mailchi.mp\/friendsofsfacc.org\/march-2022-news-sfacc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "dog",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            },
+            {
+                "name": "guide_dog",
+                "users": [
+                    "UQH93QFNV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1646762113.028859",
+        "client_msg_id": "82fa0bd0-9711-4e05-a931-1e621be3f222",
+        "text": "That's probably a decent size newsletter!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uXR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's probably a decent size newsletter!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1646780929.188919",
+        "client_msg_id": "2d65a1ff-3f17-4b33-9857-2c714e4e1b1f",
+        "text": "The San Francisco Public Press and Nuala's reporting is mentioned in passing in the most recent California Sun podcast with Berkeleyside founder Frances Dinkelspiel at about 15 minutes in, when talking about successful local media operations. The podcast will air on KSFP at 9 am and 7 pm this Friday. <https:\/\/www.californiasun.co\/podcast\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The San Francisco Public Press and Nuala's reporting is mentioned in passing in the most recent California Sun podcast with Berkeleyside founder Frances Dinkelspiel at about 15 minutes in, when talking about successful local media operations. The podcast will air on KSFP at 9 am and 7 pm this Friday. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.californiasun.co\/podcast\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

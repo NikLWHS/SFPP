@@ -1,0 +1,242 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1643400118.527959",
+        "client_msg_id": "e5df003d-2125-4581-8287-973edd777945",
+        "text": "For our tracking purposes …\n\n*Laura Wenus*  [10:35 AM]\n:tada: HUGE CONGRATULATIONS to <@U01PU2BUHU5> for the SPJ NorCal award in the Photojournalism \/ Photo Essay category for Driving Home!!:tada:\nExcellent work duly recognized.\n<https:\/\/spjnorcal.org\/2022\/01\/28\/spj-norcal-honors-2021-excellence-in-journalism-award-winners\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For our tracking purposes …\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Laura Wenus",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  [10:35 AM]\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HUGE CONGRATULATIONS to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01PU2BUHU5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for the SPJ NorCal award in the Photojournalism \/ Photo Essay category for Driving Home!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nExcellent work duly recognized.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spjnorcal.org\/2022\/01\/28\/spj-norcal-honors-2021-excellence-in-journalism-award-winners\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1643420156.998329",
+        "edited": {
+            "user": "UKJ1HMMAM",
+            "ts": "1643420213.000000"
+        },
+        "client_msg_id": "0764005b-c129-4fee-9afa-61272f5830a7",
+        "text": "SFist finally mentions the San Francisco Public Press. <https:\/\/sfist.com\/2022\/01\/28\/veritas-tenants-end-rent-strike-after-winning-significant-concessions-on-back-debt\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sfist.com\/2022\/01\/28\/veritas-tenants-end-rent-strike-after-winning-significant-concessions-on-back-debt\/",
+                "ts": 1643419703,
+                "image_url": "https:\/\/img.sfist.com\/2022\/01\/download.jpeg",
+                "image_width": 275,
+                "image_height": 183,
+                "image_bytes": 11009,
+                "service_icon": "https:\/\/sfist.com\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/sfist.com\/2022\/01\/28\/veritas-tenants-end-rent-strike-after-winning-significant-concessions-on-back-debt\/",
+                "fallback": "SFist - San Francisco News, Restaurants, Events, &amp; Sports: Veritas Tenants End Rent Strike After Winning Significant Concessions on Back Debt",
+                "text": "San Francisco’s biggest landlord Veritas Investments hoped to leave tenants on the hook for rent not covered by federal relief, but a tenants' group changed that with a five-month rent strike that ended Thursday.",
+                "title": "Veritas Tenants End Rent Strike After Winning Significant Concessions on Back Debt",
+                "title_link": "https:\/\/sfist.com\/2022\/01\/28\/veritas-tenants-end-rent-strike-after-winning-significant-concessions-on-back-debt\/",
+                "service_name": "SFist - San Francisco News, Restaurants, Events, &amp; Sports",
+                "fields": [
+                    {
+                        "value": "Joe Kukura",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "SF News, veritas, veritas investments, housing rights commission",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1Uy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SFist finally mentions the San Francisco Public Press. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sfist.com\/2022\/01\/28\/veritas-tenants-end-rent-strike-after-winning-significant-concessions-on-back-debt\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1643421089.753769",
+        "client_msg_id": "576b4b58-d9ca-4188-9525-8361dc58e1af",
+        "text": "Sweet. I’ll take “The SF Public Press” over no mention at all!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tvhTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet. I’ll take “The SF Public Press” over no mention at all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1643421137.635229",
+        "client_msg_id": "97ab56d4-f020-4ab6-9311-ac2e30007a22",
+        "text": "Links included. I haven't seen them mention us before. Mission Local is mentioned a lot.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X90",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Links included. I haven't seen them mention us before. Mission Local is mentioned a lot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

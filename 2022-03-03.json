@@ -1,0 +1,443 @@
+[
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1646344527.871699",
+        "edited": {
+            "user": "U01EHNW3M6J",
+            "ts": "1646344540.000000"
+        },
+        "client_msg_id": "776d7cb6-5f68-4942-8161-bb6f4595c102",
+        "text": "Ned from the UCSF Benioff Homelessness and Housing Institute finally tweeted our story — and he's big on Twitter. Thanks <@U01B9FNF801>, I saw your push to them this week! <https:\/\/twitter.com\/resnikoff\/status\/1499491572865732609?s=20&amp;t=FOo9HRkp3d6mt39jTC_SXw>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/resnikoff\/status\/1499491572865732609?s=20&amp;t=FOo9HRkp3d6mt39jTC_SXw",
+                "ts": 1646341624,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/resnikoff\/status\/1499491572865732609?s=20&amp;t=FOo9HRkp3d6mt39jTC_SXw",
+                "fallback": "<https:\/\/twitter.com\/resnikoff|@resnikoff>: Been thinking more about this great <https:\/\/twitter.com\/TheBestNuala|@TheBestNuala> piece, and how it's a reminder that implementation is critical. Permanent supportive housing is an intervention that works, but it only works if we actually get people in the units. We need to do better. <https:\/\/www.sfpublicpress.org\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/>",
+                "text": "Been thinking more about this great <https:\/\/twitter.com\/TheBestNuala|@TheBestNuala> piece, and how it's a reminder that implementation is critical. Permanent supportive housing is an intervention that works, but it only works if we actually get people in the units. We need to do better. <https:\/\/www.sfpublicpress.org\/in-san-francisco-hundreds-of-homes-for-the-homeless-sit-vacant\/>",
+                "author_name": "Ned Resnikoff",
+                "author_link": "https:\/\/twitter.com\/resnikoff\/status\/1499491572865732609",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1386743165143506947\/9x4DOZ2l_normal.jpg",
+                "author_subname": "@resnikoff",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ROP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ned from the UCSF Benioff Homelessness and Housing Institute finally tweeted our story — and he's big on Twitter. Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01B9FNF801"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I saw your push to them this week! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/resnikoff\/status\/1499491572865732609?s=20&t=FOo9HRkp3d6mt39jTC_SXw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1646346826.857799",
+        "client_msg_id": "9C5B90C0-1B61-4A9C-82F1-D9422FFE982A",
+        "text": "Woot ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Woot "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": ":sweat_smile: ",
+        "files": [
+            {
+                "id": "F035H6SPG85",
+                "created": 1646348209,
+                "timestamp": 1646348209,
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UKC0EQURX",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 41693,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F035H6SPG85\/image_from_ios.jpg?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F035H6SPG85\/download\/image_from_ios.jpg?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F035H6SPG85-051f3627ed\/image_from_ios_64.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F035H6SPG85-051f3627ed\/image_from_ios_80.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F035H6SPG85-051f3627ed\/image_from_ios_360.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 360,
+                "thumb_360_h": 300,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F035H6SPG85-051f3627ed\/image_from_ios_480.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 480,
+                "thumb_480_h": 399,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F035H6SPG85-051f3627ed\/image_from_ios_160.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F035H6SPG85-051f3627ed\/image_from_ios_720.jpg?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 720,
+                "thumb_720_h": 599,
+                "original_w": 750,
+                "original_h": 624,
+                "thumb_tiny": "AwAnADCrBZmWPzN6j0B71FswOnPpg06K6lijKIRjtkdKaOR\/Pj\/69ACbf9n9DSMpzwp\/Kn4\/zj\/69GOP\/rf\/AF6AI9rf3T+VIQR1GKlx7fp\/9emNjsf0oAbUqq5jDBcjpnioqtRPiECgCFgy9VI\/Ckz\/ALJ\/KpJXJ2knkA1Hv+n60XANxxwP0FNJJ4P8qcXP1\/OmE5PTFABRRRQAZozRRQAdqO1FFAH\/2Q==",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F035H6SPG85\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F035H6SPG85-570dc3858f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "UKC0EQURX",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NOh5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1646348218.445329",
+        "client_msg_id": "94741890-916B-4620-B002-44641BBAA433"
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1646348309.158319",
+        "client_msg_id": "5f5ac748-44d1-48f1-b706-e00c2d283ab4",
+        "text": "That's great!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's great!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "This is so niche, but Zuni, which has become SUPER political in the past couple years, just shared our story on its instagram.",
+        "files": [
+            {
+                "id": "F0355J5E2CX",
+                "created": 1646349402,
+                "timestamp": 1646349402,
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U01EHNW3M6J",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 351758,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Screen Shot 2022-03-03 at 3.16.33 PM.png",
+                "title": "Screen Shot 2022-03-03 at 3.16.33 PM.png",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0355J5E2CX\/screen_shot_2022-03-03_at_3.16.33_pm.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F0355J5E2CX\/download\/screen_shot_2022-03-03_at_3.16.33_pm.png?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_64.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_80.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_360.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_360_w": 198,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_480.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_480_w": 265,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_160.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_720.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_720_w": 397,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F0355J5E2CX-e3e4b401ad\/screen_shot_2022-03-03_at_3.16.33_pm_800.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_800_w": 441,
+                "thumb_800_h": 800,
+                "original_w": 496,
+                "original_h": 900,
+                "thumb_tiny": "AwAwABq59mWk+zLUx5FJt+lIZH9mWk+zJUwGKWmIQhj04poDnPzGhkYtkHj6mmfOD\/F196AH\/OpBJz7U+otjkdf1NS0AIetJVcz570ed70hlgdadVXz\/AHo8\/wB6AP\/Z",
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F0355J5E2CX\/screen_shot_2022-03-03_at_3.16.33_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F0355J5E2CX-0605d2fb3f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01EHNW3M6J",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ap4PF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is so niche, but Zuni, which has become SUPER political in the past couple years, just shared our story on its instagram."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1646349434.088319",
+        "client_msg_id": "af341718-17a5-4899-b678-626cfdcee1ee",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U58JZC631"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U01B9FNF801"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1646349459.968929",
+        "client_msg_id": "3dbe9766-21d1-4958-96bd-563c49328304",
+        "text": "they have nearly 22,000 instagram followers so it's not insignificant",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "951",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they have nearly 22,000 instagram followers so it's not insignificant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1646349807.377519",
+        "client_msg_id": "ffdd1a0c-1bb9-4653-a635-2fceffe259db",
+        "text": "whoa, zuni cafe went political; interesting",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whoa, zuni cafe went political; interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1646349862.129009",
+        "client_msg_id": "50271016-de32-4a20-8c81-1156ba70ab66",
+        "text": "their Instagram stories are hardcore about supporting the homeless",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9AO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "their Instagram stories are hardcore about supporting the homeless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "text": "While re-running this story was a bit of a hot mess, the city auditor's office got to read the full story at SFPP. They want to audit Berkeley's response to homelessness! Now, the wheels have begun to turn :point_right::skin-tone-4:",
+        "files": [
+            {
+                "id": "F04KF4YJ7FA",
+                "created": 1673575853,
+                "timestamp": 1673575853,
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01PU2BUHU5",
+                "user_team": "T036YAYMK",
+                "editable": false,
+                "size": 132451,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "name": "Berkeley's response to homelessness.pdf",
+                "title": "Berkeley's response to homelessness.pdf",
+                "is_modified_by_ai": false,
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F04KF4YJ7FA\/berkeley_s_response_to_homelessness.pdf?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T036YAYMK-F04KF4YJ7FA\/download\/berkeley_s_response_to_homelessness.pdf?token=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T036YAYMK-F04KF4YJ7FA-ea596f34fb\/berkeley_s_response_to_homelessness_thumb_pdf.png?t=xoxe-3236372733-11665822444039-11706880073008-9351981f13b701ab6edb291bc589ba87",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/sfpublicpress.slack.com\/files\/U036YAYMM\/F04KF4YJ7FA\/berkeley_s_response_to_homelessness.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T036YAYMK-F04KF4YJ7FA-e0d6801943",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01PU2BUHU5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azaYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "While re-running this story was a bit of a hot mess, the city auditor's office got to read the full story at SFPP. They want to audit Berkeley's response to homelessness! Now, the wheels have begun to turn "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fd",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1673575891.785469",
+        "client_msg_id": "ebd1a6ef-0e6e-41fc-9e2b-9db9aaf95eab",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U02DXRYCD2N",
+                    "U01B9FNF801"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02V28GTKMW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U01PU2BUHU5",
+                    "U02V28GTKMW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1673576062.286659",
+        "client_msg_id": "D03F495C-40C5-4A7A-B002-AB03F31C9807",
+        "text": "Super awesome.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGgX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Super awesome."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1673576470.257739",
+        "client_msg_id": "950293AA-3238-4B29-B460-488F85BA3F5A",
+        "text": "Real impact. Congrats Yesi. Very gratifying to see such an immediate response. Let’s talk next steps and debrief how to approach working with them while making sure they understand our roles and obligations as journalists (often a complicated interchange, but it doesn’t have to be).",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZ08m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Real impact"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Congrats Yesi"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " Very gratifying to see such an immediate response"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Let’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " talk next steps and debrief how to approach working with them while making sure they understand our roles and obligations as journalists (often a complicated interchange, but it "
+                            },
+                            {
+                                "type": "text",
+                                "text": "doesn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " have to be)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02DXRYCD2N",
+        "type": "message",
+        "ts": "1673576506.888499",
+        "client_msg_id": "7103329D-6EB4-4191-8E18-36A6C5BA14B4",
+        "text": "So freaking proud of you :heart: ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "0d799cdb03cc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-29\/9437966570916_0d799cdb03ccb319f0e3_72.png",
+            "first_name": "Madison",
+            "real_name": "Madison Alvarado",
+            "display_name": "Madison Alvarado",
+            "team": "T036YAYMK",
+            "name": "madison_alvarado",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ud1s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So freaking proud of you "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart",
+                                "unicode": "2764-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1673589403.993579",
+        "client_msg_id": "44CDC101-FFAA-4A19-87BD-6A355323DB29",
+        "text": "Wow! That is an amazing response. You were thorough with your reporting, and it paid off. Let’s touch base tomorrow when you and Madison take a break from reporting out in the field.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bFnxv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow! That is an amazing response. You were thorough with your reporting, and it paid off. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "et’s touch base tomorrow when you and Madison take a break from reporting out in the field."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

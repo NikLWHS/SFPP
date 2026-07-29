@@ -1,0 +1,242 @@
+[
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1658184756.995909",
+        "client_msg_id": "70D24809-4042-4E8F-8DA4-BF3C857DFF7B",
+        "text": "California Health Care Foundation noted the coercive control package in today’s newsletter.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "California Health Care Foundation noted the coercive control package in today’s newsletter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1658184882.323639",
+        "client_msg_id": "4626b5f7-09da-48d0-8222-071244be2554",
+        "text": "<@UFEH6KZU7> Do you happen to have a link to that?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UFEH6KZU7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Do you happen to have a link to that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UFEH6KZU7",
+        "type": "message",
+        "ts": "1658186678.766689",
+        "client_msg_id": "AC7AAF1D-E46E-4843-8499-9CB5BE079DC8",
+        "text": "No. It was an email.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "ga8f08750097",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5a8f08750097abd3ff14f0e7a4852c2a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Kurt Aguilar",
+            "display_name": "",
+            "team": "T036YAYMK",
+            "name": "kaaguilar31",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpjs5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No. It was an email."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02V28GTKMW",
+        "type": "message",
+        "ts": "1658186834.904929",
+        "client_msg_id": "e06c6025-13f3-4296-82b1-8880c1018651",
+        "text": "Would you mind forwarding it to me at <mailto:ssturm@sfpublicpress.org|ssturm@sfpublicpress.org>. Thanks for this!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "08f6382cfb32",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-17\/2965328860147_08f6382cfb32e1eb5c97_72.jpg",
+            "first_name": "Sylvie",
+            "real_name": "Sylvie Sturm",
+            "display_name": "Sylvie Sturm",
+            "team": "T036YAYMK",
+            "name": "sylviesturm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would you mind forwarding it to me at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ssturm@sfpublicpress.org",
+                                "text": "ssturm@sfpublicpress.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Thanks for this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U02LAK62DEV",
+        "type": "message",
+        "ts": "1658187748.395589",
+        "client_msg_id": "ed241518-8137-4290-8731-af778bf339f7",
+        "text": "<@UFEH6KZU7> plz forward to me too. Was it these folks? <https:\/\/www.chcf.org\/grants\/>  or other?",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "089cda6f2cfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-11-10\/2712143511170_089cda6f2cfd5606d42a_72.jpg",
+            "first_name": "Lisa",
+            "real_name": "Lisa Rudman",
+            "display_name": "Lisa Rudman",
+            "team": "T036YAYMK",
+            "name": "lrudman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.chcf.org\/grants\/",
+                "image_url": "https:\/\/www.chcf.org\/wp-content\/uploads\/2020\/01\/CHCF-Logo-1200x628-W-1.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 72519,
+                "id": 1,
+                "original_url": "https:\/\/www.chcf.org\/grants\/",
+                "fallback": "California Health Care Foundation: Grants - California Health Care Foundation",
+                "text": "CHCF funds projects that are aligned with its strategic goals, have relevance to California health care as outlined in these goals, and generally have implications beyond a single institution. While unsolicited requests are accepted by the foundation, most of our grants are solicited or awarded through a competitive request for proposals. Learn how CHCF is […]",
+                "title": "Grants - California Health Care Foundation",
+                "title_link": "https:\/\/www.chcf.org\/grants\/",
+                "service_name": "California Health Care Foundation"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6SG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UFEH6KZU7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " plz forward to me too. Was it these folks? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chcf.org\/grants\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  or other?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

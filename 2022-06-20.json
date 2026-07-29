@@ -1,0 +1,77 @@
+[
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1655744227.870599",
+        "client_msg_id": "2c1465a0-5644-4da1-921a-e49b1f897d2e",
+        "text": "SF Chron's podcast \"5th and Mission\" interviews Laura Wenus and her reporter about their new show \"Fixing Our City\" which is slated to drop today. \"Civic\" is mentioned near the beginning. <https:\/\/www.sfchronicle.com\/projects\/podcasts\/fifth-and-mission>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfchronicle.com\/projects\/podcasts\/fifth-and-mission",
+                "image_url": "https:\/\/megaphone.imgix.net\/podcasts\/23caab5e-4c21-11e9-9136-57fd1b0c1caf\/image\/uploads_2F1553204887857-nq8hj86mpoi-bab8e97cabfe0657fdcefd90dda72a3f_2FSFCPodcast-FifthMission.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1283350,
+                "service_icon": "https:\/\/www.sfchronicle.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.sfchronicle.com\/projects\/podcasts\/fifth-and-mission",
+                "fallback": "The San Francisco Chronicle: Fifth &amp; Mission podcast, hosted by Cecilia Lei and Demian Bulwa",
+                "text": "The flagship news podcast of the San Francisco Chronicle. Producer\/host Cecilia Lei and director of news Demian Bulwa discuss the biggest stories of the day with Chronicle journalists and newsmakers from around the Bay Area. | Get full digital access to the Chronicle: <http:\/\/sfchronicle.com\/pod|sfchronicle.com\/pod>",
+                "title": "Fifth &amp; Mission podcast, hosted by Cecilia Lei and Demian Bulwa",
+                "title_link": "https:\/\/www.sfchronicle.com\/projects\/podcasts\/fifth-and-mission",
+                "service_name": "The San Francisco Chronicle"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fR61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SF Chron's podcast \"5th and Mission\" interviews Laura Wenus and her reporter about their new show \"Fixing Our City\" which is slated to drop today. \"Civic\" is mentioned near the beginning. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfchronicle.com\/projects\/podcasts\/fifth-and-mission"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "shuffle_parrot",
+                "users": [
+                    "U01PU2BUHU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

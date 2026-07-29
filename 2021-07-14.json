@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U19LB1TK5",
+        "type": "message",
+        "ts": "1626283155.000300",
+        "client_msg_id": "a491b948-0899-40ac-8284-2e540a3a2787",
+        "text": "Call out for Noah's evictions reporting — \n<https:\/\/www.pewtrusts.org\/en\/research-and-analysis\/blogs\/stateline\/2021\/07\/07\/twice-as-many-us-renters-fell-behind-on-payments-during-the-pandemic>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "959514b4129b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-09\/11323129108081_959514b4129bfbbbfc33_72.png",
+            "first_name": "Lila",
+            "real_name": "Lila LaHood",
+            "display_name": "lilalahood",
+            "team": "T036YAYMK",
+            "name": "lilalahood",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Twice as Many US Renters Fell Behind on Payments During the Pandemic",
+                "title_link": "https:\/\/www.pewtrusts.org\/en\/research-and-analysis\/blogs\/stateline\/2021\/07\/07\/twice-as-many-us-renters-fell-behind-on-payments-during-the-pandemic",
+                "text": "In 22 states, the share of renters in debt increased.",
+                "fallback": "Twice as Many US Renters Fell Behind on Payments During the Pandemic",
+                "image_url": "https:\/\/www.pewtrusts.org\/-\/media\/post-launch-images\/2021\/07\/top-story-7-7\/16x9_m.jpg",
+                "from_url": "https:\/\/www.pewtrusts.org\/en\/research-and-analysis\/blogs\/stateline\/2021\/07\/07\/twice-as-many-us-renters-fell-behind-on-payments-during-the-pandemic",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 172474,
+                "service_icon": "https:\/\/www.pewtrusts.org\/-\/media\/files\/favicon.ico",
+                "service_name": "pewtrusts.org",
+                "id": 1,
+                "original_url": "https:\/\/www.pewtrusts.org\/en\/research-and-analysis\/blogs\/stateline\/2021\/07\/07\/twice-as-many-us-renters-fell-behind-on-payments-during-the-pandemic"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9OA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Call out for Noah's evictions reporting — \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pewtrusts.org\/en\/research-and-analysis\/blogs\/stateline\/2021\/07\/07\/twice-as-many-us-renters-fell-behind-on-payments-during-the-pandemic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U023GBQ6JS2",
+        "text": "<@U023GBQ6JS2> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285071.000600"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U5ZQBSV9V",
+        "text": "<@U5ZQBSV9V> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285078.000800"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UFEH6KZU7",
+        "text": "<@UFEH6KZU7> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285087.001000"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UKC0EQURX",
+        "text": "<@UKC0EQURX> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285092.001200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "UKJ1HMMAM",
+        "text": "<@UKJ1HMMAM> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285100.001400"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01A6PD19JL",
+        "text": "<@U01A6PD19JL> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285111.001600"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01B9FNF801",
+        "text": "<@U01B9FNF801> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285119.001800"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U58JZC631",
+        "text": "<@U58JZC631> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285128.002000"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01EHNW3M6J",
+        "text": "<@U01EHNW3M6J> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285130.002200"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U01PU2BUHU5",
+        "text": "<@U01PU2BUHU5> has joined the channel",
+        "inviter": "U036YAYMM",
+        "type": "message",
+        "ts": "1626285136.002400"
+    }
+]

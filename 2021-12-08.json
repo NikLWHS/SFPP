@@ -1,0 +1,233 @@
+[
+    {
+        "user": "UQH93QFNV",
+        "type": "message",
+        "ts": "1638984019.027400",
+        "client_msg_id": "83209ba2-b4d7-4e69-9869-6b1802c53f2e",
+        "text": "Thanks for offering these, Noah!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "c67499b7b65e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-10\/1046548754087_c67499b7b65e3349a9ab_72.jpg",
+            "first_name": "Liz",
+            "real_name": "Liz Enochs",
+            "display_name": "Liz Enochs",
+            "team": "T036YAYMK",
+            "name": "lenochs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znh8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for offering these, Noah!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639000833.027600",
+        "client_msg_id": "b245265b-2ab5-49ba-88b1-14402c94bff4",
+        "text": "<https:\/\/www.sfpublicpress.org\/officials-demand-reform-on-uber-lyft-assault-reports\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/officials-demand-reform-on-uber-lyft-assault-reports\/",
+                "ts": 1637337600,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/11\/Ride_Hailing_02-copy-2.jpeg",
+                "image_width": 479,
+                "image_height": 250,
+                "image_bytes": 571708,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/officials-demand-reform-on-uber-lyft-assault-reports\/",
+                "fallback": "San Francisco Public Press: Officials Demand Reform on Uber, Lyft Assault Reports - San Francisco Public Press",
+                "text": "Two key elected officials have criticized the California Public Utilities Commission’s inconsistent collection of information on passenger complaints about assaults and threats on Uber and Lyft rides and called for reforms.",
+                "title": "Officials Demand Reform on Uber, Lyft Assault Reports - San Francisco Public Press",
+                "title_link": "https:\/\/www.sfpublicpress.org\/officials-demand-reform-on-uber-lyft-assault-reports\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Seth Rosenfeld",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "9 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Xc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/officials-demand-reform-on-uber-lyft-assault-reports\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1639000835.027900",
+        "client_msg_id": "b8ba5512-023a-4550-a013-0ee2dc2b5711",
+        "text": "<https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "ts": 1634747421,
+                "image_url": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/10\/Ride_Hailing_19-1170x780.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 197661,
+                "service_icon": "https:\/\/www.sfpublicpress.org\/wp-content\/uploads\/2021\/02\/Tumblr-Avatar_2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "fallback": "San Francisco Public Press: California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "text": "The agency responsible for regulating the ride-hailing industry in California has failed to collect consistent data on complaints of assaults, threats and harassment on Uber and Lyft rides, a San Francisco Public Press investigation found.",
+                "title": "California Failed to Consistently Track Ride-Hailing Assault and Harassment Complaints",
+                "title_link": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/",
+                "service_name": "San Francisco Public Press",
+                "fields": [
+                    {
+                        "value": "Seth Rosenfeld",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "15 minutes",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sfpublicpress.org\/california-failed-to-consistently-track-ride-hailing-assault-and-harassment-complaints\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01EHNW3M6J",
+        "type": "message",
+        "ts": "1639028619.029500",
+        "client_msg_id": "9393895C-0B5C-4306-8799-4F4DF11A6437",
+        "text": "KQED is considering doing a Forum episode on the Tenderloin drug dealing injunctions I've been writing about — they emailed me today. Not sure if they'll actually pick it up, but always good to know they're reading us! ",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "831cb8891493",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-11-13\/1513207425793_831cb8891493ba46f7d6_72.jpg",
+            "first_name": "Nuala",
+            "real_name": "Nuala Bishari",
+            "display_name": "Nuala Bishari",
+            "team": "T036YAYMK",
+            "name": "nuala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5fu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "KQED is considering doing a Forum episode on the Tenderloin drug dealing injunctions I've been writing about — they emailed me today. Not sure if they'll actually pick it up, but always good to know they're reading us! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U19LB1TK5",
+                    "U58JZC631",
+                    "UKC0EQURX",
+                    "U01B9FNF801"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "UQH93QFNV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

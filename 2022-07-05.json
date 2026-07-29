@@ -1,0 +1,48 @@
+[
+    {
+        "user": "U01B9FNF801",
+        "type": "message",
+        "ts": "1657048620.854299",
+        "client_msg_id": "2477cb9e-1d4f-4459-800c-a0054b9461ed",
+        "text": "<https:\/\/missionlocal.org\/2022\/06\/plaza-east-residents-demand-developers-stop-market-rate-deal\/> we were named <@U02DXRYCD2N>",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "e270c8ac677f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-17\/1371747836098_e270c8ac677f2ff79973_72.jpg",
+            "first_name": "Liana",
+            "real_name": "Liana Wilcox",
+            "display_name": "Liana Wilcox",
+            "team": "T036YAYMK",
+            "name": "lianawilcox",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8or",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/missionlocal.org\/2022\/06\/plaza-east-residents-demand-developers-stop-market-rate-deal\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we were named "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02DXRYCD2N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

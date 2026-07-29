@@ -1,0 +1,78 @@
+[
+    {
+        "user": "U036YAYMM",
+        "type": "message",
+        "ts": "1660587513.947899",
+        "client_msg_id": "ea800d53-0c43-4a76-8f5e-546102776e7d",
+        "text": "Yeah, it’s perilous out there. Ideally Google should be blacklisting these sites from search, and certainly not picking them up in alerts. If you get a phony warning about viruses, just close the tab. Don’t click on anything there, because they’re trying to trick you into opening real viruses. Evil!",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "a8915bfb0098",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-02-01\/308107995713_a8915bfb00981894f216_72.png",
+            "first_name": "mstoll",
+            "real_name": "mstoll",
+            "display_name": "Michael Stoll",
+            "team": "T036YAYMK",
+            "name": "mstoll",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it’s perilous out there. Ideally Google should be blacklisting these sites from search, and certainly not picking them up in alerts. If you get a phony warning about viruses, just close the tab. Don’t click on anything there, because they’re trying to trick you into opening real viruses. Evil!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UKJ1HMMAM",
+        "type": "message",
+        "ts": "1660587583.088199",
+        "client_msg_id": "fb849e55-789f-42f8-a834-a4c5e4b97bd3",
+        "text": "Yup. An example of how Google completely fails to protect its users.",
+        "team": "T036YAYMK",
+        "user_team": "T036YAYMK",
+        "source_team": "T036YAYMK",
+        "user_profile": {
+            "avatar_hash": "125cfd840848",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-03\/9629501687171_125cfd84084819b9bf20_72.jpg",
+            "first_name": "",
+            "real_name": "Mel Baker",
+            "display_name": "Mel Baker",
+            "team": "T036YAYMK",
+            "name": "melbaker250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup. An example of how Google completely fails to protect its users."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
